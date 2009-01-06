@@ -1,0 +1,42 @@
+---
+granule: CRECB-2009-pt1-Pg68
+date: 2009-01-06
+edition: CRECB
+section: SENATE
+page: 68
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                     TRIBUTE TO BISHOP JOHN McRAITH
+
+● Mr. BUNNING. Mr. President, it is with great admiration and 
+respect that I take this time to recognize one of Kentucky's most 
+distinguished citizens, Roman Catholic Bishop John McRaith, who retired 
+as the third Bishop of the Diocese of Owensboro.
+  Bishop McRaith's service over the last 26 years in the Diocese of 
+Owensboro--which consists of 32 counties with 79 parishes, 3 high 
+schools, 2 middle schools and 13 elementary schools--has made him a 
+legacy in the community.
+  In addition to being a large diocese, Owensboro Diocese is one of the 
+more diverse dioceses--home to a large number of Hispanic Catholic 
+immigrants, along with a priesthood that recruits men from Latin 
+America, Asia, and Africa. The work done by Bishop McRaith and the 
+priests at Owensboro Diocese has increased church attendance to levels 
+that are considered among the highest in the Nation.
+  Bishop McRaith has left his community a better place because of the 
+authenticity and kindness of his services and faith. While I am sad to 
+see him retire, I am comforted knowing that those who learned from him 
+will continue the good work that he displayed each day. On behalf of 
+all of those who are part of the Owensboro Diocese, I thank Bishop John 
+McRaith for the grace and strength he brought to western 
+Kentucky.●
+
+                          ____________________
+```
