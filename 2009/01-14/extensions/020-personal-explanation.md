@@ -1,0 +1,40 @@
+---
+granule: CRECB-2009-pt1-Pg825-2
+date: 2009-01-14
+edition: CRECB
+section: EXTENSIONS
+page: 825
+---
+
+# PERSONAL EXPLANATION
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                     HON. STEPHANIE HERSETH SANDLIN
+
+                            of south dakota
+
+                    in the house of representatives
+
+                      Wednesday, January 14, 2009
+
+  Ms. HERSETH SANDLIN. Madam Speaker, I regret that I was unable to 
+participate in three votes on the floor of the House of Representatives 
+yesterday.
+  The first vote was H. Res. 41, supporting the goals and ideals of 
+National Mentoring Month 2009. Had I been present, I would have voted 
+``yea'' on that question.
+  The second vote was H. Res. 50, honoring the life of Claiborne Pell, 
+distinguished former Senator from the State of Rhode Island. Had I been 
+present, I would have voted ``yea'' on that question.
+  The third vote was H. Res. 43, recognizing the efforts of those who 
+serve their communities on Martin Luther Kinig Day and promoting the 
+holiday as a day of national service. Had I been present, I would have 
+voted ``yea'' on that question.
+
+                          ____________________
+```
