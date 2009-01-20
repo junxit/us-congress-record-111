@@ -1,0 +1,236 @@
+---
+granule: CRECB-2009-pt1-Pg1185-4
+date: 2009-01-20
+edition: CRECB
+section: SENATE
+page: 1185
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                Department of Health and Human Services
+
+       THOMAS ANDREW DASCHLE, OF SOUTH DAKOTA, TO BE SECRETARY OF 
+     HEALTH AND HUMAN SERVICES.
+
+
+                       Department of the Interior
+
+       KENNETH LEE SALAZAR, OF COLORADO, TO BE SECRETARY OF THE 
+     INTERIOR.
+
+
+                       Department of the Treasury
+
+       TIMOTHY F. GEITHNER, OF NEW YORK, TO BE SECRETARY OF THE 
+     TREASURY.
+
+
+                         Department of Justice
+
+       ERIC H. HOLDER, JR., OF THE DISTRICT OF COLUMBIA, TO BE 
+     ATTORNEY GENERAL.
+
+
+                    Environmental Protection Agency
+
+       LISA PEREZ JACKSON, OF NEW JERSEY, TO BE ADMINISTRATOR OF 
+     THE ENVIRONMENTAL PROTECTION AGENCY.
+
+
+                   Executive Office of the President
+
+       RONALD KIRK, OF TEXAS, TO BE UNITED STATES TRADE 
+     REPRESENTATIVE, WITH THE RANK OF AMBASSADOR EXTRAORDINARY AND 
+     PLENIPOTENTIARY.
+
+
+                      Department of Transportation
+
+       RAY LAHOOD, OF ILLINOIS, TO BE SECRETARY OF TRANSPORTATION.
+
+
+                          Department of State
+
+       SUSAN E. RICE, OF THE DISTRICT OF COLUMBIA, TO BE THE 
+     REPRESENTATIVE OF THE UNITED STATES OF AMERICA TO THE UNITED 
+     NATIONS, WITH THE RANK AND STATUS OF AMBASSADOR EXTRAORDINARY 
+     AND PLENIPOTENTIARY, AND THE REPRESENTATIVE OF THE UNITED 
+     STATES OF AMERICA IN THE SECURITY COUNCIL OF THE UNITED 
+     NATIONS.
+
+
+                   Executive Office of the President
+
+       CHRISTINA DUCKWORTH ROMER, OF CALIFORNIA, TO BE A MEMBER OF 
+     THE COUNCIL OF ECONOMIC ADVISERS, VICE EDWARD P. LAZEAR.
+
+
+                          Department of Labor
+
+       HILDA L. SOLIS, OF CALIFORNIA, TO BE SECRETARY OF LABOR.
+
+
+              Department of Housing and Urban Development
+
+       SHAUN L. S. DONOVAN, OF NEW YORK, TO BE SECRETARY OF 
+     HOUSING AND URBAN DEVELOPMENT.
+
+
+                       Department of Agriculture
+
+       THOMAS J. VILSACK, OF IOWA, TO BE SECRETARY OF AGRICULTURE.
+
+
+                     Department of Veterans Affairs
+
+       ERIC K. SHINSEKI, OF HAWAII, TO BE SECRETARY OF VETERANS 
+     AFFAIRS.
+
+
+                   Executive Office of the President
+
+       PETER R. ORSZAG, OF MASSACHUSETTS, TO BE DIRECTOR OF THE 
+     OFFICE OF MANAGEMENT AND BUDGET.
+
+
+                    Department of Homeland Security
+
+       JANET ANN NAPOLITANO, OF ARIZONA, TO BE SECRETARY OF 
+     HOMELAND SECURITY.
+
+
+                        Department of Education
+
+       ARNE DUNCAN, OF ILLINOIS, TO BE SECRETARY OF EDUCATION.
+
+
+                          Department of State
+
+       HILLARY RODHAM CLINTON, OF NEW YORK, TO BE SECRETARY OF 
+     STATE.
+       SUSAN E. RICE, OF THE DISTRICT OF COLUMBIA, TO BE 
+     REPRESENTATIVE OF THE UNITED STATES OF AMERICA TO THE 
+     SESSIONS OF THE GENERAL ASSEMBLY OF THE UNITED NATIONS DURING 
+     HER TENURE OF SERVICE AS REPRESENTATIVE OF THE UNITED STATES 
+     OF AMERICA TO THE UNITED NATIONS.
+
+
+                          Department of Energy
+
+       STEVEN CHU, OF CALIFORNIA, TO BE SECRETARY OF ENERGY.
+
+
+                         Department of Commerce
+
+       JANE LUBCHENCO, OF OREGON, TO BE UNDER SECRETARY OF 
+     COMMERCE FOR OCEANS AND ATMOSPHERE, VICE CONRAD LAUTENBACHER, 
+     JR., RESIGNED.
+
+
+            Office of the Director of National Intelligence
+
+       DENNIS CUTLER BLAIR, OF PENNSYLVANIA, TO BE DIRECTOR OF 
+     NATIONAL INTELLIGENCE, VICE J. MICHAEL MCCONNELL, RESIGNED.
+
+
+                   Executive Office of the President
+
+       ROBERT L. NABORS II, OF NEW JERSEY, TO BE DEPUTY DIRECTOR 
+     OF THE OFFICE OF MANAGEMENT AND BUDGET, VICE STEPHEN S. 
+     MCMILLIN, RESIGNED.
+       CECILIA ELENA ROUSE, OF CALIFORNIA, TO BE A MEMBER OF THE 
+     COUNCIL OF ECONOMIC ADVISERS, VICE DONALD B. MARRON, 
+     RESIGNED.
+
+
+                   Securities and Exchange Commission
+
+       MARY L. SCHAPIRO, OF THE DISTRICT OF COLUMBIA, TO BE A 
+     MEMBER OF THE SECURITIES AND EXCHANGE COMMISSION FOR A TERM 
+     EXPIRING JUNE 5, 2014, VICE CHRISTOPHER COX, RESIGNED.
+
+
+                          Department of State
+
+       JAMES BRAIDY STEINBERG, OF TEXAS, TO BE DEPUTY SECRETARY OF 
+     STATE, VICE JOHN D. NEGROPONTE.
+
+
+                   Executive Office of the President
+
+       NANCY HELEN SUTLEY, OF CALIFORNIA, TO BE A MEMBER OF THE 
+     COUNCIL ON ENVIRONMENTAL QUALITY, VICE JAMES LAURENCE 
+     CONNAUGHTON.
+
+
+                         Federal Reserve System
+
+       DANIEL K. TARULLO, OF MASSACHUSETTS, TO BE A MEMBER OF THE 
+     BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM FOR A TERM 
+     OF FOURTEEN YEARS FROM FEBRUARY 1, 2008, VICE RANDALL S. 
+     KROSZNER, TERM EXPIRED.
+
+
+                          Department of State
+
+       JACOB J. LEW, OF NEW YORK, TO BE DEPUTY SECRETARY OF STATE 
+     FOR MANAGEMENT AND RESOURCES. (NEW POSITION)
+
+
+                         Department of Defense
+
+       JEH CHARLES JOHNSON, OF NEW YORK, TO BE GENERAL COUNSEL OF 
+     THE DEPARTMENT OF DEFENSE, VICE WILLIAM J. HAYNES II, 
+     RESIGNED.
+
+
+                   Executive Office of the President
+
+       JOHN P. HOLDREN, OF MASSACHUSETTS, TO BE DIRECTOR OF THE 
+     OFFICE OF SCIENCE AND TECHNOLOGY POLICY, VICE JOHN H. 
+     MARBURGER, III.
+
+
+                         Department of Defense
+
+       ROBERT F. HALE, OF VIRGINIA, TO BE UNDER SECRETARY OF 
+     DEFENSE (COMPTROLLER), VICE TINA WESTBY JONAS, RESIGNED.
+
+
+                   Executive Office of the President
+
+       AUSTAN DEAN GOOLSBEE, OF ILLINOIS, TO BE A MEMBER OF THE 
+     COUNCIL OF ECONOMIC ADVISERS, VICE KATHERINE BAICKER, 
+     RESIGNED.
+
+
+                  Commodity Futures Trading Commission
+
+       GARY GENSLER, OF MARYLAND, TO BE CHAIRMAN OF THE COMMODITY 
+     FUTURES TRADING COMMISSION, VICE REUBEN JEFFERY III, 
+     RESIGNED.
+       GARY GENSLER, OF MARYLAND, TO BE A COMMISSIONER OF THE 
+     COMMODITY FUTURES TRADING COMMISSION FOR A TERM EXPIRING 
+     APRIL 13, 2012, VICE RUEBEN JEFFERY III, RESIGNED.
+
+[[Page 1186]]
+
+
+
+
+                         Department of Defense
+
+       MICHELE A. FLOURNOY, OF MARYLAND, TO BE UNDER SECRETARY OF 
+     DEFENSE FOR POLICY, VICE ERIC S. EDELMAN, RESIGNED.
+       WILLIAM J. LYNN, III, OF THE DISTRICT OF COLUMBIA, TO BE 
+     DEPUTY SECRETARY OF DEFENSE, VICE GORDON ENGLAND.
+
+                          ____________________
+```
