@@ -1,0 +1,49 @@
+---
+granule: CREC-2009-01-22-pt1-PgS792-2
+date: 2009-01-22
+edition: CREC
+section: SENATE
+page: S792
+citation: 155 Cong. Rec. S792
+---
+
+# TEXT OF AMENDMENTS
+
+**Measures:** S. 181
+
+```
+                           TEXT OF AMENDMENTS
+
+  SA 37. Mr. ISAKSON (for himself and Mr. Chambliss) submitted an 
+amendment intended to be proposed by him to the bill S. 181, to amend 
+title VII of the Civil Rights Act of 1964 and the Age Discrimination in 
+Employment Act of 1967, and to modify the operation of the Americans 
+with Disabilities Act of 1990 and the Rehabilitation Act of 1973, to 
+clarify that a discriminatory compensation decision or other practice 
+that is unlawful under such acts occurs each time compensation is paid 
+pursuant to the discriminatory compensation decision or other practice, 
+and for other purposes; as follows:
+
+         On page 7, strike lines 11 through 20 and insert the 
+     following:
+
+     SEC. 6. EFFECTIVE DATE.
+
+         (a) In General.--This Act, and the amendments made by 
+     this Act, take effect on the date of enactment of this Act, 
+     except as provided in subsection (b).
+         (b) Claims.--This Act, and the amendments made by this 
+     Act, shall apply to each claim of discrimination in 
+     compensation under title VII of the Civil Rights Act of 1964 
+     (42 U.S.C. 2000e et seq.), the Age Discrimination in 
+     Employment Act of 1967 (29 U.S.C. 621 et seq.), title I and 
+     section 503 of the Americans with Disabilities Act of 1990, 
+     and sections 501 and 504 of the Rehabilitation Act of 1973, 
+     if--
+         (1) the claim results from a discriminatory compensation 
+     decision, and
+         (2) the discriminatory compensation decision is adopted 
+     on or after that date of enactment.
+
+                          ____________________
+```
