@@ -1,0 +1,33 @@
+---
+granule: CRECB-2009-pt1-Pg1496
+date: 2009-01-26
+edition: CRECB
+section: SENATE
+page: 1496
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                   SECURITIES AND EXCHANGE COMMISSION
+
+       MARY L. SCHAPIRO, OF THE DISTRICT OF COLUMBIA, TO BE A 
+     MEMBER OF THE SECURITIES AND EXCHANGE COMMISSION FOR THE 
+     REMAINDER OF THE TERM EXPIRING JUNE 5, 2009, VICE CHRISTOPHER 
+     COX, RESIGNED.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       ELENA KAGAN, OF MASSACHUSETTS, TO BE SOLICITOR GENERAL OF 
+     THE UNITED STATES, VICE GREGORY G. GARRE, RESIGNED.
+       DAVID W. OGDEN, OF VIRGINIA, TO BE DEPUTY ATTORNEY GENERAL, 
+     VICE MARK R. FILIP.
+
+                          ____________________
+```
