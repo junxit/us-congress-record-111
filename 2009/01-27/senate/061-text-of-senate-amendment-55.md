@@ -1,0 +1,30 @@
+---
+granule: CREC-2009-01-27-pt1-PgS939-8
+date: 2009-01-27
+edition: CREC
+section: SENATE
+page: S939
+citation: 155 Cong. Rec. S939
+---
+
+# Text of Senate Amendment 55
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+  SA 55. Mr. GRASSLEY submitted an amendment intended to be proposed by 
+him to the bill H.R. 2, to amend title XXI of the Social Security Act 
+to extend and improve the Children's Health Insurance Program, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       Beginning on page 121, strike line 20, and all that follows 
+     through page 122, line 20, and insert the following:
+       ``(B) Payments under the State plan for providing medical 
+     assistance to individuals who provided inconsistent 
+     information and were provided with a reasonable period of 
+     time to resolve the inconsistency under this subsection or 
+     under section 1903(x)(4) shall be included in the 
+     determination of the State's erroneous excess payments for 
+     medical assistance ratio under section 1903(u).
+                                 ______
+```

@@ -1,0 +1,42 @@
+---
+granule: CREC-2009-01-27-pt1-PgS943-4
+date: 2009-01-27
+edition: CREC
+section: SENATE
+page: S943
+citation: 155 Cong. Rec. S943
+---
+
+# Text of Senate Amendment 65
+
+**Speaking:** Martinez, Mel (M001162) [R-FL]
+
+```
+  SA 65. Mr. MARTINEZ (for himself, Mr. Vitter, Mr. Wicker, Mr. 
+Bunning, Mr. Enzi, Mr. Coburn, Mr. Johanns, Mr. Brownback, Mr. Inhofe, 
+Mr. Chambliss, and Mr. DeMint) submitted an amendment intended to be 
+proposed by him to the bill H.R. 2, to amend title XXI of the Social 
+Security Act to extend and improve the Children's Health Insurance 
+Program, and for other purposes; which was ordered to lie on the table; 
+as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. __. RESTORATION OF PROHIBITION ON FUNDING OF 
+                   NONGOVERNMENTAL ORGANIZATIONS THAT PROMOTE 
+                   ABORTION AS A METHOD OF BIRTH CONTROL (``MEXICO 
+                   CITY POLICY'').
+
+       Notwithstanding any other provision of law, regulation, or 
+     policy, including the memorandum issued by the President on 
+     January 23, 2009, to the Administrator of the United States 
+     Agency for International Development, titled ``Mexico City 
+     Policy and Assistance for Voluntary Family Planning,'' no 
+     funds authorized under part I of the Foreign Assistance Act 
+     of 1961 (22 U.S.C. 2151 et seq.) for population planning 
+     activities or other population or family planning assistance 
+     may be made available for any private, nongovernmental, or 
+     multilateral organization that performs or actively promotes 
+     abortion as a method of birth control.
+                                 ______
+```
