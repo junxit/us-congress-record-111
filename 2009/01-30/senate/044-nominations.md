@@ -1,0 +1,41 @@
+---
+granule: CREC-2009-01-30-pt1-PgS1233-4
+date: 2009-01-30
+edition: CREC
+section: SENATE
+page: S1233
+citation: 155 Cong. Rec. S1233
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                      CENTRAL INTELLIGENCE AGENCY
+
+       LEON E. PANETTA, OF CALIFORNIA, TO BE DIRECTOR OF THE 
+     CENTRAL INTELLIGENCE AGENCY, VICE GENERAL MICHAEL V. HAYDEN, 
+     UNITED STATES AIR FORCE.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       THOMAS JOHN PERRELLI, OF VIRGINIA, TO BE ASSOCIATE ATTORNEY 
+     GENERAL, VICE KEVIN J. O'CONNOR, RESIGNED.
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY WHILE SERVING AS THE 
+     ATTENDING PHYSICIAN TO THE CONGRESS, UNDER ARTICLE II, 
+     SECTION 2, CLAUSE 2 OF THE CONSTITUTION:
+
+                           To be rear admiral
+
+       CAPT. BRIAN P. MONAHAN
+```
