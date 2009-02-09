@@ -1,0 +1,33 @@
+---
+granule: CREC-2009-02-09-pt1-PgS2035-4
+date: 2009-02-09
+edition: CREC
+section: SENATE
+page: S2035
+citation: 155 Cong. Rec. S2035
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate, Monday, February 9, 
+2009:
+
+
+                         DEPARTMENT OF DEFENSE
+
+       MICHELE A. FLOURNOY, OF MARYLAND, TO BE UNDER SECRETARY OF 
+     DEFENSE FOR POLICY.
+       ROBERT F. HALE, OF VIRGINIA, TO BE UNDER SECRETARY OF 
+     DEFENSE (COMPTROLLER).
+       JEH CHARLES JOHNSON, OF NEW YORK, TO BE GENERAL COUNSEL OF 
+     THE DEPARTMENT OF DEFENSE.
+
+       THE ABOVE NOMINATIONS WERE APPROVED SUBJECT TO THE 
+     NOMINEES' COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND 
+     TESTIFY BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+
+                          ____________________
+```
