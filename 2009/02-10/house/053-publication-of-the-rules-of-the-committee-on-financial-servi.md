@@ -1,0 +1,758 @@
+---
+granule: CRECB-2009-pt3-Pg3511-2
+date: 2009-02-10
+edition: CRECB
+section: HOUSE
+page: 3511
+---
+
+# PUBLICATION OF THE RULES OF THE COMMITTEE ON FINANCIAL SERVICES, 111TH CONGRESS
+
+```
+PUBLICATION OF THE RULES OF THE COMMITTEE ON FINANCIAL SERVICES, 111TH 
+                                CONGRESS
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Massachusetts (Mr. Frank) is recognized for 5 minutes.
+  Mr. FRANK of Massachusetts. Madam Speaker, pursuant to clause 2 of 
+rule XI of the Rules of the House of Representatives, the Committee on 
+Financial Services in open session on January 27, 2009, adopted the 
+following rules by voice vote, a quorum being present:
+
+                       RULES OF THE COMMITTEE ON
+
+                           FINANCIAL SERVICES
+
+                     U.S. House of Representatives
+
+                             111th Congress
+
+                             First Session
+
+                                 Rule 1
+
+                           General Provisions
+
+       (a) The rules of the House are the rules of the Committee 
+     on Financial Services (hereinafter in these rules referred to 
+     as the ``Committee'') and its subcommittees so far as 
+     applicable, except that a motion to recess from day to day, 
+     and a motion to dispense with the first reading (in full) of 
+     a bill or resolution, if printed copies are available, are 
+     privileged motions in the Committee and shall be considered 
+     without debate. A proposed investigative or oversight report 
+     shall be considered as read if it has been available to the 
+     members of the Committee for at least 24 hours (excluding 
+     Saturdays, Sundays, or legal holidays except when the House 
+     is in session on such day).
+       (b) Each subcommittee is a part of the Committee, and is 
+     subject to the authority and direction of the Committee and 
+     to its rules so far as applicable.
+       (c) The provisions of clause 2 of rule XI of the Rules of 
+     the House are incorporated by reference as the rules of the 
+     Committee to the extent applicable.
+
+                                 Rule 2
+
+                                Meetings
+
+                          Calling of Meetings
+
+       (a)(1) The Committee shall regularly meet on the first 
+     Tuesday of each month when the House is in session.
+       (2) A regular meeting of the Committee may be dispensed 
+     with if, in the judgment of the Chairman of the Committee 
+     (hereinafter in these rules referred to as the ``Chair''), 
+     there is no need for the meeting.
+       (3) Additional regular meetings and hearings of the 
+     Committee may be called by the Chair, in accordance with 
+     clause 2(g)(3) of rule XI of the rules of the House.
+       (4) Special meetings shall be called and convened by the 
+     Chair as provided in clause 2(c)(2) of rule XI of the Rules 
+     of the House.
+
+                          Notice for Meetings
+
+       (b)(1) The Chair shall notify each member of the Committee 
+     of the agenda of each regular meeting of the Committee at 
+     least two calendar days before the time of the meeting.
+       (2) The Chair shall provide to each member of the 
+     Committee, at least two calendar days before the time of each 
+     regular meeting for each measure or matter on the agenda a 
+     copy of--
+       (A) the measure or materials relating to the matter in 
+     question; and
+       (B) an explanation of the measure or matter to be 
+     considered, which, in the case of an explanation of a bill, 
+     resolution, or similar measure, shall include a summary of 
+     the major provisions of the legislation, an explanation of 
+     the relationship of the measure to present law, and a summary 
+     of the need for the legislation.
+       (3) The agenda and materials required under this subsection 
+     shall be provided to each member of the Committee at least 
+     three calendar days before the time of the meeting where the 
+     measure or matter to be considered was not approved for full 
+     Committee consideration by a subcommittee of jurisdiction.
+       (4) The provisions of this subsection may be waived by a 
+     two-thirds vote of the Committee, or by the Chair with the 
+     concurrence of the ranking minority member.
+
+                                 Rule 3
+
+                     Meeting and Hearing Procedures
+
+                               In General
+
+       (a)(1) Meetings and hearings of the Committee shall be 
+     called to order and presided over by the Chair or, in the 
+     Chair's absence, by the member designated by the Chair as the 
+     Vice Chair of the Committee, or by the ranking majority 
+     member of the Committee present as Acting Chair.
+       (2) Meetings and hearings of the committee shall be open to 
+     the public unless closed in accordance with clause 2(g) of 
+     rule XI of the Rules of the House.
+       (3) Any meeting or hearing of the Committee that is open to 
+     the public shall be open to coverage by television broadcast, 
+     radio broadcast, and still photography in accordance with the 
+     provisions of clause 4 of rule XI of the Rules of the House 
+     (which are incorporated by reference as part of these rules). 
+     Operation and use of any Committee operated broadcast system 
+     shall be fair and nonpartisan and in accordance with clause 
+     4(b) of rule XI and all other applicable rules of the 
+     Committee and the House.
+       (4) Opening statements by members at the beginning of any 
+     hearing or meeting of the Committee shall be limited to 5 
+     minutes each for the Chair or ranking minority member, or 
+     their respective designee, and 3 minutes each for all other 
+     members.
+       (5) No person, other than a Member of Congress, Committee 
+     staff, or an employee of a Member when that Member has an 
+     amendment under consideration, may stand in or be seated at 
+     the rostrum area of the Committee rooms unless the Chair 
+     determines otherwise.
+
+                                 Quorum
+
+       (b)(1) For the purpose of taking testimony and receiving 
+     evidence, two members of the Committee shall constitute a 
+     quorum.
+       (2) A majority of the members of the Committee shall 
+     constitute a quorum for the purposes of reporting any measure 
+     or matter, of authorizing a subpoena, of closing a meeting or 
+     hearing pursuant to clause 2(g) of rule XI of the rules of 
+     the House (except as provided in clause 2(g)(2)(A) and (B)) 
+     or of releasing executive session material pursuant to clause 
+     2(k)(7) of rule XI of the rules of the House.
+       (3) For the purpose of taking any action other than those 
+     specified in paragraph (2) one-third of the members of the 
+     Committee shall constitute a quorum.
+
+                                 Voting
+
+       (c)(1) No vote may be conducted on any measure or matter 
+     pending before the Committee unless the requisite number of 
+     members of the Committee is actually present for such 
+     purpose.
+       (2) A record vote of the Committee shall be provided on any 
+     question before the Committee upon the request of one-fifth 
+     of the members present.
+       (3) No vote by any member of the Committee on any measure 
+     or matter may be cast by proxy.
+       (4) In addition to any other requirement of these rules or 
+     the Rules of the House, the Chair shall make the record of 
+     the votes on any question on which a record vote is demanded 
+     available on the Committee's Web site not later than 2 
+     business days after such vote is taken. Such record shall 
+     include a description of the amendment, motion, order, or 
+     other proposition, the name of each member voting for and 
+     each member voting against such amendment, motion, order, or 
+     proposition, and the names of those members of the committee 
+     present but not voting.
+       (5) In accordance with clause 2(e)(1)(B) of rule XI, a 
+     record of the vote of each member of the Committee on each 
+     record vote on any measure or matter before the Committee 
+     shall be available for public inspection at the offices of 
+     the Committee, and, with respect to any record vote on any 
+     motion to report or on any amendment, shall be included in 
+     the report of the Committee showing the total number of votes 
+     cast for and against and the names of those members voting 
+     for and against.
+       (6) Postponed record votes.--(A) Subject to subparagraph 
+     (B), the Chairman may postpone further proceedings when a 
+     record vote is ordered on the question of approving any 
+     measure or matter or adopting an amendment. The Chairman may 
+     resume proceedings on a postponed request at any time, but no 
+     later than the next meeting day.
+       (B) In exercising postponement authority under subparagraph 
+     (A), the Chairman shall take all reasonable steps necessary 
+     to notify members on the resumption of proceedings on any 
+     postponed record vote.
+       (C) When proceedings resume on a postponed question, 
+     notwithstanding any intervening order for the previous 
+     question, an underlying proposition shall remain subject to 
+     further debate or amendment to the same extent as when the 
+     question was postponed.
+
+                           Hearing Procedures
+
+       (d)(1)(A) The Chair shall make public announcement of the 
+     date, place, and subject matter of any committee hearing at 
+     least one week before the commencement of the hearing, unless 
+     the Chair, with the concurrence of the ranking minority 
+     member, or the Committee by majority vote with a quorum 
+     present for the transaction of business, determines there is 
+     good cause to begin the hearing sooner, in which case the 
+     Chair shall make the announcement at the earliest possible 
+     date.
+       (B) Not less than three days before the commencement of a 
+     hearing announced under this paragraph, the Chair shall 
+     provide to the members of the Committee a concise summary of 
+     the subject of the hearing, or, in the case of a hearing on a 
+     measure or matter, a copy of the measure or materials 
+     relating to the matter in question and a concise explanation 
+     of the measure or matter to be considered. At the same time 
+     the Chair provides the information required by the preceding 
+     sentence, the Chair shall also provide to the members of the 
+     Committee a final list consisting of the names of each 
+     witness who
+
+[[Page 3512]]
+
+     is to appear before the Committee at that hearing. The 
+     witness list may not be modified within 24 hours of a 
+     hearing, unless the Chair, with the concurrence of the 
+     ranking minority member, determines there is good cause for 
+     such modification.
+       (2) To the greatest extent practicable--
+       (A) each witness who is to appear before the Committee 
+     shall file with the Committee two business days in advance of 
+     the appearance sufficient copies (including a copy in 
+     electronic form), as determined by the Chair, of a written 
+     statement of proposed testimony and shall limit the oral 
+     presentation to the Committee to brief summary thereof; and
+       (B) each witness appearing in a non-governmental capacity 
+     shall include with the written statement of proposed 
+     testimony a curriculum vitae and a disclosure of the amount 
+     and source (by agency and program) of any Federal grant (or 
+     subgrant thereof) or contract (or subcontract thereof) 
+     received during the current fiscal year or either of the two 
+     preceding fiscal years.
+       (3) The requirements of paragraph (2)(A) may be modified or 
+     waived by the Chair when the Chair determines it to be in the 
+     best interest of the Committee.
+       (4) The five-minute rule shall be observed in the 
+     interrogation of witnesses before the Committee until each 
+     member of the Committee has had an opportunity to question 
+     the witnesses. No member shall be recognized for a second 
+     period of 5 minutes to interrogate witnesses until each 
+     member of the Committee present has been recognized once for 
+     that purpose.
+       (5) Whenever any hearing is conducted by the Committee on 
+     any measure or matter, the minority party members of the 
+     Committee shall be entitled, upon the request of a majority 
+     of them before the completion of the hearing, to call 
+     witnesses with respect to that measure or matter during at 
+     least one day of hearing thereon.
+
+                          Subpoenas and Oaths
+
+       (e)(1) Pursuant to clause 2(m) of rule XI of the Rules of 
+     the House, a subpoena may be authorized and issued by the 
+     Committee or a subcommittee in the conduct of any 
+     investigation or series of investigations or activities, only 
+     when authorized by a majority of the members voting, a 
+     majority being present, or pursuant to paragraph (2).
+       (2) The Chair, with the concurrence of the ranking minority 
+     member, may authorize and issue subpoenas under such clause 
+     during any period for which the House has adjourned for a 
+     period in excess of 3 days when, in the opinion of the Chair, 
+     authorization and issuance of the subpoena is necessary to 
+     obtain the material or testimony set forth in the subpoena. 
+     The Chair shall report to the members of the Committee on the 
+     authorization and issuance of a subpoena during the recess 
+     period as soon as practicable, but in no event later than one 
+     week after service of such subpoena.
+       (3) Authorized subpoenas shall be signed by the Chair or by 
+     any member designated by the Committee, and may be served by 
+     any person designated by the Chair or such member.
+       (4) The Chair, or any member of the Committee designated by 
+     the Chair, may administer oaths to witnesses before the 
+     Committee.
+
+                           Special Procedures
+
+       (f)(1)(A) Commemorative medals and coins.--It shall not be 
+     in order for the Subcommittee on Domestic Monetary Policy and 
+     Technology to hold a hearing on any commemorative medal or 
+     commemorative coin legislation unless the legislation is 
+     cosponsored by at least two-thirds of the members of the 
+     House.
+       (B) It shall not be in order for the subcommittee to 
+     approve a bill or measure authorizing commemorative coins for 
+     consideration by the full Committee which does not conform 
+     with the mintage restrictions established by section 5112 of 
+     title 31, United States Code.
+       (C) In considering legislation authorizing Congressional 
+     gold medals, the subcommittee shall apply the following 
+     standards--
+       (i) the recipient shall be a natural person;
+       (ii) the recipient shall have performed an achievement that 
+     has an impact on American history and culture that is likely 
+     to be recognized as a major achievement in the recipient's 
+     field long after the achievement;
+       (iii) the recipient shall not have received a medal 
+     previously for the same or substantially the same 
+     achievement;
+       (iv) the recipient shall be living or, if deceased, shall 
+     have been deceased for not less than 5 years and not more 
+     than 25 years;
+       (v) the achievements were performed in the recipient's 
+     field of endeavor, and represent either a lifetime of 
+     continuous superior achievements or a single achievement so 
+     significant that the recipient is recognized and acclaimed by 
+     others in the same field, as evidenced by the recipient 
+     having received the highest honors in the field.
+       (2) Testimony of certain officials.--
+       (A) Notwithstanding subsection (a)(4), when the Chair 
+     announces a hearing of the Committee for the purpose of 
+     receiving--
+       (i) testimony from the Chairman of the Federal Reserve 
+     Board pursuant to section 2B of the Federal Reserve Act (12 
+     U.S.C. 221 et seq.), or
+       (ii) testimony from the Chairman of the Federal Reserve 
+     Board or a member of the President's cabinet at the 
+     invitation of the Chair, the Chair may, in consultation with 
+     the ranking minority member, limit the number and duration of 
+     opening statements to be delivered at such hearing. The 
+     limitation shall be included in the announcement made 
+     pursuant to subsection (d)(1)(A), and shall provide that the 
+     opening statements of all members of the Committee shall be 
+     made a part of the hearing record.
+       (B) Notwithstanding subsection (a)(4), at any hearing of 
+     the Committee for the purpose of receiving testimony (other 
+     than testimony described in clause (i) or (ii) of 
+     subparagraph (A)), the Chair may, after consultation with the 
+     ranking minority member, limit the duration of opening 
+     statements to ten minutes, to be divided between the Chair 
+     and Chair of the pertinent subcommittee, or the Chair's 
+     designees, and ten minutes, to be controlled by the ranking 
+     minority member, or the ranking minority member's designees. 
+     Following such time, the duration for opening statements may 
+     be extended by agreement between the Chairman and ranking 
+     minority member, to be divided at the discretion of the Chair 
+     or ranking minority member. The Chair shall provide that the 
+     opening statements for all members of the Committee shall be 
+     made a part of the hearing record.
+       (C) At any hearing of a subcommittee, the Chair of the 
+     subcommittee may, in consultation with the ranking minority 
+     member of the subcommittee, limit the duration of opening 
+     statements to ten minutes, to be divided between the majority 
+     and minority. Following such time, the duration for opening 
+     statements may be extended by either the Chair of the 
+     subcommittee or ranking minority member of the subcommittee 
+     for an additional ten minutes each, to be divided at the 
+     discretion of the Chair of the subcommittee or ranking 
+     minority member of the subcommittee. The Chair of the 
+     subcommittee shall ensure that opening statements for all 
+     members be made part of the hearing record.
+       (D) If the Chair and ranking minority member acting jointly 
+     determine that extraordinary circumstances exist 
+     necessitating allowing members to make opening statements, 
+     subparagraphs (B) or (C), as the case may be, shall not apply 
+     to such hearing.
+
+                                 Rule 4
+
+              Procedures for Reporting Measures or Matters
+
+       (a) No measure or matter shall be reported from the 
+     Committee unless a majority of the Committee is actually 
+     present.
+       (b) The Chair of the Committee shall report or cause to be 
+     reported promptly to the House any measure approved by the 
+     Committee and take necessary steps to bring a matter to a 
+     vote.
+       (c) The report of the Committee on a measure which has been 
+     approved by the Committee shall be filed within seven 
+     calendar days (exclusive of days on which the House is not in 
+     session) after the day on which there has been filed with the 
+     clerk of the Committee a written request, signed by a 
+     majority of the members of the Committee, for the reporting 
+     of that measure pursuant to the provisions of clause 2(b)(2) 
+     of rule XIII of the Rules of the House.
+       (d) All reports printed by the Committee pursuant to a 
+     legislative study or investigation and not approved by a 
+     majority vote of the Committee shall contain the following 
+     disclaimer on the cover of such report: ``This report has not 
+     been officially adopted by the Committee on Financial 
+     Services and may not necessarily reflect the views of its 
+     Members.''
+       (e) The Chair is directed to offer a motion under clause 1 
+     of rule XXII of the Rules of the House whenever the Chair 
+     considers it appropriate.
+
+                                 Rule 5
+
+                             Subcommittees
+
+          Establishment and Responsibilities of Subcommittees
+
+       (a)(1) There shall be 6 subcommittees of the Committee as 
+     follows:
+       (A) Subcommittee on capital markets, insurance, and 
+     government sponsored enterprises.--The jurisdiction of the 
+     Subcommittee on Capital Markets, Insurance, and Government 
+     Sponsored Enterprises includes--
+       (i) securities, exchanges, and finance;
+       (ii) capital markets activities, including business capital 
+     formation and venture capital;
+       (iii) activities involving futures, forwards, options, and 
+     other types of derivative instruments;
+       (iv) the Securities and Exchange Commission;
+       (v) secondary market organizations for home mortgages, 
+     including the Federal National Mortgage Association, the 
+     Federal Home Loan Mortgage Corporation, and the Federal 
+     Agricultural Mortgage Corporation;
+       (vi) the Office of Federal Housing Enterprise Oversight;
+       (vii) the Federal Home Loan Banks;
+       (viii) the Federal Housing Finance Board;
+       (ix) terrorism risk insurance; and
+       (x) insurance generally.
+       (B) Subcommittee on domestic monetary policy and 
+     technology.--The jurisdiction of
+
+[[Page 3513]]
+
+     the Subcommittee on Domestic Monetary Policy and Technology 
+     includes--
+       (i) financial aid to all sectors and elements within the 
+     economy;
+       (ii) economic growth and stabilization;
+       (iii) defense production matters as contained in the 
+     Defense Production Act of 1950, as amended;
+       (iv) domestic monetary policy, and agencies which directly 
+     or indirectly affect domestic monetary policy, including the 
+     effect of such policy and other financial actions on interest 
+     rates, the allocation of credit, and the structure and 
+     functioning of domestic financial institutions;
+       (v) coins, coinage, currency, and medals, including 
+     commemorative coins and medals, proof and mint sets and other 
+     special coins, the Coinage Act of 1965, gold and silver, 
+     including the coinage thereof (but not the par value of 
+     gold), gold medals, counterfeiting, currency denominations 
+     and design, the distribution of coins, and the operations of 
+     the Bureau of the Mint and the Bureau of Engraving and 
+     Printing; and
+       (vi) development of new or alternative forms of currency.
+       (C) Subcommittee on financial institutions and consumer 
+     credit.--The jurisdiction of the Subcommittee on Financial 
+     Institutions and Consumer Credit includes--
+       (i) all agencies, including the Office of the Comptroller 
+     of the Currency, the Federal Deposit Insurance Corporation, 
+     the Board of Governors of the Federal Reserve System and the 
+     Federal Reserve System, the Office of Thrift Supervision, and 
+     the National Credit Union Administration, which directly or 
+     indirectly exercise supervisory or regulatory authority in 
+     connection with, or provide deposit insurance for, financial 
+     institutions, and the establishment of interest rate ceilings 
+     on deposits;
+       (ii) the chartering, branching, merger, acquisition, 
+     consolidation, or conversion of financial institutions;
+       (iii) consumer credit, including the provision of consumer 
+     credit by insurance companies, and further including those 
+     matters in the Consumer Credit Protection Act dealing with 
+     truth in lending, extortionate credit transactions, 
+     restrictions on garnishments, fair credit reporting and the 
+     use of credit information by credit bureaus and credit 
+     providers, equal credit opportunity, debt collection 
+     practices, and electronic funds transfers;
+       (iv) creditor remedies and debtor defenses, Federal aspects 
+     of the Uniform Consumer Credit Code, credit and debit cards, 
+     and the preemption of State usury laws;
+       (v) consumer access to financial services, including the 
+     Home Mortgage Disclosure Act and the Community Reinvestment 
+     Act;
+       (vi) the terms and rules of disclosure of financial 
+     services, including the advertisement, promotion and pricing 
+     of financial services, and availability of government check 
+     cashing services;
+       (vii) deposit insurance; and
+       (viii) consumer access to savings accounts and checking 
+     accounts in financial institutions, including lifeline 
+     banking and other consumer accounts.
+       (D) Subcommittee on housing and community opportunity.--The 
+     jurisdiction of the Subcommittee on Housing and Community 
+     Opportunity includes--
+       (i) housing (except programs administered by the Department 
+     of Veterans Affairs), including mortgage and loan insurance 
+     pursuant to the National Housing Act; rural housing; housing 
+     and homeless assistance programs; all activities of the 
+     Government National Mortgage Association; private mortgage 
+     insurance; housing construction and design and safety 
+     standards; housing-related energy conservation; housing 
+     research and demonstration programs; financial and technical 
+     assistance for nonprofit housing sponsors; housing counseling 
+     and technical assistance; regulation of the housing industry 
+     (including landlord/tenant relations); and real estate 
+     lending including regulation of settlement procedures;
+       (ii) community development and community and neighborhood 
+     planning, training and research; national urban growth 
+     policies; urban/rural research and technologies; and 
+     regulation of interstate land sales;
+       (iii) government sponsored insurance programs, including 
+     those offering protection against crime, fire, flood (and 
+     related land use controls), earthquake and other natural 
+     hazards, but not including terrorism risk insurance; and
+       (iv) the qualifications for and designation of Empowerment 
+     Zones and Enterprise Communities (other than matters relating 
+     to tax benefits).
+       (E) Subcommittee on international monetary policy and 
+     trade.--The jurisdiction of the Subcommittee on International 
+     Monetary Policy and Trade includes--
+       (i) multilateral development lending institutions, 
+     including activities of the National Advisory Council on 
+     International Monetary and Financial Policies as related 
+     thereto, and monetary and financial developments as they 
+     relate to the activities and objectives of such institutions;
+       (ii) international trade, including but not limited to the 
+     activities of the Export-Import Bank;
+       (iii) the International Monetary Fund, its permanent and 
+     temporary agencies, and all matters related thereto; and
+       (iv) international investment policies, both as they relate 
+     to United States investments for trade purposes by citizens 
+     of the United States and investments made by all foreign 
+     entities in the United States.
+       (F) Subcommittee on oversight and investigations.--The 
+     jurisdiction of the Subcommittee on Oversight and 
+     Investigations includes--
+       (i) the oversight of all agencies, departments, programs, 
+     and matters within the jurisdiction of the Committee, 
+     including the development of recommendations with regard to 
+     the necessity or desirability of enacting, changing, or 
+     repealing any legislation within the jurisdiction of the 
+     Committee, and for conducting investigations within such 
+     jurisdiction; and
+       (ii) research and analysis regarding matters within the 
+     jurisdiction of the Committee, including the impact or 
+     probable impact of tax policies affecting matters within the 
+     jurisdiction of the Committee.
+       (2) In addition, each such subcommittee shall have specific 
+     responsibility for such other measures or matters as the 
+     Chair refers to it.
+       (3) Each subcommittee of the Committee shall review and 
+     study, on a continuing basis, the application, 
+     administration, execution, and effectiveness of those laws, 
+     or parts of laws, the subject matter of which is within its 
+     general responsibility.
+
+           Referral of Measures and Matters to Subcommittees
+
+       (b)(1) The Chair shall regularly refer to one or more 
+     subcommittees such measures and matters as the Chair deems 
+     appropriate given its jurisdiction and responsibilities. In 
+     making such a referral, the Chair may designate a 
+     subcommittee of primary jurisdiction and subcommittees of 
+     additional or sequential jurisdiction.
+       (2) All other measures or matters shall be subject to 
+     consideration by the full Committee.
+       (3) In referring any measure or matter to a subcommittee, 
+     the Chair may specify a date by which the subcommittee shall 
+     report thereon to the Committee.
+       (4) The Committee by motion may discharge a subcommittee 
+     from consideration of any measure or matter referred to a 
+     subcommittee of the Committee.
+
+                      Composition of Subcommittees
+
+       (c)(1) Members shall be elected to each subcommittee and to 
+     the positions of chair and ranking minority member thereof, 
+     in accordance with the rules of the respective party 
+     caucuses. The Chair of the Committee shall designate a member 
+     of the majority party on each subcommittee as its vice chair.
+       (2) The Chair and ranking minority member of the Committee 
+     shall be ex officio members with voting privileges of each 
+     subcommittee of which they are not assigned as members and 
+     may be counted for purposes of establishing a quorum in such 
+     subcommittees.
+       (3) The subcommittees shall be comprised as follows:
+       (A) The Subcommittee on Capital Markets, Insurance, and 
+     Government Sponsored Enterprises shall be comprised of 50 
+     members, 30 elected by the majority caucus and 20 elected by 
+     the minority caucus.
+       (B) The Subcommittee on Domestic Monetary Policy and 
+     Technology shall be comprised of 17 members, 10 elected by 
+     the majority caucus and 7 elected by the minority caucus.
+       (C) The Subcommittee on Financial Institutions and Consumer 
+     Credit shall be comprised of 45 members, 27 elected by the 
+     majority caucus and 18 elected by the mi- nority caucus.
+       (D) The Subcommittee on Housing and Community Opportunity 
+     shall be comprised of 25 members, 15 elected by the majority 
+     caucus and 10 elected by the minority caucus.
+       (E) The Subcommittee on International Monetary Policy and 
+     Trade shall be comprised of 15 members, 9 elected by the 
+     majority caucus and 6 elected by the minority caucus.
+       (F) The Subcommittee on Oversight and Investigations shall 
+     be comprised of 15 members, 9 elected by the majority caucus 
+     and 6 elected by the minority caucus.
+
+                   Subcommittee Meetings and Hearings
+
+       (d)(1) Each subcommittee of the Committee is authorized to 
+     meet, hold hearings, receive testimony, mark up legislation, 
+     and re- port to the full Committee on any measure or matter 
+     referred to it, consistent with subsection (a).
+       (2) No subcommittee of the Committee may meet or hold a 
+     hearing at the same time as a meeting or hearing of the 
+     Committee.
+       (3) The chair of each subcommittee shall set hearing and 
+     meeting dates only with the approval of the Chair with a view 
+     toward assuring the availability of meeting rooms and 
+     avoiding simultaneous scheduling of Committee and 
+     subcommittee meetings or hearings.
+
+                          Effect of a Vacancy
+
+       (e) Any vacancy in the membership of a subcommittee shall 
+     not affect the power of the remaining members to execute the 
+     functions of the subcommittee as long as the required quorum 
+     is present.
+
+[[Page 3514]]
+
+
+
+                                Records
+
+       (f) Each subcommittee of the Committee shall provide the 
+     full Committee with copies of such records of votes taken in 
+     the sub- committee and such other records with respect to the 
+     subcommittee as the Chair deems necessary for the Committee 
+     to comply with all rules and regulations of the House.
+
+                                 Rule 6
+
+                                 Staff
+
+                               In General
+
+       (a)(1) Except as provided in paragraph (2), the 
+     professional and other staff of the Committee shall be 
+     appointed, and may be re- moved by the Chair, and shall work 
+     under the general supervision and direction of the Chair.
+       (2) All professional and other staff provided to the 
+     minority party members of the Committee shall be appointed, 
+     and may be removed, by the ranking minority member of the 
+     Committee, and shall work under the general supervision and 
+     direction of such member.
+       (3) It is intended that the skills and experience of all 
+     members of the Committee staff be available to all members of 
+     the Committee.
+
+                           Subcommittee Staff
+
+       (b) From funds made available for the appointment of staff, 
+     the Chair of the Committee shall, pursuant to clause 6(d) of 
+     rule X of the Rules of the House, ensure that sufficient 
+     staff is made available so that each subcommittee can carry 
+     out its responsibilities under the rules of the Committee and 
+     that the minority party is treated fairly in the appointment 
+     of such staff.
+
+                         Compensation of Staff
+
+       (c)(1) Except as provided in paragraph (2), the Chair shall 
+     fix the compensation of all professional and other staff of 
+     the Committee.
+       (2) The ranking minority member shall fix the compensation 
+     of all professional and other staff provided to the minority 
+     party members of the Committee.
+
+                                 Rule 7
+
+                           Budget and Travel
+
+                                 Budget
+
+       (a)(1) The Chair, in consultation with other members of the 
+     Committee, shall prepare for each Congress a budget providing 
+     amounts for staff, necessary travel, investigation, and other 
+     expenses of the Committee and its subcommittees.
+       (2) From the amount provided to the Committee in the 
+     primary expense resolution adopted by the House of 
+     Representatives, the Chair, after consultation with the 
+     ranking minority member, shall designate an amount to be 
+     under the direction of the ranking minority member for the 
+     compensation of the minority staff, travel expenses of 
+     minority members and staff, and minority office expenses. All 
+     expenses of minority members and staff shall be paid for out 
+     of the amount so set aside.
+
+                                 Travel
+
+       (b)(1) The Chair may authorize travel for any member and 
+     any staff member of the Committee in connection with 
+     activities or subject matters under the general jurisdiction 
+     of the Committee. Before such authorization is granted, there 
+     shall be submitted to the Chair in writing the following:
+       (A) The purpose of the travel.
+       (B) The dates during which the travel is to occur.
+       (C) The names of the States or countries to be visited and 
+     the length of time to be spent in each.
+       (D) The names of members and staff of the Committee for 
+     whom the authorization is sought.
+       (2) Members and staff of the Committee shall make a written 
+     report to the Chair on any travel they have conducted under 
+     this subsection, including a description of their itinerary, 
+     expenses, and activities, and of pertinent information gained 
+     as a result of such travel.
+       (3) Members and staff of the Committee performing 
+     authorized travel on official business shall be governed by 
+     applicable laws, resolutions, and regulations of the House 
+     and of the Committee on House Administration.
+
+                                 Rule 8
+
+                        Committee Administration
+
+                                Records
+
+       (a)(1) There shall be a transcript made of each regular 
+     meeting and hearing of the Committee, and the transcript may 
+     be printed if the Chair decides it is appropriate or if a 
+     majority of the members of the Committee requests such 
+     printing. Any such transcripts shall be a substantially 
+     verbatim account of remarks actually made during the 
+     proceedings, subject only to technical, grammatical, and 
+     typographical corrections authorized by the person making the 
+     remarks. Nothing in this paragraph shall be construed to 
+     require that all such transcripts be subject to correction 
+     and publication.
+       (2) The Committee shall keep a record of all actions of the 
+     Committee and of its subcommittees. The record shall contain 
+     all information required by clause 2(e)(1) of rule XI of the 
+     Rules of the House and shall be available for public 
+     inspection at reasonable times in the offices of the 
+     Committee.
+       (3) All Committee hearings, records, data, charts, and 
+     files shall be kept separate and distinct from the 
+     congressional office records of the Chair, shall be the 
+     property of the House, and all Members of the House shall 
+     have access thereto as provided in clause 2(e)(2) of rule XI 
+     of the Rules of the House.
+       (4) The records of the Committee at the National Archives 
+     and Records Administration shall be made available for public 
+     use in accordance with rule VII of the Rules of the House of 
+     Representatives. The Chair shall notify the ranking minority 
+     member of any decision, pursuant to clause 3(b)(3) or clause 
+     4(b) of the rule, to withhold a record otherwise available, 
+     and the matter shall be presented to the Committee for a 
+     determination on written request of any member of the 
+     Committee.
+
+                 Committee Publications on the Internet
+
+       (b) To the maximum extent feasible, the Committee shall 
+     make its publications available in electronic form.
+
+                          ____________________
+```
