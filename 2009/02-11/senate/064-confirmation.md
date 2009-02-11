@@ -1,0 +1,25 @@
+---
+granule: CRECB-2009-pt3-Pg3633-3
+date: 2009-02-11
+edition: CRECB
+section: SENATE
+page: 3633
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate, Wednesday, February 11, 
+2009:
+
+
+                         DEPARTMENT OF DEFENSE
+
+       WILLIAM J. LYNN, III, OF VIRGINIA, TO BE DEPUTY SECRETARY 
+     OF DEFENSE.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
