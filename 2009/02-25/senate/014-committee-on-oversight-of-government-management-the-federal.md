@@ -1,0 +1,96 @@
+---
+granule: CREC-2009-02-25-pt1-PgS2465
+date: 2009-02-25
+edition: CREC
+section: SENATE
+page: S2465
+citation: 155 Cong. Rec. S2465
+---
+
+# COMMITTEE ON OVERSIGHT OF GOVERNMENT MANAGEMENT, THE FEDERAL WORKFORCE, AND THE DISTRICT OF COLUMBIA RULES OF PROCEDURE
+
+**Speaking:** Lieberman, Joseph I. (L000304) [ID-CT]
+
+```
+COMMITTEE ON OVERSIGHT OF GOVERNMENT MANAGEMENT, THE FEDERAL WORKFORCE, 
+            AND THE DISTRICT OF COLUMBIA RULES OF PROCEDURE
+
+  Mr. LIEBERMAN. Mr. President, Senate Standing Rules XXVI requires 
+each committee to adopt rules to govern the procedure of the committee 
+and to publish those rules in the Congressional Record not later than 
+March 1 of the first year of each Congress. On February 24, 2009, a 
+majority of the members of the Committee on Homeland Security and 
+Governmental Affairs' Subcommittee on Oversight of Government 
+Management, the Federal Workforce, and the District of Columbia adopted 
+subcommittee Rules of Procedure.
+  Consistent with Standing Rule XXVI, today I ask unanimous consent to 
+have printed in the Record a copy of the rules of procedure of the 
+Subcommittee on Oversight of Government Management, the Federal 
+Workforce, and the District of Columbia.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+     RULES OF PROCEDURE OF THE COMMITTEE ON HOMELAND SECURITY AND 
+                          GOVERNMENTAL AFFAIRS
+
+    Subcommittee on Oversight of Government Management, the Federal 
+                Workforce, and the District of Columbia
+
+       (1) Subcommittee Rules.--The Subcommittee shall be 
+     governed, where applicable, by the rules of the full 
+     Committee on Homeland Security and Governmental Affairs and 
+     the Standing Rules of the Senate.
+       (2) Quorums.
+       (A) Transaction of Routine Business.--One-third of the 
+     membership of the Subcommittee shall constitute a quorum for 
+     the transaction of routine business, provided that one Member 
+     of the Minority is present. For the purpose of this 
+     paragraph, the term ``routine business'' includes the 
+     convening of a meeting and the consideration of any business 
+     of the Subcommittee other than reporting to the full 
+     Committee on Homeland Security and Governmental Affairs any 
+     measures, matters or recommendations.
+       (B) Taking Testimony.--One Member of the Subcommittee shall 
+     constitute a quorum for taking sworn or unsworn testimony.
+       (C) Proxies Prohibited in Establishment of Quorum.--Proxies 
+     shall not be considered for the establishment of a quorum.
+       (3) Subcommittee Subpoenas.--The Chairman of the 
+     Subcommittee, with the approval of the Ranking Minority 
+     Member of the Subcommittee, is authorized to subpoena the 
+     attendance of witnesses or the production of memoranda, 
+     documents, records, or any other materials at a hearing, 
+     provided that the Chairman may subpoena attendance or 
+     production without the approval of the Ranking Minority 
+     Member where the Chairman or a staff officer designated by 
+     him/her has not received notification from the Ranking 
+     Minority Member or a staff officer designated by him/her of 
+     disapproval of the subpoena within 72 hours, excluding 
+     Saturdays and Sundays, of being notified of the subpoena. If 
+     a subpoena is disapproved by the Ranking Minority Member as 
+     provided herein, the subpoena may be authorized by vote of 
+     the Members of the Subcommittee.
+       Immediately upon authorization of the issuance of a 
+     subpoena under these rules, a written notice of intent to 
+     issue the subpoena shall be provided to the Chairman and
+
+[[Page S2466]]
+
+     Ranking Minority Member of the full Committee on Homeland 
+     Security and Governmental Affairs, or staff officers 
+     designated by them, by the Subcommittee Chairman or a staff 
+     officer designated by him/her, and no subpoena shall be 
+     issued for at least 48 hours, excluding Saturdays and 
+     Sundays, from delivery to the appropriate offices, unless the 
+     Chairman and Ranking Minority Member of the full Committee on 
+     Homeland Security and Governmental Affairs waive the 48-hour 
+     waiting period or unless the Subcommittee Chairman certifies 
+     in writing to the Chairman and Ranking Minority Member of the 
+     full Committee that, in his or her opinion, it is necessary 
+     to issue a subpoena immediately.
+       When the Subcommittee or its Chairman authorizes subpoenas, 
+     subpoenas may be issued upon the signature of the Chairman or 
+     any other Member of the Subcommittee designated by the 
+     Chairman.
+
+                          ____________________
+```
