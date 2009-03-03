@@ -1,0 +1,19 @@
+---
+granule: CREC-2009-03-03-pt1-PgS2690
+date: 2009-03-03
+edition: CREC
+section: SENATE
+page: S2690
+citation: 155 Cong. Rec. S2690
+---
+
+# MESSAGES FROM THE PRESIDENT
+
+```
+                      MESSAGES FROM THE PRESIDENT
+
+  Messages from the President of the United States were communicated to 
+the Senate by Mrs. Neiman, one of his secretaries.
+
+                          ____________________
+```
