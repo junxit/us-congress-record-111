@@ -1,0 +1,43 @@
+---
+granule: CREC-2009-03-06-pt1-PgS2866-6
+date: 2009-03-06
+edition: CREC
+section: SENATE
+page: S2866
+citation: 155 Cong. Rec. S2866
+---
+
+# ADDITIONAL COSPONSORS
+
+**Measures:** S. 231, S. 428, S. 479
+
+```
+                         ADDITIONAL COSPONSORS
+
+
+                                 S. 231
+
+  At the request of Mr. Lieberman, the name of the Senator from 
+Delaware (Mr. Kaufman) was added as a cosponsor of S. 231, a bill to 
+designate a portion of the Arctic National Wildlife Refuge as 
+wilderness.
+
+
+                                 S. 428
+
+  At the request of Mr. Dorgan, the names of the Senator from South 
+Dakota (Mr. Johnson) and the Senator from Vermont (Mr. Leahy) were 
+added as cosponsors of S. 428, a bill to allow travel between the 
+United States and Cuba.
+
+
+                                 S. 479
+
+  At the request of Mr. Cardin, the name of the Senator from 
+Pennsylvania (Mr. Specter) was added as a cosponsor of S. 479, a bill 
+to amend the Chesapeake Bay Initiative Act of 1998 to provide for the 
+continuing authorization of the Chesapeake Bay Gateways and Watertrails 
+Network.
+
+                          ____________________
+```
