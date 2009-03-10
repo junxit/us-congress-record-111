@@ -1,0 +1,23 @@
+---
+granule: CREC-2009-03-10-pt1-PgH3130-2
+date: 2009-03-10
+edition: CREC
+section: HOUSE
+page: H3130
+citation: 155 Cong. Rec. H3130
+---
+
+# The SPEAKER pro tempore. Under a previous order of the House, the gentleman from Oregon (Mr. DeFazio) is recognized for 5 minutes.
+
+```
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Oregon (Mr. DeFazio) is recognized for 5 minutes.
+  (Mr. DeFAZIO addressed the House. His remarks will appear hereafter 
+in the Extensions of Remarks.)
+
+[[Page H3131]]
+
+
+
+                          ____________________
+```
