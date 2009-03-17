@@ -1,0 +1,87 @@
+---
+granule: CRECB-2009-pt6-Pg7415
+date: 2009-03-17
+edition: CRECB
+section: SENATE
+page: 7415
+---
+
+# AD HOC SUBCOMMITTEE ON CONTRACTING OVERSIGHT RULES OF PROCEDURE
+
+```
+    AD HOC SUBCOMMITTEE ON CONTRACTING OVERSIGHT RULES OF PROCEDURE
+
+  Mr. LIEBERMAN. Mr. President, Senate Standing Rules XXVI requires 
+each committee to adopt rules to govern the procedure of the committee 
+and to publish those rules in the Congressional Record. On March 16, 
+2009, a majority of the members of the Committee on Homeland Security 
+and Governmental Affairs' Ad Hoc Subcommittee on Contracting Oversight 
+adopted subcommittee rules of procedure.
+  Consistent with Standing Rule XXVI, today I ask unanimous consent to 
+have printed in the Record a copy of the rules of procedure of the Ad 
+Hoc Subcommittee on Contracting Oversight.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+     Rules of Procedure of the Committee on Homeland Security and 
+                          Governmental Affairs
+
+
+              Ad Hoc Subcommittee on Contracting Oversight
+
+       (1) Subcommittee Rules.--The Subcommittee shall be 
+     governed, where applicable, by the rules of the full 
+     Committee on Homeland Security and Government Affairs and the 
+     Standing Rules of the Senate.
+       (2) Quorums.
+       (A) Transaction of Routine Business.--One-third of the 
+     membership of the Subcommittee shall constitute a quorum for 
+     the transaction of routine business, provided that one Member 
+     of the Minority is present. For the purpose of this 
+     paragraph, the term ``routine business'' includes the 
+     convening of a meeting and the consideration of any business 
+     of the Subcommittee other than reporting to the full 
+     Committee on Homeland Security and Government Affairs any 
+     matters or recommendations. Nothing herein shall be construed 
+     to authorize the consideration or reporting of legislation.
+       (B) Taking Testimony.--One Member of the Subcommittee shall 
+     constitute a quorum for taking sworn or unsworn testimony.
+       (C) Proxies Prohibited in Establishment of Quorum.--Proxies 
+     shall not be considered for the establishment of a quorum.
+       (3) Subcommittee Subpoenas.--The Chairman of the 
+     Subcommittee, with the approval of the Ranking Minority 
+     Member of the Subcommittee, is authorized to subpoena the 
+     attendance of witnesses or the production of memoranda, 
+     documents, records, or any other materials at a hearing, 
+     provided that the Chairman may subpoena attendance or 
+     production without the approval of the Ranking Minority 
+     Member where the Chairman or a staff officer designated by 
+     him/her has not received notification from the Ranking 
+     Minority Member or a staff officer designated by him/her of 
+     disapproval of the subpoena within 72 hours, excluding 
+     Saturdays and Sundays, of being notified of the subpoena. If 
+     a subpoena is disapproved by the Ranking Minority Member as 
+     provided herein, the subpoena may be authorized by vote of 
+     the Members of the Subcommittee.
+       Immediately upon authorization of the issuance of a 
+     subpoena under these rules, a written notice of intent to 
+     issue the subpoena shall be provided to the Chairman and 
+     Ranking Minority Member of the full Committee on Homeland 
+     Security and Government Affairs, or staff officers designated 
+     by them, by the Subcommittee Chairman or a staff officer 
+     designated by him/her, and no subpoena shall be issued for at 
+     least 48 hours, excluding Saturdays and Sundays, from 
+     delivery to the appropriate offices, unless the Chairman and 
+     Ranking Minority Member of the full Committee on Homeland 
+     Security and Government Affairs waive the 48-hour waiting 
+     period or unless the Subcommittee Chairman certifies in 
+     writing to the Chairman and Ranking Minority Member of the 
+     full Committee that, in his or her opinion, it is necessary 
+     to issue a subpoena immediately.
+       When the Subcommittee or its Chairman authorizes subpoenas, 
+     subpoenas may be issued upon the signature of the Chairman or 
+     any other Member of the Subcommittee designated by the 
+     Chairman.
+
+                          ____________________
+```
