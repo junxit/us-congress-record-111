@@ -1,0 +1,44 @@
+---
+granule: CRECB-2009-pt6-Pg8179
+date: 2009-03-19
+edition: CRECB
+section: EXTENSIONS
+page: 8179
+---
+
+# HONORING THE MILITARY POLICE COMPANY, QUANTICO MARINE CORPS BASE
+
+```
+    HONORING THE MILITARY POLICE COMPANY, QUANTICO MARINE CORPS BASE
+
+                                 ______
+                                 
+
+                        HON. GERALD E. CONNOLLY
+
+                              of virginia
+
+                    in the house of representatives
+
+                        Thursday, March 19, 2009
+
+  Mr. CONNOLLY of Virginia. Madam Speaker, it is my great honor to rise 
+today to recognize a group of outstanding public servants in Northern 
+Virginia. These individuals have demonstrated superior dedication to 
+public safety and have been awarded the prestigious Valor Award by the 
+Prince William County Regional Chamber of Commerce.
+  It is with great pride that I submit into the Record the names of the 
+recipients of the 2009 Valor Award serving in the Military Police 
+Company at Quantico Marine Corps Base.
+  Recipients of the Lifesaving Award: Sergeant Adam J. Pieper, Sergeant 
+David A. Eynon
+  Recipient of the Merit Award: Corporal Kyle Raczkowski
+  Madam Speaker, I would like to take this opportunity to thank all of 
+the men and women who serve in the Military Police Company at Quantico 
+Marine Corps Base. Their efforts, made on behalf of the citizens of 
+Prince William County, are selfless acts of heroism and truly merit our 
+highest praise. I ask my colleagues to join me in applauding these 
+remarkable individuals.
+
+                          ____________________
+```
