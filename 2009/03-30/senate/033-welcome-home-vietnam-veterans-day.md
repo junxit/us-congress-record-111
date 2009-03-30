@@ -1,0 +1,95 @@
+---
+granule: CRECB-2009-pt7-Pg9057-3
+date: 2009-03-30
+edition: CRECB
+section: SENATE
+page: 9057
+---
+
+# WELCOME HOME VIETNAM VETERANS DAY
+
+```
+                   WELCOME HOME VIETNAM VETERANS DAY
+
+  Mr. CONRAD. Mr. President, I ask unanimous consent that the Senate 
+now proceed to the consideration of S. Res. 89 which was submitted 
+earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 89) expressing support for 
+     designation of a ``Welcome Home Vietnam Veterans Day.''
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. CONRAD. Mr. President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, and the motions to 
+reconsider be laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 89) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                               S. Res. 89
+
+       Whereas the Vietnam War was fought in Vietnam from 1961 to 
+     1975, and involved North Vietnam and the Viet Cong in 
+     conflict with United States Armed Forces and South Vietnam;
+       Whereas the United States became involved in Vietnam 
+     because policy-makers in the United States believed that if 
+     the Government of South Vietnam fell to a communist 
+     government then communism would spread throughout the rest of 
+     Southeast Asia;
+       Whereas members of the United States Armed Forces began 
+     serving in an advisory role to the Government of South 
+     Vietnam in 1961;
+       Whereas, as a result of the Gulf of Tonkin incidents on 
+     August 2 and 4, 1964, Congress overwhelmingly passed the Gulf 
+     of Tonkin Resolution (Public Law 88-408), on August 7, 1964, 
+     which effectively handed over war-making powers to President 
+     Johnson until such time as ``peace and security'' had 
+     returned to Vietnam;
+       Whereas, in 1965, United States Armed Forces ground combat 
+     units arrived in Vietnam;
+       Whereas, by the end of 1965, there were 80,000 United 
+     States troops in Vietnam, and by 1969 a peak of approximately 
+     543,000 troops was reached;
+       Whereas, on January 27, 1973, the Treaty of Paris was 
+     signed, which required the release of all United States 
+     prisoners-of-war held in North Vietnam and the withdrawal of 
+     all United States Armed Forces from South Vietnam;
+       Whereas, on March 30, 1973, the United States Armed Forces 
+     completed the withdrawal of combat troops from Vietnam;
+       Whereas more than 58,000 members of the United States Armed 
+     Forces lost their lives in Vietnam and more than 300,000 
+     members of the Armed Forces were wounded;
+       Whereas, in 1982, the Vietnam Veterans Memorial was 
+     dedicated in the District of Columbia to commemorate those 
+     members of the United States Armed Forces who died or were 
+     declared missing-in-action in Vietnam;
+       Whereas the Vietnam War was an extremely divisive issue 
+     among the people of the United States;
+       Whereas members of the United States Armed Forces who 
+     served bravely and faithfully for the United States during 
+     the Vietnam War were caught upon their return home in the 
+     crossfire of public debate about the involvement of the 
+     United States in the Vietnam War;
+       Whereas the establishment of a ``Welcome Home Vietnam 
+     Veterans Day'' would be an appropriate way to honor those 
+     members of the United States Armed Forces who served in 
+     Vietnam during the Vietnam War; and
+       Whereas March 30, 2009, would be an appropriate day to 
+     establish as ``Welcome Home Vietnam Veterans Day'': Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) honors and recognizes the contributions of veterans who 
+     served in the United States Armed Forces in Vietnam; and
+       (2) encourages the people of the United States to observe 
+     ``Welcome Home Vietnam Veterans Day'' with appropriate 
+     ceremonies and activities that promote awareness of the 
+     contributions of veterans who served in the United States 
+     Armed Forces in Vietnam and the importance of helping such 
+     veterans readjust to civilian life.
+
+                          ____________________
+```
