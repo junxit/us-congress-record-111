@@ -1,0 +1,44 @@
+---
+granule: CRECB-2009-pt7-Pg9373-2
+date: 2009-03-31
+edition: CRECB
+section: SENATE
+page: 9373
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                          DEPARTMENT OF ENERGY
+
+       INES R. TRIAY, OF NEW MEXICO, TO BE AN ASSISTANT SECRETARY 
+     OF ENERGY (ENVIRONMENTAL MANAGEMENT), VICE JAMES A. RISPOLI, 
+     RESIGNED.
+
+
+                         DEPARTMENT OF COMMERCE
+
+       LAWRENCE E. STRICKLING, OF ILLINOIS, TO BE ASSISTANT 
+     SECRETARY OF COMMERCE FOR COMMUNICATIONS AND INFORMATION, 
+     VICE JOHN M. R. KNEUER.
+
+
+                       DEPARTMENT OF THE INTERIOR
+
+       HILARY CHANDLER TOMPKINS, OF NEW MEXICO, TO BE SOLICITOR OF 
+     THE DEPARTMENT OF THE INTERIOR, VICE DAVID LONGLY BERNHARDT, 
+     RESIGNED.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       THOMAS E. PEREZ, OF MARYLAND, TO BE AN ASSISTANT ATTORNEY 
+     GENERAL, VICE WAN J. KIM.
+
+                          ____________________
+```

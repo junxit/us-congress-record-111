@@ -1,0 +1,24 @@
+---
+granule: CRECB-2009-pt7-Pg9147-2
+date: 2009-03-31
+edition: CRECB
+section: HOUSE
+page: 9147
+---
+
+# RECESS
+
+```
+                                 RECESS
+
+  The SPEAKER pro tempore. Pursuant to clause 12(a) of rule I, the 
+Chair declares the House in recess until noon today.
+  Accordingly (at 11 o'clock and 9 minutes a.m.), the House stood in 
+recess until noon.
+
+[[Page 9148]]
+
+
+
+                          ____________________
+```
