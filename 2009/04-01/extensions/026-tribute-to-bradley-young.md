@@ -1,0 +1,51 @@
+---
+granule: CRECB-2009-pt7-Pg9673-2
+date: 2009-04-01
+edition: CRECB
+section: EXTENSIONS
+page: 9673
+---
+
+# TRIBUTE TO BRADLEY YOUNG
+
+```
+                        TRIBUTE TO BRADLEY YOUNG
+
+                                 ______
+                                 
+
+                            HON. TOM LATHAM
+
+                                of iowa
+
+                    in the house of representatives
+
+                        Wednesday, April 1, 2009
+
+  Mr. LATHAM. Madam Speaker, I rise today to recognize and congratulate 
+Bradley Young on earning an Eagle Scout Award. Bradley is an 11th grade 
+student from South Hardin High School in Eldora, Iowa.
+  The Eagle Scout rank is the highest advancement rank in scouting. 
+Only about 5% of Boy Scouts earn the Eagle Scout Award. The award is a 
+performance based achievement that has maintained similar standards 
+over the years. To earn the Eagle Scout rank, a Boy Scout is obligated 
+to pass specific tests that are organized by requirements and merit 
+badges, as well as completing an Eagle Project to benefit the 
+community. Bradley's project was working on the Good Shepherd Preschool 
+Playground at St. Paul's Lutheran Church in Eldora, Iowa.
+  Bradley has been involved in scouting since he was in Tiger Cubs and 
+continues to be an active member of the Eldora Boy Scout Troop 334, 
+today. He has completed over 50 merit badges; 12 of which are required 
+to become an Eagle Scout. While in scouts, Bradley has earned various 
+awards which include: the Bronze Palm, Arrow of Light Award, 50 Miler 
+Award, God and Country Religious Award, World Conservation Award and 
+various others. Bradley is also a Member of Order of the Arrow--
+Brotherhood Level and completed the Den Chief Leadership training.
+  The example set by this young man demonstrates the rewards of hard 
+work, dedication and perseverance. I am honored to represent Bradley 
+Young in the United States Congress. I know that all of my colleagues 
+join me in congratulating him on earning an Eagle Scout ranking and 
+wish him continued success in his future education and career.
+
+                          ____________________
+```
