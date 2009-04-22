@@ -1,0 +1,162 @@
+---
+granule: CREC-2009-04-22-pt1-PgS4595
+date: 2009-04-22
+edition: CREC
+section: SENATE
+page: S4595
+citation: 155 Cong. Rec. S4595
+---
+
+# Text of Senate Amendment 1002
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+```
+  SA 1002. Mr. THUNE submitted an amendment intended to be proposed by 
+him to the bill S. 386, to improve enforcement of mortgage fraud, 
+securities fraud, financial institution fraud, and other frauds related 
+to federal assistance and relief programs, for the recovery of funds 
+lost to these frauds, and for other purposes; as follows:
+
+       At the end of the bill, add the following:
+
+                 TITLE II--DEBT REDUCTION PRIORITY ACT
+
+     SEC. 21. SHORT TITLE.
+
+       This title may be cited as the ``Debt Reduction Priority 
+     Act''.
+
+     SEC. 22. FINDINGS.
+
+       Congress finds the following:
+       (1) On October 7, 2008, Congress established the Troubled 
+     Assets Relief Program (TARP) as part of the Emergency 
+     Economic Stabilization Act (Public 110-343; 122 Stat. 3765) 
+     and allocated $700,000,000,000 for the purchase of toxic 
+     assets from banks with the goal of restoring liquidity to the 
+     financial sector and restarting the flow of credit in our 
+     markets.
+       (2) The Department of Treasury, without consultation with 
+     Congress, changed the purpose of TARP and began injecting 
+     capital into financial institutions through a program called 
+     the Capital Purchase Program (CPP) rather than purchasing 
+     toxic assets.
+       (3) Lending by financial institutions was not noticeably 
+     increased with the implementation of the CPP and the 
+     expenditure of $250,000,000,000 of TARP funds, despite the 
+     goal of the program.
+       (4) The recipients of amounts under the CPP are now faced 
+     with additional restrictions related to accepting those 
+     funds.
+       (5) A number of community banks and large financial 
+     institutions have expressed their desire to return their CPP 
+     funds to the Department of Treasury and the Department has 
+     begun the process of accepting receipt of such funds.
+       (6) The Department of the Treasury should not unilaterally 
+     determine how these returned funds are spent in the future 
+     and the Congress should play a role in any determination of 
+     future spending of funds returned through the TARP.
+
+     SEC. 23. DEBT REDUCTION.
+
+       (a) In General.--Title I of the Emergency Economic 
+     Stabilization Act of 2008 (12 U.S.C. 5211 et seq.) is amended 
+     by adding at the end the following:
+
+     ``SEC. 137. DEBT REDUCTION.
+
+       ``Not later than 30 days after the date of enactment of 
+     this section, the Secretary of the Treasury shall deposit any 
+     amounts received by the Secretary for repayment of financial 
+     assistance or for payment of any interest on the receipt of 
+     such financial assistance by an entity that has received 
+     financial assistance under the TARP or any program enacted by 
+     the Secretary under the authorities granted to the Secretary 
+     under this Act, including the Capital Purchase Program, in 
+     the Public Debt Reduction Payment Account established under 
+     section 3114 of title 31, United States Code.''.
+
+     SEC. 24. ESTABLISHMENT OF PUBLIC DEBT REDUCTION PAYMENT 
+                   ACCOUNT.
+
+       (a) In General.--Subchapter I of chapter 31 of title 31, 
+     United States Code, is amended by adding at the end the 
+     following new section:
+
+     ``Sec. 3114. Public Debt Reduction Payment Account
+
+       ``(a) There is established in the Treasury of the United 
+     States an account to be known as the Public Debt Reduction 
+     Payment Account (hereinafter in this section referred to as 
+     the `account').
+       ``(b) The Secretary of the Treasury shall use amounts in 
+     the account to pay at maturity, or to redeem or buy before 
+     maturity, any obligation of the Government held by the public 
+     and included in the public debt. Any obligation which is 
+     paid, redeemed, or bought with amounts from the account shall 
+     be canceled and retired and may not be reissued. Amounts 
+     deposited in the account are appropriated and may only be 
+     expended to carry out this section.
+       ``(c) There shall be deposited in the account any amounts 
+     which are received by the Secretary of the Treasury pursuant 
+     to section 137 of the Emergency Economic Stabilization Act of 
+     2008. The funds deposited to this account shall remain 
+     available until expended.
+       ``(d) The Secretary of the Treasury and the Director of the 
+     Office of Management and Budget shall each take such actions 
+     as may be necessary to promptly carry out this section in 
+     accordance with sound debt management policies.
+       ``(e) Reducing the debt pursuant to this section shall not 
+     interfere with the debt management policies or goals of the 
+     Secretary of the Treasury.''.
+       (b) Conforming Amendment.--The chapter analysis for chapter 
+     31 of title 31, United States Code, is amended by inserting 
+     after the item relating to section 3113 the following:
+
+``3114. Public debt reduction payment account''.
+
+     SEC. 25. REDUCTION OF STATUTORY LIMIT ON THE PUBLIC DEBT.
+
+       Section 3101(b) of title 31, United States Code, is amended 
+     by inserting ``minus the aggregate amounts deposited into the 
+     Public Debt Reduction Payment Account pursuant to section 
+     3114(c)'' before ``, outstanding at one time''.
+
+     SEC. 26. OFF-BUDGET STATUS OF PUBLIC DEBT REDUCTION PAYMENT 
+                   ACCOUNT.
+
+       Notwithstanding any other provision of law, the receipts 
+     and disbursements of the Public Debt Reduction Payment 
+     Account established by section 3114 of title 31, United 
+     States Code, shall not be counted as new budget authority, 
+     outlays, receipts, or deficit or surplus for purposes of--
+       (1) the budget of the United States Government as submitted 
+     by the President,
+       (2) the congressional budget, or
+       (3) the Balanced Budget and Emergency Deficit Control Act 
+     of 1985.
+
+     SEC. 27. REMOVING PUBLIC DEBT REDUCTION PAYMENT ACCOUNT FROM 
+                   BUDGET PRONOUNCEMENTS.
+
+       (a) In General.--Any official statement issued by the 
+     Office of Management and Budget, the Congressional Budget 
+     Office, or any other agency or instrumentality of the Federal 
+     Government of surplus or deficit totals of the budget of the 
+     United States Government as submitted by the President or of 
+     the surplus or deficit totals of the congressional budget, 
+     and any description of, or reference to, such totals in any 
+     official publication or material issued by either of such 
+     Offices or any other such agency or instrumentality, shall 
+     exclude the outlays and receipts of the Public Debt Reduction 
+     Payment Account established by section 3114 of title 31, 
+     United States Code.
+       (b) Separate Public Debt Reduction Payment Account Budget 
+     Documents.--The excluded outlays and receipts of the Public 
+     Debt Reduction Payment Account established by section 3114 of 
+     title 31, United States Code, shall be submitted in separate 
+     budget documents.
+
+                          ____________________
+```
