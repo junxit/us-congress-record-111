@@ -1,0 +1,25 @@
+---
+granule: CRECB-2009-pt8-Pg10607-2
+date: 2009-04-23
+edition: CRECB
+section: SENATE
+page: 10607
+---
+
+# NOTICE: REGISTRATION OF MASS MAILINGS
+
+```
+                 NOTICE: REGISTRATION OF MASS MAILINGS
+
+  The filing date for 2009 first quarter Mass Mailings is Monday, April 
+27, 2009. If your office did no mass mailings during this period, 
+please submit a form that states ``none.''
+  Mass mailing registrations, or negative reports, should be submitted 
+to the Senate Office of Public Records, 232 Hart Building, Washington, 
+D.C. 20510-7116.
+  The Public Records office will be open from 9:00 a.m. to 6:00 p.m. on 
+the filing date to accept these filings. For further information, 
+please contact the Public Records office at (202) 224-0322.
+
+                          ____________________
+```
