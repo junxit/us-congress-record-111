@@ -1,0 +1,19 @@
+---
+granule: CREC-2009-04-28-pt1-PgS4795
+date: 2009-04-28
+edition: CREC
+section: SENATE
+page: S4795
+citation: 155 Cong. Rec. S4795
+---
+
+# LEGISLATIVE SESSION
+
+```
+                          LEGISLATIVE SESSION
+
+  The PRESIDING OFFICER. Under the previous order, the Senate will now 
+return to legislative session.
+
+                          ____________________
+```

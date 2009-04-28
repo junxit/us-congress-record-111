@@ -1,0 +1,27 @@
+---
+granule: CREC-2009-04-28-pt1-PgS4830-7
+date: 2009-04-28
+edition: CREC
+section: SENATE
+page: S4830
+citation: 155 Cong. Rec. S4830
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate, Tuesday, April 28, 
+2009:
+
+
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+       KATHLEEN SEBELIUS, OF KANSAS, TO BE SECRETARY OF HEALTH AND 
+     HUMAN SERVICES.
+
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
