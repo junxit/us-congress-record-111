@@ -1,0 +1,32 @@
+---
+granule: CRECB-2009-pt8-Pg11118-4
+date: 2009-04-29
+edition: CRECB
+section: HOUSE
+page: 11118
+---
+
+# COMMUNICATION FROM THE REPUBLICAN LEADER
+
+```
+                COMMUNICATION FROM THE REPUBLICAN LEADER
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the Honorable John A. Boehner, Republican Leader:
+
+                                     House of Representatives,
+
+                                    Washington, DC, March 3, 2009.
+     Hon. Nancy Pelosi,
+     Speaker, U.S. Capitol, Washington, DC.
+       Dear Speaker Pelosi: Pursuant to 44 U.S.C. 2702, I am 
+     pleased to re-appoint Mr. Jeffrey W. Thomas of Ohio to the 
+     Advisory Committee on the Records of Congress. Mr. Thomas has 
+     expressed interest in serving in this capacity and I am 
+     pleased to fulfill his request.
+           Sincerely,
+                                                     John Boehner,
+     Republican Leader.
+
+                          ____________________
+```
