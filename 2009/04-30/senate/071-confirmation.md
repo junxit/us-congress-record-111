@@ -1,0 +1,25 @@
+---
+granule: CRECB-2009-pt9-Pg11323-4
+date: 2009-04-30
+edition: CRECB
+section: SENATE
+page: 11323
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate, Thursday, April 30, 
+2009:
+
+
+                       DEPARTMENT OF THE INTERIOR
+
+       THOMAS L. STRICKLAND, OF COLORADO, TO BE ASSISTANT 
+     SECRETARY FOR FISH AND WILDLIFE.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
