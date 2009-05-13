@@ -1,0 +1,20 @@
+---
+granule: CRECB-2009-pt9-Pg12433
+date: 2009-05-13
+edition: CRECB
+section: HOUSE
+page: 12433
+---
+
+# DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+```
+        DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 7 of rule XII, sponsors were deleted from public bills 
+and resolutions as follows:
+
+       H.R. 874: Mr. Sarbanes.
+
+                          ____________________
+```
