@@ -1,0 +1,44 @@
+---
+granule: CRECB-2009-pt10-Pg12667-2
+date: 2009-05-18
+edition: CRECB
+section: SENATE
+page: 12667
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                        REMEMBERING DOM DeLUISE
+
+● Mrs. BOXER. Madam President, California and our Nation have 
+lost one of our most talented entertainers. Dominick ``Dom'' DeLuise, a 
+wonderful comedian and chef who entertained America with his delightful 
+sense of humor, recently passed away. I would like to take a few 
+moments to recognize Dom DeLuise's many accomplishments and the 
+tremendous impact he made on our lives.
+  Born in New York City, DeLuise entered acting at an early age. 
+Although discouraged at first, he persisted in finding his way in the 
+field of entertainment and into the hearts of his fans. His hard work 
+and dedication earned him many entertaining and prestigious acting 
+roles in film, television, and theater. Many films which feature Dom 
+DeLuise, such as ``The Cannonball Run,'' ``Blazing Saddles,'' ``History 
+of the World Part 1,'' and ``Spaceballs'' have become classics in their 
+own right and will ensure that future generations will enjoy and 
+appreciate his talent.
+  Later in life, DeLuise worked toward furthering his love for the 
+culinary arts and establishing himself as a chef. His efforts resulted 
+in the publishing of two successful cookbooks: ``Eat This It Will Make 
+You Feel Better!'' and ``Eat This Too! It'll Also Make You Feel Good.''
+  I invite all of my colleagues to join me in recognizing and honoring 
+Dominick ``Dom'' DeLuise for his work, which touched the lives of 
+generations of Americans. He is survived by his wife of 54 years, Carol 
+Arthur, and his three sons, Peter, David and Michael.●
+
+                          ____________________
+```
