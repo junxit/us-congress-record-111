@@ -1,0 +1,28 @@
+---
+granule: CREC-2009-05-19-pt1-PgS5647-4
+date: 2009-05-19
+edition: CREC
+section: SENATE
+page: S5647
+citation: 155 Cong. Rec. S5647
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nomination received by the Senate:
+
+
+                          DEPARTMENT OF STATE
+
+       PHILIP L. VERVEER, OF THE DISTRICT OF COLUMBIA, FOR THE 
+     RANK OF AMBASSADOR DURING HIS TENURE OF SERVICE AS DEPUTY 
+     ASSISTANT SECRETARY OF STATE FOR INTERNATIONAL COMMUNICATIONS 
+     AND INFORMATION POLICY IN THE BUREAU OF ECONOMIC, ENERGY, AND 
+     BUSINESS AFFAIRS AND U.S. COORDINATOR FOR INTERNATIONAL 
+     COMMUNICATIONS AND INFORMATION POLICY.
+
+                          ____________________
+```
