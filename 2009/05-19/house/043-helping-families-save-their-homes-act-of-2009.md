@@ -1,0 +1,5402 @@
+---
+granule: CRECB-2009-pt10-Pg12767
+date: 2009-05-19
+edition: CRECB
+section: HOUSE
+page: 12767
+---
+
+# HELPING FAMILIES SAVE THEIR HOMES ACT OF 2009
+
+```
+             HELPING FAMILIES SAVE THEIR HOMES ACT OF 2009
+
+  Mr. FRANK of Massachusetts. Mr. Speaker, I move to suspend the rules 
+and pass the Senate bill (S. 896) to prevent mortgage foreclosures and 
+enhance mortgage credit availability, as amended.
+  The Clerk read the title of the Senate bill.
+  The text of the Senate bill, as amended, is as follows:
+
+                                 S. 896
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+              DIVISION A--PREVENTING MORTGAGE FORECLOSURES
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This division may be cited as the 
+     ``Helping Families Save Their Homes Act of 2009''.
+
+[[Page 12768]]
+
+       (b) Table of Contents.--The table of contents of this 
+     division is the following:
+
+Sec. 1. Short title; table of contents.
+
+              TITLE I--PREVENTION OF MORTGAGE FORECLOSURES
+
+Sec. 101. Guaranteed rural housing loans.
+Sec. 102. Modification of housing loans guaranteed by the Department of 
+              Veterans Affairs.
+Sec. 103. Additional funding for HUD programs to assist individuals to 
+              better withstand the current mortgage crisis.
+Sec. 104. Mortgage modification data collecting and reporting.
+Sec. 105. Neighborhood Stabilization Program Refinements.
+
+        TITLE II--FORECLOSURE MITIGATION AND CREDIT AVAILABILITY
+
+Sec. 201. Servicer safe harbor for mortgage loan modifications.
+Sec. 202. Changes to HOPE for Homeowners Program.
+Sec. 203. Requirements for FHA-approved mortgagees.
+Sec. 204. Enhancement of liquidity and stability of insured depository 
+              institutions to ensure availability of credit and 
+              reduction of foreclosures.
+Sec. 205. Application of GSE conforming loan limit to mortgages 
+              assisted with TARP funds.
+Sec. 206. Mortgages on certain homes on leased land.
+Sec. 207. Sense of Congress regarding mortgage revenue bond purchases.
+
+                  TITLE III--MORTGAGE FRAUD TASK FORCE
+
+Sec. 301. Sense of the Congress on establishment of a Nationwide 
+              Mortgage Fraud Task Force.
+
+              TITLE IV--FORECLOSURE MORATORIUM PROVISIONS
+
+Sec. 401. Sense of the Congress on foreclosures.
+Sec. 402. Public-Private Investment Program; Additional Appropriations 
+              for the Special Inspector General for the Troubled Asset 
+              Relief Program.
+Sec. 403. Removal of requirement to liquidate warrants under the TARP.
+Sec. 404. Notification of sale or transfer of mortgage loans.
+
+                    TITLE V--FARM LOAN RESTRUCTURING
+
+Sec. 501. Congressional Oversight Panel special report.
+
+   TITLE VI--ENHANCED OVERSIGHT OF THE TROUBLED ASSET RELIEF PROGRAM
+
+Sec. 601. Enhanced oversight of the Troubled Asset Relief Program.
+
+            TITLE VII--PROTECTING TENANTS AT FORECLOSURE ACT
+
+Sec. 701. Short title.
+Sec. 702. Effect of foreclosure on preexisting tenancy.
+Sec. 703. Effect of foreclosure on section 8 tenancies.
+Sec. 704. Sunset.
+
+      TITLE VIII--COMPTROLLER GENERAL ADDITIONAL AUDIT AUTHORITIES
+
+Sec. 801. Comptroller General additional audit authorities.
+
+              TITLE I--PREVENTION OF MORTGAGE FORECLOSURES
+
+     SEC. 101. GUARANTEED RURAL HOUSING LOANS.
+
+       (a) Guaranteed Rural Housing Loans.--Section 502(h) of the 
+     Housing Act of 1949 (42 U.S.C. 1472(h)) is amended--
+       (1) by redesignating paragraphs (13) and (14) as paragraphs 
+     (16) and (17), respectively; and
+       (2) by inserting after paragraph (12) the following new 
+     paragraphs:
+       ``(13) Loss mitigation.--Upon default or imminent default 
+     of any mortgage guaranteed under this subsection, mortgagees 
+     shall engage in loss mitigation actions for the purpose of 
+     providing an alternative to foreclosure (including actions 
+     such as special forbearance, loan modification, pre-
+     foreclosure sale, deed in lieu of foreclosure, as required, 
+     support for borrower housing counseling, subordinate lien 
+     resolution, and borrower relocation), as provided for by the 
+     Secretary.
+       ``(14) Payment of partial claims and mortgage 
+     modifications.--The Secretary may authorize the modification 
+     of mortgages, and establish a program for payment of a 
+     partial claim to a mortgagee that agrees to apply the claim 
+     amount to payment of a mortgage on a 1- to 4-family 
+     residence, for mortgages that are in default or face imminent 
+     default, as defined by the Secretary. Any payment under such 
+     program directed to the mortgagee shall be made at the sole 
+     discretion of the Secretary and on terms and conditions 
+     acceptable to the Secretary, except that--
+       ``(A) the amount of the partial claim payment shall be in 
+     an amount determined by the Secretary, and shall not exceed 
+     an amount equivalent to 30 percent of the unpaid principal 
+     balance of the mortgage and any costs that are approved by 
+     the Secretary;
+       ``(B) the amount of the partial claim payment shall be 
+     applied first to any outstanding indebtedness on the 
+     mortgage, including any arrearage, but may also include 
+     principal reduction;
+       ``(C) the mortgagor shall agree to repay the amount of the 
+     partial claim to the Secretary upon terms and conditions 
+     acceptable to the Secretary;
+       ``(D) expenses related to a partial claim or modification 
+     are not to be charged to the borrower;
+       ``(E) the Secretary may authorize compensation to the 
+     mortgagee for lost income on monthly mortgage payments due to 
+     interest rate reduction;
+       ``(F) the Secretary may reimburse the mortgagee from the 
+     appropriate guaranty fund in connection with any activities 
+     that the mortgagee is required to undertake concerning 
+     repayment by the mortgagor of the amount owed to the 
+     Secretary;
+       ``(G) the Secretary may authorize payments to the mortgagee 
+     on behalf of the borrower, under such terms and conditions as 
+     are defined by the Secretary, based on successful performance 
+     under the terms of the mortgage modification, which shall be 
+     used to reduce the principal obligation under the modified 
+     mortgage; and
+       ``(H) the Secretary may authorize the modification of 
+     mortgages with terms extended up to 40 years from the date of 
+     modification.
+       ``(15) Assignment.--
+       ``(A) Program authority.--The Secretary may establish a 
+     program for assignment to the Secretary, upon request of the 
+     mortgagee, of a mortgage on a 1- to 4-family residence 
+     guaranteed under this chapter.
+       ``(B) Program requirements.--
+       ``(i) In general.--The Secretary may encourage loan 
+     modifications for eligible delinquent mortgages or mortgages 
+     facing imminent default, as defined by the Secretary, through 
+     the payment of the guaranty and assignment of the mortgage to 
+     the Secretary and the subsequent modification of the terms of 
+     the mortgage according to a loan modification approved under 
+     this section.
+       ``(ii) Acceptance of assignment.--The Secretary may accept 
+     assignment of a mortgage under a program under this 
+     subsection only if--
+
+       ``(I) the mortgage is in default or facing imminent 
+     default;
+       ``(II) the mortgagee has modified the mortgage or qualified 
+     the mortgage for modification sufficient to cure the default 
+     and provide for mortgage payments the mortgagor is reasonably 
+     able to pay, at interest rates not exceeding current market 
+     interest rates; and
+       ``(III) the Secretary arranges for servicing of the 
+     assigned mortgage by a mortgagee (which may include the 
+     assigning mortgagee) through procedures that the Secretary 
+     has determined to be in the best interests of the appropriate 
+     guaranty fund.
+
+       ``(C) Payment of guaranty.--Under the program under this 
+     paragraph, the Secretary may pay the guaranty for a mortgage, 
+     in the amount determined in accordance with paragraph (2), 
+     without reduction for any amounts modified, but only upon the 
+     assignment, transfer, and delivery to the Secretary of all 
+     rights, interest, claims, evidence, and records with respect 
+     to the mortgage, as defined by the Secretary.
+       ``(D) Disposition.--After modification of a mortgage 
+     pursuant to this paragraph, and assignment of the mortgage, 
+     the Secretary may provide guarantees under this subsection 
+     for the mortgage. The Secretary may subsequently--
+       ``(i) re-assign the mortgage to the mortgagee under terms 
+     and conditions as are agreed to by the mortgagee and the 
+     Secretary;
+       ``(ii) act as a Government National Mortgage Association 
+     issuer, or contract with an entity for such purpose, in order 
+     to pool the mortgage into a Government National Mortgage 
+     Association security; or
+       ``(iii) re-sell the mortgage in accordance with any program 
+     that has been established for purchase by the Federal 
+     Government of mortgages insured under this title, and the 
+     Secretary may coordinate standards for interest rate 
+     reductions available for loan modification with interest 
+     rates established for such purchase.
+       ``(E) Loan servicing.--In carrying out the program under 
+     this subsection, the Secretary may require the existing 
+     servicer of a mortgage assigned to the Secretary under the 
+     program to continue servicing the mortgage as an agent of the 
+     Secretary during the period that the Secretary acquires and 
+     holds the mortgage for the purpose of modifying the terms of 
+     the mortgage. If the mortgage is resold pursuant to 
+     subparagraph (D)(iii), the Secretary may provide for the 
+     existing servicer to continue to service the mortgage or may 
+     engage another entity to service the mortgage.''.
+       (b) Technical Amendments.--Subsection (h) of section 502 of 
+     the Housing Act of 1949 (42 U.S.C. 1472(h)) is amended--
+       (1) in paragraph (5)(A), by striking ``(as defined in 
+     paragraph (13)'' and inserting ``(as defined in paragraph 
+     (17)''; and
+       (2) in paragraph (18)(E)(as so redesignated by subsection 
+     (a)(2)), by--
+       (A) striking ``paragraphs (3), (6), (7)(A), (8), and (10)'' 
+     and inserting ``paragraphs (3), (6), (7)(A), (8), (10), (13), 
+     and (14)''; and
+       (B) striking ``paragraphs (2) through (13)'' and inserting 
+     ``paragraphs (2) through (15)''.
+       (c) Procedure.--
+
+[[Page 12769]]
+
+       (1) In general.--The promulgation of regulations 
+     necessitated and the administration actions required by the 
+     amendments made by this section shall be made without regard 
+     to--
+       (A) the notice and comment provisions of section 553 of 
+     title 5, United States Code;
+       (B) the Statement of Policy of the Secretary of Agriculture 
+     effective July 24, 1971 (36 Fed. Reg. 13804), relating to 
+     notices of proposed rulemaking and public participation in 
+     rulemaking; and
+       (C) chapter 35 of title 44, United States Code (commonly 
+     known as the ``Paperwork Reduction Act'').
+       (2) Congressional review of agency rulemaking.--In carrying 
+     out this section, and the amendments made by this section, 
+     the Secretary shall use the authority provided under section 
+     808 of title 5, United States Code.
+
+     SEC. 102. MODIFICATION OF HOUSING LOANS GUARANTEED BY THE 
+                   DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) Maturity of Housing Loans.--Section 3703(d)(1) of title 
+     38, United States Code, is amended by inserting ``at the time 
+     of origination'' after ``loan''.
+       (b) Implementation.--The Secretary of Veterans Affairs may 
+     implement the amendments made by this section through notice, 
+     procedure notice, or administrative notice.
+
+     SEC. 103. ADDITIONAL FUNDING FOR HUD PROGRAMS TO ASSIST 
+                   INDIVIDUALS TO BETTER WITHSTAND THE CURRENT 
+                   MORTGAGE CRISIS.
+
+       (a) Additional Appropriations for Advertising To Increase 
+     Public Awareness of Mortgage Scams and Counseling 
+     Assistance.--In addition to any amounts that may be 
+     appropriated for each of the fiscal years 2010 and 2011 for 
+     such purpose, there is authorized to be appropriated to the 
+     Secretary of Housing and Urban Development, to remain 
+     available until expended, $10,000,000 for each of the fiscal 
+     years 2010 and 2011 for purposes of providing additional 
+     resources to be used for advertising to raise awareness of 
+     mortgage fraud and to support HUD programs and approved 
+     counseling agencies, provided that such amounts are used to 
+     advertise in the 100 metropolitan statistical areas with the 
+     highest rate of home foreclosures, and provided, further that 
+     up to $5,000,000 of such amounts are used for advertisements 
+     designed to reach and inform broad segments of the community.
+       (b) Additional Appropriations for the Housing Counseling 
+     Assistance Program.--In addition to any amounts that may be 
+     appropriated for each of the fiscal years 2010 and 2011 for 
+     such purpose, there is authorized to be appropriated to the 
+     Secretary of Housing and Urban Development, to remain 
+     available until expended, $50,000,000 for each of the fiscal 
+     years 2010 and 2011 to carry out the Housing Counseling 
+     Assistance Program established within the Department of 
+     Housing and Urban Development, provided that such amounts are 
+     used to fund HUD-certified housing-counseling agencies 
+     located in the 100 metropolitan statistical areas with the 
+     highest rate of home foreclosures for the purpose of 
+     assisting homeowners with inquiries regarding mortgage-
+     modification assistance and mortgage scams.
+       (c) Additional Appropriations for Personnel at the Office 
+     of Fair Housing and Equal Opportunity.--In addition to any 
+     amounts that may be appropriated for each of the fiscal years 
+     2010 and 2011 for such purpose, there is authorized to be 
+     appropriated to the Secretary of Housing and Urban 
+     Development, to remain available until expended, $5,000,000 
+     for each of the fiscal years 2010 and 2011 for purposes of 
+     hiring additional personnel at the Office of Fair Housing and 
+     Equal Opportunity within the Department of Housing and Urban 
+     Development, provided that such amounts are used to hire 
+     personnel at the local branches of such Office located in the 
+     100 metropolitan statistical areas with the highest rate of 
+     home foreclosures.
+
+     SEC. 104. MORTGAGE MODIFICATION DATA COLLECTING AND 
+                   REPORTING.
+
+       (a) Reporting Requirements.--Not later than 120 days after 
+     the date of the enactment of this Act, and quarterly 
+     thereafter, the Comptroller of the Currency and the Director 
+     of the Office of Thrift Supervision, shall jointly submit a 
+     report to the Committee on Banking, Housing, and Urban 
+     Affairs of the Senate, the Committee on Financial Services of 
+     the House of Representatives on the volume of mortgage 
+     modifications reported to the Office of the Comptroller of 
+     the Currency and the Office of Thrift Supervision, under the 
+     mortgage metrics program of each such Office, during the 
+     previous quarter, including the following:
+       (1) A copy of the data collection instrument currently used 
+     by the Office of the Comptroller of the Currency and the 
+     Office of Thrift Supervision to collect data on loan 
+     modifications.
+       (2) The total number of mortgage modifications resulting in 
+     each of the following:
+       (A) Additions of delinquent payments and fees to loan 
+     balances.
+       (B) Interest rate reductions and freezes.
+       (C) Term extensions.
+       (D) Reductions of principal.
+       (E) Deferrals of principal.
+       (F) Combinations of modifications described in subparagraph 
+     (A), (B), (C), (D), or (E).
+       (3) The total number of mortgage modifications in which the 
+     total monthly principal and interest payment resulted in the 
+     following:
+       (A) An increase.
+       (B) Remained the same.
+       (C) Decreased less than 10 percent.
+       (D) Decreased between 10 percent and 20 percent.
+       (E) Decreased 20 percent or more.
+       (4) The total number of loans that have been modified and 
+     then entered into default, where the loan modification 
+     resulted in--
+       (A) higher monthly payments by the homeowner;
+       (B) equivalent monthly payments by the homeowner;
+       (C) lower monthly payments by the homeowner of up to 10 
+     percent;
+       (D) lower monthly payments by the homeowner of between 10 
+     percent to 20 percent; or
+       (E) lower monthly payments by the homeowner of more than 20 
+     percent.
+       (b) Data Collection.--
+       (1) Required.--
+       (A) In general.--Not later than 60 days after the date of 
+     the enactment of this Act, the Comptroller of the Currency 
+     and the Director of the Office of Thrift Supervision, shall 
+     issue mortgage modification data collection and reporting 
+     requirements to institutions covered under the reporting 
+     requirement of the mortgage metrics program of the 
+     Comptroller or the Director.
+       (B) Inclusiveness of collections.--The requirements under 
+     subparagraph (A) shall provide for the collection of all 
+     mortgage modification data needed by the Comptroller of the 
+     Currency and the Director of the Office of Thrift Supervision 
+     to fulfill the reporting requirements under subsection (a).
+       (2) Report.--The Comptroller of the Currency shall report 
+     all requirements established under paragraph (1) to each 
+     committee receiving the report required under subsection (a).
+
+     SEC. 105. NEIGHBORHOOD STABILIZATION PROGRAM REFINEMENTS.
+
+       (a) In General.--Section 2301(c) of the Foreclosure 
+     Prevention Act of 2008 (42 U.S.C. 5301 note) is amended--
+       (1) by redesignating paragraph (3) as paragraph (4); and
+       ``(3) Exception for certain states.--Each State that has 
+     received the minimum allocation of amounts pursuant to the 
+     requirement under section 2302 may, to the extent such State 
+     has fulfilled the requirements of paragraph (2), distribute 
+     any remaining amounts to areas with homeowners at risk of 
+     foreclosure or in foreclosure without regard to the 
+     percentage of home foreclosures in such areas.''.
+       (b) Retroactive Effective Date.--The amendment made by 
+     subsection (a) shall take effect as if enacted on the date of 
+     enactment of the Foreclosure Prevention Act of 2008 (Public 
+     Law 110-289).
+
+        TITLE II--FORECLOSURE MITIGATION AND CREDIT AVAILABILITY
+
+     SEC. 201. SERVICER SAFE HARBOR FOR MORTGAGE LOAN 
+                   MODIFICATIONS.
+
+       (a) Congressional Findings.--Congress finds the following:
+       (1) Increasing numbers of mortgage foreclosures are not 
+     only depriving many Americans of their homes, but are also 
+     destabilizing property values and negatively affecting State 
+     and local economies as well as the national economy.
+       (2) In order to reduce the number of foreclosures and to 
+     stabilize property values, local economies, and the national 
+     economy, servicers must be given--
+       (A) authorization to--
+       (i) modify mortgage loans and engage in other loss 
+     mitigation activities consistent with applicable guidelines 
+     issued by the Secretary of the Treasury or his designee under 
+     the Emergency Economic Stabilization Act of 2008; and
+       (ii) refinance mortgage loans under the Hope for Homeowners 
+     program; and
+       (B) a safe harbor to enable such servicers to exercise 
+     these authorities.
+       (b) Safe Harbor.--Section 129A of the Truth in Lending Act 
+     (15 U.S.C. 1639a) is amended to read as follows:
+
+     ``SEC. 129. DUTY OF SERVICERS OF RESIDENTIAL MORTGAGES.
+
+       ``(a) In General.--Notwithstanding any other provision of 
+     law, whenever a servicer of residential mortgages agrees to 
+     enter into a qualified loss mitigation plan with respect to 1 
+     or more residential mortgages originated before the date of 
+     enactment of the Helping Families Save Their Homes Act of 
+     2009, including mortgages held in a securitization or other 
+     investment vehicle--
+       ``(1) to the extent that the servicer owes a duty to 
+     investors or other parties to maximize the net present value 
+     of such mortgages, the duty shall be construed to apply to 
+     all such investors and parties, and not to any individual 
+     party or group of parties; and
+       ``(2) the servicer shall be deemed to have satisfied the 
+     duty set forth in paragraph (1) if, before December 31, 2012, 
+     the servicer implements a qualified loss mitigation plan that 
+     meets the following criteria:
+       ``(A) Default on the payment of such mortgage has occurred, 
+     is imminent, or is reasonably foreseeable, as such terms are 
+     defined by guidelines issued by the Secretary of the Treasury 
+     or his designee under the Emergency Economic Stabilization 
+     Act of 2008.
+
+[[Page 12770]]
+
+       ``(B) The mortgagor occupies the property securing the 
+     mortgage as his or her principal residence.
+       ``(C) The servicer reasonably determined, consistent with 
+     the guidelines issued by the Secretary of the Treasury or his 
+     designee, that the application of such qualified loss 
+     mitigation plan to a mortgage or class of mortgages will 
+     likely provide an anticipated recovery on the outstanding 
+     principal mortgage debt that will exceed the anticipated 
+     recovery through foreclosures.
+       ``(b) No Liability.--A servicer that is deemed to be acting 
+     in the best interests of all investors or other parties under 
+     this section shall not be liable to any party who is owed a 
+     duty under subsection (a)(1), and shall not be subject to any 
+     injunction, stay, or other equitable relief to such party, 
+     based solely upon the implementation by the servicer of a 
+     qualified loss mitigation plan.
+       ``(c) Standard Industry Practice.--The qualified loss 
+     mitigation plan guidelines issued by the Secretary of the 
+     Treasury under the Emergency Economic Stabilization Act of 
+     2008 shall constitute standard industry practice for purposes 
+     of all Federal and State laws.
+       ``(d) Scope of Safe Harbor.--Any person, including a 
+     trustee, issuer, and loan originator, shall not be liable for 
+     monetary damages or be subject to an injunction, stay, or 
+     other equitable relief, based solely upon the cooperation of 
+     such person with a servicer when such cooperation is 
+     necessary for the servicer to implement a qualified loss 
+     mitigation plan that meets the requirements of subsection 
+     (a).
+       ``(e) Reporting.--Each servicer that engages in qualified 
+     loss mitigation plans under this section shall regularly 
+     report to the Secretary of the Treasury the extent, scope, 
+     and results of the servicer's modification activities. The 
+     Secretary of the Treasury shall prescribe regulations or 
+     guidance specifying the form, content, and timing of such 
+     reports.
+       ``(f) Definitions.--As used in this section--
+       ``(1) the term `qualified loss mitigation plan' means--
+       ``(A) a residential loan modification, workout, or other 
+     loss mitigation plan, including to the extent that the 
+     Secretary of the Treasury determines appropriate, a loan 
+     sale, real property disposition, trial modification, pre-
+     foreclosure sale, and deed in lieu of foreclosure, that is 
+     described or authorized in guidelines issued by the Secretary 
+     of the Treasury or his designee under the Emergency Economic 
+     Stabilization Act of 2008; and
+       ``(B) a refinancing of a mortgage under the Hope for 
+     Homeowners program;
+       ``(2) the term `servicer' means the person responsible for 
+     the servicing for others of residential mortgage 
+     loans(including of a pool of residential mortgage loans); and
+       ``(3) the term `securitization vehicle' means a trust, 
+     special purpose entity, or other legal structure that is used 
+     to facilitate the issuing of securities, participation 
+     certificates, or similar instruments backed by or referring 
+     to a pool of assets that includes residential mortgages (or 
+     instruments that are related to residential mortgages such as 
+     credit-linked notes).
+       ``(g) Rule of Construction.--No provision of subsection (b) 
+     or (d) shall be construed as affecting the liability of any 
+     servicer or person as described in subsection (d) for actual 
+     fraud in the origination or servicing of a loan or in the 
+     implementation of a qualified loss mitigation plan, or for 
+     the violation of a State or Federal law, including laws 
+     regulating the origination of mortgage loans, commonly 
+     referred to as predatory lending laws.''.
+
+     SEC. 202. CHANGES TO HOPE FOR HOMEOWNERS PROGRAM.
+
+       (a) Program Changes.--Section 257 of the National Housing 
+     Act (12 U.S.C. 1715z-23) is amended--
+       (1) in subsection (c)--
+       (A) in the heading for paragraph (1), by striking ``the 
+     board'' and inserting ``secretary'';
+       (B) in paragraph (1), by striking ``Board'' inserting 
+     ``Secretary, after consultation with the Board,'';
+       (C) in paragraph (1)(A), by inserting ``consistent with 
+     section 203(b) to the maximum extent possible'' before the 
+     semicolon; and
+       (D) by adding after paragraph (2) the following:
+       ``(3) Duties of board.--The Board shall advise the 
+     Secretary regarding the establishment and implementation of 
+     the HOPE for Homeowners Program.'';
+       (2) by striking ``Board'' each place such term appears in 
+     subsections (e), (h)(1), (h)(3), (j), (l), (n), (s)(3), and 
+     (v) and inserting ``Secretary'';
+       (3) in subsection (e)--
+       (A) by striking paragraph (1) and inserting the following:
+       ``(1) Borrower certification.--
+       ``(A) No intentional default or false information.--The 
+     mortgagor shall provide a certification to the Secretary that 
+     the mortgagor has not intentionally defaulted on the existing 
+     mortgage or mortgages or any other substantial debt within 
+     the last 5 years and has not knowingly, or willfully and with 
+     actual knowledge, furnished material information known to be 
+     false for the purpose of obtaining the eligible mortgage to 
+     be insured and has not been convicted under Federal or State 
+     law for fraud during the 10-year period ending upon the 
+     insurance of the mortgage under this section.
+       ``(B) Liability for repayment.--The mortgagor shall agree 
+     in writing that the mortgagor shall be liable to repay to the 
+     Secretary any direct financial benefit achieved from the 
+     reduction of indebtedness on the existing mortgage or 
+     mortgages on the residence refinanced under this section 
+     derived from misrepresentations made by the mortgagor in the 
+     certifications and documentation required under this 
+     paragraph, subject to the discretion of the Secretary.
+       ``(C) Current borrower debt-to-income ratio.--As of the 
+     date of application for a commitment to insure or insurance 
+     under this section, the mortgagor shall have had, or 
+     thereafter is likely to have, due to the terms of the 
+     mortgage being reset, a ratio of mortgage debt to income, 
+     taking into consideration all existing mortgages of that 
+     mortgagor at such time, greater than 31 percent (or such 
+     higher amount as the Secretary determines appropriate).'';
+       (B) in paragraph (4)--
+       (i) in subparagraph (A), by striking ``, subject to 
+     standards established by the Board under subparagraph (B),''; 
+     and
+       (ii) in subparagraph (B)(i), by striking ``shall'' and 
+     inserting ``may''; and
+       (C) in paragraph (7), by striking ``; and provided that'' 
+     and all that follows through ``new second lien'';
+       (D) in paragraph (9)--
+       (i) by striking ``by procuring (A) an income tax return 
+     transcript of the income tax return of the mortgagor, or 
+     (B)'' and inserting ``in accordance with procedures and 
+     standards that the Secretary shall establish (provided that 
+     such procedures and standards are consistent with section 
+     203(b) to the maximum extent possible) which may include 
+     requiring the mortgagee to procure''; and
+       (ii) by striking ``and by any other method, in accordance 
+     with procedures and standards that the Board shall 
+     establish'';
+       (E) in paragraph (10)--
+       (i) by striking ``The mortgagor shall not'' and inserting 
+     the following:
+       ``(A) Prohibition.--The mortgagor shall not''; and
+       (ii) by adding at the end the following:
+       ``(B) Duty of mortgagee.--The duty of the mortgagee to 
+     ensure that the mortgagor is in compliance with the 
+     prohibition under subparagraph (A) shall be satisfied if the 
+     mortgagee makes a good faith effort to determine that the 
+     mortgagor has not been convicted under Federal or State law 
+     for fraud during the period described in subparagraph (A).'';
+       (F) in paragraph (11), by inserting before the period at 
+     the end the following: ``, except that the Secretary may 
+     provide exceptions to such latter requirement (relating to 
+     present ownership interest) for any mortgagor who has 
+     inherited a property''; and
+       (G) by adding at the end:
+       ``(12) Ban on millionaires.--The mortgagor shall not have a 
+     net worth, as of the date the mortgagor first applies for a 
+     mortgage to be insured under the Program under this section, 
+     that exceeds $1,000,000.'';
+       (4) in subsection (h)(2), by striking ``The Board shall 
+     prohibit the Secretary from paying'' and inserting ``The 
+     Secretary shall not pay''; and
+       (5) in subsection (i)--
+       (A) by redesignating paragraphs (1) and (2) as 
+     subparagraphs (A) and (B), respectively, and adjusting the 
+     margins accordingly;
+       (B) in the matter preceding subparagraph (A), as 
+     redesignated by this paragraph, by striking ``For each'' and 
+     inserting the following:
+       ``(1) Premiums.--For each'';
+       (C) in subparagraph (A), as redesignated by this paragraph, 
+     by striking ``equal to 3 percent'' and inserting ``not more 
+     than 3 percent''; and
+       (D) in subparagraph (B), as redesignated by this paragraph, 
+     by striking ``equal to 1.5 percent'' and inserting ``not more 
+     than 1.5 percent'';
+       (E) by adding at the end the following:
+       ``(2) Considerations.--In setting the premium under this 
+     subsection, the Secretary shall consider--
+       ``(A) the financial integrity of the HOPE for Homeowners 
+     Program; and
+       ``(B) the purposes of the HOPE for Homeowners Program 
+     described in subsection (b).'';
+       (6) in subsection (k)--
+       (A) by striking the subsection heading and inserting ``Exit 
+     Fee'';
+       (B) in paragraph (1), in the matter preceding subparagraph 
+     (A), by striking ``such sale or refinancing'' and inserting 
+     ``the mortgage being insured under this section''; and
+       (C) in paragraph (2), by striking ``and the mortgagor'' and 
+     all that follows through the end and inserting ``may, upon 
+     any sale or disposition of the property to which the mortgage 
+     relates, be entitled to up to 50 percent of appreciation, up 
+     to the appraised value of the home at the time when the 
+     mortgage being refinanced under this section was originally 
+     made. The Secretary may share any amounts received under this 
+     paragraph with ``or assign the rights of any amounts due to 
+     the Secretary to'' the holder
+
+[[Page 12771]]
+
+     of the existing senior mortgage on the eligible mortgage, the 
+     holder of any existing subordinate mortgage on the eligible 
+     mortgage, or both.'';
+       (7) in the heading for subsection (n), by striking ``the 
+     Board'' and inserting ``Secretary'';
+       (8) in subsection (p), by striking ``Under the direction of 
+     the Board, the'' and inserting ``The'';
+       (9) in subsection (s)--
+       (A) in the first sentence of paragraph (2), by striking 
+     ``Board of Directors of'' and inserting ``Advisory Board 
+     for''; and
+       (B) in paragraph (3)(A)(ii), by striking ``subsection 
+     (e)(1)(B) and such other'' and inserting ``such'';
+       (10) in subsection (v), by inserting after the period at 
+     the end the following: ``The Secretary shall conform 
+     documents, forms, and procedures for mortgages insured under 
+     this section to those in place for mortgages insured under 
+     section 203(b) to the maximum extent possible consistent with 
+     the requirements of this section.''; and
+       (11) by adding at the end the following new subsections:
+       ``(x) Payments to Servicers and Originators.--The Secretary 
+     may establish a payment to the--
+       ``(1) servicer of the existing senior mortgage ``or 
+     existing subordinate mortgage'' for every loan insured under 
+     the HOPE for Homeowners Program; and
+       ``(2) originator of each new loan insured under the HOPE 
+     for Homeowners Program.
+       ``(y) Auctions.--The Secretary, with the concurrence of the 
+     Board, shall, if feasible, establish a structure and organize 
+     procedures for an auction to refinance eligible mortgages on 
+     a wholesale or bulk basis.''.
+       (b) Reducing TARP Funds To Offset Costs of Program 
+     Changes.--Paragraph (3) of section 115(a) of the Emergency 
+     Economic Stabilization Act of 2008 (12 U.S.C. 5225) is 
+     amended by inserting ``, as such amount is reduced by 
+     $1,244,000,000,'' after ``$700,000,000,000''.
+       (c) Technical Correction.--The second section 257 of the 
+     National Housing Act (Public Law 110-289; 122 Stat. 2839; 12 
+     U.S.C. 1715z-24) is amended by striking the section heading 
+     and inserting the following:
+
+     ``SEC. 258. PILOT PROGRAM FOR AUTOMATED PROCESS FOR BORROWERS 
+                   WITHOUT SUFFICIENT CREDIT HISTORY.''.
+
+     SEC. 203. REQUIREMENTS FOR FHA-APPROVED MORTGAGEES.
+
+       (a) Mortgagee Review Board.--
+       (1) In general.--Section 202(c)(2) of the National Housing 
+     Act (12 U.S.C. 1708(c)) is amended--
+       (A) in subparagraph (E), by inserting ``and'' after the 
+     semicolon;
+       (B) in subparagraph (F), by striking ``; and'' and 
+     inserting ``or their designees.''; and
+       (C) by striking subparagraph (G).
+       (2) Prohibition against limitations on mortgagee review 
+     board's power to take action against mortgagees.--Section 
+     202(c) of the National Housing Act (12 U.S.C. 1708(c)) is 
+     amended by adding at the end the following new paragraph:
+       ``(9) Prohibition against limitations on mortgagee review 
+     board's power to take action against mortgagees.--No State or 
+     local law, and no Federal law (except a Federal law enacted 
+     expressly in limitation of this subsection after the 
+     effective date of this sentence), shall preclude or limit the 
+     exercise by the Board of its power to take any action 
+     authorized under paragraphs (3) and (6) of this subsection 
+     against any mortgagee.''.
+       (b) Limitations on Participation and Mortgagee Approval and 
+     Use of Name.--Section 202 of the National Housing Act (12 
+     U.S.C. 1708) is amended--
+       (1) by redesignating subsections (d), (e), and (f) as 
+     subsections (e), (f), and (g), respectively;
+       (2) by inserting after subsection (c) the following new 
+     subsection:
+       ``(d) Limitations on Participation in Origination and 
+     Mortgagee Approval.--
+       ``(1) Requirement.--Any person or entity that is not 
+     approved by the Secretary to serve as a mortgagee, as such 
+     term is defined in subsection (c)(7), shall not participate 
+     in the origination of an FHA-insured loan except as 
+     authorized by the Secretary.
+       ``(2) Eligibility for approval.--In order to be eligible 
+     for approval by the Secretary, an applicant mortgagee shall 
+     not be, and shall not have any officer, partner, director, 
+     principal, manager, supervisor, loan processor, loan 
+     underwriter, or loan originator of the applicant mortgagee 
+     who is--
+       ``(A) currently suspended, debarred, under a limited denial 
+     of participation (LDP), or otherwise restricted under part 25 
+     of title 24 of the Code of Federal Regulations, 2 Code of 
+     Federal Regulations, part 180 as implemented by part 2424, or 
+     any successor regulations to such parts, or under similar 
+     provisions of any other Federal agency;
+       ``(B) under indictment for, or has been convicted of, an 
+     offense that reflects adversely upon the applicant's 
+     integrity, competence or fitness to meet the responsibilities 
+     of an approved mortgagee;
+       ``(C) subject to unresolved findings contained in a 
+     Department of Housing and Urban Development or other 
+     governmental audit, investigation, or review;
+       ``(D) engaged in business practices that do not conform to 
+     generally accepted practices of prudent mortgagees or that 
+     demonstrate irresponsibility;
+       ``(E) convicted of, or who has pled guilty or nolo 
+     contendre to, a felony related to participation in the real 
+     estate or mortgage loan industry--
+       ``(i) during the 7-year period preceding the date of the 
+     application for licensing and registration; or
+       ``(ii) at any time preceding such date of application, if 
+     such felony involved an act of fraud, dishonesty, or a breach 
+     of trust, or money laundering;
+       ``(F) in violation of provisions of the S.A.F.E. Mortgage 
+     Licensing Act of 2008 (12 U.S.C. 5101 et seq.) or any 
+     applicable provision of State law; or
+       ``(G) in violation of any other requirement as established 
+     by the Secretary.
+       ``(3) Rulemaking and implementation.--The Secretary shall 
+     conduct a rulemaking to carry out this subsection. The 
+     Secretary shall implement this subsection not later than the 
+     expiration of the 60-day period beginning upon the date of 
+     the enactment of this subsection by notice, mortgagee letter, 
+     or interim final regulations, which shall take effect upon 
+     issuance.''; and
+       (3) by adding at the end the following new subsection:
+       ``(h) Use of Name.--The Secretary shall, by regulation, 
+     require each mortgagee approved by the Secretary for 
+     participation in the FHA mortgage insurance programs of the 
+     Secretary--
+       ``(1) to use the business name of the mortgagee that is 
+     registered with the Secretary in connection with such 
+     approval in all advertisements and promotional materials, as 
+     such terms are defined by the Secretary, relating to the 
+     business of such mortgagee in such mortgage insurance 
+     programs; and
+       ``(2) to maintain copies of all such advertisements and 
+     promotional materials, in such form and for such period as 
+     the Secretary requires.''.
+       (c) Payment for Loss Mitigation.--Section 204(a)(2) of the 
+     National Housing Act (12 U.S.C. 1710(a)(2)) is amended--
+       (1) by inserting ``or faces imminent default, as defined by 
+     the Secretary'' after ``default'';
+       (2) by inserting ``support for borrower housing counseling, 
+     partial claims, borrower incentives, preforeclosure sale,'' 
+     after ``loan modification,''; and
+       (3) by striking ``204(a)(1)(A)'' and inserting ``subsection 
+     (a)(1)(A) or section 230(c)''.
+       (d) Payment of FHA Mortgage Insurance Benefits.--
+       (1) Additional loss mitigation actions.--Section 230(a) of 
+     the National Housing Act (12 U.S.C. 1715u(a)) is amended--
+       (A) by inserting ``or imminent default, as defined by the 
+     Secretary'' after ``default'';
+       (B) by striking ``loss'' and inserting ``loan'';
+       (C) by inserting ``preforeclosure sale, support for 
+     borrower housing counseling, subordinate lien resolution, 
+     borrower incentives,'' after ``loan modification,'';
+       (D) by inserting ``as required,'' after ``deeds in lieu of 
+     foreclosure,''; and
+       (E) by inserting ``or section 230(c),'' before ``as 
+     provided''.
+       (2) Amendment to partial claim authority.--Section 230(b) 
+     of the National Housing Act (12 U.S.C. 1715u(b)) is amended 
+     to read as follows:
+       ``(b) Payment of Partial Claim.--
+       ``(1) Establishment of program.--The Secretary may 
+     establish a program for payment of a partial claim to a 
+     mortgagee that agrees to apply the claim amount to payment of 
+     a mortgage on a 1- to 4-family residence that is in default 
+     or faces imminent default, as defined by the Secretary.
+       ``(2) Payments and exceptions.--Any payment of a partial 
+     claim under the program established in paragraph (1) to a 
+     mortgagee shall be made in the sole discretion of the 
+     Secretary and on terms and conditions acceptable to the 
+     Secretary, except that--
+       ``(A) the amount of the payment shall be in an amount 
+     determined by the Secretary, not to exceed an amount 
+     equivalent to 30 percent of the unpaid principal balance of 
+     the mortgage and any costs that are approved by the 
+     Secretary;
+       ``(B) the amount of the partial claim payment shall first 
+     be applied to any arrearage on the mortgage, and may also be 
+     applied to achieve principal reduction;
+       ``(C) the mortgagor shall agree to repay the amount of the 
+     insurance claim to the Secretary upon terms and conditions 
+     acceptable to the Secretary;
+       ``(D) the Secretary may permit compensation to the 
+     mortgagee for lost income on monthly payments, due to a 
+     reduction in the interest rate charged on the mortgage;
+       ``(E) expenses related to the partial claim or modification 
+     may not be charged to the borrower;
+       ``(F) loans may be modified to extend the term of the 
+     mortgage to a maximum of 40 years from the date of the 
+     modification; and
+       ``(G) the Secretary may permit incentive payments to the 
+     mortgagee, on the borrower's behalf, based on successful 
+     performance of a modified mortgage, which shall be used to 
+     reduce the amount of principal indebtedness.
+       ``(3) Payments in connection with certain activities.--The 
+     Secretary may pay the mortgagee, from the appropriate 
+     insurance fund, in connection with any activities that
+
+[[Page 12772]]
+
+     the mortgagee is required to undertake concerning repayment 
+     by the mortgagor of the amount owed to the Secretary.''.
+       (3) Assignment.--Section 230(c) of the National Housing Act 
+     (12 U.S.C. 1715u(c)) is amended--
+       (A) by inserting ``(1)'' after ``(c)'';
+       (B) by redesignating paragraphs (1), (2), and (3) as 
+     subparagraphs (A), (B), and (C), respectively;
+       (C) in paragraph (1)(B) (as so redesignated)--
+       (i) by redesignating subparagraphs (A), (B), and (C) as 
+     clauses (i), (ii), and (iii), respectively;
+       (ii) in the matter preceding clause (i) (as so 
+     redesignated), by striking ``under a program under this 
+     subsection'' and inserting ``under this paragraph''; and
+       (iii) in clause (i) (as so redesignated), by inserting ``or 
+     facing imminent default, as defined by the Secretary'' after 
+     ``default'';
+       (D) in paragraph (1)(C) (as so redesignated), by striking 
+     ``under a program under this subsection'' and inserting 
+     ``under this paragraph''; and
+       (E) by adding at the end the following:
+       ``(2) Assignment and loan modification.--
+       ``(A) Authority.--The Secretary may encourage loan 
+     modifications for eligible delinquent mortgages or mortgages 
+     facing imminent default, as defined by the Secretary, through 
+     the payment of insurance benefits and assignment of the 
+     mortgage to the Secretary and the subsequent modification of 
+     the terms of the mortgage according to a loan modification 
+     approved by the mortgagee.
+       ``(B) Payment of benefits and assignment.--In carrying out 
+     this paragraph, the Secretary may pay insurance benefits for 
+     a mortgage, in the amount determined in accordance with 
+     section 204(a)(5), without reduction for any amounts 
+     modified, but only upon the assignment, transfer, and 
+     delivery to the Secretary of all rights, interest, claims, 
+     evidence, and records with respect to the mortgage specified 
+     in clauses (i) through (iv) of section 204(a)(1)(A).
+       ``(C) Disposition.--After modification of a mortgage 
+     pursuant to this paragraph, the Secretary may provide 
+     insurance under this title for the mortgage. The Secretary 
+     may subsequently--
+       ``(i) re-assign the mortgage to the mortgagee under terms 
+     and conditions as are agreed to by the mortgagee and the 
+     Secretary;
+       ``(ii) act as a Government National Mortgage Association 
+     issuer, or contract with an entity for such purpose, in order 
+     to pool the mortgage into a Government National Mortgage 
+     Association security; or
+       ``(iii) re-sell the mortgage in accordance with any program 
+     that has been established for purchase by the Federal 
+     Government of mortgages insured under this title, and the 
+     Secretary may coordinate standards for interest rate 
+     reductions available for loan modification with interest 
+     rates established for such purchase.
+       ``(D) Loan servicing.--In carrying out this paragraph, the 
+     Secretary may require the existing servicer of a mortgage 
+     assigned to the Secretary to continue servicing the mortgage 
+     as an agent of the Secretary during the period that the 
+     Secretary acquires and holds the mortgage for the purpose of 
+     modifying the terms of the mortgage, provided that the 
+     Secretary compensates the existing servicer appropriately, as 
+     such compensation is determined by the Secretary consistent, 
+     to the maximum extent possible, with section 203(b). If the 
+     mortgage is resold pursuant to subparagraph (C)(iii), the 
+     Secretary may provide for the existing servicer to continue 
+     to service the mortgage or may engage another entity to 
+     service the mortgage.''.
+       (4) Implementation.--The Secretary of Housing and Urban 
+     Development may implement the amendments made by this 
+     subsection through notice or mortgagee letter.
+       (e) Change of Status.--The National Housing Act is amended 
+     by striking section 532 (12 U.S.C. 1735f-10) and inserting 
+     the following new section:
+
+     ``SEC. 532. CHANGE OF MORTGAGEE STATUS.
+
+       ``(a) Notification.--Upon the occurrence of any action 
+     described in subsection (b), an approved mortgagee shall 
+     immediately submit to the Secretary, in writing, notification 
+     of such occurrence.
+       ``(b) Actions.--The actions described in this subsection 
+     are as follows:
+       ``(1) The debarment, suspension or a Limited Denial of 
+     Participation (LDP), or application of other sanctions, other 
+     exclusions, fines, or penalties applied to the mortgagee or 
+     to any officer, partner, director, principal, manager, 
+     supervisor, loan processor, loan underwriter, or loan 
+     originator of the mortgagee pursuant to applicable provisions 
+     of State or Federal law.
+       ``(2) The revocation of a State-issued mortgage loan 
+     originator license issued pursuant to the S.A.F.E. Mortgage 
+     Licensing Act of 2008 (12 U.S.C. 5101 et seq.) or any other 
+     similar declaration of ineligibility pursuant to State 
+     law.''.
+       (f) Civil Money Penalties.--Section 536 of the National 
+     Housing Act (12 U.S.C. 1735f-14) is amended--
+       (1) in subsection (b)--
+       (A) in paragraph (1)--
+       (i) in the matter preceding subparagraph (A), by inserting 
+     ``or any of its owners, officers, or directors'' after 
+     ``mortgagee or lender'';
+       (ii) in subparagraph (H), by striking ``title I'' and all 
+     that follows through ``under this Act.'' and inserting 
+     ``title I or II of this Act, or any implementing regulation, 
+     handbook, or mortgagee letter that is issued under this 
+     Act.''; and
+       (iii) by inserting after subparagraph (J) the following:
+       ``(K) Violation of section 202(d) of this Act (12 U.S.C. 
+     1708(d)).
+       ``(L) Use of `Federal Housing Administration', `Department 
+     of Housing and Urban Development', `Government National 
+     Mortgage Association', `Ginnie Mae', the acronyms `HUD', 
+     `FHA', or `GNMA', or any official seal or logo of the 
+     Department of Housing and Urban Development, except as 
+     authorized by the Secretary.'';
+       (B) in paragraph (2)--
+       (i) in subparagraph (B), by striking ``or'' at the end;
+       (ii) in subparagraph (C), by striking the period at the end 
+     and inserting ``; or''; and
+       (iii) by adding at the end the following new subparagraph:
+       ``(D) causing or participating in any of the violations set 
+     forth in paragraph (1) of this subsection.''; and
+       (C) by amending paragraph (3) to read as follows:
+       ``(3) Prohibition against misleading use of federal entity 
+     designation.--The Secretary may impose a civil money penalty, 
+     as adjusted from time to time, under subsection (a) for any 
+     use of `Federal Housing Administration', `Department of 
+     Housing and Urban Development', `Government National Mortgage 
+     Association', `Ginnie Mae', the acronyms `HUD', `FHA', or 
+     `GNMA', or any official seal or logo of the Department of 
+     Housing and Urban Development, by any person, party, company, 
+     firm, partnership, or business, including sellers of real 
+     estate, closing agents, title companies, real estate agents, 
+     mortgage brokers, appraisers, loan correspondents, and 
+     dealers, except as authorized by the Secretary.''; and
+       (2) in subsection (g), by striking ``The term'' and all 
+     that follows through the end of the sentence and inserting 
+     ``For purposes of this section, a person acts knowingly when 
+     a person has actual knowledge of acts or should have known of 
+     the acts.''.
+       (g) Expanded Review of FHA Mortgagee Applicants and Newly 
+     Approved Mortgagees.--Not later than the expiration of the 3-
+     month period beginning upon the date of the enactment of this 
+     Act, the Secretary of Housing and Urban Development shall--
+       (1) expand the existing process for reviewing new 
+     applicants for approval for participation in the mortgage 
+     insurance programs of the Secretary for mortgages on 1- to 4-
+     family residences for the purpose of identifying applicants 
+     who represent a high risk to the Mutual Mortgage Insurance 
+     Fund; and
+       (2) implement procedures that, for mortgagees approved 
+     during the 12-month period ending upon such date of 
+     enactment--
+       (A) expand the number of mortgages originated by such 
+     mortgagees that are reviewed for compliance with applicable 
+     laws, regulations, and policies; and
+       (B) include a process for random reviews of such mortgagees 
+     and a process for reviews that is based on volume of 
+     mortgages originated by such mortgagees.
+
+     SEC. 204. ENHANCEMENT OF LIQUIDITY AND STABILITY OF INSURED 
+                   DEPOSITORY INSTITUTIONS TO ENSURE AVAILABILITY 
+                   OF CREDIT AND REDUCTION OF FORECLOSURES.
+
+       (a) Temporary Increase in Deposit Insurance Extended.--
+     Section 136 of the Emergency Economic Stabilization Act of 
+     2008 (12 U.S.C. 5241) is amended--
+       (1) in subsection (a)--
+       (A) in paragraph (1), by striking ``December 31, 2009'' and 
+     inserting ``December 31, 2013'';
+       (B) by striking paragraph (2);
+       (C) by redesignating paragraph (3) as paragraph (2); and
+       (D) in paragraph (2), as so redesignated, by striking 
+     ``December 31, 2009'' and inserting ``December 31, 2013''; 
+     and
+       (2) in subsection (b)--
+       (A) in paragraph (1), by striking ``December 31, 2009'' and 
+     inserting ``December 31, 2013'';
+       (B) by striking paragraph (2);
+       (C) by redesignating paragraph (3) as paragraph (2); and
+       (D) in paragraph (2), as so redesignated, by striking 
+     ``December 31, 2009'' and inserting ``December 31, 2013''; 
+     and
+       (b) Extension of Restoration Plan Period.--Section 
+     7(b)(3)(E)(ii) of the Federal Deposit Insurance Act (12 
+     U.S.C. 1817(b)(3)(E)(ii)) is amended by striking ``5-year 
+     period'' and inserting ``8-year period''.
+       (c) FDIC and NCUA Borrowing Authority.--
+       (1) FDIC.--Section 14(a) of the Federal Deposit Insurance 
+     Act (12 U.S.C. 1824(a)) is amended--
+       (A) by striking ``$30,000,000,000'' and inserting 
+     ``$100,000,000,000'';
+       (B) by striking ``The Corporation is authorized'' and 
+     inserting the following:
+       ``(1) In general.--The Corporation is authorized'';
+       (C) by striking ``There are hereby'' and inserting the 
+     following:
+       ``(2) Funding.--There are hereby''; and
+
+[[Page 12773]]
+
+       (D) by adding at the end the following:
+       ``(3) Temporary increases authorized.--
+       ``(A) Recommendations for increase.--During the period 
+     beginning on the date of enactment of this paragraph and 
+     ending on December 31, 2010, if, upon the written 
+     recommendation of the Board of Directors (upon a vote of not 
+     less than two-thirds of the members of the Board of 
+     Directors) and the Board of Governors of the Federal Reserve 
+     System (upon a vote of not less than two-thirds of the 
+     members of such Board), the Secretary of the Treasury (in 
+     consultation with the President) determines that additional 
+     amounts above the $100,000,000,000 amount specified in 
+     paragraph (1) are necessary, such amount shall be increased 
+     to the amount so determined to be necessary, not to exceed 
+     $500,000,000,000.
+       ``(B) Report required.--If the borrowing authority of the 
+     Corporation is increased above $100,000,000,000 pursuant to 
+     subparagraph (A), the Corporation shall promptly submit a 
+     report to the Committee on Banking, Housing, and Urban 
+     Affairs of the Senate and the Committee on Financial Services 
+     of the House of Representatives describing the reasons and 
+     need for the additional borrowing authority and its intended 
+     uses.
+       ``(C) Restriction on usage.--The Corporation may not borrow 
+     pursuant to subparagraph (A) to fund obligations of the 
+     Corporation incurred as a part of a program established by 
+     the Secretary of the Treasury pursuant to the Emergency 
+     Economic Stabilization Act of 2008 to purchase or guarantee 
+     assets.''.
+       (2) NCUA.--Section 203(d)(1) of the Federal Credit Union 
+     Act (12 U.S.C. 1783(d)(1)) is amended to read as follows:
+       ``(1) If, in the judgment of the Board, a loan to the 
+     insurance fund, or to the stabilization fund described in 
+     section 217 of this title, is required at any time for 
+     purposes of this subchapter, the Secretary of the Treasury 
+     shall make the loan, but loans under this paragraph shall not 
+     exceed in the aggregate $6,000,000,000 outstanding at any one 
+     time. Except as otherwise provided in this subsection, 
+     section 217, and in subsection (e) of this section, each loan 
+     under this paragraph shall be made on such terms as may be 
+     fixed by agreement between the Board and the Secretary of the 
+     Treasury.''.
+       (3) Temporary increases of borrowing authority for ncua.--
+     Section 203(d) of the Federal Credit Union Act (12 U.S.C. 
+     1783(d)) is amended by adding at the end the following:
+       ``(4) Temporary increases authorized.--
+       ``(A) Recommendations for increase.--During the period 
+     beginning on the date of enactment of this paragraph and 
+     ending on December 31, 2010, if, upon the written 
+     recommendation of the Board (upon a vote of not less than 
+     two-thirds of the members of the Board) and the Board of 
+     Governors of the Federal Reserve System (upon a vote of not 
+     less than two-thirds of the members of such Board), the 
+     Secretary of the Treasury (in consultation with the 
+     President) determines that additional amounts above the 
+     $6,000,000,000 amount specified in paragraph (1) are 
+     necessary, such amount shall be increased to the amount so 
+     determined to be necessary, not to exceed $30,000,000,000.
+       ``(B) Report required.--If the borrowing authority of the 
+     Board is increased above $6,000,000,000 pursuant to 
+     subparagraph (A), the Board shall promptly submit a report to 
+     the Committee on Banking, Housing, and Urban Affairs of the 
+     Senate and the Committee on Financial Services of the House 
+     of Representatives describing the reasons and need for the 
+     additional borrowing authority and its intended uses.''.
+       (d) Expanding Systemic Risk Special Assessments.--Section 
+     13(c)(4)(G)(ii) of the Federal Deposit Insurance Act (12 
+     U.S.C. 1823(c)(4)(G)(ii)) is amended to read as follows:
+       ``(ii) Repayment of loss.--
+
+       ``(I) In general.--The Corporation shall recover the loss 
+     to the Deposit Insurance Fund arising from any action taken 
+     or assistance provided with respect to an insured depository 
+     institution under clause (i) from 1 or more special 
+     assessments on insured depository institutions, depository 
+     institution holding companies (with the concurrence of the 
+     Secretary of the Treasury with respect to holding companies), 
+     or both, as the Corporation determines to be appropriate.
+       ``(II) Treatment of depository institution holding 
+     companies.--For purposes of this clause, sections 7(c)(2) and 
+     18(h) shall apply to depository institution holding companies 
+     as if they were insured depository institutions.
+       ``(III) Regulations.--The Corporation shall prescribe such 
+     regulations as it deems necessary to implement this clause. 
+     In prescribing such regulations, defining terms, and setting 
+     the appropriate assessment rate or rates, the Corporation 
+     shall establish rates sufficient to cover the losses incurred 
+     as a result of the actions of the Corporation under clause 
+     (i) and shall consider: the types of entities that benefit 
+     from any action taken or assistance provided under this 
+     subparagraph; economic conditions, the effects on the 
+     industry, and such other factors as the Corporation deems 
+     appropriate and relevant to the action taken or the 
+     assistance provided. Any funds so collected that exceed 
+     actual losses shall be placed in the Deposit Insurance 
+     Fund.''.
+
+       (e) Establishment of a National Credit Union Share 
+     Insurance Fund Restoration Plan Period.--Section 202(c)(2) of 
+     the Federal Credit Union Act (12 U.S.C. 1782(c)(2)) is 
+     amended by adding at the end the following new subparagraph:
+       ``(D) Fund restoration plans.--
+       ``(i) In general.--Whenever--
+
+       ``(I) the Board projects that the equity ratio of the Fund 
+     will, within 6 months of such determination, fall below the 
+     minimum amount specified in subparagraph (C); or
+       ``(II) the equity ratio of the Fund actually falls below 
+     the minimum amount specified in subparagraph (C) without any 
+     determination under sub-clause (I) having been made,
+
+     the Board shall establish and implement a restoration plan 
+     within 90 days that meets the requirements of clause (ii) and 
+     such other conditions as the Board determines to be 
+     appropriate.
+       ``(ii) Requirements of restoration plan.--A restoration 
+     plan meets the requirements of this clause if the plan 
+     provides that the equity ratio of the Fund will meet or 
+     exceed the minimum amount specified in subparagraph (C) 
+     before the end of the 8-year period beginning upon the 
+     implementation of the plan (or such longer period as the 
+     Board may determine to be necessary due to extraordinary 
+     circumstances).
+       ``(iii) Transparency.--Not more than 30 days after the 
+     Board establishes and implements a restoration plan under 
+     clause (i), the Board shall publish in the Federal Register a 
+     detailed analysis of the factors considered and the basis for 
+     the actions taken with regard to the plan.''.
+       (f) Temporary Corporate Credit Union Stabilization Fund.--
+       (1) Establishment of stabilization fund.--Title II of the 
+     Federal Credit Union Act (12 U.S.C. 1781 et seq.) is amended 
+     by adding at the end the following new section:
+
+     ``SEC. 217. TEMPORARY CORPORATE CREDIT UNION STABILIZATION 
+                   FUND.
+
+       ``(a) Establishment of Stabilization Fund.--There is hereby 
+     created in the Treasury of the United States a fund to be 
+     known as the `Temporary Corporate Credit Union Stabilization 
+     Fund.' The Board will administer the Stabilization Fund as 
+     prescribed by section 209.
+       ``(b) Expenditures From Stabilization Fund.--Money in the 
+     Stabilization Fund shall be available upon requisition by the 
+     Board, without fiscal year limitation, for making payments 
+     for the purposes described in section 203(a), subject to the 
+     following additional limitations:
+       ``(1) All payments other than administrative payments shall 
+     be connected to the conservatorship, liquidation, or 
+     threatened conservatorship or liquidation, of a corporate 
+     credit union.
+       ``(2) Prior to authorizing each payment the Board shall--
+       ``(A) certify that, absent the existence of the 
+     Stabilization Fund, the Board would have made the identical 
+     payment out of the National Credit Union Share Insurance Fund 
+     (Insurance Fund); and
+       ``(B) report each such certification to the Committee on 
+     Banking, Housing, and Urban Affairs of the Senate and the 
+     Committee on Financial Services of the House of 
+     Representatives.
+       ``(c) Authority To Borrow.--
+       ``(1) In general.--The Stabilization Fund is authorized to 
+     borrow from the Secretary of the Treasury from time-to-time 
+     as deemed necessary by the Board. The maximum outstanding 
+     amount of all borrowings from the Treasury by the 
+     Stabilization Fund and the National Credit Union Share 
+     Insurance Fund, combined, is limited to the amount provided 
+     for in section 203(d)(1), including any authorized increases 
+     in that amount.
+       ``(2) Repayment of advances.--
+       ``(A) In general.--The advances made under this section 
+     shall be repaid by the Stabilization Fund, and interest on 
+     such advance shall be paid, to the General fund of the 
+     Treasury.
+       ``(B) Variable rate of interest.--The Secretary of the 
+     Treasury shall make the first rate determination at the time 
+     of the first advance under this section and shall reset the 
+     rate again for all advances on each anniversary of the first 
+     advance. The interest rate shall be equal to the average 
+     market yield on outstanding marketable obligations of the 
+     United States with remaining periods to maturity equal to 12 
+     months.
+       ``(3) Repayment schedule.--The Stabilization Fund shall 
+     repay the advances on a first-in, first-out basis, with 
+     interest on the amount repaid, at times and dates determined 
+     by the Board at its discretion. All advances shall be repaid 
+     not later than the date of the seventh anniversary of the 
+     first advance to the Stabilization Fund, unless the Board 
+     extends this final repayment date. The Board shall obtain the 
+     concurrence of the Secretary of the Treasury on any proposed 
+     extension, including the terms and conditions of the extended 
+     repayment.
+       ``(d) Assessment to Repay Advances.--At least 90 days prior 
+     to each repayment described in subsection (c)(3), the Board 
+     shall set the amount of the upcoming repayment and determine 
+     if the Stabilization Fund will have sufficient funds to make 
+     the repayment. If the Stabilization Fund might not have 
+     sufficient funds to make the repayment, the Board shall 
+     assess each federally
+
+[[Page 12774]]
+
+     insured credit union a special premium due and payable within 
+     60 days in an aggregate amount calculated to ensure the 
+     Stabilization Fund is able to make the repayment. The premium 
+     charge for each credit union shall be stated as a percentage 
+     of its insured shares as represented on the credit union's 
+     previous call report. The percentage shall be identical for 
+     each credit union. Any credit union that fails to make timely 
+     payment of the special premium is subject to the procedures 
+     and penalties described under subsections (d), (e), and (f) 
+     of section 202.
+       ``(e) Distributions From Insurance Fund.--At the end of any 
+     calendar year in which the Stabilization Fund has an 
+     outstanding advance from the Treasury, the Insurance Fund is 
+     prohibited from making the distribution to insured credit 
+     unions described in section 202(c)(3). In lieu of the 
+     distribution described in that section, the Insurance Fund 
+     shall make a distribution to the Stabilization Fund of the 
+     maximum amount possible that does not reduce the Insurance 
+     Fund's equity ratio below the normal operating level and does 
+     not reduce the Insurance Fund's available assets ratio below 
+     1.0 percent.
+       ``(f) Investment of Stabilization Fund Assets.--The Board 
+     may request the Secretary of the Treasury to invest such 
+     portion of the Stabilization Fund as is not, in the Board's 
+     judgment, required to meet the current needs of the 
+     Stabilization Fund. Such investments shall be made by the 
+     Secretary of the Treasury in public debt securities, with 
+     maturities suitable to the needs of the Stabilization Fund, 
+     as determined by the Board, and bearing interest at a rate 
+     determined by the Secretary of the Treasury, taking into 
+     consideration current market yields on outstanding marketable 
+     obligations of the United States of comparable maturity.
+       ``(g) Reports.--The Board shall submit an annual report to 
+     Congress on the financial condition and the results of the 
+     operation of the Stabilization Fund. The report is due to 
+     Congress within 30 days after each anniversary of the first 
+     advance made under subsection (c)(1). Because the Fund will 
+     use advances from the Treasury to meet corporate 
+     stabilization costs with full repayment of borrowings to 
+     Treasury at the Board's discretion not due until 7 years from 
+     the initial advance, to the extent operating expenses of the 
+     Fund exceed income, the financial condition of the Fund may 
+     reflect a deficit. With planned and required future 
+     repayments, the Board shall resolve all deficits prior to 
+     termination of the Fund.
+       ``(h) Closing of Stabilization Fund.--Within 90 days 
+     following the seventh anniversary of the initial 
+     Stabilization Fund advance, or earlier at the Board's 
+     discretion, the Board shall distribute any funds, property, 
+     or other assets remaining in the Stabilization Fund to the 
+     Insurance Fund and shall close the Stabilization Fund. If the 
+     Board extends the final repayment date as permitted under 
+     subsection (c)(3), the mandatory date for closing the 
+     Stabilization Fund shall be extended by the same number of 
+     days.''.
+       (2) Conforming amendment.--Section 202(c)(3)(A) of the 
+     Federal Credit Union Act (12 U.S.C. 1782(c)(3)(A)) is amended 
+     by inserting ``, subject to the requirements of section 
+     217(e),'' after ``The Board shall''.
+
+     SEC. 205. APPLICATION OF GSE CONFORMING LOAN LIMIT TO 
+                   MORTGAGES ASSISTED WITH TARP FUNDS.
+
+       In making any assistance available to prevent and mitigate 
+     foreclosures on residential properties, including any 
+     assistance for mortgage modifications, using any amounts made 
+     available to the Secretary of the Treasury under title I of 
+     the Emergency Economic Stabilization Act of 2008, the 
+     Secretary shall provide that the limitation on the maximum 
+     original principal obligation of a mortgage that may be 
+     modified, refinanced, made, guaranteed, insured, or otherwise 
+     assisted, using such amounts shall not be less than the 
+     dollar amount limitation on the maximum original principal 
+     obligation of a mortgage that may be purchased by the Federal 
+     Home Loan Mortgage Corporation that is in effect, at the time 
+     that the mortgage is modified, refinanced, made, guaranteed, 
+     insured, or otherwise assisted using such amounts, for the 
+     area in which the property involved in the transaction is 
+     located.
+
+     SEC. 206. MORTGAGES ON CERTAIN HOMES ON LEASED LAND.
+
+       Section 255(b)(4) of the National Housing Act (12 U.S.C. 
+     1715z-20(b)(4)) is amended by striking subparagraph (B) and 
+     inserting:
+       ``(B) under a lease that has a term that ends no earlier 
+     than the minimum number of years, as specified by the 
+     Secretary, beyond the actuarial life expectancy of the 
+     mortgagor or comortgagor, whichever is the later date.''.
+
+     SEC. 207. SENSE OF CONGRESS REGARDING MORTGAGE REVENUE BOND 
+                   PURCHASES.
+
+       It is the sense of the Congress that the Secretary of the 
+     Treasury should use amounts made available in this Act to 
+     purchase mortgage revenue bonds for single-family housing 
+     issued through State housing finance agencies and through 
+     units of local government and agencies thereof.
+
+                  TITLE III--MORTGAGE FRAUD TASK FORCE
+
+     SEC. 301. SENSE OF CONGRESS ON ESTABLISHMENT OF A NATIONWIDE 
+                   MORTGAGE FRAUD TASK FORCE.
+
+       (a) In General.--It is the sense of the Congress that the 
+     Department of Justice establish a Nationwide Mortgage Fraud 
+     Task Force (hereinafter referred to in this section as the 
+     ``Task Force'') to address mortgage fraud in the United 
+     States.
+       (b) Support.--If the Department of Justice establishes the 
+     Task Force referred to in subsection (a), it is the sense of 
+     the Congress that the Attorney General should provide the 
+     Task Force with the appropriate staff, administrative 
+     support, and other resources necessary to carry out the 
+     duties of the Task Force.
+       (c) Mandatory Functions.--If the Department of Justice 
+     establishes the Task Force referred to in subsection (a), it 
+     is the sense of the Congress that the Attorney General 
+     should--
+       (1) establish coordinating entities, and solicit the 
+     voluntary participation of Federal, State, and local law 
+     enforcement and prosecutorial agencies in such entities, to 
+     organize initiatives to address mortgage fraud, including 
+     initiatives to enforce State mortgage fraud laws and other 
+     related Federal and State laws;
+       (2) provide training to Federal, State, and local law 
+     enforcement and prosecutorial agencies with respect to 
+     mortgage fraud, including related Federal and State laws;
+       (3) collect and disseminate data with respect to mortgage 
+     fraud, including Federal, State, and local data relating to 
+     mortgage fraud investigations and prosecutions; and
+       (4) perform other functions determined by the Attorney 
+     General to enhance the detection of, prevention of, and 
+     response to mortgage fraud in the United States.
+       (d) Optional Functions.--If the Department of Justice 
+     establishes the Task Force referred to in subsection (a), it 
+     is the sense of the Congress that the Task Force should--
+       (1) initiate and coordinate Federal mortgage fraud 
+     investigations and, through the coordinating entities 
+     described under subsection (c), State and local mortgage 
+     fraud investigations;
+       (2) establish a toll-free hotline for--
+       (A) reporting mortgage fraud;
+       (B) providing the public with access to information and 
+     resources with respect to mortgage fraud; and
+       (C) directing reports of mortgage fraud to the appropriate 
+     Federal, State, and local law enforcement and prosecutorial 
+     agency, including to the appropriate branch of the Task Force 
+     established under subsection (d);
+       (3) create a database with respect to suspensions and 
+     revocations of mortgage industry licenses and certifications 
+     to facilitate the sharing of such information by States;
+       (4) make recommendations with respect to the need for and 
+     resources available to provide the equipment and training 
+     necessary for the Task Force to combat mortgage fraud; and
+       (5) propose legislation to Federal, State, and local 
+     legislative bodies with respect to the elimination and 
+     prevention of mortgage fraud, including measures to address 
+     mortgage loan procedures and property appraiser practices 
+     that provide opportunities for mortgage fraud.
+
+              TITLE IV--FORECLOSURE MORATORIUM PROVISIONS
+
+     SEC. 401. SENSE OF THE CONGRESS ON FORECLOSURES.
+
+       (a) In General.--It is the sense of the Congress that 
+     mortgage holders, institutions, and mortgage servicers should 
+     not initiate a foreclosure proceeding or a foreclosure sale 
+     on any homeowner until the foreclosure mitigation provisions, 
+     like the Hope for Homeowners program, as required under title 
+     II, and the President's ``Homeowner Affordability and 
+     Stability Plan'' have been implemented and determined to be 
+     operational by the Secretary of Housing and Urban Development 
+     and the Secretary of the Treasury.
+       (b) Scope of Moratorium.--The foreclosure moratorium 
+     referred to in subsection (a) should apply only for first 
+     mortgages secured by the owner's principal dwelling.
+       (c) FHA-Regulated Loan Modification Agreements.--If a 
+     mortgage holder, institution, or mortgage servicer to which 
+     subsection (a) applies reaches a loan modification agreement 
+     with a homeowner under the auspices of the Federal Housing 
+     Administration before any plan referred to in such subsection 
+     takes effect, subsection (a) shall cease to apply to such 
+     institution as of the effective date of the loan modification 
+     agreement.
+       (d) Duty of Consumer To Maintain Property.--Any homeowner 
+     for whose benefit any foreclosure proceeding or sale is 
+     barred under subsection (a) from being instituted, continued 
+     , or consummated with respect to any homeowner mortgage 
+     should not, with respect to any property securing such 
+     mortgage, destroy, damage, or impair such property, allow the 
+     property to deteriorate, or commit waste on the property.
+       (e) Duty of Consumer To Respond to Reasonable Inquiries.--
+     Any homeowner for whose benefit any foreclosure proceeding or 
+     sale is barred under subsection (a) from being instituted, 
+     continued, or consummated with respect to any homeowner 
+     mortgage should respond to reasonable inquiries from
+
+[[Page 12775]]
+
+     a creditor or servicer during the period during which such 
+     foreclosure proceeding or sale is barred.
+
+     SEC. 402. PUBLIC-PRIVATE INVESTMENT PROGRAM; ADDITIONAL 
+                   APPROPRIATIONS FOR THE SPECIAL INSPECTOR 
+                   GENERAL FOR THE TROUBLED ASSET RELIEF PROGRAM.
+
+       (a) Short Title.--This section may be cited as the 
+     ``Public-Private Investment Program Improvement and Oversight 
+     Act of 2009''.
+       (b) Public-Private Investment Program.--
+       (1) In general.--Any program established by the Federal 
+     Government to create a public-private investment fund shall--
+       (A) in consultation with the Special Inspector General of 
+     the Trouble Asset Relief Program (in this section referred to 
+     as the ``Special Inspector General''), impose strict conflict 
+     of interest rules on managers of public-private investment 
+     funds to ensure that securities bought by the funds are 
+     purchased in arms-length transactions, that fiduciary duties 
+     to public and private investors in the fund are not violated, 
+     and that there is full disclosure of relevant facts and 
+     financial interests (which conflict of interest rules shall 
+     be implemented by the manager of a public-private investment 
+     fund prior to such fund receiving Federal Government 
+     financing);
+       (B) require each public-private investment fund to make a 
+     quarterly report to the Secretary of the Treasury (in this 
+     section referred to as the ``Secretary'') that discloses the 
+     10 largest positions of such fund (which reports shall be 
+     publicly disclosed at such time as the Secretary of the 
+     Treasury determines that such disclosure will not harm the 
+     ongoing business operations of the fund);
+       (C) allow the Special Inspector General access to all books 
+     and records of a public-private investment fund, including 
+     all records of financial transactions in machine readable 
+     form, and the confidentiality of all such information shall 
+     be maintained by the Special Inspector General;
+       (D) require each manager of a public-private investment 
+     fund to retain all books, documents, and records relating to 
+     such public-private investment fund, including electronic 
+     messages;
+       (E) require each manager of a public-private investment 
+     fund to acknowledge, in writing, a fiduciary duty to both the 
+     public and private investors in such fund;
+       (F) require each manager of a public-private investment 
+     fund to develop a robust ethics policy that includes methods 
+     to ensure compliance with such policy;
+       (G) require strict investor screening procedures for 
+     public-private investment funds; and
+       (H) require each manager of a public-private fund to 
+     identify for the Secretary, on a periodic basis, each 
+     investor that, individually or together with affiliates, 
+     directly or indirectly, holds equity interests equal to at 
+     least 10 percent of the equity interest of the fund including 
+     if such interests are held in a vehicle formed for the 
+     purpose of directly or indirectly investing in the fund.
+       (2) Interaction between public-private investment funds and 
+     the term-asset backed securities loan facility.--The 
+     Secretary shall consult with the Special Inspector General 
+     and shall issue regulations governing the interaction of the 
+     Public-Private Investment Program, the Term-Asset Backed 
+     Securities Loan Facility, and other similar public-private 
+     investment programs. Such regulations shall address concerns 
+     regarding the potential for excessive leverage that could 
+     result from interactions between such programs.
+       (3) Report.--Not later than 60 days after the date of the 
+     establishment of a program described in paragraph (1), the 
+     Special Inspector General shall submit a report to Congress 
+     on the implementation of this section.
+       (c) Additional Appropriations for the Special Inspector 
+     General.--
+       (1) In general.--Of amounts made available under section 
+     115(a) of the Emergency Economic Stabilization Act of 2008 
+     (Public Law 110-343), $15,000,000 shall be made available to 
+     the Special Inspector General, which shall be in addition to 
+     amounts otherwise made available to the Special Inspector 
+     General.
+       (2) Priorities.--In utilizing funds made available under 
+     this section, the Special Inspector General shall prioritize 
+     the performance of audits or investigations of recipients of 
+     non-recourse Federal loans made under ``any program that is 
+     funded in whole or in part by funds appropriated under the 
+     Emergency Economic Stabilization Act of 2008,'' to the extent 
+     that such priority is consistent with other aspects of the 
+     mission of the Special Inspector General. Such audits or 
+     investigations shall determine the existence of any collusion 
+     between the loan recipient and the seller or originator of 
+     the asset used as loan collateral, or any other conflict of 
+     interest that may have led the loan recipient to deliberately 
+     overstate the value of the asset used as loan collateral.
+       (d) Rule of Construction.--Notwithstanding any other 
+     provision of law, nothing in this section shall be construed 
+     to apply to any activity of the Federal Deposit Insurance 
+     Corporation in connection with insured depository 
+     institutions, as described in section 13(c)(2)(B) of the 
+     Federal Deposit Insurance Act.
+       (e) Definition.--In this section, the term ``public-private 
+     investment fund'' means a financial vehicle that is--
+       (1) established by the Federal Government to purchase pools 
+     of loans, securities, or assets from a financial institution 
+     described in section 101(a)(1) of the Emergency Economic 
+     Stabilization Act of 2008 (12 U.S.C. 5211(a)(1)); and
+       (2) funded by a combination of cash or equity from private 
+     investors and funds provided by the Secretary of the Treasury 
+     or funds appropriated under the Emergency Economic 
+     Stabilization Act of 2008.
+       (f) Offset of Costs of Program Changes.--Notwithstanding 
+     the amendment made by section 202(b) of this Act, paragraph 
+     (3) of section 115(a) of the Emergency Economic Stabilization 
+     Act of 2008 (12 U.S.C. 5225) is amended by inserting ``, as 
+     such amount is reduced by $1,259,000,000,'' after 
+     ``$700,000,000,000''.
+       (g) Regulations.--The Secretary of the Treasury may 
+     prescribe such regulations or other guidance as may be 
+     necessary or appropriate to define terms or carry out the 
+     authorities or purposes of this section.
+
+     SEC. 403. REMOVAL OF REQUIREMENT TO LIQUIDATE WARRANTS UNDER 
+                   THE TARP.
+
+       Section 111(g) of the Emergency Economic Stabilization Act 
+     of 2008 (12 U.S.C. 5221(g)) is amended by striking ``shall 
+     liquidate warrants associated with such assistance at the 
+     current market price'' and inserting ``, at the market price, 
+     may liquidate warrants associated with such assistance''.
+
+     SEC. 404. NOTIFICATION OF SALE OR TRANSFER OF MORTGAGE LOANS.
+
+       (a) In General.--Section 131 of the Truth in Lending Act 
+     (15 U.S.C. 1641) is amended by adding at the end the 
+     following:
+       ``(g) Notice of New Creditor.--
+       ``(1) In general.--In addition to other disclosures 
+     required by this title, not later than 30 days after the date 
+     on which a mortgage loan is sold or otherwise transferred or 
+     assigned to a third party, the creditor that is the new owner 
+     or assignee of the debt shall notify the borrower in writing 
+     of such transfer, including--
+       ``(A) the identity, address, telephone number of the new 
+     creditor;
+       ``(B) the date of transfer;
+       ``(C) how to reach an agent or party having authority to 
+     act on behalf of the new creditor;
+       ``(D) the location of the place where transfer of ownership 
+     of the debt is recorded; and
+       ``(E) any other relevant information regarding the new 
+     creditor.
+       ``(2) Definition.--As used in this subsection, the term 
+     `mortgage loan' means any consumer credit transaction that is 
+     secured by the principal dwelling of a consumer.''.
+       (b) Private Right of Action.--Section 130(a) of the Truth 
+     in Lending Act (15 U.S.C. 1640(a)) is amended by inserting 
+     ``subsection (f) or (g) of section 131,'' after ``section 
+     125,''.
+
+                    TITLE V--FARM LOAN RESTRUCTURING
+
+     SEC. 501. CONGRESSIONAL OVERSIGHT PANEL SPECIAL REPORT.
+
+       Section 125(b) of the Emergency Economic Stabilization Act 
+     of 2008 (12 U.S.C. 5233(b)) is amended by adding at the end 
+     the following:
+       ``(3) Special report on farm loan restructuring.--Not later 
+     than 60 days after the date of enactment of this paragraph, 
+     the Oversight Panel shall submit a special report on farm 
+     loan restructuring that--
+       ``(A) analyzes the state of the commercial farm credit 
+     markets and the use of loan restructuring as an alternative 
+     to foreclosure by recipients of financial assistance under 
+     the Troubled Asset Relief Program; and
+       ``(B) includes an examination of and recommendation on the 
+     different methods for farm loan restructuring that could be 
+     used as part of a foreclosure mitigation program for farm 
+     loans made by recipients of financial assistance under the 
+     Troubled Asset Relief Program, including any programs for 
+     direct loan restructuring or modification carried out by the 
+     Farm Service Agency of the Department of Agriculture, the 
+     farm credit system, and the Making Home Affordable Program of 
+     the Department of the Treasury.''.
+
+   TITLE VI--ENHANCED OVERSIGHT OF THE TROUBLED ASSET RELIEF PROGRAM
+
+     SEC. 601. ENHANCED OVERSIGHT OF THE TROUBLED ASSET RELIEF 
+                   PROGRAM.
+
+       Section 116 of the Emergency Economic Stabilization Act of 
+     2008 (12 U.S.C. 5226) is amended--
+       (1) in subsection (a)(1)(A)--
+       (A) in clause (iii), by striking ``and'' at the end;
+       (B) in clause (iv), by striking the period at the end and 
+     inserting ``; and''; and
+       (C) by adding at the end the following:
+       ``(v) public accountability for the exercise of such 
+     authority, including with respect to actions taken by those 
+     entities participating in programs established under this 
+     Act.''; and
+       (2) in subsection (a)(2)--
+       (A) by redesignating subparagraph (C) as subparagraph (F); 
+     and
+       (B) by striking subparagraphs (A) and (B) and inserting the 
+     following:
+       ``(A) Definition.--In this paragraph, the term 
+     `governmental unit' has the meaning given under section 
+     101(27) of title 11, United States Code, and does not include 
+     any insured depository institution as defined under
+
+[[Page 12776]]
+
+     section 3 of the Federal Deposit Insurance Act (12 U.S.C. 
+     8113).
+       ``(B) GAO presence.--The Secretary shall provide the 
+     Comptroller General with appropriate space and facilities in 
+     the Department of the Treasury as necessary to facilitate 
+     oversight of the TARP until the termination date established 
+     in section 5230 of this title.
+       ``(C) Access to records.--
+       ``(i) In general.--Notwithstanding any other provision of 
+     law, and for purposes of reviewing the performance of the 
+     TARP, the Comptroller General shall have access, upon 
+     request, to any information, data, schedules, books, 
+     accounts, financial records, reports, files, electronic 
+     communications, or other papers, things, or property 
+     belonging to or in use by the TARP, any entity established by 
+     the Secretary under this Act, any entity that is established 
+     by a Federal reserve bank and receives funding from the TARP, 
+     or any entity (other than a governmental unit) participating 
+     in a program established under the authority of this Act, and 
+     to the officers, employees, directors, independent public 
+     accountants, financial advisors and any and all other agents 
+     and representatives thereof, at such time as the Comptroller 
+     General may request.
+       ``(ii) Verification.--The Comptroller General shall be 
+     afforded full facilities for verifying transactions with the 
+     balances or securities held by, among others, depositories, 
+     fiscal agents, and custodians.
+       ``(iii) Copies.--The Comptroller General may make and 
+     retain copies of such books, accounts, and other records as 
+     the Comptroller General determines appropriate.
+       ``(D) Agreement by entities.--Each contract, term sheet, or 
+     other agreement between the Secretary or the TARP (or any 
+     TARP vehicle, officer, director, employee, independent public 
+     accountant, financial advisor, or other TARP agent or 
+     representative) and an entity (other than a governmental 
+     unit) participating in a program established under this Act 
+     shall provide for access by the Comptroller General in 
+     accordance with this section.
+       ``(E) Restriction on public disclosure.--
+       ``(i) In general.--The Comptroller General may not publicly 
+     disclose proprietary or trade secret information obtained 
+     under this section.
+       ``(ii) Exception for congressional committees.--This 
+     subparagraph does not limit disclosures to congressional 
+     committees or members thereof having jurisdiction over a 
+     private or public entity referred to under subparagraph (C).
+       ``(iii) Rule of construction.--Nothing in this section 
+     shall be construed to alter or amend the prohibitions against 
+     the disclosure of trade secrets or other information 
+     prohibited by section 1905 of title 18, United States Code, 
+     section 714(c) of title 31, United States Code, or other 
+     applicable provisions of law.''.
+
+            TITLE VII--PROTECTING TENANTS AT FORECLOSURE ACT
+
+     SEC. 701. SHORT TITLE.
+
+       This title may be cited as the ``Protecting Tenants at 
+     Foreclosure Act of 2009''.
+
+     SEC. 702. EFFECT OF FORECLOSURE ON PREEXISTING TENANCY.
+
+       (a) In General.--In the case of any foreclosure on a 
+     federally-related mortgage loan or on any dwelling or 
+     residential real property after the date of enactment of this 
+     title, any immediate successor in interest in such property 
+     pursuant to the foreclosure shall assume such interest 
+     subject to--
+       (1) the provision, by such successor in interest of a 
+     notice to vacate to any bona fide tenant at least 90 days 
+     before the effective date of such notice; and
+       (2) the rights of any bona fide tenant, as of the date of 
+     such notice of foreclosure--
+       (A) under any bona fide lease entered into before the 
+     notice of foreclosure to occupy the premises until the end of 
+     the remaining term of the lease, except that a successor in 
+     interest may terminate a lease effective on the date of sale 
+     of the unit to a purchaser who will occupy the unit as a 
+     primary residence, subject to the receipt by the tenant of 
+     the 90 day notice under paragraph (1); or
+       (B) without a lease or with a lease terminable at will 
+     under State law, subject to the receipt by the tenant of the 
+     90 day notice under subsection (1),
+
+     except that nothing under this section shall affect the 
+     requirements for termination of any Federal- or State-
+     subsidized tenancy or of any State or local law that provides 
+     longer time periods or other additional protections for 
+     tenants.
+       (b) Bona Fide Lease or Tenancy.--For purposes of this 
+     section, a lease or tenancy shall be considered bona fide 
+     only if--
+       (1) the mortgagor ``or the child, spouse, or parent of the 
+     mortgagor'' under the contract is not the tenant;
+       (2) the lease or tenancy was the result of an arms-length 
+     transaction; and
+       (3) the lease or tenancy requires the receipt of rent that 
+     is not substantially less than fair market rent for the 
+     property ``or the unit's rent is reduced or subsidized due to 
+     a Federal, State, or local subsidy''.
+       (c) Definition.--For purposes of this section, the term 
+     ``federally-related mortgage loan'' has the same meaning as 
+     in section 3 of the Real Estate Settlement Procedures Act of 
+     1974 (12 U.S.C. 2602).
+
+     SEC. 703. EFFECT OF FORECLOSURE ON SECTION 8 TENANCIES.
+
+       Section 8(o)(7) of the United States Housing Act of 1937 
+     (42 U.S.C. 1437f(o)(7)) is amended--
+       (1) by inserting before the semicolon in subparagraph (C) 
+     the following: ``and in the case of an owner who is an 
+     immediate successor in interest pursuant to foreclosure 
+     during the term of the lease vacating the property prior to 
+     sale shall not constitute other good cause, except that the 
+     owner may terminate the tenancy effective on the date of 
+     transfer of the unit to the owner if the owner--
+       ``(i) will occupy the unit as a primary residence; and
+       ``(ii) has provided the tenant a notice to vacate at least 
+     90 days before the effective date of such notice.''; and
+       (2) by inserting at the end of subparagraph (F) the 
+     following: ``In the case of any foreclosure on any federally-
+     related mortgage loan (as that term is defined in section 3 
+     of the Real Estate Settlement Procedures Act of 1974 (12 
+     U.S.C. 2602)) or on any residential real property in which a 
+     recipient of assistance under this subsection resides, the 
+     immediate successor in interest in such property pursuant to 
+     the foreclosure shall assume such interest subject to the 
+     lease between the prior owner and the tenant and to the 
+     housing assistance payments contract between the prior owner 
+     and the public housing agency for the occupied unit, except 
+     that this provision and the provisions related to foreclosure 
+     in subparagraph (C) shall not shall not affect any State or 
+     local law that provides longer time periods or other 
+     additional protections for tenants.''.
+
+     SEC. 704. SUNSET.
+
+       This title, and any amendments made by this title are 
+     repealed, and the requirements under this title shall 
+     terminate, on December 31, 2012.
+
+      TITLE VIII--COMPTROLLER GENERAL ADDITIONAL AUDIT AUTHORITIES
+
+     SEC. 801. COMPTROLLER GENERAL ADDITIONAL AUDIT AUTHORITIES.
+
+       (a) Board of Governors of the Federal Reserve System.--
+     Section 714 of title 31, United States Code, is amended--
+       (1) in subsection (a), by striking ``Federal Reserve 
+     Board,'' and inserting ``Board of Governors of the Federal 
+     Reserve System (in this section referred to as the 
+     `Board'),''; and
+       (2) in subsection (b)--
+       (A) in the matter preceding paragraph (1), by striking 
+     ``Federal Reserve Board,'' and inserting ``Board''; and
+       (B) in paragraph (4), by striking ``of Governors''.
+       (b) Confidential Information.--Section 714(c) of title 31, 
+     United States Code, is amended by striking paragraph (3) and 
+     inserting the following:
+       ``(3) Except as provided under paragraph (4), an officer or 
+     employee of the Government Accountability Office may not 
+     disclose to any person outside the Government Accountability 
+     Office information obtained in audits or examinations 
+     conducted under subsection (e) and maintained as confidential 
+     by the Board or the Federal reserve banks.
+       ``(4) This subsection shall not--
+       ``(A) authorize an officer or employee of an agency to 
+     withhold information from any committee or subcommittee of 
+     jurisdiction of Congress, or any member of such committee or 
+     subcommittee; or
+       ``(B) limit any disclosure by the Government Accountability 
+     Office to any committee or subcommittee of jurisdiction of 
+     Congress, or any member of such committee or subcommittee.''.
+       (c) Access to Records.--Section 714(d) of title 31, United 
+     States Code, is amended--
+       (1) in paragraph (1), by inserting ``The Comptroller 
+     General shall have access to the officers, employees, 
+     contractors, and other agents and representatives of an 
+     agency and any entity established by an agency at any 
+     reasonable time as the Comptroller General may request. The 
+     Comptroller General may make and retain copies of such books, 
+     accounts, and other records as the Comptroller General 
+     determines appropriate.'' after the first sentence;
+       (2) in paragraph (2), by inserting ``, copies of any 
+     record,'' after ``records''; and
+       (3) by adding at the end the following:
+       ``(3)(A) For purposes of conducting audits and examinations 
+     under subsection (e), the Comptroller General shall have 
+     access, upon request, to any information, data, schedules, 
+     books, accounts, financial records, reports, files, 
+     electronic communications, or other papers, things or 
+     property belonging to or in use by--
+       ``(i) any entity established by any action taken by the 
+     Board described under subsection (e);
+       ``(ii) any entity receiving assistance from any action 
+     taken by the Board described under subsection (e), to the 
+     extent that the access and request relates to that 
+     assistance; and
+       ``(iii) the officers, directors, employees, independent 
+     public accountants, financial advisors and any and all 
+     representatives of any entity described under clause (i) or 
+     (ii); to the extent that the access and request relates to 
+     that assistance;
+       ``(B) The Comptroller General shall have access as provided 
+     under subparagraph (A) at such time as the Comptroller 
+     General may request.
+
+[[Page 12777]]
+
+       ``(C) Each contract, term sheet, or other agreement between 
+     the Board or any Federal reserve bank (or any entity 
+     established by the Board or any Federal reserve bank) and an 
+     entity receiving assistance from any action taken by the 
+     Board described under subsection (e) shall provide for access 
+     by the Comptroller General in accordance with this 
+     paragraph.''.
+       (d) Audits of Certain Actions of the Board of Governors of 
+     the Federal Reserve System.--Section 714 of title 31, United 
+     States Code, is amended by adding at the end the following:
+       ``(e) Notwithstanding subsection (b), the Comptroller 
+     General may conduct audits, including onsite examinations 
+     when the Comptroller General determines such audits and 
+     examinations are appropriate, of any action taken by the 
+     Board under the third undesignated paragraph of section 13 of 
+     the Federal Reserve Act (12 U.S.C. 343); with respect to a 
+     single and specific partnership or corporation.''.
+
+                    DIVISION B--HOMELESSNESS REFORM
+
+     SEC. 1001. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This division may be cited as the 
+     ``Homeless Emergency Assistance and Rapid Transition to 
+     Housing Act of 2009''.
+       (b) Table of Contents.--The table of contents for this 
+     division is as follows:
+
+                    DIVISION B--HOMELESSNESS REFORM
+
+Sec. 1001. Short title; table of contents.
+Sec. 1002. Findings and purposes.
+Sec. 1003. Definition of homelessness.
+Sec. 1004. United States Interagency Council on Homelessness.
+
+             TITLE I--HOUSING ASSISTANCE GENERAL PROVISIONS
+
+Sec. 1101. Definitions.
+Sec. 1102. Community homeless assistance planning boards.
+Sec. 1103. General provisions.
+Sec. 1104. Protection of personally identifying information by victim 
+              service providers.
+Sec. 1105. Authorization of appropriations.
+
+              TITLE II--EMERGENCY SOLUTIONS GRANTS PROGRAM
+
+Sec. 1201. Grant assistance.
+Sec. 1202. Eligible activities.
+Sec. 1203. Participation in Homeless Management Information System.
+Sec. 1204. Administrative provision.
+Sec. 1205. GAO study of administrative fees.
+
+                  TITLE III--CONTINUUM OF CARE PROGRAM
+
+Sec. 1301. Continuum of care.
+Sec. 1302. Eligible activities.
+Sec. 1303. High performing communities.
+Sec. 1304. Program requirements.
+Sec. 1305. Selection criteria, allocation amounts, and funding.
+Sec. 1306. Research.
+
+          TITLE IV--RURAL HOUSING STABILITY ASSISTANCE PROGRAM
+
+Sec. 1401. Rural housing stability assistance.
+Sec. 1402. GAO study of homelessness and homeless assistance in rural 
+              areas.
+
+               TITLE V--REPEALS AND CONFORMING AMENDMENTS
+
+Sec. 1501. Repeals.
+Sec. 1502. Conforming amendments.
+Sec. 1503. Effective date.
+Sec. 1504. Regulations.
+Sec. 1505. Amendment to table of contents.
+
+     SEC. 1002. FINDINGS AND PURPOSES.
+
+       (a) Findings.--The Congress finds that--
+       (1) a lack of affordable housing and limited scale of 
+     housing assistance programs are the primary causes of 
+     homelessness; and
+       (2) homelessness affects all types of communities in the 
+     United States, including rural, urban, and suburban areas.
+       (b) Purposes.--The purposes of this division are--
+       (1) to consolidate the separate homeless assistance 
+     programs carried out under title IV of the McKinney-Vento 
+     Homeless Assistance Act (consisting of the supportive housing 
+     program and related innovative programs, the safe havens 
+     program, the section 8 assistance program for single-room 
+     occupancy dwellings, and the shelter plus care program) into 
+     a single program with specific eligible activities;
+       (2) to codify in Federal law the continuum of care planning 
+     process as a required and integral local function necessary 
+     to generate the local strategies for ending homelessness; and
+       (3) to establish a Federal goal of ensuring that 
+     individuals and families who become homeless return to 
+     permanent housing within 30 days.
+
+     SEC. 1003. DEFINITION OF HOMELESSNESS.
+
+       (a) In General.--Section 103 of the McKinney-Vento Homeless 
+     Assistance Act (42 U.S.C. 11302) is amended--
+       (1) by redesignating subsections (b) and (c) as subsections 
+     (c) and (d); and
+       (2) by striking subsection (a) and inserting the following:
+       ``(a) In General.--For purposes of this Act, the terms 
+     `homeless', `homeless individual', and `homeless person' 
+     means--
+       ``(1) an individual or family who lacks a fixed, regular, 
+     and adequate nighttime residence;
+       ``(2) an individual or family with a primary nighttime 
+     residence that is a public or private place not designed for 
+     or ordinarily used as a regular sleeping accommodation for 
+     human beings, including a car, park, abandoned building, bus 
+     or train station, airport, or camping ground;
+       ``(3) an individual or family living in a supervised 
+     publicly or privately operated shelter designated to provide 
+     temporary living arrangements (including hotels and motels 
+     paid for by Federal, State, or local government programs for 
+     low-income individuals or by charitable organizations, 
+     congregate shelters, and transitional housing);
+       ``(4) an individual who resided in a shelter or place not 
+     meant for human habitation and who is exiting an institution 
+     where he or she temporarily resided;
+       ``(5) an individual or family who--
+       ``(A) will imminently lose their housing, including housing 
+     they own, rent, or live in without paying rent, are sharing 
+     with others, and rooms in hotels or motels not paid for by 
+     Federal, State, or local government programs for low-income 
+     individuals or by charitable organizations, as evidenced by--
+       ``(i) a court order resulting from an eviction action that 
+     notifies the individual or family that they must leave within 
+     14 days;
+       ``(ii) the individual or family having a primary nighttime 
+     residence that is a room in a hotel or motel and where they 
+     lack the resources necessary to reside there for more than 14 
+     days; or
+       ``(iii) credible evidence indicating that the owner or 
+     renter of the housing will not allow the individual or family 
+     to stay for more than 14 days, and any oral statement from an 
+     individual or family seeking homeless assistance that is 
+     found to be credible shall be considered credible evidence 
+     for purposes of this clause;
+       ``(B) has no subsequent residence identified; and
+       ``(C) lacks the resources or support networks needed to 
+     obtain other permanent housing; and
+       ``(6) unaccompanied youth and homeless families with 
+     children and youth defined as homeless under other Federal 
+     statutes who--
+       ``(A) have experienced a long term period without living 
+     independently in permanent housing,
+       ``(B) have experienced persistent instability as measured 
+     by frequent moves over such period, and
+       ``(C) can be expected to continue in such status for an 
+     extended period of time because of chronic disabilities, 
+     chronic physical health or mental health conditions, 
+     substance addiction, histories of domestic violence or 
+     childhood abuse, the presence of a child or youth with a 
+     disability, or multiple barriers to employment.
+       ``(b) Domestic Violence and Other Dangerous or Life-
+     Threatening Conditions.--Notwithstanding any other provision 
+     of this section, the Secretary shall consider to be homeless 
+     any individual or family who is fleeing, or is attempting to 
+     flee, domestic violence, dating violence, sexual assault, 
+     stalking, or other dangerous or life-threatening conditions 
+     in the individual's or family's current housing situation, 
+     including where the health and safety of children are 
+     jeopardized, and who have no other residence and lack the 
+     resources or support networks to obtain other permanent 
+     housing.''.
+       (b) Regulations.--Not later than the expiration of the 6-
+     month period beginning upon the date of the enactment of this 
+     division, the Secretary of Housing and Urban Development 
+     shall issue regulations that provide sufficient guidance to 
+     recipients of funds under title IV of the McKinney-Vento 
+     Homeless Assistance Act to allow uniform and consistent 
+     implementation of the requirements of section 103 of such 
+     Act, as amended by subsection (a) of this section. This 
+     subsection shall take effect on the date of the enactment of 
+     this division.
+       (c) Clarification of Effect on Other Laws.--This section 
+     and the amendments made by this section to section 103 of the 
+     McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302) may 
+     not be construed to affect, alter, limit, annul, or supersede 
+     any other provision of Federal law providing a definition of 
+     ``homeless'', ``homeless individual'', or ``homeless person'' 
+     for purposes other than such Act, except to the extent that 
+     such provision refers to such section 103 or the definition 
+     provided in such section 103.
+
+     SEC. 1004. UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS.
+
+       (a) In General.--Title II of the McKinney-Vento Homeless 
+     Assistance Act (42 U.S.C. 11311 et seq.) is amended--
+       (1) in section 201 (42 U.S.C. 11311), by inserting before 
+     the period at the end the following ``whose mission shall be 
+     to coordinate the Federal response to homelessness and to 
+     create a national partnership at every level of government 
+     and with the private sector to reduce and end homelessness in 
+     the nation while maximizing the effectiveness of the Federal 
+     Government in contributing to the end of homelessness'';
+       (2) in section 202 (42 U.S.C. 11312)--
+       (A) in subsection (a)--
+       (i) by redesignating paragraph (16) as paragraph (22); and
+       (ii) by inserting after paragraph (15) the following:
+       ``(16) The Commissioner of Social Security, or the designee 
+     of the Commissioner.
+       ``(17) The Attorney General of the United States, or the 
+     designee of the Attorney General.
+
+[[Page 12778]]
+
+       ``(18) The Director of the Office of Management and Budget, 
+     or the designee of the Director.
+       ``(19) The Director of the Office of Faith-Based and 
+     Community Initiatives, or the designee of the Director.
+       ``(20) The Director of USA FreedomCorps, or the designee of 
+     the Director.'';
+       (B) in subsection (c), by striking ``annually'' and 
+     inserting ``four times each year, and the rotation of the 
+     positions of Chairperson and Vice Chairperson required under 
+     subsection (b) shall occur at the first meeting of each 
+     year''; and
+       (C) by adding at the end the following:
+       ``(e) Administration.--The Executive Director of the 
+     Council shall report to the Chairman of the Council.'';
+       (3) in section 203(a) (42 U.S.C. 11313(a))--
+       (A) by redesignating paragraphs (1), (2), (3), (4), (5), 
+     (6), and (7) as paragraphs (2), (3), (4), (5), (9), (10), and 
+     (11), respectively;
+       (B) by inserting before paragraph (2), as so redesignated 
+     by subparagraph (A), the following:
+       ``(1) not later than 12 months after the date of the 
+     enactment of the Homeless Emergency Assistance and Rapid 
+     Transition to Housing Act of 2009, develop, make available 
+     for public comment, and submit to the President and to 
+     Congress a National Strategic Plan to End Homelessness, and 
+     shall update such plan annually;'';
+       (C) in paragraph (5), as redesignated by subparagraph (A), 
+     by striking ``at least 2, but in no case more than 5'' and 
+     inserting ``not less than 5, but in no case more than 10'';
+       (D) by inserting after paragraph (5), as so redesignated by 
+     subparagraph (A), the following:
+       ``(6) encourage the creation of State Interagency Councils 
+     on Homelessness and the formulation of jurisdictional 10-year 
+     plans to end homelessness at State, city, and county levels;
+       ``(7) annually obtain from Federal agencies their 
+     identification of consumer-oriented entitlement and other 
+     resources for which persons experiencing homelessness may be 
+     eligible and the agencies' identification of improvements to 
+     ensure access; develop mechanisms to ensure access by persons 
+     experiencing homelessness to all Federal, State, and local 
+     programs for which the persons are eligible, and to verify 
+     collaboration among entities within a community that receive 
+     Federal funding under programs targeted for persons 
+     experiencing homelessness, and other programs for which 
+     persons experiencing homelessness are eligible, including 
+     mainstream programs identified by the Government 
+     Accountability Office in the reports entitled `Homelessness: 
+     Coordination and Evaluation of Programs Are Essential', 
+     issued February 26, 1999, and `Homelessness: Barriers to 
+     Using Mainstream Programs', issued July 6, 2000;
+       ``(8) conduct research and evaluation related to its 
+     functions as defined in this section;
+       ``(9) develop joint Federal agency and other initiatives to 
+     fulfill the goals of the agency;'';
+       (E) in paragraph (10), as so redesignated by subparagraph 
+     (A), by striking ``and'' at the end;
+       (F) in paragraph (11), as so redesignated by subparagraph 
+     (A), by striking the period at the end and inserting a 
+     semicolon;
+       (G) by adding at the end the following new paragraphs:
+       ``(12) develop constructive alternatives to criminalizing 
+     homelessness and laws and policies that prohibit sleeping, 
+     feeding, sitting, resting, or lying in public spaces when 
+     there are no suitable alternatives, result in the destruction 
+     of a homeless person's property without due process, or are 
+     selectively enforced against homeless persons; and
+       ``(13) not later than the expiration of the 6-month period 
+     beginning upon completion of the study requested in a letter 
+     to the Acting Comptroller General from the Chair and Ranking 
+     Member of the House Financial Services Committee and several 
+     other members regarding various definitions of homelessness 
+     in Federal statutes, convene a meeting of representatives of 
+     all Federal agencies and committees of the House of 
+     Representatives and the Senate having jurisdiction over any 
+     Federal program to assist homeless individuals or families, 
+     local and State governments, academic researchers who 
+     specialize in homelessness, nonprofit housing and service 
+     providers that receive funding under any Federal program to 
+     assist homeless individuals or families, organizations 
+     advocating on behalf of such nonprofit providers and homeless 
+     persons receiving housing or services under any such Federal 
+     program, and homeless persons receiving housing or services 
+     under any such Federal program, at which meeting such 
+     representatives shall discuss all issues relevant to whether 
+     the definitions of `homeless' under paragraphs (1) through 
+     (4) of section 103(a) of the McKinney-Vento Homeless 
+     Assistance Act, as amended by section 1003 of the Homeless 
+     Emergency Assistance and Rapid Transition to Housing Act of 
+     2009, should be modified by the Congress, including whether 
+     there is a compelling need for a uniform definition of 
+     homelessness under Federal law, the extent to which the 
+     differences in such definitions create barriers for 
+     individuals to accessing services and to collaboration 
+     between agencies, and the relative availability, and barriers 
+     to access by persons defined as homeless, of mainstream 
+     programs identified by the Government Accountability Office 
+     in the two reports identified in paragraph (7) of this 
+     subsection; and shall submit transcripts of such meeting, and 
+     any majority and dissenting recommendations from such 
+     meetings, to each committee of the House of Representatives 
+     and the Senate having jurisdiction over any Federal program 
+     to assist homeless individuals or families not later than the 
+     expiration of the 60-day period beginning upon conclusion of 
+     such meeting.''.
+       (4) in section 203(b)(1) (42 U.S.C. 11313(b))--
+       (A) by striking ``Federal'' and inserting ``national'';
+       (B) by striking ``; and'' and inserting ``and pay for 
+     expenses of attendance at meetings which are concerned with 
+     the functions or activities for which the appropriation is 
+     made;'';
+       (5) in section 205(d) (42 U.S.C. 11315(d)), by striking 
+     ``property.'' and inserting ``property, both real and 
+     personal, public and private, without fiscal year limitation, 
+     for the purpose of aiding or facilitating the work of the 
+     Council.''; and
+       (6) by striking section 208 (42 U.S.C. 11318) and inserting 
+     the following:
+
+     ``SEC. 208. AUTHORIZATION OF APPROPRIATIONS.
+
+       ``There are authorized to be appropriated to carry out this 
+     title $3,000,000 for fiscal year 2010 and such sums as may be 
+     necessary for fiscal years 2011. Any amounts appropriated to 
+     carry out this title shall remain available until 
+     expended.''.
+       (b) Effective Date.--The amendments made by subsection (a) 
+     shall take effect on, and shall apply beginning on, the date 
+     of the enactment of this division.
+
+             TITLE I--HOUSING ASSISTANCE GENERAL PROVISIONS
+
+     SEC. 1101. DEFINITIONS.
+
+       Subtitle A of title IV of the McKinney-Vento Homeless 
+     Assistance Act (42 U.S.C. 11361 et seq.) is amended--
+       (1) by striking the subtitle heading and inserting the 
+     following:
+
+                  ``Subtitle A--General Provisions'';
+
+       (2) by redesignating sections 401 and 402 (42 U.S.C. 11361, 
+     11362) as sections 403 and 406, respectively; and
+       (3) by inserting before section 403 (as so redesignated by 
+     paragraph (2) of this section) the following new section:
+
+     ``SEC. 401. DEFINITIONS.
+
+       ``For purposes of this title:
+       ``(1) At risk of homelessness.--The term `at risk of 
+     homelessness' means, with respect to an individual or family, 
+     that the individual or family--
+       ``(A) has income below 30 percent of median income for the 
+     geographic area;
+       ``(B) has insufficient resources immediately available to 
+     attain housing stability; and
+       ``(C)(i) has moved frequently because of economic reasons;
+       ``(ii) is living in the home of another because of economic 
+     hardship;
+       ``(iii) has been notified that their right to occupy their 
+     current housing or living situation will be terminated;
+       ``(iv) lives in a hotel or motel;
+       ``(v) lives in severely overcrowded housing;
+       ``(vi) is exiting an institution; or
+       ``(vii) otherwise lives in housing that has characteristics 
+     associated with instability and an increased risk of 
+     homelessness.
+     Such term includes all families with children and youth 
+     defined as homeless under other Federal statutes.
+       ``(2) Chronically homeless.--
+       ``(A) In general.--The term `chronically homeless' means, 
+     with respect to an individual or family, that the individual 
+     or family--
+       ``(i) is homeless and lives or resides in a place not meant 
+     for human habitation, a safe haven, or in an emergency 
+     shelter;
+       ``(ii) has been homeless and living or residing in a place 
+     not meant for human habitation, a safe haven, or in an 
+     emergency shelter continuously for at least 1 year or on at 
+     least 4 separate occasions in the last 3 years; and
+       ``(iii) has an adult head of household (or a minor head of 
+     household if no adult is present in the household) with a 
+     diagnosable substance use disorder, serious mental illness, 
+     developmental disability (as defined in section 102 of the 
+     Developmental Disabilities Assistance and Bill of Rights Act 
+     of 2000 (42 U.S.C. 15002)), post traumatic stress disorder, 
+     cognitive impairments resulting from a brain injury, or 
+     chronic physical illness or disability, including the co-
+     occurrence of 2 or more of those conditions.
+       ``(B) Rule of construction.--A person who currently lives 
+     or resides in an institutional care facility, including a 
+     jail, substance abuse or mental health treatment facility, 
+     hospital or other similar facility, and has resided there for 
+     fewer than 90 days shall be considered chronically homeless 
+     if such person met all of the requirements described in 
+     subparagraph (A) prior to entering that facility.
+       ``(3) Collaborative applicant.--The term `collaborative 
+     applicant' means an entity that--
+       ``(A) carries out the duties specified in section 402;
+
+[[Page 12779]]
+
+       ``(B) serves as the applicant for project sponsors who 
+     jointly submit a single application for a grant under 
+     subtitle C in accordance with a collaborative process; and
+       ``(C) if the entity is a legal entity and is awarded such 
+     grant, receives such grant directly from the Secretary.
+       ``(4) Collaborative application.--The term `collaborative 
+     application' means an application for a grant under subtitle 
+     C that--
+       ``(A) satisfies section 422; and
+       ``(B) is submitted to the Secretary by a collaborative 
+     applicant.
+       ``(5) Consolidated plan.--The term `Consolidated Plan' 
+     means a comprehensive housing affordability strategy and 
+     community development plan required in part 91 of title 24, 
+     Code of Federal Regulations.
+       ``(6) Eligible entity.--The term `eligible entity' means, 
+     with respect to a subtitle, a public entity, a private 
+     entity, or an entity that is a combination of public and 
+     private entities, that is eligible to directly receive grant 
+     amounts under such subtitle.
+       ``(7) Families with children and youth defined as homeless 
+     under other federal statutes.--The term `families with 
+     children and youth defined as homeless under other Federal 
+     statutes' means any children or youth that are defined as 
+     `homeless' under any Federal statute other than this 
+     subtitle, but are not defined as homeless under section 103, 
+     and shall also include the parent, parents, or guardian of 
+     such children or youth under subtitle B of title VII this Act 
+     (42 U.S.C. 11431 et seq.).
+       ``(8) Geographic area.--The term `geographic area' means a 
+     State, metropolitan city, urban county, town, village, or 
+     other nonentitlement area, or a combination or consortia of 
+     such, in the United States, as described in section 106 of 
+     the Housing and Community Development Act of 1974 (42 U.S.C. 
+     5306).
+       ``(9) Homeless individual with a disability.--
+       ``(A) In general.--The term `homeless individual with a 
+     disability' means an individual who is homeless, as defined 
+     in section 103, and has a disability that--
+       ``(i)(I) is expected to be long-continuing or of indefinite 
+     duration;
+       ``(II) substantially impedes the individual's ability to 
+     live independently;
+       ``(III) could be improved by the provision of more suitable 
+     housing conditions; and
+       ``(IV) is a physical, mental, or emotional impairment, 
+     including an impairment caused by alcohol or drug abuse, post 
+     traumatic stress disorder, or brain injury;
+       ``(ii) is a developmental disability, as defined in section 
+     102 of the Developmental Disabilities Assistance and Bill of 
+     Rights Act of 2000 (42 U.S.C. 15002); or
+       ``(iii) is the disease of acquired immunodeficiency 
+     syndrome or any condition arising from the etiologic agency 
+     for acquired immunodeficiency syndrome.
+       ``(B) Rule.--Nothing in clause (iii) of subparagraph (A) 
+     shall be construed to limit eligibility under clause (i) or 
+     (ii) of subparagraph (A).
+       ``(10) Legal entity.--The term `legal entity' means--
+       ``(A) an entity described in section 501(c)(3) of the 
+     Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) and 
+     exempt from tax under section 501(a) of such Code;
+       ``(B) an instrumentality of State or local government; or
+       ``(C) a consortium of instrumentalities of State or local 
+     governments that has constituted itself as an entity.
+       ``(11) Metropolitan city; urban county; nonentitlement 
+     area.--The terms `metropolitan city', `urban county', and 
+     `nonentitlement area' have the meanings given such terms in 
+     section 102(a) of the Housing and Community Development Act 
+     of 1974 (42 U.S.C. 5302(a)).
+       ``(12) New.--The term `new' means, with respect to housing, 
+     that no assistance has been provided under this title for the 
+     housing.
+       ``(13) Operating costs.--The term `operating costs' means 
+     expenses incurred by a project sponsor operating transitional 
+     housing or permanent housing under this title with respect 
+     to--
+       ``(A) the administration, maintenance, repair, and security 
+     of such housing;
+       ``(B) utilities, fuel, furnishings, and equipment for such 
+     housing; or
+       ``(C) coordination of services as needed to ensure long-
+     term housing stability.
+       ``(14) Outpatient health services.--The term `outpatient 
+     health services' means outpatient health care services, 
+     mental health services, and outpatient substance abuse 
+     services.
+       ``(15) Permanent housing.--The term `permanent housing' 
+     means community-based housing without a designated length of 
+     stay, and includes both permanent supportive housing and 
+     permanent housing without supportive services.
+       ``(16) Personally identifying information.--The term 
+     `personally identifying information' means individually 
+     identifying information for or about an individual, including 
+     information likely to disclose the location of a victim of 
+     domestic violence, dating violence, sexual assault, or 
+     stalking, including--
+       ``(A) a first and last name;
+       ``(B) a home or other physical address;
+       ``(C) contact information (including a postal, e-mail or 
+     Internet protocol address, or telephone or facsimile number);
+       ``(D) a social security number; and
+       ``(E) any other information, including date of birth, 
+     racial or ethnic background, or religious affiliation, that, 
+     in combination with any other non-personally identifying 
+     information, would serve to identify any individual.
+       ``(17) Private nonprofit organization.--The term `private 
+     nonprofit organization' means an organization--
+       ``(A) no part of the net earnings of which inures to the 
+     benefit of any member, founder, contributor, or individual;
+       ``(B) that has a voluntary board;
+       ``(C) that has an accounting system, or has designated a 
+     fiscal agent in accordance with requirements established by 
+     the Secretary; and
+       ``(D) that practices nondiscrimination in the provision of 
+     assistance.
+       ``(18) Project.--The term `project' means, with respect to 
+     activities carried out under subtitle C, eligible activities 
+     described in section 423(a), undertaken pursuant to a 
+     specific endeavor, such as serving a particular population or 
+     providing a particular resource.
+       ``(19) Project-based.--The term `project-based' means, with 
+     respect to rental assistance, that the assistance is provided 
+     pursuant to a contract that--
+       ``(A) is between--
+       ``(i) the recipient or a project sponsor; and
+       ``(ii) an owner of a structure that exists as of the date 
+     the contract is entered into; and
+       ``(B) provides that rental assistance payments shall be 
+     made to the owner and that the units in the structure shall 
+     be occupied by eligible persons for not less than the term of 
+     the contract.
+       ``(20) Project sponsor.--The term `project sponsor' means, 
+     with respect to proposed eligible activities, the 
+     organization directly responsible for carrying out the 
+     proposed eligible activities.
+       ``(21) Recipient.--Except as used in subtitle B, the term 
+     `recipient' means an eligible entity who--
+       ``(A) submits an application for a grant under section 422 
+     that is approved by the Secretary;
+       ``(B) receives the grant directly from the Secretary to 
+     support approved projects described in the application; and
+       ``(C)(i) serves as a project sponsor for the projects; or
+       ``(ii) awards the funds to project sponsors to carry out 
+     the projects.
+       ``(22) Secretary.--The term `Secretary' means the Secretary 
+     of Housing and Urban Development.
+       ``(23) Serious mental illness.--The term `serious mental 
+     illness' means a severe and persistent mental illness or 
+     emotional impairment that seriously limits a person's ability 
+     to live independently.
+       ``(24) Solo applicant.--The term `solo applicant' means an 
+     entity that is an eligible entity, directly submits an 
+     application for a grant under subtitle C to the Secretary, 
+     and, if awarded such grant, receives such grant directly from 
+     the Secretary.
+       ``(25) Sponsor-based.--The term `sponsor-based' means, with 
+     respect to rental assistance, that the assistance is provided 
+     pursuant to a contract that--
+       ``(A) is between--
+       ``(i) the recipient or a project sponsor; and
+       ``(ii) an independent entity that--
+
+       ``(I) is a private organization; and
+       ``(II) owns or leases dwelling units; and
+
+       ``(B) provides that rental assistance payments shall be 
+     made to the independent entity and that eligible persons 
+     shall occupy such assisted units.
+       ``(26) State.--Except as used in subtitle B, the term 
+     `State' means each of the several States, the District of 
+     Columbia, the Commonwealth of Puerto Rico, the United States 
+     Virgin Islands, Guam, American Samoa, the Commonwealth of the 
+     Northern Mariana Islands, the Trust Territory of the Pacific 
+     Islands, and any other territory or possession of the United 
+     States.
+       ``(27) Supportive services.--The term `supportive services' 
+     means services that address the special needs of people 
+     served by a project, including--
+       ``(A) the establishment and operation of a child care 
+     services program for families experiencing homelessness;
+       ``(B) the establishment and operation of an employment 
+     assistance program, including providing job training;
+       ``(C) the provision of outpatient health services, food, 
+     and case management;
+       ``(D) the provision of assistance in obtaining permanent 
+     housing, employment counseling, and nutritional counseling;
+       ``(E) the provision of outreach services, advocacy, life 
+     skills training, and housing search and counseling services;
+       ``(F) the provision of mental health services, trauma 
+     counseling, and victim services;
+       ``(G) the provision of assistance in obtaining other 
+     Federal, State, and local assistance available for residents 
+     of supportive housing (including mental health benefits, 
+     employment counseling, and medical assistance, but not 
+     including major medical equipment);
+       ``(H) the provision of legal services for purposes 
+     including requesting reconsiderations and appeals of veterans 
+     and public benefit
+
+[[Page 12780]]
+
+     claim denials and resolving outstanding warrants that 
+     interfere with an individual's ability to obtain and retain 
+     housing;
+       ``(I) the provision of--
+       ``(i) transportation services that facilitate an 
+     individual's ability to obtain and maintain employment; and
+       ``(ii) health care; and
+       ``(J) other supportive services necessary to obtain and 
+     maintain housing.
+       ``(28) Tenant-based.--The term `tenant-based' means, with 
+     respect to rental assistance, assistance that--
+       ``(A) allows an eligible person to select a housing unit in 
+     which such person will live using rental assistance provided 
+     under subtitle C, except that if necessary to assure that the 
+     provision of supportive services to a person participating in 
+     a program is feasible, a recipient or project sponsor may 
+     require that the person live--
+       ``(i) in a particular structure or unit for not more than 
+     the first year of the participation;
+       ``(ii) within a particular geographic area for the full 
+     period of the participation, or the period remaining after 
+     the period referred to in subparagraph (A); and
+       ``(B) provides that a person may receive such assistance 
+     and move to another structure, unit, or geographic area if 
+     the person has complied with all other obligations of the 
+     program and has moved out of the assisted dwelling unit in 
+     order to protect the health or safety of an individual who is 
+     or has been the victim of domestic violence, dating violence, 
+     sexual assault, or stalking, and who reasonably believed he 
+     or she was imminently threatened by harm from further 
+     violence if he or she remained in the assisted dwelling unit.
+       ``(29) Transitional housing.--The term `transitional 
+     housing' means housing the purpose of which is to facilitate 
+     the movement of individuals and families experiencing 
+     homelessness to permanent housing within 24 months or such 
+     longer period as the Secretary determines necessary.
+       ``(30) Unified funding agency.--The term `unified funding 
+     agency' means a collaborative applicant that performs the 
+     duties described in section 402(g).
+       ``(31) Underserved populations.--The term `underserved 
+     populations' includes populations underserved because of 
+     geographic location, underserved racial and ethnic 
+     populations, populations underserved because of special needs 
+     (such as language barriers, disabilities, alienage status, or 
+     age), and any other population determined to be underserved 
+     by the Secretary, as appropriate.
+       ``(32) Victim service provider.--The term `victim service 
+     provider' means a private nonprofit organization whose 
+     primary mission is to provide services to victims of domestic 
+     violence, dating violence, sexual assault, or stalking. Such 
+     term includes rape crisis centers, battered women's shelters, 
+     domestic violence transitional housing programs, and other 
+     programs.
+       ``(33) Victim services.--The term `victim services' means 
+     services that assist domestic violence, dating violence, 
+     sexual assault, or stalking victims, including services 
+     offered by rape crisis centers and domestic violence 
+     shelters, and other organizations, with a documented history 
+     of effective work concerning domestic violence, dating 
+     violence, sexual assault, or stalking.''.
+
+     SEC. 1102. COMMUNITY HOMELESS ASSISTANCE PLANNING BOARDS.
+
+       Subtitle A of title IV of the McKinney-Vento Homeless 
+     Assistance Act (42 U.S.C. 11361 et seq.) is amended by 
+     inserting after section 401 (as added by section 1101(3) of 
+     this division) the following new section:
+
+     ``SEC. 402. COLLABORATIVE APPLICANTS.
+
+       ``(a) Establishment and Designation.--A collaborative 
+     applicant shall be established for a geographic area by the 
+     relevant parties in that geographic area to--
+       ``(1) submit an application for amounts under this 
+     subtitle; and
+       ``(2) perform the duties specified in subsection (f) and, 
+     if applicable, subsection (g).
+       ``(b) No Requirement To Be a Legal Entity.--An entity may 
+     be established to serve as a collaborative applicant under 
+     this section without being a legal entity.
+       ``(c) Remedial Action.--If the Secretary finds that a 
+     collaborative applicant for a geographic area does not meet 
+     the requirements of this section, or if there is no 
+     collaborative applicant for a geographic area, the Secretary 
+     may take remedial action to ensure fair distribution of grant 
+     amounts under subtitle C to eligible entities within that 
+     area. Such measures may include designating another body as a 
+     collaborative applicant, or permitting other eligible 
+     entities to apply directly for grants.
+       ``(d) Construction.--Nothing in this section shall be 
+     construed to displace conflict of interest or government fair 
+     practices laws, or their equivalent, that govern applicants 
+     for grant amounts under subtitles B and C.
+       ``(e) Appointment of Agent.--
+       ``(1) In general.--Subject to paragraph (2), a 
+     collaborative applicant may designate an agent to--
+       ``(A) apply for a grant under section 422(c);
+       ``(B) receive and distribute grant funds awarded under 
+     subtitle C; and
+       ``(C) perform other administrative duties.
+       ``(2) Retention of duties.--Any collaborative applicant 
+     that designates an agent pursuant to paragraph (1) shall 
+     regardless of such designation retain all of its duties and 
+     responsibilities under this title.
+       ``(f) Duties.--A collaborative applicant shall--
+       ``(1) design a collaborative process for the development of 
+     an application under subtitle C, and for evaluating the 
+     outcomes of projects for which funds are awarded under 
+     subtitle B, in such a manner as to provide information 
+     necessary for the Secretary--
+       ``(A) to determine compliance with--
+       ``(i) the program requirements under section 426; and
+       ``(ii) the selection criteria described under section 427; 
+     and
+       ``(B) to establish priorities for funding projects in the 
+     geographic area involved;
+       ``(2) participate in the Consolidated Plan for the 
+     geographic area served by the collaborative applicant; and
+       ``(3) ensure operation of, and consistent participation by, 
+     project sponsors in a community-wide homeless management 
+     information system (in this subsection referred to as `HMIS') 
+     that--
+       ``(A) collects unduplicated counts of individuals and 
+     families experiencing homelessness;
+       ``(B) analyzes patterns of use of assistance provided under 
+     subtitles B and C for the geographic area involved;
+       ``(C) provides information to project sponsors and 
+     applicants for needs analyses and funding priorities; and
+       ``(D) is developed in accordance with standards established 
+     by the Secretary, including standards that provide for--
+       ``(i) encryption of data collected for purposes of HMIS;
+       ``(ii) documentation, including keeping an accurate 
+     accounting, proper usage, and disclosure, of HMIS data;
+       ``(iii) access to HMIS data by staff, contractors, law 
+     enforcement, and academic researchers;
+       ``(iv) rights of persons receiving services under this 
+     title;
+       ``(v) criminal and civil penalties for unlawful disclosure 
+     of data; and
+       ``(vi) such other standards as may be determined necessary 
+     by the Secretary.
+       ``(g) Unified Funding.--
+       ``(1) In general.--In addition to the duties described in 
+     subsection (f), a collaborative applicant shall receive from 
+     the Secretary and distribute to other project sponsors in the 
+     applicable geographic area funds for projects to be carried 
+     out by such other project sponsors, if--
+       ``(A) the collaborative applicant--
+       ``(i) applies to undertake such collection and distribution 
+     responsibilities in an application submitted under this 
+     subtitle; and
+       ``(ii) is selected to perform such responsibilities by the 
+     Secretary; or
+       ``(B) the Secretary designates the collaborative applicant 
+     as the unified funding agency in the geographic area, after--
+       ``(i) a finding by the Secretary that the applicant--
+
+       ``(I) has the capacity to perform such responsibilities; 
+     and
+       ``(II) would serve the purposes of this Act as they apply 
+     to the geographic area; and
+
+       ``(ii) the Secretary provides the collaborative applicant 
+     with the technical assistance necessary to perform such 
+     responsibilities as such assistance is agreed to by the 
+     collaborative applicant.
+       ``(2) Required actions by a unified funding agency.--A 
+     collaborative applicant that is either selected or designated 
+     as a unified funding agency for a geographic area under 
+     paragraph (1) shall--
+       ``(A) require each project sponsor who is funded by a grant 
+     received under subtitle C to establish such fiscal control 
+     and fund accounting procedures as may be necessary to assure 
+     the proper disbursal of, and accounting for, Federal funds 
+     awarded to the project sponsor under subtitle C in order to 
+     ensure that all financial transactions carried out under 
+     subtitle C are conducted, and records maintained, in 
+     accordance with generally accepted accounting principles; and
+       ``(B) arrange for an annual survey, audit, or evaluation of 
+     the financial records of each project carried out by a 
+     project sponsor funded by a grant received under subtitle C.
+       ``(h) Conflict of Interest.--No board member of a 
+     collaborative applicant may participate in decisions of the 
+     collaborative applicant concerning the award of a grant, or 
+     provision of other financial benefits, to such member or the 
+     organization that such member represents.''.
+
+     SEC. 1103. GENERAL PROVISIONS.
+
+       Subtitle A of the McKinney-Vento Homeless Assistance Act 
+     (42 U.S.C. 11361 et seq.) is amended by inserting after 
+     section 403 (as so redesignated by section 1101(2) of this 
+     division) the following new sections:
+
+     ``SEC. 404. PREVENTING INVOLUNTARY FAMILY SEPARATION.
+
+       ``(a) In General.--After the expiration of the 2-year 
+     period that begins upon the date of the enactment of the 
+     Homeless Emergency Assistance and Rapid Transition to Housing 
+     Act of 2009, and except as provided in subsection (b), any 
+     project sponsor receiving funds under this title to provide 
+     emergency shelter, transitional housing, or permanent housing 
+     to families with children under age 18 shall not deny 
+     admission to any family based on the age of any child under 
+     age 18.
+       ``(b) Exception.--Notwithstanding the requirement under 
+     subsection (a), project
+
+[[Page 12781]]
+
+     sponsors of transitional housing receiving funds under this 
+     title may target transitional housing resources to families 
+     with children of a specific age only if the project sponsor--
+       ``(1) operates a transitional housing program that has a 
+     primary purpose of implementing an evidence-based practice 
+     that requires that housing units be targeted to families with 
+     children in a specific age group; and
+       ``(2) provides such assurances, as the Secretary shall 
+     require, that an equivalent appropriate alternative living 
+     arrangement for the whole family or household unit has been 
+     secured.
+
+     ``SEC. 405. TECHNICAL ASSISTANCE.
+
+       ``(a) In General.--The Secretary shall make available 
+     technical assistance to private nonprofit organizations and 
+     other nongovernmental entities, States, metropolitan cities, 
+     urban counties, and counties that are not urban counties, to 
+     implement effective planning processes for preventing and 
+     ending homelessness, to improve their capacity to prepare 
+     collaborative applications, to prevent the separation of 
+     families in emergency shelter or other housing programs, and 
+     to adopt and provide best practices in housing and services 
+     for persons experiencing homeless.
+       ``(b) Reservation.--The Secretary shall reserve not more 
+     than 1 percent of the funds made available for any fiscal 
+     year for carrying out subtitles B and C, to provide technical 
+     assistance under subsection (a).''.
+
+     SEC. 1104. PROTECTION OF PERSONALLY IDENTIFYING INFORMATION 
+                   BY VICTIM SERVICE PROVIDERS.
+
+       Subtitle A of the McKinney-Vento Homeless Assistance Act 
+     (42 U.S.C. 11361 et seq.), as amended by the preceding 
+     provisions of this title, is further amended by adding at the 
+     end the following new section:
+
+     ``SEC. 407. PROTECTION OF PERSONALLY IDENTIFYING INFORMATION 
+                   BY VICTIM SERVICE PROVIDERS.
+
+       ``In the course of awarding grants or implementing programs 
+     under this title, the Secretary shall instruct any victim 
+     service provider that is a recipient or subgrantee not to 
+     disclose for purposes of the Homeless Management Information 
+     System any personally identifying information about any 
+     client. The Secretary may, after public notice and comment, 
+     require or ask such recipients and subgrantees to disclose 
+     for purposes of the Homeless Management Information System 
+     non-personally identifying information that has been de-
+     identified, encrypted, or otherwise encoded. Nothing in this 
+     section shall be construed to supersede any provision of any 
+     Federal, State, or local law that provides greater protection 
+     than this subsection for victims of domestic violence, dating 
+     violence, sexual assault, or stalking.''.
+
+     SEC. 1105. AUTHORIZATION OF APPROPRIATIONS.
+
+       Subtitle A of the McKinney-Vento Homeless Assistance Act 
+     (42 U.S.C. 11361 et seq.), as amended by the preceding 
+     provisions of this title, is further amended by adding at the 
+     end the following new section:
+
+     ``SEC. 408. AUTHORIZATION OF APPROPRIATIONS.
+
+       ``There are authorized to be appropriated to carry out this 
+     title $2,200,000,000 for fiscal year 2010 and such sums as 
+     may be necessary for fiscal year 2011.''.
+
+              TITLE II--EMERGENCY SOLUTIONS GRANTS PROGRAM
+
+     SEC. 1201. GRANT ASSISTANCE.
+
+       Subtitle B of title IV of the McKinney-Vento Homeless 
+     Assistance Act (42 U.S.C. 11371 et seq.) is amended--
+       (1) by striking the subtitle heading and inserting the 
+     following:
+
+          ``Subtitle B--Emergency Solutions Grants Program'';
+
+       (2) by striking section 417 (42 U.S.C. 11377);
+       (3) by redesignating sections 413 through 416 (42 U.S.C. 
+     11373-6) as sections 414 through 417, respectively; and
+       (4) by striking section 412 (42 U.S.C. 11372) and inserting 
+     the following:
+
+     ``SEC. 412. GRANT ASSISTANCE.
+
+       ``The Secretary shall make grants to States and local 
+     governments (and to private nonprofit organizations providing 
+     assistance to persons experiencing homelessness or at risk of 
+     homelessness, in the case of grants made with reallocated 
+     amounts) for the purpose of carrying out activities described 
+     in section 415.
+
+     ``SEC. 413. AMOUNT AND ALLOCATION OF ASSISTANCE.
+
+       ``(a) In General.--Of the amount made available to carry 
+     out this subtitle and subtitle C for a fiscal year, the 
+     Secretary shall allocate nationally 20 percent of such amount 
+     for activities described in section 415. The Secretary shall 
+     be required to certify that such allocation will not 
+     adversely affect the renewal of existing projects under this 
+     subtitle and subtitle C for those individuals or families who 
+     are homeless.
+       ``(b) Allocation.--An entity that receives a grant under 
+     section 412, and serves an area that includes 1 or more 
+     geographic areas (or portions of such areas) served by 
+     collaborative applicants that submit applications under 
+     subtitle C, shall allocate the funds made available through 
+     the grant to carry out activities described in section 415, 
+     in consultation with the collaborative applicants.''; and
+       (5) in section 414(b) (42 U.S.C. 11373(b)), as so 
+     redesignated by paragraph (3) of this section, by striking 
+     ``amounts appropriated'' and all that follows through ``for 
+     any'' and inserting ``amounts appropriated under section 408 
+     and made available to carry out this subtitle for any''.
+
+     SEC. 1202. ELIGIBLE ACTIVITIES.
+
+       The McKinney-Vento Homeless Assistance Act is amended by 
+     striking section 415 (42 U.S.C. 11374), as so redesignated by 
+     section 1201(3) of this division, and inserting the following 
+     new section:
+
+     ``SEC. 415. ELIGIBLE ACTIVITIES.
+
+       ``(a) In General.--Assistance provided under section 412 
+     may be used for the following activities:
+       ``(1) The renovation, major rehabilitation, or conversion 
+     of buildings to be used as emergency shelters.
+       ``(2) The provision of essential services related to 
+     emergency shelter or street outreach, including services 
+     concerned with employment, health, education, family support 
+     services for homeless youth, substance abuse services, victim 
+     services, or mental health services, if--
+       ``(A) such essential services have not been provided by the 
+     local government during any part of the immediately preceding 
+     12-month period or the Secretary determines that the local 
+     government is in a severe financial deficit; or
+       ``(B) the use of assistance under this subtitle would 
+     complement the provision of those essential services.
+       ``(3) Maintenance, operation, insurance, provision of 
+     utilities, and provision of furnishings related to emergency 
+     shelter.
+       ``(4) Provision of rental assistance to provide short-term 
+     or medium-term housing to homeless individuals or families or 
+     individuals or families at risk of homelessness. Such rental 
+     assistance may include tenant-based or project-based rental 
+     assistance.
+       ``(5) Housing relocation or stabilization services for 
+     homeless individuals or families or individuals or families 
+     at risk of homelessness, including housing search, mediation 
+     or outreach to property owners, legal services, credit 
+     repair, providing security or utility deposits, utility 
+     payments, rental assistance for a final month at a location, 
+     assistance with moving costs, or other activities that are 
+     effective at--
+       ``(A) stabilizing individuals and families in their current 
+     housing; or
+       ``(B) quickly moving such individuals and families to other 
+     permanent housing.
+       ``(b) Maximum Allocation for Emergency Shelter 
+     Activities.--A grantee of assistance provided under section 
+     412 for any fiscal year may not use an amount of such 
+     assistance for activities described in paragraphs (1) through 
+     (3) of subsection (a) that exceeds the greater of--
+       ``(1) 60 percent of the aggregate amount of such assistance 
+     provided for the grantee for such fiscal year; or
+       ``(2) the amount expended by such grantee for such 
+     activities during fiscal year most recently completed before 
+     the effective date under section 1503 of the Homeless 
+     Emergency Assistance and Rapid Transition to Housing Act of 
+     2009.''.
+
+     SEC. 1203. PARTICIPATION IN HOMELESS MANAGEMENT INFORMATION 
+                   SYSTEM.
+
+       Section 416 of the McKinney-Vento Homeless Assistance Act 
+     (42 U.S.C. 11375), as so redesignated by section 1201(3) of 
+     this division, is amended by adding at the end the following 
+     new subsection:
+       ``(f) Participation in HMIS.--The Secretary shall ensure 
+     that recipients of funds under this subtitle ensure the 
+     consistent participation by emergency shelters and 
+     homelessness prevention and rehousing programs in any 
+     applicable community-wide homeless management information 
+     system.''.
+
+     SEC. 1204. ADMINISTRATIVE PROVISION.
+
+       Section 418 of the McKinney-Vento Homeless Assistance Act 
+     (42 U.S.C. 11378) is amended by striking ``5 percent'' and 
+     inserting ``7.5 percent''.
+
+     SEC. 1205. GAO STUDY OF ADMINISTRATIVE FEES.
+
+       Not later than the expiration of the 12-month period 
+     beginning on the date of the enactment of this division, the 
+     Comptroller General of the United States shall--
+       (1) conduct a study to examine the appropriate 
+     administrative costs for administering the program authorized 
+     under subtitle B of title IV of the McKinney-Vento Homeless 
+     Assistance Act (42 U.S.C. 11371 et seq.); and
+       (2) submit to Congress a report on the findings of the 
+     study required under paragraph (1).
+
+                  TITLE III--CONTINUUM OF CARE PROGRAM
+
+     SEC. 1301. CONTINUUM OF CARE.
+
+       The McKinney-Vento Homeless Assistance Act is amended--
+       (1) by striking the subtitle heading for subtitle C of 
+     title IV (42 U.S.C. 11381 et seq.) and inserting the 
+     following:
+
+             ``Subtitle C--Continuum of Care Program''; and
+
+       (2) by striking sections 421 and 422 (42 U.S.C. 11381 and 
+     11382) and inserting the following new sections:
+
+     ``SEC. 421. PURPOSES.
+
+       ``The purposes of this subtitle are--
+       ``(1) to promote community-wide commitment to the goal of 
+     ending homelessness;
+
+[[Page 12782]]
+
+       ``(2) to provide funding for efforts by nonprofit providers 
+     and State and local governments to quickly rehouse homeless 
+     individuals and families while minimizing the trauma and 
+     dislocation caused to individuals, families, and communities 
+     by homelessness;
+       ``(3) to promote access to, and effective utilization of, 
+     mainstream programs described in section 203(a)(7) and 
+     programs funded with State or local resources; and
+       ``(4) to optimize self-sufficiency among individuals and 
+     families experiencing homelessness.
+
+     ``SEC. 422. CONTINUUM OF CARE APPLICATIONS AND GRANTS.
+
+       ``(a) Projects.--The Secretary shall award grants, on a 
+     competitive basis, and using the selection criteria described 
+     in section 427, to carry out eligible activities under this 
+     subtitle for projects that meet the program requirements 
+     under section 426, either by directly awarding funds to 
+     project sponsors or by awarding funds to unified funding 
+     agencies.
+       ``(b) Notification of Funding Availability.--The Secretary 
+     shall release a notification of funding availability for 
+     grants awarded under this subtitle for a fiscal year not 
+     later than 3 months after the date of the enactment of the 
+     appropriate Act making appropriations for the Department of 
+     Housing and Urban Development for such fiscal year.
+       ``(c) Applications.--
+       ``(1) Submission to the secretary.--To be eligible to 
+     receive a grant under subsection (a), a project sponsor or 
+     unified funding agency in a geographic area shall submit an 
+     application to the Secretary at such time and in such manner 
+     as the Secretary may require, and containing such information 
+     as the Secretary determines necessary--
+       ``(A) to determine compliance with the program requirements 
+     and selection criteria under this subtitle; and
+       ``(B) to establish priorities for funding projects in the 
+     geographic area.
+       ``(2) Announcement of awards.--
+       ``(A) In general.--Except as provided in subparagraph (B), 
+     the Secretary shall announce, within 5 months after the last 
+     date for the submission of applications described in this 
+     subsection for a fiscal year, the grants conditionally 
+     awarded under subsection (a) for that fiscal year.
+       ``(B) Transition.--For a period of up to 2 years beginning 
+     after the effective date under section 1503 of the Homeless 
+     Emergency Assistance and Rapid Transition to Housing Act of 
+     2009, the Secretary shall announce, within 6 months after the 
+     last date for the submission of applications described in 
+     this subsection for a fiscal year, the grants conditionally 
+     awarded under subsection (a) for that fiscal year.
+       ``(d) Obligation, Distribution, and Utilization of Funds.--
+       ``(1) Requirements for obligation.--
+       ``(A) In general.--Not later than 9 months after the 
+     announcement referred to in subsection (c)(2), each recipient 
+     or project sponsor shall meet all requirements for the 
+     obligation of those funds, including site control, matching 
+     funds, and environmental review requirements, except as 
+     provided in subparagraphs (B) and (C).
+       ``(B) Acquisition, rehabilitation, or construction.--Not 
+     later than 24 months after the announcement referred to in 
+     subsection (c)(2), each recipient or project sponsor seeking 
+     the obligation of funds for acquisition of housing, 
+     rehabilitation of housing, or construction of new housing for 
+     a grant announced under subsection (c)(2) shall meet all 
+     requirements for the obligation of those funds, including 
+     site control, matching funds, and environmental review 
+     requirements.
+       ``(C) Extensions.--At the discretion of the Secretary, and 
+     in compelling circumstances, the Secretary may extend the 
+     date by which a recipient or project sponsor shall meet the 
+     requirements described in subparagraphs (A) and (B) if the 
+     Secretary determines that compliance with the requirements 
+     was delayed due to factors beyond the reasonable control of 
+     the recipient or project sponsor. Such factors may include 
+     difficulties in obtaining site control for a proposed 
+     project, completing the process of obtaining secure financing 
+     for the project, obtaining approvals from State or local 
+     governments, or completing the technical submission 
+     requirements for the project.
+       ``(2) Obligation.--Not later than 45 days after a recipient 
+     or project sponsor meets the requirements described in 
+     paragraph (1), the Secretary shall obligate the funds for the 
+     grant involved.
+       ``(3) Distribution.--A recipient that receives funds 
+     through such a grant--
+       ``(A) shall distribute the funds to project sponsors (in 
+     advance of expenditures by the project sponsors); and
+       ``(B) shall distribute the appropriate portion of the funds 
+     to a project sponsor not later than 45 days after receiving a 
+     request for such distribution from the project sponsor.
+       ``(4) Expenditure of funds.--The Secretary may establish a 
+     date by which funds made available through a grant announced 
+     under subsection (c)(2) for a homeless assistance project 
+     shall be entirely expended by the recipient or project 
+     sponsors involved. The date established under this paragraph 
+     shall not occur before the expiration of the 24-month period 
+     beginning on the date that funds are obligated for activities 
+     described under paragraphs (1) or (2) of section 423(a). The 
+     Secretary shall recapture the funds not expended by such 
+     date. The Secretary shall reallocate the funds for another 
+     homeless assistance and prevention project that meets the 
+     requirements of this subtitle to be carried out, if possible 
+     and appropriate, in the same geographic area as the area 
+     served through the original grant.
+       ``(e) Renewal Funding for Unsuccessful Applicants.--The 
+     Secretary may renew funding for a specific project previously 
+     funded under this subtitle that the Secretary determines 
+     meets the purposes of this subtitle, and was included as part 
+     of a total application that met the criteria of subsection 
+     (c), even if the application was not selected to receive 
+     grant assistance. The Secretary may renew the funding for a 
+     period of not more than 1 year, and under such conditions as 
+     the Secretary determines to be appropriate.
+       ``(f) Considerations in Determining Renewal Funding.--When 
+     providing renewal funding for leasing, operating costs, or 
+     rental assistance for permanent housing, the Secretary shall 
+     make adjustments proportional to increases in the fair market 
+     rents in the geographic area.
+       ``(g) More Than 1 Application for a Geographic Area.--If 
+     more than 1 collaborative applicant applies for funds for a 
+     geographic area, the Secretary shall award funds to the 
+     collaborative applicant with the highest score based on the 
+     selection criteria set forth in section 427.
+       ``(h) Appeals.--
+       ``(1) In general.--The Secretary shall establish a timely 
+     appeal procedure for grant amounts awarded or denied under 
+     this subtitle pursuant to a collaborative application or solo 
+     application for funding.
+       ``(2) Process.--The Secretary shall ensure that the 
+     procedure permits appeals submitted by entities carrying out 
+     homeless housing and services projects (including emergency 
+     shelters and homelessness prevention programs), and all other 
+     applicants under this subtitle.
+       ``(i) Solo Applicants.--A solo applicant may submit an 
+     application to the Secretary for a grant under subsection (a) 
+     and be awarded such grant on the same basis as such grants 
+     are awarded to other applicants based on the criteria 
+     described in section 427, but only if the Secretary 
+     determines that the solo applicant has attempted to 
+     participate in the continuum of care process but was not 
+     permitted to participate in a reasonable manner. The 
+     Secretary may award such grants directly to such applicants 
+     in a manner determined to be appropriate by the Secretary.
+       ``(j) Flexibility To Serve Persons Defined as Homeless 
+     Under Other Federal Laws.--
+       ``(1) In general.--A collaborative applicant may use not 
+     more than 10 percent of funds awarded under this subtitle 
+     (continuum of care funding) for any of the types of eligible 
+     activities specified in paragraphs (1) through (7) of section 
+     423(a) to serve families with children and youth defined as 
+     homeless under other Federal statutes, or homeless families 
+     with children and youth defined as homeless under section 
+     103(a)(6), but only if the applicant demonstrates that the 
+     use of such funds is of an equal or greater priority or is 
+     equally or more cost effective in meeting the overall goals 
+     and objectives of the plan submitted under section 
+     427(b)(1)(B), especially with respect to children and 
+     unaccompanied youth.
+       ``(2) Limitations.--The 10 percent limitation under 
+     paragraph (1) shall not apply to collaborative applicants in 
+     which the rate of homelessness, as calculated in the most 
+     recent point in time count, is less than one-tenth of 1 
+     percent of total population.
+       ``(3) Treatment of certain populations.--
+       ``(A) In general.--Notwithstanding section 103(a) and 
+     subject to subparagraph (B), funds awarded under this 
+     subtitle may be used for eligible activities to serve 
+     unaccompanied youth and homeless families and children 
+     defined as homeless under section 103(a)(6) only pursuant to 
+     paragraph (1) of this subsection and such families and 
+     children shall not otherwise be considered as homeless for 
+     purposes of this subtitle.
+       ``(B) At risk of homelessness.--Subparagraph (A) may not be 
+     construed to prevent any unaccompanied youth and homeless 
+     families and children defined as homeless under section 
+     103(a)(6) from qualifying for, and being treated for purposes 
+     of this subtitle as, at risk of homelessness or from 
+     eligibility for any projects, activities, or services carried 
+     out using amounts provided under this subtitle for which 
+     individuals or families that are at risk of homelessness are 
+     eligible.''.
+
+     SEC. 1302. ELIGIBLE ACTIVITIES.
+
+       The McKinney-Vento Homeless Assistance Act is amended by 
+     striking section 423 (42 U.S.C. 11383) and inserting the 
+     following new section:
+
+     ``SEC. 423. ELIGIBLE ACTIVITIES.
+
+       ``(a) In General.--Grants awarded under section 422 to 
+     qualified applicants shall be used to carry out projects that 
+     serve homeless individuals or families that consist of one or 
+     more of the following eligible activities:
+
+[[Page 12783]]
+
+       ``(1) Construction of new housing units to provide 
+     transitional or permanent housing.
+       ``(2) Acquisition or rehabilitation of a structure to 
+     provide transitional or permanent housing, other than 
+     emergency shelter, or to provide supportive services.
+       ``(3) Leasing of property, or portions of property, not 
+     owned by the recipient or project sponsor involved, for use 
+     in providing transitional or permanent housing, or providing 
+     supportive services.
+       ``(4) Provision of rental assistance to provide 
+     transitional or permanent housing to eligible persons. The 
+     rental assistance may include tenant-based, project-based, or 
+     sponsor-based rental assistance. Project-based rental 
+     assistance, sponsor-based rental assistance, and operating 
+     cost assistance contracts carried out by project sponsors 
+     receiving grants under this section may, at the discretion of 
+     the applicant and the project sponsor, have an initial term 
+     of 15 years, with assistance for the first 5 years paid with 
+     funds authorized for appropriation under this Act, and 
+     assistance for the remainder of the term treated as a renewal 
+     of an expiring contract as provided in section 429. Project-
+     based rental assistance may include rental assistance to 
+     preserve existing permanent supportive housing for homeless 
+     individuals and families.
+       ``(5) Payment of operating costs for housing units assisted 
+     under this subtitle or for the preservation of housing that 
+     will serve homeless individuals and families and for which 
+     another form of assistance is expiring or otherwise no longer 
+     available.
+       ``(6) Supportive services for individuals and families who 
+     are currently homeless, who have been homeless in the prior 
+     six months but are currently residing in permanent housing, 
+     or who were previously homeless and are currently residing in 
+     permanent supportive housing.
+       ``(7) Provision of rehousing services, including housing 
+     search, mediation or outreach to property owners, credit 
+     repair, providing security or utility deposits, rental 
+     assistance for a final month at a location, assistance with 
+     moving costs, or other activities that--
+       ``(A) are effective at moving homeless individuals and 
+     families immediately into housing; or
+       ``(B) may benefit individuals and families who in the prior 
+     6 months have been homeless, but are currently residing in 
+     permanent housing.
+       ``(8) In the case of a collaborative applicant that is a 
+     legal entity, performance of the duties described under 
+     section 402(f)(3).
+       ``(9) Operation of, participation in, and ensuring 
+     consistent participation by project sponsors in, a community-
+     wide homeless management information system.
+       ``(10) In the case of a collaborative applicant that is a 
+     legal entity, payment of administrative costs related to 
+     meeting the requirements described in paragraphs (1) and (2) 
+     of section 402(f), for which the collaborative applicant may 
+     use not more than 3 percent of the total funds made available 
+     in the geographic area under this subtitle for such costs.
+       ``(11) In the case of a collaborative applicant that is a 
+     unified funding agency under section 402(g), payment of 
+     administrative costs related to meeting the requirements of 
+     that section, for which the unified funding agency may use 
+     not more than 3 percent of the total funds made available in 
+     the geographic area under this subtitle for such costs, in 
+     addition to funds used under paragraph (10).
+       ``(12) Payment of administrative costs to project sponsors, 
+     for which each project sponsor may use not more than 10 
+     percent of the total funds made available to that project 
+     sponsor through this subtitle for such costs.
+       ``(b) Minimum Grant Terms.--The Secretary may impose 
+     minimum grant terms of up to 5 years for new projects 
+     providing permanent housing.
+       ``(c) Use Restrictions.--
+       ``(1) Acquisition, rehabilitation, and new construction.--A 
+     project that consists of activities described in paragraph 
+     (1) or (2) of subsection (a) shall be operated for the 
+     purpose specified in the application submitted for the 
+     project under section 422 for not less than 15 years.
+       ``(2) Other activities.--A project that consists of 
+     activities described in any of paragraphs (3) through (12) of 
+     subsection (a) shall be operated for the purpose specified in 
+     the application submitted for the project under section 422 
+     for the duration of the grant period involved.
+       ``(3) Conversion.--If the recipient or project sponsor 
+     carrying out a project that provides transitional or 
+     permanent housing submits a request to the Secretary to carry 
+     out instead a project for the direct benefit of low-income 
+     persons, and the Secretary determines that the initial 
+     project is no longer needed to provide transitional or 
+     permanent housing, the Secretary may approve the project 
+     described in the request and authorize the recipient or 
+     project sponsor to carry out that project.
+       ``(d) Repayment of Assistance and Prevention of Undue 
+     Benefits.--
+       ``(1) Repayment.--If a recipient or project sponsor 
+     receives assistance under section 422 to carry out a project 
+     that consists of activities described in paragraph (1) or (2) 
+     of subsection (a) and the project ceases to provide 
+     transitional or permanent housing--
+       ``(A) earlier than 10 years after operation of the project 
+     begins, the Secretary shall require the recipient or project 
+     sponsor to repay 100 percent of the assistance; or
+       ``(B) not earlier than 10 years, but earlier than 15 years, 
+     after operation of the project begins, the Secretary shall 
+     require the recipient or project sponsor to repay 20 percent 
+     of the assistance for each of the years in the 15-year period 
+     for which the project fails to provide that housing.
+       ``(2) Prevention of undue benefits.--Except as provided in 
+     paragraph (3), if any property is used for a project that 
+     receives assistance under subsection (a) and consists of 
+     activities described in paragraph (1) or (2) of subsection 
+     (a), and the sale or other disposition of the property occurs 
+     before the expiration of the 15-year period beginning on the 
+     date that operation of the project begins, the recipient or 
+     project sponsor who received the assistance shall comply with 
+     such terms and conditions as the Secretary may prescribe to 
+     prevent the recipient or project sponsor from unduly 
+     benefitting from such sale or disposition.
+       ``(3) Exception.--A recipient or project sponsor shall not 
+     be required to make the repayments, and comply with the terms 
+     and conditions, required under paragraph (1) or (2) if--
+       ``(A) the sale or disposition of the property used for the 
+     project results in the use of the property for the direct 
+     benefit of very low-income persons;
+       ``(B) all of the proceeds of the sale or disposition are 
+     used to provide transitional or permanent housing meeting the 
+     requirements of this subtitle;
+       ``(C) project-based rental assistance or operating cost 
+     assistance from any Federal program or an equivalent State or 
+     local program is no longer made available and the project is 
+     meeting applicable performance standards, provided that the 
+     portion of the project that had benefitted from such 
+     assistance continues to meet the tenant income and rent 
+     restrictions for low-income units under section 42(g) of the 
+     Internal Revenue Code of 1986; or
+       ``(D) there are no individuals and families in the 
+     geographic area who are homeless, in which case the project 
+     may serve individuals and families at risk of homelessness.
+       ``(e) Staff Training.--The Secretary may allow reasonable 
+     costs associated with staff training to be included as part 
+     of the activities described in subsection (a).
+       ``(f) Eligibility for Permanent Housing.--Any project that 
+     receives assistance under subsection (a) and that provides 
+     project-based or sponsor-based permanent housing for homeless 
+     individuals or families with a disability, including projects 
+     that meet the requirements of subsection (a) and subsection 
+     (d)(2)(A) of section 428 may also serve individuals who had 
+     previously met the requirements for such project prior to 
+     moving into a different permanent housing project.
+       ``(g) Administration of Rental Assistance.--Provision of 
+     permanent housing rental assistance shall be administered by 
+     a State, unit of general local government, or public housing 
+     agency.''.
+
+     SEC. 1303. HIGH PERFORMING COMMUNITIES.
+
+       The McKinney-Vento Homeless Assistance Act is amended by 
+     striking section 424 (42 U.S.C. 11384) and inserting the 
+     following:
+
+     ``SEC. 424. INCENTIVES FOR HIGH-PERFORMING COMMUNITIES.
+
+       ``(a) Designation as a High-Performing Community.--
+       ``(1) In general.--The Secretary shall designate, on an 
+     annual basis, which collaborative applicants represent high-
+     performing communities.
+       ``(2) Consideration.--In determining whether to designate a 
+     collaborative applicant as a high-performing community under 
+     paragraph (1), the Secretary shall establish criteria to 
+     ensure that the requirements described under paragraphs 
+     (1)(B) and (2)(B) of subsection (d) are measured by comparing 
+     homeless individuals and families under similar 
+     circumstances, in order to encourage projects in the 
+     geographic area to serve homeless individuals and families 
+     with more severe barriers to housing stability.
+       ``(3) 2-year phase in.--In each of the first 2 years after 
+     the effective date under section 1503 of the Homeless 
+     Emergency Assistance and Rapid Transition to Housing Act of 
+     2009, the Secretary shall designate not more than 10 
+     collaborative applicants as high-performing communities.
+       ``(4) Excess of qualified applicants.--If, during the 2-
+     year period described under paragraph (2), more than 10 
+     collaborative applicants could qualify to be designated as 
+     high-performing communities, the Secretary shall designate 
+     the 10 that have, in the discretion of the Secretary, the 
+     best performance based on the criteria described under 
+     subsection (d).
+       ``(5) Time limit on designation.--The designation of any 
+     collaborative applicant as a high-performing community under 
+     this subsection shall be effective only for the year in which 
+     such designation is made. The Secretary, on an annual basis, 
+     may renew any such designation.
+       ``(b) Application.--
+
+[[Page 12784]]
+
+       ``(1) In general.--A collaborative applicant seeking 
+     designation as a high-performing community under subsection 
+     (a) shall submit an application to the Secretary at such 
+     time, and in such manner as the Secretary may require.
+       ``(2) Content of application.--In any application submitted 
+     under paragraph (1), a collaborative applicant shall include 
+     in such application--
+       ``(A) a report showing how any money received under this 
+     subtitle in the preceding year was expended; and
+       ``(B) information that such applicant can meet the 
+     requirements described under subsection (d).
+       ``(3) Publication of application.--The Secretary shall--
+       ``(A) publish any report or information submitted in an 
+     application under this section in the geographic area 
+     represented by the collaborative applicant; and
+       ``(B) seek comments from the public as to whether the 
+     collaborative applicant seeking designation as a high-
+     performing community meets the requirements described under 
+     subsection (d).
+       ``(c) Use of Funds.--Funds awarded under section 422(a) to 
+     a project sponsor who is located in a high-performing 
+     community may be used--
+       ``(1) for any of the eligible activities described in 
+     section 423; or
+       ``(2) for any of the eligible activities described in 
+     paragraphs (4) and (5) of section 415(a).
+       ``(d) Definition of High-Performing Community.--For 
+     purposes of this section, the term `high-performing 
+     community' means a geographic area that demonstrates through 
+     reliable data that all five of the following requirements are 
+     met for that geographic area:
+       ``(1) Term of homelessness.--The mean length of episodes of 
+     homelessness for that geographic area--
+       ``(A) is less than 20 days; or
+       ``(B) for individuals and families in similar circumstances 
+     in the preceding year was at least 10 percent less than in 
+     the year before.
+       ``(2) Families leaving homelessness.--Of individuals and 
+     families--
+       ``(A) who leave homelessness, fewer than 5 percent of such 
+     individuals and families become homeless again at any time 
+     within the next 2 years; or
+       ``(B) in similar circumstances who leave homelessness, the 
+     percentage of such individuals and families who become 
+     homeless again within the next 2 years has decreased by at 
+     least 20 percent from the preceding year.
+       ``(3) Community action.--The communities that compose the 
+     geographic area have--
+       ``(A) actively encouraged homeless individuals and families 
+     to participate in homeless assistance services available in 
+     that geographic area; and
+       ``(B) included each homeless individual or family who 
+     sought homeless assistance services in the data system used 
+     by that community for determining compliance with this 
+     subsection.
+       ``(4) Effectiveness of previous activities.--If recipients 
+     in the geographic area have used funding awarded under 
+     section 422(a) for eligible activities described under 
+     section 415(a) in previous years based on the authority 
+     granted under subsection (c), that such activities were 
+     effective at reducing the number of individuals and families 
+     who became homeless in that community.
+       ``(5) Flexibility to serve persons defined as homeless 
+     under other federal laws.--With respect to collaborative 
+     applicants exercising the authority under section 422(j) to 
+     serve homeless families with children and youth defined as 
+     homeless under other Federal statutes, effectiveness in 
+     achieving the goals and outcomes identified in subsection 
+     427(b)(1)(F) according to such standards as the Secretary 
+     shall promulgate.
+       ``(e) Cooperation Among Entities.--A collaborative 
+     applicant designated as a high-performing community under 
+     this section shall cooperate with the Secretary in 
+     distributing information about successful efforts within the 
+     geographic area represented by the collaborative applicant to 
+     reduce homelessness.''.
+
+     SEC. 1304. PROGRAM REQUIREMENTS.
+
+       Section 426 of the McKinney-Vento Homeless Assistance Act 
+     (42 U.S.C. 11386) is amended--
+       (1) by striking subsections (a), (b), and (c) and inserting 
+     the following:
+       ``(a) Site Control.--The Secretary shall require that each 
+     application include reasonable assurances that the applicant 
+     will own or have control of a site for the proposed project 
+     not later than the expiration of the 12-month period 
+     beginning upon notification of an award for grant assistance, 
+     unless the application proposes providing supportive housing 
+     assistance under section 423(a)(3) or housing that will 
+     eventually be owned or controlled by the families and 
+     individuals served. An applicant may obtain ownership or 
+     control of a suitable site different from the site specified 
+     in the application. If any recipient or project sponsor fails 
+     to obtain ownership or control of the site within 12 months 
+     after notification of an award for grant assistance, the 
+     grant shall be recaptured and reallocated under this 
+     subtitle.
+       ``(b) Required Agreements.--The Secretary may not provide 
+     assistance for a proposed project under this subtitle unless 
+     the collaborative applicant involved agrees--
+       ``(1) to ensure the operation of the project in accordance 
+     with the provisions of this subtitle;
+       ``(2) to monitor and report to the Secretary the progress 
+     of the project;
+       ``(3) to ensure, to the maximum extent practicable, that 
+     individuals and families experiencing homelessness are 
+     involved, through employment, provision of volunteer 
+     services, or otherwise, in constructing, rehabilitating, 
+     maintaining, and operating facilities for the project and in 
+     providing supportive services for the project;
+       ``(4) to require certification from all project sponsors 
+     that--
+       ``(A) they will maintain the confidentiality of records 
+     pertaining to any individual or family provided family 
+     violence prevention or treatment services through the 
+     project;
+       ``(B) that the address or location of any family violence 
+     shelter project assisted under this subtitle will not be made 
+     public, except with written authorization of the person 
+     responsible for the operation of such project;
+       ``(C) they will establish policies and practices that are 
+     consistent with, and do not restrict the exercise of rights 
+     provided by, subtitle B of title VII, and other laws relating 
+     to the provision of educational and related services to 
+     individuals and families experiencing homelessness;
+       ``(D) in the case of programs that provide housing or 
+     services to families, they will designate a staff person to 
+     be responsible for ensuring that children being served in the 
+     program are enrolled in school and connected to appropriate 
+     services in the community, including early childhood programs 
+     such as Head Start, part C of the Individuals with 
+     Disabilities Education Act, and programs authorized under 
+     subtitle B of title VII of this Act(42 U.S.C. 11431 et seq.); 
+     and
+       ``(E) they will provide data and reports as required by the 
+     Secretary pursuant to the Act;
+       ``(5) if a collaborative applicant is a unified funding 
+     agency under section 402(g) and receives funds under subtitle 
+     C to carry out the payment of administrative costs described 
+     in section 423(a)(11), to establish such fiscal control and 
+     fund accounting procedures as may be necessary to assure the 
+     proper disbursal of, and accounting for, such funds in order 
+     to ensure that all financial transactions carried out with 
+     such funds are conducted, and records maintained, in 
+     accordance with generally accepted accounting principles;
+       ``(6) to monitor and report to the Secretary the provision 
+     of matching funds as required by section 430;
+       ``(7) to take the educational needs of children into 
+     account when families are placed in emergency or transitional 
+     shelter and will, to the maximum extent practicable, place 
+     families with children as close as possible to their school 
+     of origin so as not to disrupt such children's education; and
+       ``(8) to comply with such other terms and conditions as the 
+     Secretary may establish to carry out this subtitle in an 
+     effective and efficient manner.'';
+       (2) by redesignating subsection (d) as subsection (c);
+       (3) in the first sentence of subsection (c) (as so 
+     redesignated by paragraph (2) of this subsection), by 
+     striking ``recipient'' and inserting ``recipient or project 
+     sponsor'';
+       (4) by striking subsection (e);
+       (5) by redesignating subsections (f), (g), and (h), as 
+     subsections (d), (e), and (f), respectively;
+       (6) in the first sentence of subsection (e) (as so 
+     redesignated by paragraph (5) of this section), by striking 
+     ``recipient'' each place it appears and inserting ``recipient 
+     or project sponsor'';
+       (7) by striking subsection (i); and
+       (8) by redesignating subsection (j) as subsection (g).
+
+     SEC. 1305. SELECTION CRITERIA, ALLOCATION AMOUNTS, AND 
+                   FUNDING.
+
+       The McKinney-Vento Homeless Assistance Act is amended--
+       (1) by repealing section 429 (42 U.S.C. 11389); and
+       (2) by redesignating sections 427 and 428 (42 U.S.C. 11387, 
+     11388) as sections 432 and 433, respectively; and
+       (3) by inserting after section 426 the following new 
+     sections:
+
+     ``SEC. 427. SELECTION CRITERIA.
+
+       ``(a) In General.--The Secretary shall award funds to 
+     recipients through a national competition between geographic 
+     areas based on criteria established by the Secretary.
+       ``(b) Required Criteria.--
+       ``(1) In general.--The criteria established under 
+     subsection (a) shall include--
+       ``(A) the previous performance of the recipient regarding 
+     homelessness, including performance related to funds provided 
+     under section 412 (except that recipients applying from 
+     geographic areas where no funds have been awarded under this 
+     subtitle, or under subtitles C, D, E, or F of title IV of 
+     this Act, as in effect prior to the date of the enactment of 
+     the Homeless Emergency Assistance and Rapid Transition to 
+     Housing Act of 2009, shall receive full credit for 
+     performance under this subparagraph), measured by criteria 
+     that shall be announced by the Secretary, that shall take 
+     into account barriers
+
+[[Page 12785]]
+
+     faced by individual homeless people, and that shall include--
+       ``(i) the length of time individuals and families remain 
+     homeless;
+       ``(ii) the extent to which individuals and families who 
+     leave homelessness experience additional spells of 
+     homelessness;
+       ``(iii) the thoroughness of grantees in the geographic area 
+     in reaching homeless individuals and families;
+       ``(iv) overall reduction in the number of homeless 
+     individuals and families;
+       ``(v) jobs and income growth for homeless individuals and 
+     families;
+       ``(vi) success at reducing the number of individuals and 
+     families who become homeless;
+       ``(vii) other accomplishments by the recipient related to 
+     reducing homelessness; and
+       ``(viii) for collaborative applicants that have exercised 
+     the authority under section 422(j) to serve families with 
+     children and youth defined as homeless under other Federal 
+     statutes, success in achieving the goals and outcomes 
+     identified in section 427(b)(1)(F);
+       ``(B) the plan of the recipient, which shall describe--
+       ``(i) how the number of individuals and families who become 
+     homeless will be reduced in the community;
+       ``(ii) how the length of time that individuals and families 
+     remain homeless will be reduced;
+       ``(iii) how the recipient will collaborate with local 
+     education authorities to assist in the identification of 
+     individuals and families who become or remain homeless and 
+     are informed of their eligibility for services under subtitle 
+     B of title VII of this Act (42 U.S.C. 11431 et seq.);
+       ``(iv) the extent to which the recipient will--
+
+       ``(I) address the needs of all relevant subpopulations;
+       ``(II) incorporate comprehensive strategies for reducing 
+     homelessness, including the interventions referred to in 
+     section 428(d);
+       ``(III) set quantifiable performance measures;
+       ``(IV) set timelines for completion of specific tasks;
+       ``(V) identify specific funding sources for planned 
+     activities; and
+       ``(VI) identify an individual or body responsible for 
+     overseeing implementation of specific strategies; and
+
+       ``(v) whether the recipient proposes to exercise authority 
+     to use funds under section 422(j), and if so, how the 
+     recipient will achieve the goals and outcomes identified in 
+     section 427(b)(1)(F);
+       ``(C) the methodology of the recipient used to determine 
+     the priority for funding local projects under section 
+     422(c)(1), including the extent to which the priority-setting 
+     process--
+       ``(i) uses periodically collected information and analysis 
+     to determine the extent to which each project has resulted in 
+     rapid return to permanent housing for those served by the 
+     project, taking into account the severity of barriers faced 
+     by the people the project serves;
+       ``(ii) considers the full range of opinions from 
+     individuals or entities with knowledge of homelessness in the 
+     geographic area or an interest in preventing or ending 
+     homelessness in the geographic area;
+       ``(iii) is based on objective criteria that have been 
+     publicly announced by the recipient; and
+       ``(iv) is open to proposals from entities that have not 
+     previously received funds under this subtitle;
+       ``(D) the extent to which the amount of assistance to be 
+     provided under this subtitle to the recipient will be 
+     supplemented with resources from other public and private 
+     sources, including mainstream programs identified by the 
+     Government Accountability Office in the two reports described 
+     in section 203(a)(7);
+       ``(E) demonstrated coordination by the recipient with the 
+     other Federal, State, local, private, and other entities 
+     serving individuals and families experiencing homelessness 
+     and at risk of homelessness in the planning and operation of 
+     projects;
+       ``(F) for collaborative applicants exercising the authority 
+     under section 422(j) to serve homeless families with children 
+     and youth defined as homeless under other Federal statutes, 
+     program goals and outcomes, which shall include--
+       ``(i) preventing homelessness among the subset of such 
+     families with children and youth who are at highest risk of 
+     becoming homeless, as such term is defined for purposes of 
+     this title; or
+       ``(ii) achieving independent living in permanent housing 
+     among such families with children and youth, especially those 
+     who have a history of doubled-up and other temporary housing 
+     situations or are living in a temporary housing situation due 
+     to lack of available and appropriate emergency shelter, 
+     through the provision of eligible assistance that directly 
+     contributes to achieving such results including assistance to 
+     address chronic disabilities, chronic physical health or 
+     mental health conditions, substance addiction, histories of 
+     domestic violence or childhood abuse, or multiple barriers to 
+     employment; and
+       ``(G) such other factors as the Secretary determines to be 
+     appropriate to carry out this subtitle in an effective and 
+     efficient manner.
+       ``(2) Additional criteria.--In addition to the criteria 
+     required under paragraph (1), the criteria established under 
+     paragraph (1) shall also include the need within the 
+     geographic area for homeless services, determined as follows 
+     and under the following conditions:
+       ``(A) Notice.--The Secretary shall inform each 
+     collaborative applicant, at a time concurrent with the 
+     release of the notice of funding availability for the grants, 
+     of the pro rata estimated grant amount under this subtitle 
+     for the geographic area represented by the collaborative 
+     applicant.
+       ``(B) Amount.--
+       ``(i) Formula.--Such estimated grant amounts shall be 
+     determined by a formula, which shall be developed by the 
+     Secretary, by regulation, not later than the expiration of 
+     the 2-year period beginning upon the date of the enactment of 
+     the Homeless Emergency Assistance and Rapid Transition to 
+     Housing Act of 2009, that is based upon factors that are 
+     appropriate to allocate funds to meet the goals and 
+     objectives of this subtitle.
+       ``(ii) Combinations or consortia.--For a collaborative 
+     applicant that represents a combination or consortium of 
+     cities or counties, the estimated need amount shall be the 
+     sum of the estimated need amounts for the cities or counties 
+     represented by the collaborative applicant.
+       ``(iii) Authority of secretary.--Subject to the 
+     availability of appropriations, the Secretary shall increase 
+     the estimated need amount for a geographic area if necessary 
+     to provide 1 year of renewal funding for all expiring 
+     contracts entered into under this subtitle for the geographic 
+     area.
+       ``(3) Homelessness counts.--The Secretary shall not require 
+     that communities conduct an actual count of homeless people 
+     other than those described in paragraphs (1) through (4) of 
+     section 103(a) of this Act (42 U.S.C. 11302(a)).
+       ``(c) Adjustments.--The Secretary may adjust the formula 
+     described in subsection (b)(2) as necessary--
+       ``(1) to ensure that each collaborative applicant has 
+     sufficient funding to renew all qualified projects for at 
+     least one year; and
+       ``(2) to ensure that collaborative applicants are not 
+     discouraged from replacing renewal projects with new projects 
+     that the collaborative applicant determines will better be 
+     able to meet the purposes of this Act.
+
+     ``SEC. 428. ALLOCATION OF AMOUNTS AND INCENTIVES FOR SPECIFIC 
+                   ELIGIBLE ACTIVITIES.
+
+       ``(a) Minimum Allocation for Permanent Housing for Homeless 
+     Individuals and Families With Disabilities.--
+       ``(1) In general.--From the amounts made available to carry 
+     out this subtitle for a fiscal year, a portion equal to not 
+     less than 30 percent of the sums made available to carry out 
+     subtitle B and this subtitle, shall be used for permanent 
+     housing for homeless individuals with disabilities and 
+     homeless families that include such an individual who is an 
+     adult or a minor head of household if no adult is present in 
+     the household.
+       ``(2) Calculation.--In calculating the portion of the 
+     amount described in paragraph (1) that is used for activities 
+     that are described in paragraph (1), the Secretary shall not 
+     count funds made available to renew contracts for existing 
+     projects under section 429.
+       ``(3) Adjustment.--The 30 percent figure in paragraph (1) 
+     shall be reduced proportionately based on need under section 
+     427(b)(2) in geographic areas for which subsection (e) 
+     applies in regard to subsection (d)(2)(A).
+       ``(4) Suspension.--The requirement established in paragraph 
+     (1) shall be suspended for any year in which funding 
+     available for grants under this subtitle after making the 
+     allocation established in paragraph (1) would not be 
+     sufficient to renew for 1 year all existing grants that would 
+     otherwise be fully funded under this subtitle.
+       ``(5) Termination.--The requirement established in 
+     paragraph (1) shall terminate upon a finding by the Secretary 
+     that since the beginning of 2001 at least 150,000 new units 
+     of permanent housing for homeless individuals and families 
+     with disabilities have been funded under this subtitle.
+       ``(b) Set-Aside for Permanent Housing for Homeless Families 
+     With Children.--From the amounts made available to carry out 
+     this subtitle for a fiscal year, a portion equal to not less 
+     than 10 percent of the sums made available to carry out 
+     subtitle B and this subtitle for that fiscal year shall be 
+     used to provide or secure permanent housing for homeless 
+     families with children.
+       ``(c) Treatment of Amounts for Permanent or Transitional 
+     Housing.--Nothing in this Act may be construed to establish a 
+     limit on the amount of funding that an applicant may request 
+     under this subtitle for acquisition, construction, or 
+     rehabilitation activities for the development of permanent 
+     housing or transitional housing.
+       ``(d) Incentives for Proven Strategies.--
+       ``(1) In general.--The Secretary shall provide bonuses or 
+     other incentives to geographic areas for using funding under 
+     this subtitle for activities that have been proven to be 
+     effective at reducing homelessness generally, reducing 
+     homelessness for a specific subpopulation, or achieving 
+     homeless prevention and independent living goals as set forth 
+     in section 427(b)(1)(F).
+
+[[Page 12786]]
+
+       ``(2) Rule of construction.--For purposes of this 
+     subsection, activities that have been proven to be effective 
+     at reducing homelessness generally or reducing homelessness 
+     for a specific subpopulation includes--
+       ``(A) permanent supportive housing for chronically homeless 
+     individuals and families;
+       ``(B) for homeless families, rapid rehousing services, 
+     short-term flexible subsidies to overcome barriers to 
+     rehousing, support services concentrating on improving 
+     incomes to pay rent, coupled with performance measures 
+     emphasizing rapid and permanent rehousing and with leveraging 
+     funding from mainstream family service systems such as 
+     Temporary Assistance for Needy Families and Child Welfare 
+     services; and
+       ``(C) any other activity determined by the Secretary, based 
+     on research and after notice and comment to the public, to 
+     have been proven effective at reducing homelessness 
+     generally, reducing homelessness for a specific 
+     subpopulation, or achieving homeless prevention and 
+     independent living goals as set forth in section 
+     427(b)(1)(F).
+       ``(3) Balance of incentives for proven strategies.--To the 
+     extent practicable, in providing bonuses or incentives for 
+     proven strategies, the Secretary shall seek to maintain a 
+     balance among strategies targeting homeless individuals, 
+     families, and other subpopulations. The Secretary shall not 
+     implement bonuses or incentives that specifically discourage 
+     collaborative applicants from exercising their flexibility to 
+     serve families with children and youth defined as homeless 
+     under other Federal statutes.
+       ``(e) Incentives for Successful Implementation of Proven 
+     Strategies.--If any geographic area demonstrates that it has 
+     fully implemented any of the activities described in 
+     subsection (d) for all homeless individuals and families or 
+     for all members of subpopulations for whom such activities 
+     are targeted, that geographic area shall receive the bonus or 
+     incentive provided under subsection (d), but may use such 
+     bonus or incentive for any eligible activity under either 
+     section 423 or paragraphs (4) and (5) of section 415(a) for 
+     homeless people generally or for the relevant subpopulation.
+
+     ``SEC. 429. RENEWAL FUNDING AND TERMS OF ASSISTANCE FOR 
+                   PERMANENT HOUSING.
+
+       ``(a) In General.--Renewal of expiring contracts for 
+     leasing, rental assistance, or operating costs for permanent 
+     housing contracts may be funded either--
+       ``(1) under the appropriations account for this title; or
+       ``(2) the section 8 project-based rental assistance 
+     account.
+       ``(b) Renewals.--The sums made available under subsection 
+     (a) shall be available for the renewal of contracts in the 
+     case of tenant-based assistance, successive 1-year terms, and 
+     in the case of project-based assistance, successive terms of 
+     up to 15 years at the discretion of the applicant or project 
+     sponsor and subject to the availability of annual 
+     appropriations, for rental assistance and housing operation 
+     costs associated with permanent housing projects funded under 
+     this subtitle, or under subtitle C or F (as in effect on the 
+     day before the effective date of the Homeless Emergency 
+     Assistance and Rapid Transition to Housing Act of 2009). The 
+     Secretary shall determine whether to renew a contract for 
+     such a permanent housing project on the basis of 
+     certification by the collaborative applicant for the 
+     geographic area that--
+       ``(1) there is a demonstrated need for the project; and
+       ``(2) the project complies with program requirements and 
+     appropriate standards of housing quality and habitability, as 
+     determined by the Secretary.
+       ``(c) Construction.--Nothing in this section shall be 
+     construed as prohibiting the Secretary from renewing 
+     contracts under this subtitle in accordance with criteria set 
+     forth in a provision of this subtitle other than this 
+     section.
+
+     ``SEC. 430. MATCHING FUNDING.
+
+       ``(a) In General.--A collaborative applicant in a 
+     geographic area in which funds are awarded under this 
+     subtitle shall specify contributions from any source other 
+     than a grant awarded under this subtitle, including renewal 
+     funding of projects assisted under subtitles C, D, and F of 
+     this title as in effect before the effective date under 
+     section 1503 of the Homeless Emergency Assistance and Rapid 
+     Transition to Housing Act of 2009, that shall be made 
+     available in the geographic area in an amount equal to not 
+     less than 25 percent of the funds provided to recipients in 
+     the geographic area, except that grants for leasing shall not 
+     be subject to any match requirement.
+       ``(b) Limitations on In-Kind Match.--The cash value of 
+     services provided to the residents or clients of a project 
+     sponsor by an entity other than the project sponsor may count 
+     toward the contributions in subsection (a) only when 
+     documented by a memorandum of understanding between the 
+     project sponsor and the other entity that such services will 
+     be provided.
+       ``(c) Countable Activities.--The contributions required 
+     under subsection (a) may consist of--
+       ``(1) funding for any eligible activity described under 
+     section 423; and
+       ``(2) subject to subsection (b), in-kind provision of 
+     services of any eligible activity described under section 
+     423.
+
+     ``SEC. 431. APPEAL PROCEDURE.
+
+       ``(a) In General.--With respect to funding under this 
+     subtitle, if certification of consistency with the 
+     consolidated plan pursuant to section 403 is withheld from an 
+     applicant who has submitted an application for that 
+     certification, such applicant may appeal such decision to the 
+     Secretary.
+       ``(b) Procedure.--The Secretary shall establish a procedure 
+     to process the appeals described in subsection (a).
+       ``(c) Determination.--Not later than 45 days after the date 
+     of receipt of an appeal described in subsection (a), the 
+     Secretary shall determine if certification was unreasonably 
+     withheld. If such certification was unreasonably withheld, 
+     the Secretary shall review such application and determine if 
+     such applicant shall receive funding under this subtitle.''.
+
+     SEC. 1306. RESEARCH.
+
+       There is authorized to be appropriated $8,000,000, for each 
+     of fiscal years 2010 and 2011, for research into the efficacy 
+     of interventions for homeless families, to be expended by the 
+     Secretary of Housing and Urban Development over the 2 years 
+     at 3 different sites to provide services for homeless 
+     families and evaluate the effectiveness of such services.
+
+          TITLE IV--RURAL HOUSING STABILITY ASSISTANCE PROGRAM
+
+     SEC. 1401. RURAL HOUSING STABILITY ASSISTANCE.
+
+       Subtitle G of title IV of the McKinney-Vento Homeless 
+     Assistance Act (42 U.S.C. 11408 et seq.) is amended--
+       (1) by striking the subtitle heading and inserting the 
+     following:
+
+    ``Subtitle G--Rural Housing Stability Assistance Program''; and
+
+       (2) in section 491--
+       (A) by striking the section heading and inserting ``RURAL 
+     HOUSING STABILITY GRANT PROGRAM.'';
+       (B) in subsection (a)--
+       (i) by striking ``rural homelessness grant program'' and 
+     inserting ``rural housing stability grant program'';
+       (ii) by inserting ``in lieu of grants under subtitle C'' 
+     after ``eligible organizations''; and
+       (iii) by striking paragraphs (1), (2), and (3), and 
+     inserting the following:
+       ``(1) rehousing or improving the housing situations of 
+     individuals and families who are homeless or in the worst 
+     housing situations in the geographic area;
+       ``(2) stabilizing the housing of individuals and families 
+     who are in imminent danger of losing housing; and
+       ``(3) improving the ability of the lowest-income residents 
+     of the community to afford stable housing.'';
+       (C) in subsection (b)(1)--
+       (i) by redesignating subparagraphs (E), (F), and (G) as 
+     subparagraphs (I), (J), and (K), respectively; and
+       (ii) by striking subparagraph (D) and inserting the 
+     following:
+       ``(D) construction of new housing units to provide 
+     transitional or permanent housing to homeless individuals and 
+     families and individuals and families at risk of 
+     homelessness;
+       ``(E) acquisition or rehabilitation of a structure to 
+     provide supportive services or to provide transitional or 
+     permanent housing, other than emergency shelter, to homeless 
+     individuals and families and individuals and families at risk 
+     of homelessness;
+       ``(F) leasing of property, or portions of property, not 
+     owned by the recipient or project sponsor involved, for use 
+     in providing transitional or permanent housing to homeless 
+     individuals and families and individuals and families at risk 
+     of homelessness, or providing supportive services to such 
+     homeless and at-risk individuals and families;
+       ``(G) provision of rental assistance to provide 
+     transitional or permanent housing to homeless individuals and 
+     families and individuals and families at risk of 
+     homelessness, such rental assistance may include tenant-based 
+     or project-based rental assistance;
+       ``(H) payment of operating costs for housing units assisted 
+     under this title;'';
+       (D) in subsection (b)(2), by striking ``appropriated'' and 
+     inserting ``transferred'';
+       (E) in subsection (c)--
+       (i) in paragraph (1)(A), by striking ``appropriated'' and 
+     inserting ``transferred''; and
+       (ii) in paragraph (3), by striking ``appropriated'' and 
+     inserting ``transferred'';
+       (F) in subsection (d)--
+       (i) in paragraph (5), by striking ``; and'' and inserting a 
+     semicolon;
+       (ii) in paragraph (6)--
+
+       (I) by striking ``an agreement'' and all that follows 
+     through ``families'' and inserting the following: ``a 
+     description of how individuals and families who are homeless 
+     or who have the lowest incomes in the community will be 
+     involved by the organization''; and
+       (II) by striking the period at the end, and inserting a 
+     semicolon; and
+
+       (iii) by adding at the end the following:
+       ``(7) a description of consultations that took place within 
+     the community to ascertain the most important uses for 
+     funding under this section, including the involvement of 
+     potential beneficiaries of the project; and
+
+[[Page 12787]]
+
+       ``(8) a description of the extent and nature of 
+     homelessness and of the worst housing situations in the 
+     community.'';
+       (G) by striking subsections (f) and (g) and inserting the 
+     following:
+       ``(f) Matching Funding.--
+       ``(1) In general.--An organization eligible to receive a 
+     grant under subsection (a) shall specify matching 
+     contributions from any source other than a grant awarded 
+     under this subtitle, that shall be made available in the 
+     geographic area in an amount equal to not less than 25 
+     percent of the funds provided for the project or activity, 
+     except that grants for leasing shall not be subject to any 
+     match requirement.
+       ``(2) Limitations on in-kind match.--The cash value of 
+     services provided to the beneficiaries or clients of an 
+     eligible organization by an entity other than the 
+     organization may count toward the contributions in paragraph 
+     (1) only when documented by a memorandum of understanding 
+     between the organization and the other entity that such 
+     services will be provided.
+       ``(3) Countable activities.--The contributions required 
+     under paragraph (1) may consist of--
+       ``(A) funding for any eligible activity described under 
+     subsection (b); and
+       ``(B) subject to paragraph (2), in-kind provision of 
+     services of any eligible activity described under subsection 
+     (b).
+       ``(g) Selection Criteria.--The Secretary shall establish 
+     criteria for selecting recipients of grants under subsection 
+     (a), including--
+       ``(1) the participation of potential beneficiaries of the 
+     project in assessing the need for, and importance of, the 
+     project in the community;
+       ``(2) the degree to which the project addresses the most 
+     harmful housing situations present in the community;
+       ``(3) the degree of collaboration with others in the 
+     community to meet the goals described in subsection (a);
+       ``(4) the performance of the organization in improving 
+     housing situations, taking account of the severity of 
+     barriers of individuals and families served by the 
+     organization;
+       ``(5) for organizations that have previously received 
+     funding under this section, the extent of improvement in 
+     homelessness and the worst housing situations in the 
+     community since such funding began;
+       ``(6) the need for such funds, as determined by the formula 
+     established under section 427(b)(2); and
+       ``(7) any other relevant criteria as determined by the 
+     Secretary.'';
+       (H) in subsection (h)--
+       (i) in paragraph (1), in the matter preceding subparagraph 
+     (A), by striking ``The'' and inserting ``Not later than 18 
+     months after funding is first made available pursuant to the 
+     amendments made by title IV of the Homeless Emergency 
+     Assistance and Rapid Transition to Housing Act of 2009, 
+     the''; and
+       (ii) in paragraph (1)(A), by striking ``providing housing 
+     and other assistance to homeless persons'' and inserting 
+     ``meeting the goals described in subsection (a)'';
+       (iii) in paragraph (1)(B), by striking ``address 
+     homelessness in rural areas'' and inserting ``meet the goals 
+     described in subsection (a) in rural areas''; and
+       (iv) in paragraph (2)--
+
+       (I) by striking ``The'' and inserting ``Not later than 24 
+     months after funding is first made available pursuant to the 
+     amendment made by title IV of the Homeless Emergency 
+     Assistance and Rapid Transition to Housing Act of 2009, 
+     the'';
+       (II) by striking ``, not later than 18 months after the 
+     date on which the Secretary first makes grants under the 
+     program,''; and
+       (III) by striking ``prevent and respond to homelessness'' 
+     and inserting ``meet the goals described in subsection (a)'';
+
+       (I) in subsection (k)--
+       (i) in paragraph (1), by striking ``rural homelessness 
+     grant program'' and inserting ``rural housing stability grant 
+     program''; and
+       (ii) in paragraph (2)--
+
+       (I) in subparagraph (A), by striking ``; or'' and inserting 
+     a semicolon;
+       (II) in subparagraph (B)(ii), by striking ``rural census 
+     tract.'' and inserting ``county where at least 75 percent of 
+     the population is rural; or''; and
+       (III) by adding at the end the following:
+
+       ``(C) any area or community, respectively, located in a 
+     State that has population density of less than 30 persons per 
+     square mile (as reported in the most recent decennial 
+     census), and of which at least 1.25 percent of the total 
+     acreage of such State is under Federal jurisdiction, provided 
+     that no metropolitan city (as such term is defined in section 
+     102 of the Housing and Community Development Act of 1974) in 
+     such State is the sole beneficiary of the grant amounts 
+     awarded under this section.'';
+       (J) in subsection (l)--
+       (i) by striking the subsection heading and inserting 
+     ``Program Funding.--''; and
+       (ii) by striking paragraph (1) and inserting the following:
+       ``(1) In general.--The Secretary shall determine the total 
+     amount of funding attributable under section 427(b)(2) to 
+     meet the needs of any geographic area in the Nation that 
+     applies for funding under this section. The Secretary shall 
+     transfer any amounts determined under this subsection from 
+     the Community Homeless Assistance Program and consolidate 
+     such transferred amounts for grants under this section, 
+     except that the Secretary shall transfer an amount not less 
+     than 5 percent of the amount available under subtitle C for 
+     grants under this section. Any amounts so transferred and not 
+     used for grants under this section due to an insufficient 
+     number of applications shall be transferred to be used for 
+     grants under subtitle C.''; and
+       (K) by adding at the end the following:
+       ``(m) Determination of Funding Source.--For any fiscal 
+     year, in addition to funds awarded under subtitle B, funds 
+     under this title to be used in a city or county shall only be 
+     awarded under either subtitle C or subtitle D.''.
+
+     SEC. 1402. GAO STUDY OF HOMELESSNESS AND HOMELESS ASSISTANCE 
+                   IN RURAL AREAS.
+
+       (a) Study and Report.--Not later than the expiration of the 
+     12-month period beginning on the date of the enactment of 
+     this division, the Comptroller General of the United States 
+     shall conduct a study to examine homelessness and homeless 
+     assistance in rural areas and rural communities and submit a 
+     report to the Congress on the findings and conclusion of the 
+     study. The report shall contain the following matters:
+       (1) A general description of homelessness, including the 
+     range of living situations among homeless individuals and 
+     homeless families, in rural areas and rural communities of 
+     the United States, including tribal lands and colonias.
+       (2) An estimate of the incidence and prevalence of 
+     homelessness among individuals and families in rural areas 
+     and rural communities of the United States.
+       (3) An estimate of the number of individuals and families 
+     from rural areas and rural communities who migrate annually 
+     to non-rural areas and non-rural communities for homeless 
+     assistance.
+       (4) A description of barriers that individuals and families 
+     in and from rural areas and rural communities encounter when 
+     seeking to access homeless assistance programs, and 
+     recommendations for removing such barriers.
+       (5) A comparison of the rate of homelessness among 
+     individuals and families in and from rural areas and rural 
+     communities compared to the rate of homelessness among 
+     individuals and families in and from non-rural areas and non-
+     rural communities.
+       (6) A general description of homeless assistance for 
+     individuals and families in rural areas and rural communities 
+     of the United States.
+       (7) A description of barriers that homeless assistance 
+     providers serving rural areas and rural communities encounter 
+     when seeking to access Federal homeless assistance programs, 
+     and recommendations for removing such barriers.
+       (8) An assessment of the type and amount of Federal 
+     homeless assistance funds awarded to organizations serving 
+     rural areas and rural communities and a determination as to 
+     whether such amount is proportional to the distribution of 
+     homeless individuals and families in and from rural areas and 
+     rural communities compared to homeless individuals and 
+     families in non-rural areas and non-rural communities.
+       (9) An assessment of the current roles of the Department of 
+     Housing and Urban Development, the Department of Agriculture, 
+     and other Federal departments and agencies in administering 
+     homeless assistance programs in rural areas and rural 
+     communities and recommendations for distributing Federal 
+     responsibilities, including homeless assistance program 
+     administration and grantmaking, among the departments and 
+     agencies so that service organizations in rural areas and 
+     rural communities are most effectively reached and supported.
+       (b) Acquisition of Supporting Information.--In carrying out 
+     the study under this section, the Comptroller General shall 
+     seek to obtain views from the following persons:
+       (1) The Secretary of Agriculture.
+       (2) The Secretary of Housing and Urban Development.
+       (3) The Secretary of Health and Human Services.
+       (4) The Secretary of Education.
+       (5) The Secretary of Labor.
+       (6) The Secretary of Veterans Affairs.
+       (7) The Executive Director of the United States Interagency 
+     Council on Homelessness.
+       (8) Project sponsors and recipients of homeless assistance 
+     grants serving rural areas and rural communities.
+       (9) Individuals and families in or from rural areas and 
+     rural communities who have sought or are seeking Federal 
+     homeless assistance services.
+       (10) National advocacy organizations concerned with 
+     homelessness, rural housing, and rural community development.
+       (c) Effective Date.--This section shall take effect on the 
+     date of the enactment of this division
+
+               TITLE V--REPEALS AND CONFORMING AMENDMENTS
+
+     SEC. 1501. REPEALS.
+
+       Subtitles D, E, and F of title IV of the McKinney-Vento 
+     Homeless Assistance Act (42 U.S.C. 11391 et seq., 11401 et 
+     seq., and 11403 et seq.) are hereby repealed.
+
+[[Page 12788]]
+
+
+
+     SEC. 1502. CONFORMING AMENDMENTS.
+
+       (a) Consolidated Plan.--Section 403(1) of the McKinney-
+     Vento Homeless Assistance Act (as so redesignated by section 
+     1101(2) of this division), is amended--
+       (1) by striking ``current housing affordability strategy'' 
+     and inserting ``consolidated plan''; and
+       (2) by inserting before the comma the following: 
+     ``(referred to in such section as a `comprehensive housing 
+     affordability strategy')''.
+       (b) Persons Experiencing Homelessness.--Section 103 of the 
+     McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302), as 
+     amended by the preceding provisions of this division, is 
+     further amended by adding at the end the following new 
+     subsection:
+       ``(e) Persons Experiencing Homelessness.--Any references in 
+     this Act to homeless individuals (including homeless persons) 
+     or homeless groups (including homeless persons) shall be 
+     considered to include, and to refer to, individuals 
+     experiencing homelessness or groups experiencing 
+     homelessness, respectively.''.
+       (c) Rural Housing Stability Assistance.--Title IV of the 
+     McKinney-Vento Homeless Assistance Act is amended by 
+     redesignating subtitle G (42 U.S.C. 11408 et seq.), as 
+     amended by the preceding provisions of this division, as 
+     subtitle D.
+
+     SEC. 1503. EFFECTIVE DATE.
+
+       Except as specifically provided otherwise in this division, 
+     this division and the amendments made by this division shall 
+     take effect on, and shall apply beginning on--
+       (1) the expiration of the 18-month period beginning on the 
+     date of the enactment of this division, or
+       (2) the expiration of the 3-month period beginning upon 
+     publication by the Secretary of Housing and Urban Development 
+     of final regulations pursuant to section 1504,
+
+     whichever occurs first.
+
+     SEC. 1504. REGULATIONS.
+
+       (a) In General.--Not later than 12 months after the date of 
+     the enactment of this division, the Secretary of Housing and 
+     Urban Development shall promulgate regulations governing the 
+     operation of the programs that are created or modified by 
+     this division.
+       (b) Effective Date.--This section shall take effect on the 
+     date of the enactment of this division.
+
+     SEC. 1505. AMENDMENT TO TABLE OF CONTENTS.
+
+       The table of contents in section 101(b) of the McKinney-
+     Vento Homeless Assistance Act (42 U.S.C. 11301 note) is 
+     amended by striking the item relating to the heading for 
+     title IV and all that follows through the item relating to 
+     section 492 and inserting the following new items:
+
+                     ``TITLE IV--HOUSING ASSISTANCE
+
+                    ``Subtitle A--General Provisions
+
+``Sec. 401. Definitions.
+``Sec. 402. Collaborative applicants.
+``Sec. 403. Housing affordability strategy.
+``Sec. 404. Preventing involuntary family separation
+``Sec. 405. Technical assistance.
+``Sec. 406. Discharge coordination policy.
+``Sec. 407. Protection of personally identifying information by victim 
+              service providers.
+``Sec. 408. Authorization of appropriations.
+
+            ``Subtitle B--Emergency Solutions Grants Program
+
+``Sec. 411. Definitions.
+``Sec. 412. Grant assistance.
+``Sec. 413. Amount and allocation of assistance.
+``Sec. 414. Allocation and distribution of assistance.
+``Sec. 415. Eligible activities.
+``Sec. 416. Responsibilities of recipients.
+``Sec. 417. Administrative provisions.
+``Sec. 418. Administrative costs.
+
+                ``Subtitle C--Continuum of Care Program
+
+``Sec. 421. Purposes.
+``Sec. 422. Continuum of care applications and grants.
+``Sec. 423. Eligible activities.
+``Sec. 424. Incentives for high-performing communities.
+``Sec. 425. Supportive services.
+``Sec. 426. Program requirements.
+``Sec. 427. Selection criteria.
+``Sec. 428. Allocation of amounts and incentives for specific eligible 
+              activities.
+``Sec. 429. Renewal funding and terms of assistance for permanent 
+              housing.
+``Sec. 430. Matching funding.
+``Sec. 431. Appeal procedure.
+``Sec. 432. Regulations.
+``Sec. 433. Reports to Congress.
+
+        ``Subtitle D--Rural Housing Stability Assistance Program
+
+``Sec. 491. Rural housing stability assistance.
+``Sec. 492. Use of FHMA inventory for transitional housing for homeless 
+              persons and for turnkey housing.''.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Massachusetts (Mr. Frank) and the gentlewoman from West Virginia (Mrs. 
+Capito) each will control 20 minutes.
+  The Chair recognizes the gentleman from Massachusetts.
+  Mr. FRANK of Massachusetts. Mr. Speaker, this is our sending back to 
+the Senate a version of a bill which we passed earlier this year. They 
+then passed the bill in a form very close to ours, but in a couple of 
+areas where we felt it important to insist on our original position and 
+also to include some things that came up in the interim from the 
+administration.
+  It has several purposes. One, it enhances the ability of the 
+executive branch to reduce the number of foreclosures. Last year 
+Congress passed the HOPE for Homeowners program, which we hoped was 
+going to reduce foreclosures. We didn't get it right. We had a good 
+general idea, but it was passed in a form that was not very usable.
+  We have learned from the experience, and we have a version here that 
+we think is going to work much better. It includes, for instance, at 
+the request of HUD, a provision that will allow them to deal with the 
+problem of second mortgages, which has been an interference in our 
+ability to get foreclosures. It also includes, as it did originally, a 
+very good version of the safe harbor for services. That was a 
+bipartisan idea of the gentleman from Pennsylvania (Mr. Kanjorski) and 
+the gentleman from Delaware (Mr. Castle) to encourage those who are in 
+charge of the mortgage process to act when it makes more sense to write 
+down the mortgage and avoid foreclosure. It gives them the legal 
+ability to do that and withstand frivolous lawsuits.
+  It also has some provisions in here that are very important to those 
+smaller financial institutions that are the lifeblood of our 
+communities and which have been unfairly tarnished in this most recent 
+debate over financial institutions.
+  Community banks and the Independent Community Bankers of America have 
+a letter here, which I will put into the Record, which supports this 
+bill.
+  Community banks were facing a significant increase in the assessment 
+they get for deposit insurance. That was true. And this bill will 
+extend the deposit insurance, which was temporarily at $250,000, and 
+makes it permanent. That's very important for the smaller banks. It has 
+to be paid for. But also there were problems with the larger banks who 
+got in trouble.
+  Absent this bill, community banks would have been facing a very 
+significant increase in their assessment. Because this bill gives the 
+FDIC borrowing authority, standby authority in case it's needed, they 
+will not have to raise the assessment. The FDIC has to be ready to act. 
+And if there was not the borrowing authority, they would have to raise 
+the assessment to have a pool of money available. They have been, under 
+Sheila Bair's leadership, a very thoughtful and responsible 
+organization. Borrowing authority we will do. It's in here.
+  Similarly, there was a problem that threatened a significant increase 
+in the assessment that our local credit unions would have to pay 
+because of the failure of some large credit unions. There's a pattern 
+here of the larger institutions' failure imposing costs on the smaller. 
+It's our job to prevent that from happening.
+  What we have here is a provision that the gentleman from Pennsylvania 
+(Mr. Kanjorski) has worked on. We worked with the National Credit Union 
+Administration. It provides a mechanism by which the significant 
+increased assessment on the credit union can be avoided. That's why the 
+National Credit Union Association has sent in a letter in support of 
+this.
+  We will, as I said, be reducing foreclosures and helping the mortgage 
+market. So the National Association of REALTORS has sent in a letter in 
+support of this. And because it is good for the banking industry in 
+general, the American Bankers Association has supported this.
+  Our major financial institution representatives support this bill. As 
+I said, it enhances our ability to reduce foreclosures. It averts 
+significant increases in assessments that would go to the credit unions 
+and the community banks. It also includes language which we have been 
+working on and this House had passed, and it was bipartisan in our 
+committee, improving the programs for the homeless.
+
+[[Page 12789]]
+
+  We made several important compromises on that. The gentlewoman from 
+West Virginia who is here as the ranking member of the Housing 
+Subcommittee on our committee worked on this. We incorporated that in 
+this bill. So it is widely supported by people who are in the field of 
+the homeless. It is, in general, an important piece of legislation that 
+responds as well as we can to this foreclosure crisis.
+  Myself and a majority of the House clearly would have preferred if it 
+had included the authority of bankruptcy courts to reduce mortgages on 
+primary residences. We passed that in the House. It failed in the 
+Senate. Our colleague from California (Ms. Lofgren) and the chairman of 
+the Judiciary Committee, Mr. Conyers, and others made a very valiant 
+effort to resuscitate it. It was not possible. I regret that. I hope we 
+won't give up on that. I think it's a glaringly illogical and unfair 
+part of the law, but it would be a mistake, in my judgment, to allow 
+that failure to get the votes that we tried to get in the Senate to 
+stop the very many other important parts of the bill.
+  So, as I said, I move to suspend the rules. I hope we can send this 
+soon to the President. If we pass this bill, it will go to the Senate; 
+and I believe that the Senate will adopt it and send it on to the 
+President.
+                                             Independent Community
+
+
+                                           Bankers of America,
+
+                                                     May 18, 2009.
+     Hon. Nancy Pelosi,
+     Speaker of the House, House of Representatives, Washington, 
+         DC.
+     Hon. John A. Boehner,
+     Minority Leader, House of Representatives, Washington, DC.
+
+     RE S. 896, the Helping Families Save their Homes Act of 2009
+       Dear Speaker Pelosi and Minority Leader Boehner: The 
+     Independent Community Bankers of America (ICBA), on behalf of 
+     its 5,000 community bank members nationwide, are writing to 
+     express our strong support for S. 896, the Helping Families 
+     Save their Homes Act of 2009, which the House will consider 
+     on the suspension calendar tomorrow. Several provisions in S. 
+     896 are important to community bankers: the deposit insurance 
+     provisions--including extending the increase in deposit 
+     insurance coverage to $250,000, increasing the FDIC's 
+     borrowing authority, making the assessments for the Temporary 
+     Liquidity Guarantee Program more equitable--plus improvements 
+     to the Hope for Homeowners Program (H4H).
+
+
+                           Deposit Insurance
+
+       The Emergency Economic Stabilization Act temporarily 
+     increased deposit insurance coverage from $100,000 to 
+     $250,000. The additional coverage has enhanced community bank 
+     liquidity and stability at this critical time. We are pleased 
+     S. 896 would extend this increase. Community banks also 
+     support provisions increasing the FDIC's authority to borrow 
+     from the Treasury, if needed. The increased authority will 
+     allow the FDIC to reduce its planned second quarter special 
+     assessment on all banks, keeping vital capital within 
+     community banks to support lending, while still ensuring an 
+     adequately funded Deposit Insurance Fund. ICBA also supports 
+     a provision to allow the FDIC to assess all financial 
+     institutions, including holding companies, benefiting from 
+     its Temporary Liquidity Guarantee Program, in the case of a 
+     deficit in the program. Current law only permits assessments 
+     against banks and thrifts.
+
+
+         Hope for Homeowners and Servicer Safe Harbor Provision
+
+       Community banks support improvements to the Hope for 
+     Homeowners Program and the servicer safe harbor provisions 
+     found in S. 896. ICBA agrees minimizing foreclosures is 
+     essential to the effort to stabilize the U.S. economy. 
+     Foreclosure is often a very lengthy, costly and destructive 
+     process that puts downward pressure on the price of nearby 
+     homes and has a devastating impact on families and 
+     communities. The changes to the Hope for Homeowners Program 
+     and the servicer safe harbor provision will foster more 
+     voluntary loan modifications and are a positive step in 
+     bringing stability to the mortgage and housing markets.
+       We strongly urge a yes vote for S. 896. Thank you for 
+     considering our views.
+           Sincerely,
+                                                   Camden R. Fine,
+     President and CEO.
+                                  ____
+
+                                     American Bankers Association,
+                                     Washington, DC, May 19, 2009.
+     Hon. Nancy Pelosi,
+     Speaker of the House, House of Representatives, Washington, 
+         DC.
+     Hon. John Boehner,
+     Republican Leader, House of Representatives, Washington, DC.
+       Dear Speaker Pelosi and Representative Boehner: I am 
+     writing on behalf of the members of the American Bankers 
+     Association in strong support of S. 896, the Helping Families 
+     Save Their Homes Act of 2009, which will be considered by the 
+     House today on the suspension calendar.
+       The legislation provides the Federal Deposit Insurance 
+     Corporation (FDIC) with a much needed increase in its 
+     borrowing authority, extends the period for the restoration 
+     of the FDIC's deposit insurance fund from five to eight 
+     years, and provides a temporary extension (through 2013) of 
+     the FDIC's $250,000 deposit insurance limit.
+       The legislation also will make it easier for servicers to 
+     modify loan agreements. It improves the Hope for Homeowners 
+     Program to make it more accessible for lenders and better 
+     able to help homeowners avoid foreclosures.
+       ABA urges the House to pass this very important 
+     legislation. The increase in borrowing authority will enable 
+     the FDIC to reduce the proposed special assessment on all 
+     banks, thereby increasing funds available for lending in 
+     local communities.
+       We look forward to working with you to have S. 896 enacted 
+     into law as quickly as possible.
+           Sincerely,
+     Floyd E. Stoner.
+                                  ____
+
+
+
+                            Credit Union National Association,
+
+                                     Washington, DC, May 19, 2009.
+     Hon. Nancy Pelosi,
+     Speaker, House of Representatives, Washington, DC.
+     Hon. John Boehner,
+     Minority Leader, House of Representatives, Washington, DC.
+       Dear Speaker Pelosi and Ranking Member Boehner: On behalf 
+     of the Credit Union National Association (CUNA), I am writing 
+     in support of S. 896, the Helping Families Save Their Homes 
+     Act. CUNA is the largest credit union trade association, 
+     representing nearly 90% of America's 8,000 state and 
+     federally chartered credit unions and their 92 million 
+     members.
+       CUNA strongly supports S. 896, a bill that includes a 
+     number of provisions aimed at helping credit unions continue 
+     to help their members weather the financial crisis and 
+     maintain member confidence in credit unions. Credit unions 
+     consider this a critical vote.
+       S. 896 would extend the increase in deposit insurance 
+     coverage ($250,000) for the National Credit Union Share 
+     Insurance Fund (NCUS IF) that Congress enacted on as part of 
+     the Emergency Economic Stabilization Act of 2008, until 
+     December 31, 2013. This provision is an important step that 
+     will help maintain member confidence in credit unions.
+       S. 896 also includes a number of provisions aimed at 
+     helping credit unions manage the impact of the financial 
+     crisis on the credit union system. Even though credit unions 
+     use strong underwriting standards to make loans to their 
+     members and keep most of their mortgages in portfolio, no 
+     financial institution is immune from the current economic 
+     situation. Corporate credit unions, which provide payment, 
+     settlement, investment and other services for natural person 
+     credit unions, have been particularly hard hit by the 
+     economic maelstrom.
+       On March 20, the National Credit Union Administration 
+     (NCUA) placed two corporate credit unions--U.S. Central and 
+     Western Corporate Federal Credit Union (Wescorp)--into 
+     conservatorship. The losses at the two corporate credit 
+     unions were created by declines in the value of mortgage-
+     backed securities in which they invested. Although these 
+     securities were originally AAA-rated and appeared prudent 
+     when the investments were made, market developments proved to 
+     the contrary. Despite these investment losses, the payment 
+     and settlement services provided by these corporate credit 
+     unions continue to be offered on a very sound basis.
+       The credit union system itself is covering the losses on 
+     these corporate credit union investments by way of a 
+     significant NCUSIF insurance assessment on all federally 
+     insured natural person credit unions. Under current law, 
+     credit unions must replenish their NCUSIF deposits equal to 
+     1% of their insured shares on an annual basis and are also 
+     subject to premium charges when the fund drops below a 1.2% 
+     equity ratio. While credit unions expect to pay for the 
+     corporate credit union problem themselves, they would like to 
+     spread the losses over time, as banks are permitted to do for 
+     their insurance costs under current law.
+       S. 896 would increase NCUA's borrowing authority from 
+     Treasury from $100 million to $6 billion, with the ability to 
+     borrow as much as $30 billion in exigent circumstances 
+     through December 2010. The amendment also establishes a 
+     Temporary Corporate Stabilization Fund that would also help 
+     NCUA to spread out credit unions' insurance costs over seven 
+     years. Spreading these costs over multiple years means that 
+     credit unions can use the funds that otherwise would have 
+     been used to pay the assessment immediately to make credit 
+     available to their members. CUNA strongly supports both the 
+     additional borrowing authority for NCUA as well as the 
+     establishment of the Temporary Corporate Stabilization fund.
+       Time is of the essence. We appreciate the timely 
+     consideration of the S. 896 and hope the legislation can be 
+     enacted expeditiously.
+       On behalf of America's credit unions, thank you very much 
+     for your consideration.
+
+[[Page 12790]]
+
+     Please support the S. 896, the Helping Families Save Their 
+     Homes Act.
+           Sincerely,
+                                                   Daniel A. Mica,
+     President & CEO.
+                                  ____
+
+                                           National Association of
+
+
+                                        Federal Credit Unions,
+
+                                Arlington, Virginia, May 19, 2009.
+     Hon. Nancy Pelosi,
+     Speaker of the House, House of Representatives, Washington, 
+         D.C.
+     Hon. John Boehner,
+     Minority Leader, House of Representatives, Washington, DC.
+       Dear Speaker Pelosi and Minority Leader Boehner: On behalf 
+     of the National Association of Federal Credit Unions (NAFCU), 
+     the only trade association exclusively representing the 
+     interests of our nation's federal credit unions, I am writing 
+     to express our support for S. 896, the ``Helping Families 
+     Save Their Homes Act of 2009'' and to urge the House to 
+     support this legislation when it is considered on the 
+     suspension calendar today.
+       S. 896 would adopt the corporate credit union stabilization 
+     fund proposal recently released by the National Credit Union 
+     Administration (NCUA). NCUA's decision to place two corporate 
+     credit unions into conservatorship earlier this year has led 
+     to losses of approximately $5.9 billion to the National 
+     Credit Union Share Insurance Fund (NCUSIF). Under present 
+     regulations, natural-person credit unions will be assessed a 
+     heavy charge in 2009 to recapitalize the NCUSIF. Swift 
+     implementation of the NCUA proposal is necessary to prevent 
+     more than two-thirds of our nation's credit unions from 
+     having negative earnings for 2009, as well as to ensure that 
+     they are adequately capitalized. The creation of the 
+     temporary corporate credit union stabilization fund and the 
+     seven year timeframe for repayment of loans to the fund will 
+     provide immediate relief to large insurance fund premiums 
+     facing natural-person credit unions otherwise.
+       We also applaud the adoption of a longer time frame for the 
+     repayment of NCUSIF premiums contained in S. 896. By 
+     lengthening the repayment term to eight years, Congress 
+     ensures credit unions will be able to focus more of their 
+     resources on making loans that will strengthen the economy, 
+     rather than having to divert them to rebuild the NCUSIF.
+       Finally, as part of the Emergency Economic Stabilization 
+     Act of 2008, Congress increased the coverage on FDIC and 
+     NCUSIF insured accounts to $250,000 through December 31, 
+     2009. This change serves to maintain public confidence in 
+     insured depository institutions in the current economic 
+     environment. S. 896 would extend the higher insurance level 
+     for four more years, to 2013. This extension would ease 
+     confusion many credit unions and their members already have 
+     about the pending sunset on December 31st.
+       NAFCU thanks you for your time and consideration regarding 
+     these matters. We urge the House to vote ``yes'' and support 
+     S. 896 when it is considered on the suspension calendar 
+     today. Should you have any questions or require any 
+     additional information please do not hesitate to contact me 
+     or Brad Thaler, NAFCU's Director of Legislative Affairs, at 
+     703-522-4775, ext 204.
+           Sincerely,
+                                                    B. Dan Berger,
+     Senior Vice President of Government Affairs.
+                                  ____
+
+                                              National Association
+
+
+                                       of REALTORS<SUP>'</SUP>
+
+                                     Washington, DC, May 19, 2009.
+     Hon. Barney Frank,
+     House of Representatives, Rayburn House Office Building, 
+         Washington, DC.
+       Dear Chairman Frank: The 1.2 million members of the 
+     National Association of REALTORS<SUP>'</SUP> urge support of 
+     S. 896, the ``Helping Families Save Their Homes Act'', which 
+     passed the Senate on May 6, 2009 by a vote of 91-5.
+       S. 896 includes a number of much-needed provisions to limit 
+     foreclosures and keep families in their homes. The bill will 
+     expand loan modifications by providing a safe harbor for 
+     mortgage servicers who conduct loan modifications in good 
+     faith. The bill reforms the Hope for Homeowners program, 
+     preserving benefits to homeowners while limiting risks to the 
+     FHA fund and the taxpayer. The bill also strengthens 
+     oversight of FHA-approved lenders to protect the FHA fund and 
+     taxpayers from fraud and abuse. Finally, the bill establishes 
+     a task-force to investigate mortgage foreclosure fraud.
+       NAR asks for your support of S. 896, which will allow more 
+     American families to avoid foreclosure and will help in our 
+     housing recovery.
+           Sincerely,
+                                      Charles McMillan, CIPS, GRI,
+     2009 President, National Association of REALTORS<SUP>'</SUP>.
+
+  I reserve the balance of my time.
+  Mrs. CAPITO. Mr. Speaker, I rise today in support of S. 896, the 
+Helping Families Save Their Homes Act of 2009. As the chairman 
+mentioned, it has broad-based support from a lot of groups that have 
+been working with this bill.
+  Before I begin to discuss the specific provisions contained in this 
+bill, I would like to talk about one of the provisions that is not in 
+this bill. Thanks in large part to unified Republican opposition in the 
+House and Senate, the bill does not include bankruptcy cramdown 
+provisions. I joined with many of my colleagues in speaking against 
+this provision, which previously passed the House and, in my opinion, 
+would have caused untold damage to the mortgage market and 
+substantially increased costs for consumers.
+  Allowing bankruptcy judges to unilaterally rewrite mortgage contracts 
+is not the solution to the problems in our housing markets. The other 
+body should, therefore, be commended for rejecting attempts to add 
+cramdown provisions to this legislation.
+  Unfortunately, not all of the problematic provisions have been 
+removed from the bill. The majority continues to insist upon salvaging 
+the failed HOPE for Homeowners program. Last year HOPE for Homeowners 
+was promoted as a way to assist hundreds of thousands of homeowners to 
+modify their mortgages. To date, the program has helped only a handful 
+of distressed borrowers. S. 896 attempts to fix HOPE for Homeowners by 
+increasing the taxpayer subsidy for lenders seeking to offload their 
+worst mortgages on the government.
+  Because mortgages modified under HOPE for Homeowners received an FHA 
+guarantee, the inevitable losses that will result from defaults on many 
+of these mortgages will further undermine, I believe, the solvency of 
+that critical program.
+  It is important to note that the FHA is already under stress and that 
+the Department of Housing and Urban Development has made an 
+unprecedented budget request of almost $800 million to keep the FHA 
+afloat. Perhaps a better approach than trying to improve the HOPE for 
+Homeowners program would have been to end it altogether.
+  I've authored legislation that would provide the Department of 
+Housing and Urban Development with the ability to set up a program to 
+assist struggling borrowers that gives the department much-needed 
+flexibility to adjust to market changes. Yet there are many useful 
+reforms in this legislation that are worthy of Republican support.
+  First, the Senate included provisions based on legislation by Dr. 
+Paul of this House that will greatly increase the transparency and 
+accountability of various Federal Reserve liquidity facilities and 
+specific initiatives to rescue individual firms that the government has 
+deemed too big to fail by giving the GAO the statutory authority to 
+audit these programs.
+  Second, the bill includes provisions to ease the crippling deposit 
+insurance premiums that community banks, banks and credit unions will 
+otherwise face in the coming months.
+  And third, the Senate bill includes a comprehensive reauthorization 
+of the McKinney-Vento homelessness program which, as the chairman 
+noted, was passed in a strong bipartisan manner here in the last 
+Congress.
+  We had significant contributions from many of my colleagues on both 
+sides of the aisle. I'd like to thank Mrs. Biggert and Mr. Geoff Davis 
+of Kentucky from our side.
+  Mr. Chairman, S. 896 is far from a perfect bill, but S. 896 no longer 
+contains what I believe were harmful bankruptcy provisions which could 
+have further paralyzed the mortgage finance market. S. 896 will also 
+make crucial changes in the deposit area which should help advance the 
+economic recovery. For these reasons, I urge Members to support S. 896.
+  I would like to reserve the balance of my time.
+  Mr. FRANK of Massachusetts. Mr. Speaker, I did want to respond, and I 
+appreciate the support from the gentlewoman for the bill.
+  With regard to the FHA, I just want to read from the National 
+Association of REALTORS letter because they, as much as any entity in 
+this country, have an interest in a strong FHA.
+  Contrary to the wishes expressed by the gentlewoman from West 
+Virginia, the REALTORS approve of the fact
+
+[[Page 12791]]
+
+that we are improving the HOPE for Homeowners program. It says, ``The 
+bill reforms the HOPE for Homeowners program, preserving benefits to 
+homeowners while limiting risks to the FHA fund and the taxpayer. The 
+bill also strengthens oversight of FHA-approved lenders to protect the 
+FHA Fund and taxpayers from fraud and abuse.''
+  At the hearing that we had earlier this year--and that was when the 
+Bush administration was still in power--career employees of the FHA 
+noted that they do not have, and will not have until this bill becomes 
+law, the power to prevent applicants for FHA funding who have a record 
+of abuse from applying again.
+  So at the initiative of the Committee on Financial Services, the 
+gentlewoman from California (Ms. Speier) and the gentlewoman from 
+California (Ms. Waters), we added that to this language.
+  So what this bill includes is a very important power for the FHA to 
+debar, to use the appropriate legal term, people who have had a record 
+of fraud. That's one of the reasons why we think that the FHA is 
+strengthened by this bill.
+  I reserve the balance of my time.
+  Mrs. CAPITO. In response to the chairman, we argued this in committee 
+over whether it was wise to throw a lifeline to HOPE for Homeowners or 
+to re-create the program or a program, and that's why this legislation 
+is important because it does improve that. It does improve HOPE for 
+Homeowners. But I would just like to note, to this date from October 1, 
+2008, to May 16, 2009, we've only had 954 applications and only 55 
+closings. And this is for a program that was sold to us basically under 
+the guise that it was going to help 25,000, at least, homeowners. So 
+far we're looking at 55.
+
+                              {time}  1400
+
+  At this point I would like to yield 2 minutes to the gentlewoman from 
+Kansas, a great member of our committee.
+  Ms. JENKINS. I rise today in support of one provision in particular 
+of the underlying bill which allows for increased borrowing authority 
+for the FDIC and the NCUA.
+  Community financial institutions in Kansas are facing a sizable 
+special assessment due to the deposit insurance funds being drawn down 
+with the failure of numerous institutions across the Nation. Just last 
+week I had a great opportunity to visit with several bankers from 
+across the State who were in town with the Independent Community 
+Bankers Association.
+  Growing up in rural Kansas, I know full well the close-knit 
+communities in which these and other financial institutions operate 
+across eastern Kansas, faithfully investing the hard-earned dollars of 
+their neighbors to the betterment of the community and the depositors.
+  These bankers impressed upon me the need for this borrowing 
+authority. With the special assessment as it is today, banks and credit 
+unions face further hardship meeting regulatory capital requirements 
+and lending demands. However, the FDIC has indicated that passage of 
+increased borrowing authority may result in a reduction of this special 
+assessment by as much as half. This potential has my constituents 
+asking this body and me to pass this provision.
+  It is clear that recent institutional failures have significantly 
+increased losses of the insurance funds. However, by and large, the 
+financial institutions in my district did not cause this economic 
+trauma. We must be careful that these community institutions which 
+serve so many folks are not unfairly saddled with higher premiums to 
+compensate for the mistakes of others.
+  Mr. FRANK of Massachusetts. I yield 3 minutes to the gentlewoman from 
+California (Ms. Waters), the chairwoman of the Housing Subcommittee 
+which played a major role in our efforts to deal with this crisis.
+  Ms. WATERS. Thank you very much, Mr. Chairman.
+  Mr. Speaker and Members, I would first like to thank Chairman Barney 
+Frank for the leadership that he has provided on all of these issues 
+related to this economic crisis that we have been confronted with. Some 
+of these issues, not expected, were thrown into his lap in an unusual 
+way. And he has been able to guide our caucus in our House in ways that 
+help to bring us to the point of passing this kind of legislation, the 
+Helping Families Save Their Homes Act of 2009.
+  So I rise in support of S. 896, the Helping Families Save Their Homes 
+Act of 2009. As chairwoman of the Financial Services Subcommittee on 
+Housing and Community Opportunity, I believe that the housing 
+components of this bill will be essential in helping families and 
+communities.
+  I am especially pleased that the bill includes a provision I authored 
+to ensure that the FHA loan programs are out of bounds for the very 
+worst subprime lenders who created this mortgage mess in the first 
+place.
+  S. 896 also includes legislation drafted by my subcommittee to 
+reauthorize and expand the McKinney-Vento Homelessness Assistance 
+Program. Given the increase in homelessness due to the foreclosure 
+crisis, inclusion of the McKinney-Vento legislation is both timely and 
+appropriate. In addition the bill includes vital protections for 
+renters facing evictions as a result of their landlord's foreclosure.
+  Finally, I am pleased that I was able to work with Senator Leahy on 
+making improvements to the Neighborhood Stabilization Program in order 
+to allow States that receive the minimum allocation of funding to 
+provide that funding to areas with homes at risk or in foreclosure.
+  While I believe S. 896 is an important piece of legislation, I am 
+disappointed that it does not include a House-passed provision to allow 
+judges to modify mortgages through bankruptcy. I am concerned that 
+without this provision, we may continue to see an increase in the 
+number of foreclosures.
+  I support S. 896, the Helping Families Save Their Homes Act of 2009.
+  And I would urge my colleagues to vote ``yes.''
+  Mrs. CAPITO. At this point, I have no further speakers. I would just 
+like to reiterate my support for the bill, and I yield back the balance 
+of my time.
+
+
+                             General Leave
+
+  Mr. FRANK of Massachusetts. Mr. Speaker, I ask unanimous consent that 
+all Members may have 5 legislative days in which to revise and extend 
+their remarks and include extraneous material on this legislation.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Massachusetts?
+  There was no objection.
+  Mrs. BIGGERT. Mr. Speaker, I would like to submit my entire statement 
+for the Record. Mr. Speaker, I'm disappointed that, at the last minute, 
+the Rules Committee cancelled its scheduled hearing on this bill, S. 
+896, preventing Members from filing amendments to improve it.
+  Let me start by saying that this bill has important provisions that I 
+support. It significantly reforms homeless housing programs, increases 
+funds for housing counseling and to warn consumers about foreclosure 
+rescue scams, provides a safe harbor for servicers and enhances other 
+programs to help qualified homeowners save their homes. The bill 
+creates a database on the root causes of foreclosures and authorizes a 
+mortgage fraud task force. Provisions to increase the FDIC and NCUA's 
+borrowing authority and extend the time needed to restore their 
+insurance funds, for financial institutions, aim to stabilize insurance 
+fees and free up capital so they can lend to consumers and small 
+businesses. In addition, the bill increases Federal Reserve 
+transparency and TARP oversight--two very important items for 
+taxpayers.
+  Despite these good provisions in the bill, it still falls short. To 
+address these shortcomings, I intended to offer a few bi-partisan 
+amendments but was denied the opportunity. Mr. Speaker, I would like to 
+insert the text of these amendments for the Record and say a few words.
+  First, the bill is too light on housing counseling. Counselors are on 
+the front lines of the foreclosure crisis and often the first place 
+homeowners turn to for help. Three hundred Members voted for this 
+language, as part of H.R. 1728, to bolster HUD's housing counseling 
+programs, enhance program coordination, increase grants and streamline 
+the process, as well as launch a national outreach campaign.
+  My second amendment, cosponsored by Mr. Neugebauer, would have 
+required HUD and
+
+[[Page 12792]]
+
+the Fed to coordinate efforts to produce compatible and improved 
+residential mortgage disclosures. Consumers deserve nothing less. 
+Again, earlier this month, 300 Members voted for H.R. 1728, which 
+contained the exact language of this amendment.
+  Third, recent reports indicated that one in fifty U.S. children is 
+homeless, and during the 2007-2008 school year, there was an 18 percent 
+increase in the number of homeless students. Why? The rise in 
+foreclosures and decline in jobs, but also--something fairly unknown--
+some agencies can help all homeless kids, but HUD cannot. Does that 
+make sense?
+  To help address this mismatch in programs, Ms. McCarthy, Mr. Davis, 
+and I have an amendment to allow HUD to provide homeless housing and 
+services to all homeless children who are already served by programs 
+run by the Departments of Education, Health and Human Services, and 
+Justice. Homeless kids should be our top priority.
+  Thanks to concessions made by some of my colleagues here and in the 
+Senate, the underlying bill, S. 896, moves an inch to help these kids, 
+but it should move miles.
+  Speaking of miles, I would like to take a moment to recognize a 
+courageous, young man who is fighting with us on this issue. On Sunday, 
+USA Today reported that an 11-year old boy from Florida, Zach Bonner, 
+is hiking from Florida to Washington, DC, and collecting letters from 
+homeless kids on the way to deliver to President Obama. Thank you, 
+Zach. Keep hiking. We're with you. I hope that other Members of 
+Congress and this Administration can be so brave and fix the law to 
+help homeless kids.
+  I hope my colleagues, in particular, Chairman Frank, will commit our 
+Committee to continue work on these very important matters.
+
+        Amendment to S. 896. Offered by Mrs. Biggert of Illinois
+
+       Page 86, after line 14, insert the following new title:
+
+                 TITLE IX--OFFICE OF HOUSING COUNSELING
+
+     SEC. 901. EXPANSION AND PRESERVATION OF HOME OWNERSHIP 
+                   THROUGH COUNSELING.
+
+       Title IV of H.R. 1728, An Act to amend the Truth in Lending 
+     Act to reform consumer mortgage practices and provide 
+     accountability for such practices, to provide certain minimum 
+     standards for such consumer loans, and for other purposes, as 
+     passed the House of Representatives on May 7, 2009, is hereby 
+     enacted into law with the following amendments:
+       (1) In the paragraph added to section 106(a) of the Housing 
+     and Urban Development Act of 1968 by the amendment made by 
+     section 404 of such title, strike subparagraph (D).
+       (2) Strike section 409 of such title.
+                                  ____
+
+
+   Amendment to S. 896. Offered by Mrs. Biggert of Illinois and Mr. 
+                          Neugebauer of Texas
+
+       Page 18, after line 2, insert the following new section:
+
+     SEC. 106. RESPA AND TILA DISCLOSURE IMPROVEMENT.
+
+       (a) Compatible Disclosures.--The Secretary of Housing and 
+     Urban Development and the Board of Governors of the Federal 
+     Reserve shall, not later than the expiration of the 6-month 
+     period beginning upon the date of the enactment of this Act, 
+     jointly issue for public comment proposed regulations 
+     providing for compatible disclosures for borrowers to receive 
+     at the time of mortgage application and at the time of 
+     closing.
+       (b) Requirements.--Such disclosures shall--
+       (1) provide clear and concise information to borrowers on 
+     the terms and costs of residential mortgage transactions and 
+     mortgage transactions covered by the Truth in Lending Act (12 
+     U.S.C. 1601 et seq.) and the Real Estate Settlement 
+     Procedures Act of 1974 (12 U.S.C. 2601 et seq.);
+       (2) satisfy the requirements of section 128 of the Truth in 
+     Lending Act (12 U.S.C. 1638) and section 4 and 5 of the Real 
+     Estate Settlement Procedures Act of 1974; and
+       (3) comprise early disclosures under the Truth in Lending 
+     Act and the good faith estimate disclosures under the Real 
+     Estate Settlement Procedures Act of 1974 and final Truth in 
+     Lending Act disclosures and the uniform settlement statement 
+     disclosures under Real Estate Settlement Procedures Act of 
+     1974 and provide for standardization to the greatest extent 
+     possible among such disclosures from mortgage origination 
+     through the mortgage settlement.
+       (4) shall include, with respect to a residential home 
+     mortgage loan, a written statement of--
+       (A) the principal amount of the loan;
+       (B) the term of the loan;
+       (C) whether the loan has a fixed rate of interest or an 
+     adjustable rate of interest;
+       (D) the annual percentage rate of interest under the loan 
+     as of the time of the disclosure;
+       (E) if the rate of interest under the loan can adjust after 
+     the disclosure, for each such possible adjustment--
+       (i) when such adjustment will or may occur; and
+       (ii) the maximum annual percentage rate of interest to 
+     which it can be adjusted;
+       (F) the total monthly payment under the loan (including 
+     loan principal and interest, property taxes, and insurance) 
+     at the time of the disclosure;
+       (G) the maximum total estimated monthly maximum payment 
+     pursuant to each such possible adjustment;
+       (H) the total settlement charges in connection with the 
+     loan and the amount of any downpayment and cash required at 
+     settlement; and
+       (I) whether or not the loan has a prepayment penalty or 
+     balloon payment and the terms, timing, and amount of any such 
+     penalty or payment.
+       (c) Suspension of 2008 RESPA Rule.--
+       (1) Requirement.--The Secretary of Housing and Urban 
+     Development shall, during the period beginning on the date of 
+     the enactment of this Act and ending upon issuance of 
+     proposed regulations pursuant to subsection (a), suspend 
+     implementation of any provisions of the final rule referred 
+     to in paragraph (2) that would establish and implement a new 
+     standardized good faith estimate and a new standardized 
+     uniform settlement statement. Any such provisions shall be 
+     replaced by the regulations issued pursuant to subsections 
+     (a) and (b).
+       (2) 2008 rule.--The final rule referred to in this 
+     paragraph is the rule of the Department of Housing and Urban 
+     Development published on November 17, 2008, on pages 68204-
+     68288 of Volume 73 of the Federal Register (Docket No. FR-
+     5180-F-03; relating to `Real Estate Settlement Procedures Act 
+     (RESPA): Rule to Simplify and Improve the Process of 
+     Obtaining Mortgages and Reduce Consumer Settlement Costs').
+       (d) Implementation.--The regulations required under 
+     subsection (a) shall take effect, and shall provide an 
+     implementation date for the new disclosures required under 
+     such regulations, not later than the expiration of the 12-
+     month period beginning upon the date of the enactment of this 
+     Act.
+       (e) Failure To Issue Compatible Disclosures.--If the 
+     Secretary of Housing and Urban Development and the Board of 
+     Governors of the Federal Reserve System cannot agree on 
+     compatible disclosures pursuant to subsections (a) and (b), 
+     the Secretary and the Board shall submit a report to the 
+     Congress, after the 6-month period referred to in subsection 
+     (a), explaining the reasons for such disagreement. After the 
+     15-day period beginning upon submission of such report, the 
+     Secretary and the Board may separately issue for public 
+     comment regulations providing for disclosures under the Real 
+     Estate Settlement Procedures Act of 1974 and the Truth in 
+     Lending Act, respectively. Any final disclosures as a result 
+     of such regulations issued by the Secretary and the Board 
+     shall take effect on the same date, and not later than the 
+     expiration of the 12-month period beginning on the date of 
+     the enactment of this Act. If either the Secretary or the 
+     Board fails to act during such 12-month period, either such 
+     agency may act independently and implement final regulations.
+       (f) Standardized Disclosure Forms.--
+       (1) In general.--Any regulations proposed or issued 
+     pursuant to the requirements of this section shall include 
+     model disclosure forms.
+       (2) Option for mandatory use.--In issuing proposed 
+     regulations under subsection (a), the Secretary of Housing 
+     and Urban Development and the Board of Governors of the 
+     Federal Reserve System shall include regulations for the 
+     mandatory use of standardized disclosure forms if they 
+     jointly determine that it would substantially benefit the 
+     consumer.
+                                  ____
+
+
+Amendment to S. 896. Offered by Mrs. Biggert of Illinois, Mrs. McCarthy 
+                 of New York, and Mr. Davis of Kentucky
+
+       Page 91, line 3, strike ``and''.
+       Page 91, line 19, strike the period and insert ``; and''.
+       Page 91, after line 19, insert the following:
+       ``(7) a child or youth who has been verified as homeless--
+       ``(A) as such term is defined in section 725(2)(B)(i) of 
+     the McKinney-Vento Homeless Assistance Act (42 U.S.C. 
+     11434a(2)(B)(i)), by a local educational agency homeless 
+     liaison, designated pursuant to section 722(g)(1)(J)(ii) of 
+     the McKinney-Vento Homeless Assistance Act (42 U.S.C. 
+     11432(g)(1)(J)(ii)), and the family of such child or youth;
+       ``(B) by the director of a program funded under the Runaway 
+     and Homeless Youth Act (42 U.S.C. 5701 et seq.), or a 
+     designee of the director;
+       ``(C) under section 602 of the Individuals with 
+     Disabilities Education Act (20 U.S.C. 1401) by the director 
+     or the designee of such program, and the family of such 
+     child; or
+       ``(D) under section 637 of the Head Start Act (42 U.S.C. 
+     9832) by the director or designee of such program, and the 
+     family of such child.''.
+
+  Mr. BLUMENAUER. Mr. Speaker, in communities across the Nation, the 
+scourge of foreclosure is a deepening problem. In Oregon, 3,388 homes 
+went into foreclosure in March, a 107% increase over the number of 
+foreclosures in March 2008. Nationally, lenders filed foreclosure 
+actions against more than
+
+[[Page 12793]]
+
+340,000 properties in March alone. These figures helped make the first 
+quarter of 2009 the worst on record for foreclosure activity.
+  I support this bill because it will equip homeowners and lenders with 
+new and improved tools to combat foreclosures. It will help banks to 
+increase their lending to small businesses and American consumers. 
+While this bill is not a cure-all for our Nation's economic troubles, 
+it makes important contributions towards the protection of American 
+homeownership.
+  In particular, I support the bill's modifications to the HOPE for 
+Homeowners program, which will ease restrictions on eligibility and 
+enable refinancing of underwater mortgages for a greater number of 
+borrowers.
+  One major difference between this bill and the one that the House 
+passed in early March is the judicial modification provision, missing 
+from this bill. Allowing bankruptcy judges to modify principal balances 
+of residential mortgage loans is an important policy, and one which I 
+continue to support.
+  It is only fair that Congress offer average families the same 
+alternative to foreclosure that has been available under the law for 
+many years to owners of vacation homes, investment properties, private 
+jets, and luxury yachts. Under such a provision, while some mortgage 
+lenders would not get every penny owed to them, on balance they would 
+get more than if these families had no better choice than to fall into 
+foreclosure.
+  Mr. SKELTON. Mr. Speaker, throughout this tough recession, Congress 
+has been working to reduce the length and severity of the economic 
+downturn and its impact on the American people. While we have approved 
+a number of important bills in this area, let me share my support today 
+for S. 896, a bipartisan bill known as the Helping Families Save Their 
+Homes Act.
+  S. 896 is a balanced bill that will provide tools and incentives to 
+help reduce foreclosures, will strengthen Federal protections against 
+predatory lending, will establish the right of homeowners to know who 
+owns their mortgage, and will give the Federal Housing Administration 
+and USDA's Rural Housing Service legal flexibility to undertake loan 
+modifications. Reducing foreclosures and stabilizing the housing market 
+are key to turning around America's economy, which is why I am pleased 
+that S. 896 has been written with the support of both congressional 
+Democrats and Republicans.
+  While S. 896 will help to mend the ailing housing market, the bill is 
+also good for small town banks and for all Americans who keep their 
+savings in a bank or credit union.
+  As some banks gambled and made risky loans to subprime borrowers, 
+most small town financial institutions played by the rules and did not 
+get caught up in the hazardous lending behavior that is at the heart of 
+our recession. But, as larger banks have faltered, community banks have 
+been replenishing the deposit insurance fund that protects investments 
+throughout the financial system. To strengthen the financial stability 
+of community banks and credit unions, S. 896 increases the borrowing 
+authority for FDIC and for the federal credit union regulator. These 
+increases will help level the playing field so community financial 
+institutions are not stuck picking up the tab for their larger 
+competitors.
+  And, to better protect deposits, S. 896 increases FDIC insurance 
+protection for accounts holding up to $250,000. This action is not only 
+beneficial to depositors but also to small town financial institutions 
+that derive their funding and lending ability from deposits.
+  I urge my colleagues to support S. 896 and hope the legislation, if 
+passed, can be swiftly signed into law by the President.
+  Mr. AL GREEN of Texas. Mr. Speaker, I am proud to support S. 896, the 
+Helping Families Save Their Homes Act of 2009. I supported H.R. 1106 
+when it left the House, and while lacking the provision to allow for 
+judicial ``cramdown,'' I am pleased with many of the improvements that 
+S. 896 brings.
+  This bill reflects an affirmation of this legislative body's 
+dedication to ensure that the American dream of homeownership is not 
+lost for millions of American families. The foreclosure crisis has 
+devastated our economy and this bill is another step towards 
+stabilizing our housing market and restoring confidence in the American 
+people.
+  S. 896 improves the HOPE for Homeowners program, making it a more 
+viable option for helping families sustain homeownership; it provides a 
+safe harbor for those who would engage in legitimate loan modifications 
+or utilize the HOPE for Homeowners Program. The bill strengthens the 
+FDIC and credit unions to ensure the availability of credit for 
+consumers, which is crucial in this time of economic downturn.
+  S. 896 reauthorizes the McKinney-Vento Homelessness Assistance Grants 
+for the first time in 20 years, and authorizes $2.2 billion for the 
+programs for FY 2010 and 2011. It also provides funding to HUD to 
+increase public awareness regarding foreclosure scams.
+  Finally, the tenant protections included in the bill ensure that bona 
+fide tenants are not unfairly removed from their residences when 
+foreclosures occur that they could not control.
+  Overcoming the foreclosure crisis and the damage that it has wrought 
+will take time and dedication. However, by passing the Helping Families 
+Save Their Homes Act, we are taking a critical step forward in 
+protecting the American homeowner.
+  Mr. VAN HOLLEN. Mr. Speaker, today, I rise in support of the Helding 
+Families Save Their Homes Act, a bipartisan bill that will help 
+millions of American families avoid the nightmare of foreclosure. 
+Foreclosures cost an American family its home every 13 seconds, and 
+negatively impact entire neighborhoods. Each foreclosed home reduces 
+nearby property values by as much as 9 percent, and the lack of 
+property tax revenues can affect community services and the quality of 
+our schools. We all stand to lose if we do not stop the steep decline 
+in home prices, which is why Congress and President Obama are taking 
+action.
+  This legislation builds on the President's comprehensive Homeowner 
+Affordability and Stability Plan, and provides key tools and incentives 
+for lenders, servicers and homeowners to modify loans and to avoid 
+foreclosures. It bolsters important consumer rights to housing 
+information and strengthens community banks, which are crucial to small 
+businesses and families across this nation. It also makes important 
+improvements to the Hope for Homeowners program, which was created by 
+Congress to help those at risk of default and foreclosure refinance 
+into more affordable, sustainable loans.
+  Stabilizing the housing market is central to restoring the American 
+economy. By passing the Helping Families Save Their Homes Act of 2009, 
+we are not just helping millions of families keep their homes--we are 
+getting the economy back on track and moving America in a new 
+direction.
+  Mr. KUCINICH. Mr. Speaker, I rise today in reluctant support of S. 
+986, the Helping Families Save Their Homes Act. Although I supported 
+H.R. 1106 earlier in this Congress, and I will vote for this bill, I 
+remain concerned about many aspects that attempt to fix the problem 
+without addressing the fundamental issues.
+  S. 896 makes additional changes to the HOPE for Homeowners program 
+despite evidence that it is a seriously flawed model that has failed to 
+effect the type of large-scale mortgage modification that our economy 
+needs if it is going to recover. Despite the changes made, success of 
+the HOPE for Homeowners program continues to be contingent on the 
+active participation of the mortgage lender or mortgage servicer. Once 
+again, we throw money at Wall Street--at the bankers and lenders--and 
+leave individuals and families with nothing.
+  The bill also reauthorizes programs under the McKinney-Vento Homeless 
+Assistance Act. I am grateful that the plight of the homeless and the 
+growing homeless population has finally merited the attention of 
+Congress; however I am dismayed by some of the provisions in the final 
+bill as well as the process used to arrive at the terms of the relevant 
+language. The problem of homelessness in this country deserves more 
+attention in the House of Representatives than a mere fraction of 
+debate time on a suspension bill. If we had more time and different 
+circumstances, we might have had the opportunity to correct some of the 
+privacy concerns as well as the provisions that limit eligible uses of 
+funds.
+  Despite the shortcomings in this bill, it represents a small step in 
+the right direction on the whole. I remain hopeful that Congress will 
+continue to improve the HOPE for Homeowners programs as well as the 
+plight of the growing numbers of homeless citizens. In the end, we must 
+adopt a default posture that accommodates communities, families, and 
+individuals, rather than a default posture that accommodates bankers 
+and financial institutions. Only then will we be able to repair our 
+economy and put our country back on a path of prosperity and growth.
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I rise in strong support of S. 
+896, ``Helping Families Save Their Homes in Bankruptcy Act of 2009.'' I 
+would like to thank Chairman Conyers of the House Judiciary Committee 
+and Chairman Barney Frank of the Financial Services Committee for their 
+leadership on this issue. I also would like to thank Arthur D. Sidney 
+of my staff who serves as my able Legislative Director. This issue is 
+now before this body again for consideration.
+  Mr. Speaker, I urge my colleagues to support this bill because it 
+provides a viable medium for bankruptcy judges to modify the
+
+[[Page 12794]]
+
+terms of mortgages held by homeowners who have little recourse but to 
+declare bankruptcy.
+  This bill could not have come at a more timely moment. This bill is 
+on the floor of the House within weeks after the President's address 
+before the Joint Session of Congress where President Obama outlined his 
+economic plan for America and discussed the current economic situation 
+that this country is facing.
+  To be sure, there are many economic woes that saddle this country. 
+The statistics are staggering.
+  Home foreclosures are at an all-time high and they will increase as 
+the recession continues. In 2006, there were 1.2 million foreclosures 
+in the United States, representing an increase of 42 percent over the 
+prior year. During 2007 through 2008, mortgage foreclosures were 
+estimated to result in a whopping $400 billion worth of defaults and 
+$100 billion in losses to investors in mortgage securities. This means 
+that one per 62 American households is currently approaching levels not 
+seen since the Depression.
+  The current economic crisis and the foreclosure blight has affected 
+new home sales and depressed home value generally. New home sales have 
+fallen by about 50 percent. One in six homeowners owes more on a 
+mortgage than the home is worth which raises the possibility of 
+default. Home values have fallen nationwide from an average of 19 
+percent from their peak in 2006, and this price plunge has wiped out 
+trillions of dollars in home equity. The tide of foreclosure might 
+become self-perpetuating. The nation could be facing a housing 
+depression something far worse than a recession.
+  Obviously, there are substantial societal and economic costs of home 
+foreclosures that adversely impact American families, their 
+neighborhoods, communities and municipalities. A single foreclosure 
+could impose direct costs on local government agencies totaling more 
+than $34,000.
+  I am glad that this legislation is finally on the floor of the United 
+States House of Representatives. I have long championed in the first 
+TARP bill that was introduced and signed late last Congress, that 
+language be included to specifically address the issue of mortgage 
+foreclosures. I had asked that $100 billion be set aside to address 
+that issue. Now, my idea has been vindicated as the TARP today has 
+included language and we here today are continuing to engage in the 
+dialogue to provide monies to those in mortgage foreclosure. I have 
+also asked for modification of homeowners' existing loans to avoid 
+mortgage foreclosure. I believe that the rules governing these loans 
+should be relaxed. These are indeed tough economic times that require 
+tough measures.
+  Because of the pervasive home foreclosures, federal legislation is 
+necessary to curb the fall out from the subprime mortgage crisis. For 
+consumers facing a foreclosure sale who want to retain their homes, 
+Chapter 13 of the Bankruptcy Code provides some modicum of protection. 
+The Supreme Court has held that the exception to a Chapter 13's ability 
+to modify the rights of creditors applies even if the mortgage is 
+under-secured. Thus, if a Chapter 13 debtor owes $300,000 on a mortgage 
+for a home that is worth less than $200,000, he or she must repay the 
+entire amount in order to keep his or her home, even though the maximum 
+that the mortgage would receive upon foreclosure is the home's value, 
+i.e., $200,000, less the costs of foreclosure.
+  Importantly, S. 896 provides for a relaxation of the bankruptcy 
+provisions and waives the mandatory requirement that a debtor must 
+receive credit counseling prior to the filing for bankruptcy relief, 
+under certain circumstances. The waiver applies in a Chapter 13 case 
+where the debtor submits to the court a certification that the debtor 
+has received notice that the holder of a claim secured by the debtor's 
+principal residence may commence a foreclosure proceeding against such 
+residence.
+  This bill also prohibits claims arising from violations of consumer 
+protection laws. Specifically, this bill amends the Bankruptcy Code to 
+disallow a claim that is subject to any remedy for damages or 
+rescission as a result of the claimant's failure to comply with any 
+applicable requirement under the Truth in Lending Act or other 
+applicable state or federal consumer protection law in effect when the 
+noncompliance took place, notwithstanding the prior entry of a 
+foreclosure judgment.
+  S. 896 also amends the Bankruptcy Code to permit modification of 
+certain mortgages that are secured by the debtor's principal residence 
+in specified respects. Lastly, the bill provides that the debtor, the 
+debtor's property, and property of the bankruptcy estate are not liable 
+for a fee, cost, or charge incurred while the Chapter 13 case is 
+pending and that arises from a debt secured by the debtor's principal 
+residence, unless the holder of the claim complies with certain 
+requirements.
+  I have long championed the rights of homeowners, especially those 
+facing mortgage foreclosure. I have worked with the Chairman of the 
+House Judiciary Committee to include language that would relax the 
+bankruptcy provisions to allow those facing mortgage foreclosure to 
+restructure their debt to avoid foreclosure.
+  Because I have long championed the rights of homeowners facing 
+mortgage foreclose in the recent TARP bill and before the Judiciary 
+Committee, I have worked with Chairman Conyers and his staff to add 
+language that would make the bill stronger and that would help more 
+Americans. I co-sponsored sections of the Manager's Amendment and I 
+urge my colleagues to support the bill.
+  Specifically, I worked with Chairman Conyers to ensure that in 
+section 2 of the amendment, section 109(h) of the Bankruptcy Code would 
+be amended to waive the mandatory requirement, under current law, that 
+a debtor receive credit counseling prior to filing for bankruptcy 
+relief. Under the amended language there is now a waiver that will 
+apply where the debtor submits to the court a certification that the 
+debtor has received notice that the holder of a claim secured by the 
+debtor's principal residence may commence a foreclosure proceeding 
+against such residence.
+  This is important because it affords the debtor the maximum relief 
+without having to undergo a slow credit counseling process. This will 
+help prevent the debtors credit situation from worsening, potentially 
+spiraling out of control, and result in the eventual loss of his or her 
+home.
+  The bill relaxes certain Bankruptcy requirements under Chapter 13 so 
+that the debtor can modify the terms of the mortgage secured by his or 
+her primary residence. This is an idea that I have long championed in 
+the TARP legislation--the ability of debtors to modify their existing 
+primary mortgages. Section 4 allows for a modification of the mortgage 
+for a period of up to 40 years. Such modification cannot occur if the 
+debtor fails to certify that it contacted the creditor before filing 
+for bankruptcy. In this way, the language in the Manager's Amendment 
+allows for the creditor to demonstrate that it undertook its ``last 
+clear'' chance to work out the restructuring of the debt with its 
+creditor before filing bankruptcy.
+  Importantly, the bill amends the bankruptcy code to provide that a 
+debtor, the debtor's property, and property of the bankruptcy estate 
+are not liable for fees and costs incurred while the Chapter 13 case is 
+pending and that arises from a claim for debt secured by the debtor's 
+principal residence.
+  Lastly, I worked to get language in the bill that would allow the 
+debtors and creditors to negotiate before a declaration of bankruptcy 
+is made. I made sure that the bill addresses present situations at the 
+time of enactment where homeowners are in the process of mortgage 
+foreclosure.
+  Texas ranks 17th in foreclosures. Texas would have faired far worse 
+but for the fact that homeowners enjoy strong constitutional 
+protections under the state's home-equity lending law. These consumer 
+protections include a 3 percent cap on lender's fees, 80 percent loan-
+to-value ratio (compared to many other states that allow borrowers to 
+obtain 125 percent of their home's value), and mandatory judicial sign-
+off on any foreclosure proceeding involving a defaulted home-equity 
+loan.
+  Still, in the last month, in Texas alone there have been 30,720 
+foreclosures and sadly 15,839 bankruptcies. Much of this has to do with 
+a lack of understanding about finance--especially personal finance.
+  Last year, Americans' personal income decreased $20.7 billion, or 0.2 
+percent, and disposable personal income (DPI) decreased $11.8 billion, 
+or 0.1 percent, in November, according to the Bureau of Economic 
+Analysis. Personal consumption expenditures (PCE) decreased $56.1 
+billion, or 0.6 percent. In India, household savings are about 23 
+percent of their GDP.
+  Even though the rate of increase has showed some slowing, 
+uncertainties remain. Foreclosures and bankruptcies are high and could 
+still beat last year's numbers.
+  Home foreclosures are at an all-time high and they will increase as 
+the recession continues. In 2006, there were 1.2 million foreclosures 
+in the United States, representing an increase of 42 percent over the 
+prior year. During 2007 through 2008, mortgage foreclosures were 
+estimated to result in a whopping $400 billion worth of defaults and 
+$100 billion in losses to investors in mortgage securities. This means 
+that one per 62 American households is currently approaching levels not 
+seen since the Depression.
+  One in six homeowners owes more on a mortgage than the home is worth 
+raising the possibility of default. Home values have fallen nationwide 
+from an average of 19 percent
+
+[[Page 12795]]
+
+from their peak in 2006 and this price plunge has wiped out trillions 
+of dollars in home equity. The tide of foreclosure might become self-
+perpetuating. The nation could be facing a housing depression--
+something far worse than a recession.
+  Obviously, there are substantial societal and economic costs of home 
+foreclosures that adversely impact American families, their 
+neighborhoods, communities and municipalities. A single foreclosure 
+could impose direct costs on local government agencies totaling more 
+than $34,000.
+  Mr. HOLT. Mr. Speaker, I rise today in support of the Helping 
+Families Save Their Homes Act of 2009 (S. 896), companion legislation 
+to similar legislation we approved in the House in March to combat the 
+foreclosure crisis. I commend Senator Dodd and the Members of the 
+Senate Committee on Financial Services for their leadership in crafting 
+and fine-tuning this legislation, and I urge my colleagues to support 
+it.
+  According to a leading foreclosure research organization, mortgage 
+foreclosure activity increased by 24 percent during the first quarter 
+of 2009, compared to the first quarter 2008. One in every 159 housing 
+units in the United States received a foreclosure notice during the 
+first quarter of this year. In addition, foreclosures in March 
+increased by 17 percent from February, and by 46 percent compared to 
+March 2008. We must act now, and we must act decisively and 
+comprehensively, to stem this crisis. The Helping Families Save Their 
+Homes Act attacks the foreclosure crisis aggressively and approaches 
+the problem from several angles at the same time, but is measured in 
+its application.
+  The bill amends the HOPE for Homeowners Program, to provide greater 
+incentives for mortgage servicers to modify mortgages under the 
+Program, to reduce administrative burdens to loan underwriters, and to 
+permit payments to loan servicers and underwriters for each successful 
+refinancing. It would also re-instate the authority of the Department 
+of Housing and Urban Development (HUD) to conduct an auction to 
+refinance loans on a wholesale or bulk basis. These modifications use 
+funding already authorized under the Emergency Economic Stabilization 
+Act enacted in October 2008.
+  The bill also contains provisions to ensure better that predatory 
+lenders are not allowed to participate in the FHA home mortgage 
+insurance program. At the same time, it protects helpful mortgage 
+lenders and servicers, who might otherwise be subject to litigation for 
+changing the terms of a mortgage after closing. The bill provides a 
+safe harbor from liability to mortgage servicers issuers, trustees, 
+loan sellers, depositors, and others who participate in loan 
+modifications, to the extent they were required to assist and the 
+modification complied with the Hope for Homeowners program or was 
+otherwise consistent with the Administration's foreclosure mitigation 
+programs.
+  Importantly, the bill will also extend through 2013 the temporary 
+increase to $250,000 in deposit insurance coverage for both the Federal 
+Deposit Insurance Corporation (FDIC)-insured deposits and National 
+Credit Union Administration (NCUA)-insured deposits, which is currently 
+scheduled to expire in December 2009. It also permanently increases the 
+FDIC's borrowing authority to $100 billion (with an increase until the 
+end of 2010 to $300 billion), and increases the NCUA's borrowing 
+authority to $6 billion (with a temporary increase to $30 billion).
+  And the bill includes the first major reauthorization of funding 
+under the McKinney-Vento Homeless Assistance Act. I was pleased to 
+support $100 million for McKinney-Vento under the American Recovery and 
+Reinvestment Act enacted into law earlier this year. This important 
+collaborative program between the public and private sectors has 
+disbursed more than $2 billion in funding to provide shelter, food and 
+support services for homeless and hungry individuals nationwide in just 
+over 20 years of existence, and this bill will authorize that amount 
+for Fiscal Year 2010 alone. I will work with my colleagues to make sure 
+we fully fund this authorized level of funding, to assisting America's 
+neediest and most vulnerable citizens.
+  This bill takes many important and decisive steps to help mitigate 
+the foreclosure crisis and ease the suffering of our Nation's homeless 
+and hungry, and I urge my colleagues to support it.
+  Mr. FRANK of Massachusetts. Mr. Speaker, I yield back the balance of 
+my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Massachusetts (Mr. Frank) that the House suspend the 
+rules and pass the Senate bill, S. 896, as amended.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. FRANK of Massachusetts. Mr. Speaker, on that I demand the yeas 
+and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+
+                          ____________________
+```

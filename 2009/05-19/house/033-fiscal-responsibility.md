@@ -1,0 +1,37 @@
+---
+granule: CRECB-2009-pt10-Pg12745-6
+date: 2009-05-19
+edition: CRECB
+section: HOUSE
+page: 12745
+---
+
+# FISCAL RESPONSIBILITY
+
+```
+                         FISCAL RESPONSIBILITY
+
+  (Mr. ELLISON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+
+[[Page 12746]]
+
+
+  Mr. ELLISON. Mr. Speaker, I want to talk this morning about a matter 
+of great importance to the American people. As this new Congress and 
+President Obama begin to repair and reshape our economy, I think it is 
+critically important for Americans to know and remember how we got into 
+this mess we find ourselves in today.
+  President Obama and this Congress inherited a fiscal mess from the 
+Bush administration, including a record deficit and soaring 
+unemployment. Since taking control of the House in 2007, Democrats have 
+committed to restoring fiscal responsibility, taking steps to cut 
+waste, fraud and abuse. The President's budget slashes the deficit by 
+nearly two-thirds in 4 years. The budget also calls for health care 
+reform, job creation, clean energy and energy efficiency, and college 
+affordability.
+  We will continue to work to repair the damage of the last 8 years of 
+irresponsibility.
+
+                          ____________________
+```
