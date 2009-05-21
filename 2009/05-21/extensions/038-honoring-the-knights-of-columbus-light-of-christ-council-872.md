@@ -1,0 +1,44 @@
+---
+granule: CRECB-2009-pt10-Pg13429-2
+date: 2009-05-21
+edition: CRECB
+section: EXTENSIONS
+page: 13429
+---
+
+# HONORING THE KNIGHTS OF COLUMBUS LIGHT OF CHRIST COUNCIL 8726
+
+```
+     HONORING THE KNIGHTS OF COLUMBUS LIGHT OF CHRIST COUNCIL 8726
+
+                                 ______
+                                 
+
+                            HON. JIM GERLACH
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                         Thursday, May 21, 2009
+
+  Mr. GERLACH. Madam Speaker, I rise today to congratulate the Knights 
+of Columbus, Light of Christ Council 8726, for its 25 years of 
+outstanding charitable work and dedicated service to three parishes in 
+western Berks County, Pennsylvania.
+  Since its founding in June 1984 at the St. Ignatius Loyola Parish, 
+Council 8726 has grown to more than 200 members committed to nurturing 
+spiritual growth and a tremendous desire to help anyone in need.
+  The members' selfless service has included financial backing and 
+volunteer work in support of St. Mary's Shelter for single mothers, a 
+Veterans Memorial monument in Whitfield, a Special Olympics basketball 
+tournament, and weekend soup kitchens that feed hundreds who would 
+otherwise go hungry in the Reading area.
+  Madam Speaker, I ask that my colleagues join me today in 
+congratulating the Knights of Columbus, Light of Christ Council 8726, 
+upon its 25th Anniversary and recognizing the exemplary efforts of the 
+Council's members in serving and supporting Berks County churches, 
+communities and charities.
+
+                          ____________________
+```

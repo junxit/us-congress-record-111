@@ -1,0 +1,31 @@
+---
+granule: CRECB-2009-pt10-Pg13434-3
+date: 2009-05-21
+edition: CRECB
+section: EXTENSIONS
+page: 13434
+---
+
+# PERSONAL EXPLANATION
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                       HON. CHRISTOPHER P. CARNEY
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                         Thursday, May 21, 2009
+
+  Mr. CARNEY. Madam Speaker, on Monday, May 18, I was absent for three 
+rollcall votes. If I had been here, I would have voted: ``yea'' on 
+rollcall vote 267; ``yea'' on rollcall vote 268; and ``yea'' on 
+rollcall vote 269.
+
+                          ____________________
+```
