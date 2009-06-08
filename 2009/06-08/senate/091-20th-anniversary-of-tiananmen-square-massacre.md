@@ -1,0 +1,138 @@
+---
+granule: CREC-2009-06-08-pt1-PgS6316-3
+date: 2009-06-08
+edition: CREC
+section: SENATE
+page: S6316
+citation: 155 Cong. Rec. S6316
+---
+
+# 20TH ANNIVERSARY OF TIANANMEN SQUARE MASSACRE
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Res. 171
+
+```
+             20TH ANNIVERSARY OF TIANANMEN SQUARE MASSACRE
+
+  Mr. REID. Madam President, I ask unanimous consent the Senate now 
+proceed to S. Res. 171.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 171) commending the people who have 
+     sacrificed their personal freedoms to bring about democratic 
+     change
+
+[[Page S6317]]
+
+     in the People's Republic of China and expressing sympathy for 
+     the families of the people who were killed, wounded, or 
+     imprisoned, on the occasion of the 20th anniversary of the 
+     Tiananmen Square Massacre in Beijing, China from June 3 
+     through 4, 1989.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. REID. Madam President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, and the motions to 
+reconsider be laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 171) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, was agreed to, as follows:
+
+                              S. Res. 171
+
+       Whereas freedom of expression, assembly, association, and 
+     religion are fundamental rights that all people should be 
+     able to possess and enjoy;
+       Whereas, in April 1989, in a demonstration of democratic 
+     progress, thousands of students took part in peaceful 
+     protests against the communist government of the People's 
+     Republic of China in the capital city of Beijing;
+       Whereas, throughout the month of May 1989, the students, in 
+     peaceful demonstrations, drew more people, young and old and 
+     from all walks of life, into central Beijing to demand better 
+     democracy, basic freedoms of speech and assembly, and an end 
+     to corruption;
+       Whereas, from June 3 through 4, 1989, the Government of 
+     China ordered members of the People's Liberation Army to 
+     enter Beijing and clear Tiananmen Square (located in central 
+     Beijing) by lethal force;
+       Whereas, by June 7, 1989, the Red Cross of China reported 
+     that the People's Liberation Army had killed more than 300 
+     people in Beijing, although foreign journalists who witnessed 
+     the events estimate that thousands of people were killed and 
+     thousands more wounded;
+       Whereas more than 20,000 people in China were arrested and 
+     detained without trial, due to their suspected involvement in 
+     the protests at Tiananmen Square;
+       Whereas, according to the Department of State, the 
+     Government of China has worked to censor information about 
+     the massacre at Tiananmen Square by blocking Internet sites 
+     and other media outlets, along with other sensitive 
+     information that would be damaging to the Government of 
+     China;
+       Whereas the Government of China has continued to deny basic 
+     human rights, such as freedom of speech and religion;
+       Whereas, during the 2008 Olympic Games, the Government of 
+     China promised to provide the international media covering 
+     the Olympic Games with the same access given the media at all 
+     the other Olympic Games, but denied access to certain 
+     internet sites and media outlets in attempts to censor free 
+     speech;
+       Whereas the Department of State Human Rights Report for 
+     2008 found that the Government of China had increased already 
+     severe cultural and religious suppression of ethnic 
+     minorities in Tibetan areas and the Xinjiang Uighur 
+     Autonomous Region, detained and harassed dissidents and 
+     journalists, and maintained tight controls on freedom of 
+     speech and the Internet;
+       Whereas the United States Commission on International 
+     Religious Freedom in 2009 stated, ``The Chinese government 
+     continues to engage in systematic and egregious violations of 
+     the freedom of religion or belief, with religious activities 
+     tightly controlled and some religious adherents detained, 
+     imprisoned, fined, beaten, and harassed.''; and
+       Whereas the China Aid Association reported that in 2007, 
+     Christians were detained or arrested and Christian house 
+     church groups were persecuted by the Government of China: 
+     Now, therefore, be it
+       Resolved, That the Senate--
+       (1) commends the people who demonstrated at Tiananmen 
+     Square and elsewhere in the People's Republic of China in 
+     1989, many of whom sacrificed their lives and freedom to--
+       (A) bring about democratic change in China; and
+       (B) gain freedom of expression, assembly, association, and 
+     religion for the people of China;
+       (2) expresses its sympathy for the families of the people 
+     who were killed, wounded, or imprisoned due to their 
+     involvement in the peaceful protests in Tiananmen Square in 
+     Beijing, China from June 3 through 4, 1989;
+       (3) condemns the ongoing human rights abuses by the 
+     Government of China;
+       (4) calls on the Government of China to--
+       (A) release all prisoners that are--
+       (i) still in captivity as a result of their involvement in 
+     the events from June 3 through 4, 1989, at Tiananmen Square; 
+     and
+       (ii) imprisoned without cause;
+       (B) allow freedom of speech and access to information, 
+     especially information regarding the events at Tiananmen 
+     Square in 1989; and
+       (C) cease all harassment, intimidation, and unjustified 
+     imprisonment of--
+       (i) members of religious and minority groups; and
+       (ii) people who disagree with policies of the Government of 
+     China;
+       (5) supports efforts by free speech activists in China and 
+     elsewhere who are working to overcome censorship (including 
+     censorship of the Internet) and the chilling effect of 
+     censorship; and
+       (6) urges the President to continue to support peaceful 
+     advocates of free speech around the world.
+
+                          ____________________
+```
