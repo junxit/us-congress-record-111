@@ -1,0 +1,30 @@
+---
+granule: CREC-2009-06-15-pt1-PgS6581
+date: 2009-06-15
+edition: CREC
+section: SENATE
+page: S6581
+citation: 155 Cong. Rec. S6581
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+**Measures:** S.Con.Res. 27
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mr. DeMINT (for himself, Mr. Barrasso, Mr. 
+             Brownback, Mr. Bunning, Mr. Byrd, Mr. Crapo, Mr. 
+             Enzi, Mr. Inhofe, Mr. Thune, and Mr. Wicker):
+       S. Con. Res. 27. A concurrent resolution directing the 
+     Architect of the Capitol to engrave the Pledge of Allegiance 
+     to the Flag and the National Motto of ``In God we trust'' in 
+     the Capitol Visitor Center; to the Committee on Rules and 
+     Administration.
+
+                          ____________________
+```
