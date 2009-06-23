@@ -1,0 +1,57 @@
+---
+granule: CREC-2009-06-23-pt1-PgE1537-5
+date: 2009-06-23
+edition: CREC
+section: EXTENSIONS
+page: E1537
+citation: 155 Cong. Rec. E1537
+---
+
+# ENVIRONMENTALLY CONSCIOUS PACKAGING
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+```
+                  ENVIRONMENTALLY CONSCIOUS PACKAGING
+
+                                 ______
+                                 
+
+                            HON. JAY INSLEE
+
+                             of washington
+
+                    in the house of representatives
+
+                         Tuesday, June 23, 2009
+
+  Mr. INSLEE. Madam Speaker, it has come to my attention that a number 
+of companies in the outdoor industry have begun taking steps to reduce 
+the amount of packaging that accompany their products. I commend the 
+companies for their efforts to reduce waste and minimize their 
+environmental footprint.
+  These businesses have taken meaningful steps toward the preservation 
+of our planet, and they set a vital example for businesses throughout 
+America. Over the past year, a coalition of outdoor industry companies 
+worked together to create policies for the reduction of consumer waste. 
+I was pleased to learn that they have successfully followed through 
+with these policies, utilizing higher levels of recycled material and 
+reducing the amount of packaging used in production.
+  As these companies demonstrate, a reduction in waste can be 
+accomplished through a variety of innovative practices. In order to cut 
+down on the use of new materials, one footwear company redesigned their 
+shoeboxes to use 100 percent post-recycled content. A family-owned 
+business that sells camping equipment began packaging mattresses in 
+completely degradable plastic bags. Another travel accessories company 
+completely overhauled their packaging program, eliminating about 15 
+tons of packaging waste.
+  These companies are a beacon of environmental awareness and 
+responsible stewardship. They provide an example to all American 
+businesses involved in manufacturing, which must begin to see the 
+reduction of consumer waste as an essential step in protecting our 
+environment. As members of Congress, it is our responsibility to 
+encourage every industry to begin making such environmentally conscious 
+choices as these.
+
+                          ____________________
+```
