@@ -1,0 +1,155 @@
+---
+granule: CREC-2009-07-07-pt1-PgE1639-4
+date: 2009-07-07
+edition: CREC
+section: EXTENSIONS
+page: E1639
+citation: 155 Cong. Rec. E1639
+---
+
+# EARMARK DECLARATION
+
+**Measures:** H.R. 2997
+
+```
+                          EARMARK DECLARATION
+
+                                 ______
+                                 
+
+                      HON. CATHY McMORRIS RODGERS
+
+                             of washington
+
+                    in the house of representatives
+
+                         Tuesday, July 7, 2009
+
+  Mrs. McMORRIS RODGERS. Madam Speaker, pursuant to the House 
+Republican standards on earmarks, I am submitting the following 
+information regarding earmarks I received as part of H.R. 2997, FY2010 
+Agriculture, Rural Development, Food and Drug Administration, and 
+Related Agencies Appropriations Act
+  Requesting Member: Congresswoman McMorris Rodgers
+  Bill Number: H.R. 2997
+  Account: Salaries and Expenses
+  Legal Name of Requesting Entity: Washington Grain Alliance (on behalf 
+of the USDA Agricultural Research Service)
+   Address of Requesting Entity: USDA Agriculture Research Service; 
+Jamie L. Whitten Building; 1400 Independence Avenue, SW; Washington, 
+DC; 20250
+  Description of Request: Provide an addition of $290,000 for salaries 
+and expenses for a coordinated research effort to identify and 
+introduce new germplasm, genes, and varieties of wheat, barley, and 
+oats with improved and sustainable rust resistance. This research will 
+help combat stem, leaf, and stripe rust that threaten the entire U.S. 
+production of wheat, barley, and oats.
+  Requesting Member: Congresswoman McMorris Rodgers
+  Bill Number: H.R. 2997
+  Account: RE/FA
+  Legal Name of Requesting Entity: Washington State University
+  Address of Requesting Entity: French Administration Building, Room 
+324; Pullman, WA 99164
+  Description of Request: Provide $268,000 for the study of PM10 
+Particulate Emission Prediction and Control. By researching wheat 
+farming and air quality issues, farmers can develop practices that 
+allow for the control of wind erosion and dust emissions without 
+suffering economic hardship. This research project addresses national 
+and regional agricultural needs and helps maintain a robust and healthy 
+agriculture industry.
+  Requesting Member: Congresswoman McMorris Rodgers
+  Bill Number: H.R. 2997
+  Account: SRG
+  Legal Name of Requesting Entity: Washington State University-
+  Address of Requesting Entity: French Administration Building, Room 
+324; Pullman, WA 99164
+  Description of Request: Provide $235,000 for the Cool Season Food and 
+Legume research program to improve the efficiency and sustainability of 
+the U.S. dry pea, fresh pea, lentil, and chickpea industries. The 
+program is a cooperative effort between federal and state university 
+scientists to establish and maintain a robust and healthy agricultural 
+industry and address national and regional agricultural research needs 
+as they relate to the development of genetically-superior legume 
+varieties.
+  Requesting Member: Congresswoman McMorris Rodgers
+  Bill Number: H.R. 2997
+  Account: SRG
+  Legal Name of Requesting Entity: Washington State University
+  Address of Requesting Entity: French Administration Building, Room 
+324; Pullman, WA 99164
+  Description of Request: Provide $313,000 to address the needs of the 
+grass seed industry by utilizing the research and technology expertise 
+of scientists from Washington, Idaho, and Oregon, and USDA-ARS with 
+input from industry representatives. By researching the genetic of 
+barley, the U.S. can further the goal of establishing and maintaining a 
+robust and healthy agriculture industry and address national and 
+regional agriculture research needs.
+  Requesting Member: Congresswoman McMorris Rodgers
+  Bill Number: H.R. 2997
+
+[[Page E1640]]
+
+  Account: SRG
+  Legal Name of Requesting Entity: Washington State University-
+  Address of Requesting Entity: French Administration Building, Room 
+324; Pullman, WA 99164
+  Description of Request: Provide $98,000 for perennial wheat research 
+to develop it into a viable part of the small grains cropping systems, 
+especially in areas where soil erosion potential is high. Perennial 
+wheat offers a viable option for sustainable farming systems and 
+improved environmental stewardship. Soil erosion by wind and water is a 
+direct cause of lower air and water quality; perennial wheat provides 
+constant soil coverage by plant material, resistance to pests and 
+diseases, and a source of straw for new fiber products.
+  Requesting Member: Congresswoman McMorris Rodgers
+  Bill Number: H.R. 2997
+  Account: SRG
+  Legal Name of Requesting Entity: Washington State University
+  Address of Requesting Entity: French Administration Building, Room 
+324; Pullman, WA 99164
+  Description of Request: Provide $1,037,000 for the Northwest Tri-
+State potato breeding and cultivation research project. The knowledge 
+generated by this project has led to a decrease in the use of harmful 
+pesticides and an increase in profits for the potato industry. It has 
+also led to an increased knowledge of potato varieties.
+  Requesting Member: Congresswoman McMorris Rodgers
+  Bill Number: H.R. 2997
+  Account: SRG
+  Legal Name of Requesting Entity: Washington State University
+  Address of Requesting Entity: Crop and Soil Science Department; 
+Johnson Hall, Room 273; Pullman, WA 99164
+  Description of Request: Provide $471,000 to fund the Regional Barley 
+Mapping Project to develop improved barley varieties using the tools of 
+genomics. Barley is the cornerstone of American agriculture; it 
+provides farmers with the opportunity to increase genetic diversity, 
+use less irrigation water, and be more profitable. It can also lead to 
+rural community sustainability and development by increasing the 
+manufacture and sale of value-added barley products generating business 
+activity.
+  Requesting Member: Congresswoman McMorris Rodgers
+  Bill Number: H.R. 2997
+  Account: SRG
+  Legal Name of Requesting Entity: Washington State University
+  Address of Requesting Entity: French Administration Building, Room 
+324; Pullman, WA 99164
+  Description of Request: Provide $444,000 to fund the STEEP IV water 
+quality project. This research will contribute solutions to modern 
+societal problems faced by U.S. farmers and the public, such as energy 
+and food security, sequestration of greenhouse gasses, and improved 
+trade balance. Conservation information obtained through this work is 
+transferable to other parts of the U.S. and the world. Benefits of this 
+research include reduction if food production costs and greater energy 
+independence for the nation's food supply.
+  Requesting Member: Congresswoman McMorris Rodgers
+  Bill Number: H.R. 2997
+  Account: SRG
+  Legal Name of Requesting Entity: Washington State University
+  Address of Requesting Entity: French Administration Building, Room 
+324; Pullman, WA 99164
+  Description of Request: Provide $223,000 to fund research for Virus-
+free Wine Grape Cultivation. To maintain competitiveness and health, 
+this project addresses an immediate high-priority need to meet the 
+certification standards of the vineyard industry.
+
+                          ____________________
+```
