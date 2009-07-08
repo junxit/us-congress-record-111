@@ -1,0 +1,190 @@
+---
+granule: CREC-2009-07-08-pt1-PgE1686
+date: 2009-07-08
+edition: CREC
+section: EXTENSIONS
+page: E1686
+citation: 155 Cong. Rec. E1686
+---
+
+# SENATE COMMITTEE MEETINGS
+
+**Measures:** S.Res. 4, S. 227, S. 561, S. 625, H.R. 714, S. 796, S. 853, S. 1053, S. 1117, S. 1168, H.R. 1404, H.R. 1694
+
+```
+                       SENATE COMMITTEE MEETINGS
+
+  Title IV of Senate Resolution 4, agreed to by the Senate on February 
+4, 1977, calls for establishment of a system for a computerized 
+schedule of all meetings and hearings of Senate committees, 
+subcommittees, joint committees, and committees of conference. This 
+title requires all such committees to notify the Office of the Senate 
+Daily Digest--designated by the Rules Committee--of the time, place, 
+and purpose of the meetings, when scheduled, and any cancellations or 
+changes in the meetings as they occur.
+  As an additional procedure along with the computerization of this 
+information, the Office of the Senate Daily Digest will prepare this 
+information for printing in the Extensions of Remarks section of the 
+Congressional Record on Monday and Wednesday of each week.
+  Meetings scheduled for Thursday, July 9, 2009 may be found in the 
+Daily Digest of today's Record.
+
+                           MEETINGS SCHEDULED
+                                JULY 10
+     10 a.m.
+       Finance
+         To hold hearings to examine the nomination of William J. 
+           Wilkins, of the District of Columbia, to be Chief 
+           Counsel for the Internal Revenue Service and an 
+           Assistant General Counsel in the Department of the 
+           Treasury.
+                                                            SD-215
+
+                                JULY 13
+     10 a.m.
+       Judiciary
+         To hold hearings to examine the nomination of Sonia 
+           Sotomayor, of New York, to be an Associate Justice of 
+           the Supreme Court of the United States.
+                                                            SH-216
+
+                                JULY 14
+     Time to be announced
+       Foreign Relations
+         Business meeting to consider pending calendar business.
+                                                    S-116, Capitol
+     9 a.m.
+       Banking, Housing, and Urban Affairs
+         To hold hearings to examine the creation of a Consumer 
+           Financial Protection Agency.
+                                                            SD-538
+     9:30 a.m.
+       Veterans' Affairs
+         To hold hearings to examine bridging the gap in care of 
+           women veterans.
+                                                            SR-418
+     10 a.m.
+       Commerce, Science, and Transportation
+       Consumer Protection, Product Safety, and Insurance 
+           Subcommittee
+         To hold hearings to examine consumer protection from 
+           fraud.
+                                                            SR-253
+       Energy and Natural Resources
+         To hold hearings to examine S. 796, to modify the 
+           requirements applicable to locatable minerals on public 
+           domain land.
+                                                            SD-366
+       Environment and Public Works
+         To hold hearings to examine economic opportunities for 
+           agriculture, forestry communities, and others in 
+           reducing global warming pollution.
+                                                            SD-406
+     2:30 p.m.
+       Environment and Public Works
+         To hold hearings to examine transportation's role in 
+           climate change and reducing greenhouse gases.
+                                                            SD-406
+       Intelligence
+         Closed business meeting to markup an original bill 
+           authorizing funds for fiscal year 2010 for the 
+           intelligence community.
+                                                    S-407, Capitol
+
+                                JULY 15
+     10 a.m.
+       Commerce, Science, and Transportation
+         To hold hearings to examine the public safety impact of 
+           contraband cell phones in correctional facilities.
+                                                            SR-253
+       Homeland Security and Governmental Affairs
+         To hold hearings to examine the REAL ID Act.
+                                                            SD-342
+     2:30 p.m.
+       Commerce, Science, and Transportation
+         To hold hearings to examine the nominations of Mignon L. 
+           Clyburn, of South Carolina, and Meredith Attwell Baker, 
+           of Virginia, both to be a Member of the Federal 
+           Communications Commission.
+                                                            SR-253
+       Energy and Natural Resources
+       National Parks Subcommittee
+         To hold hearings to examine S. 227, to establish the 
+           Harriet Tubman National Historical Park in Auburn, New 
+           York, and the Harriet Tubman Underground Railroad 
+           National Historical Park in Caroline, Dorchester, and 
+           Talbot Counties, Maryland, S. 625, to authorize the 
+           Secretary of the Interior to establish the Waco Mammoth 
+           National Monument in the State of Texas, S. 853, to 
+           designate additional segments and tributaries of White 
+           Clay Creek, in the States of Delaware and Pennsylvania, 
+           as a component of the National Wild and Scenic Rivers 
+           System, S. 1053, to amend the National Law Enforcement 
+           Museum Act to extend the termination date, S. 1117, to 
+           authorize the Secretary of the Interior to provide 
+           assistance in implementing cultural heritage, 
+           conservation, and recreational activities in the 
+           Connecticut River watershed of the States of New 
+           Hampshire and Vermont, S. 1168 and H.R. 1694, bills to 
+           authorize the acquisition and protection of nationally 
+           significant battlefields and associated sites of the 
+           Revolutionary War and the War of 1812 under the 
+           American Battlefield Protection Program, and H.R. 714, 
+           to authorize the Secretary of the Interior to lease 
+           certain lands in Virgin Islands National Park.
+                                                            SD-366
+       Banking, Housing, and Urban Affairs
+       Securities, Insurance and Investment Subcommittee
+         To hold hearings to examine the regulation of hedge funds 
+           and other private investment pools.
+                                                            SD-538
+
+                                JULY 16
+     10 a.m.
+       Health, Education, Labor, and Pensions
+       Employment and Workplace Safety Subcommittee
+         To hold hearings to examine the Workforce Investment Act 
+           of 1998.
+                                                            SD-430
+     2:30 p.m.
+       Homeland Security and Governmental Affairs
+       Contracting Oversight Subcommittee
+         To hold hearings to examine contracting for Alaska native 
+           corporations.
+                                                            SD-342
+
+                                JULY 21
+     10 a.m.
+       Energy and Natural Resources
+         To hold hearings to examine S. 561 and H.R. 1404, bills 
+           to authorize a supplemental funding source for 
+           catastrophic emergency wildland fire suppression 
+           activities on Department of the Interior and National 
+           Forest System lands, to require the Secretary of the 
+           Interior and the Secretary of Agriculture to develop a 
+           cohesive wildland fire management strategy.
+                                                            SD-366
+
+                                JULY 22
+     10 a.m.
+       Veterans' Affairs
+         To hold hearings to examine the nominations of Raymond M. 
+           Jefferson, of Hawaii, to be Assistant Secretary of 
+           Labor for Veterans' Employment and Training, and Joan 
+           M. Evans, of Oregon, to be an Assistant Secretary of 
+           Veterans Affairs for Congressional and Legislative 
+           Affairs.
+                                                            SR-418
+     2:30 p.m.
+       Agriculture, Nutrition, and Forestry
+         To hold hearings to examine the role of agriculture and 
+           forestry in global warming legislation.
+                                                            SR-325
+
+                                JULY 29
+     9:30 a.m.
+       Veterans' Affairs
+         To hold hearings to examine veteran's disability 
+           compensation.
+                                                            SR-418
+```
