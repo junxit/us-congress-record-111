@@ -1,0 +1,23 @@
+---
+granule: CREC-2009-07-09-pt1-PgS7277-3
+date: 2009-07-09
+edition: CREC
+section: SENATE
+page: S7277
+citation: 155 Cong. Rec. S7277
+---
+
+# PLEDGE OF ALLEGIANCE
+
+```
+                          PLEDGE OF ALLEGIANCE
+
+  The Honorable Kirsten E. Gillibrand, a Senator from the State of New 
+York, led the Pledge of Allegiance, as follows:
+
+       I pledge allegiance to the Flag of the United States of 
+     America, and to the Republic for which it stands, one nation 
+     under God, indivisible, with liberty and justice for all.
+
+                          ____________________
+```
