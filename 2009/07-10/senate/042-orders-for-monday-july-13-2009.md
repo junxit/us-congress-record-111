@@ -1,0 +1,30 @@
+---
+granule: CREC-2009-07-10-pt1-PgS7374-3
+date: 2009-07-10
+edition: CREC
+section: SENATE
+page: S7374
+citation: 155 Cong. Rec. S7374
+---
+
+# ORDERS FOR MONDAY, JULY 13, 2009
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S. 1390
+
+```
+                    ORDERS FOR MONDAY, JULY 13, 2009
+
+  Mr. REID. Mr. President, I ask unanimous consent that when the Senate 
+completes its business today, it adjourn until 11 a.m. on Monday, July 
+13; that following the prayer and pledge, the Journal of proceedings be 
+approved to date, the morning hour be deemed expired, the time for the 
+two leaders be reserved for their use later in the day, and the Senate 
+proceed to the consideration of Calendar No. 89, S. 1390, the 
+Department of Defense Authorization bill, as provided for under the 
+previous order.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
