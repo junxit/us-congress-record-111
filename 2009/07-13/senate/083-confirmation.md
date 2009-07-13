@@ -1,0 +1,25 @@
+---
+granule: CREC-2009-07-13-pt1-PgS7442
+date: 2009-07-13
+edition: CREC
+section: SENATE
+page: S7442
+citation: 155 Cong. Rec. S7442
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate, July 13, 2009:
+
+
+                         DEPARTMENT OF COMMERCE
+
+       ROBERT M. GROVES, OF MICHIGAN, TO BE DIRECTOR OF THE 
+     CENSUS.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
