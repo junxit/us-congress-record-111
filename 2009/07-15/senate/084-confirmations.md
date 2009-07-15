@@ -1,0 +1,25 @@
+---
+granule: CREC-2009-07-15-pt1-PgS7581-2
+date: 2009-07-15
+edition: CREC
+section: SENATE
+page: S7581
+citation: 155 Cong. Rec. S7581
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate, Wednesday, July 15, 
+2009:
+
+
+             NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+
+       CHARLES F. BOLDEN, JR., OF TEXAS, TO BE ADMINISTRATOR OF 
+     THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.
+       LORI GARVER, OF VIRGINIA, TO BE DEPUTY ADMINISTRATOR OF THE 
+     NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.
+```

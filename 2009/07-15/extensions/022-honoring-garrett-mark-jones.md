@@ -1,0 +1,41 @@
+---
+granule: CREC-2009-07-15-pt1-PgE1777-4
+date: 2009-07-15
+edition: CREC
+section: EXTENSIONS
+page: E1777
+citation: 155 Cong. Rec. E1777
+---
+
+# HONORING GARRETT MARK JONES
+
+```
+                      HONORING GARRETT MARK JONES
+
+                                 ______
+                                 
+
+                            HON. SAM GRAVES
+
+                              of missouri
+
+                    in the house of representatives
+
+                        Wednesday, July 15, 2009
+
+  Mr. GRAVES. Madam Speaker, I proudly pause to recognize Garrett Mark 
+Jones, a very special young man who has exemplified the finest 
+qualities of citizenship and leadership by taking an active part in the 
+Boy Scouts of America, Troop 360, and in earning the most prestigious 
+award of Eagle Scout.
+  Garrett has been very active with his troop participating in many 
+scout activities. Over the many years Garrett has been involved with 
+scouting, he has not only earned numerous merit badges, but also the 
+respect of his family, peers, and community.
+  Madam Speaker, I proudly ask you to join me in commending Garrett 
+Mark Jones for his accomplishments with the Boy Scouts of America and 
+for his efforts put forth in achieving the highest distinction of Eagle 
+Scout.
+
+                          ____________________
+```
