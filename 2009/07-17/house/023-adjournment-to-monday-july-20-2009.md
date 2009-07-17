@@ -1,0 +1,27 @@
+---
+granule: CREC-2009-07-17-pt1-PgH8344
+date: 2009-07-17
+edition: CREC
+section: HOUSE
+page: H8344
+citation: 155 Cong. Rec. H8344
+---
+
+# ADJOURNMENT TO MONDAY, JULY 20, 2009
+
+**Speaking:** Hoyer, Steny H. (H000874) [D-MD]
+
+```
+                  ADJOURNMENT TO MONDAY, JULY 20, 2009
+
+  Mr. HOYER. Mr. Speaker, I ask unanimous consent that when the House 
+adjourns today, it adjourn to meet at 12:30 p.m. on Monday next for 
+morning-hour debate, and further, Mr. Speaker, when the House adjourns 
+on that day, it adjourn to meet at 10:30 a.m. on Tuesday, July 21, 
+2009, for morning-hour debate.
+  The SPEAKER pro tempore (Mr. Kratovil). Is there objection to the 
+request of the gentleman from Maryland?
+  There was no objection.
+
+                          ____________________
+```
