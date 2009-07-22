@@ -1,0 +1,28 @@
+---
+granule: CREC-2009-07-22-pt1-PgH8586
+date: 2009-07-22
+edition: CREC
+section: HOUSE
+page: H8586
+citation: 155 Cong. Rec. H8586
+---
+
+# CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, OR LIMITED TARIFF BENEFITS
+
+**Measures:** H.R. 3288
+
+```
+    CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, OR LIMITED TARIFF 
+                                BENEFITS
+
+  Under clause 9 of rule XXI, lists or statements on congressional 
+earmarks, limited tax benefits, or limited tariff benefits were 
+submitted as follows:
+
+       The amendment to be offered by Representative Olver, or a 
+     designee, to H.R. 3288, the Transportation, and Housing and 
+     Urban Development, and Related Agencies Appropriations Act, 
+     2010, contains no congressional earmarks, limited tax 
+     benefits, or limited tariff benefits as defined in clause 9 
+     of rule XXI.
+```
