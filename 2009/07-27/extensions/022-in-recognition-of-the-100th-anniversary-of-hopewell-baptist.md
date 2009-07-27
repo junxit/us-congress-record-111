@@ -1,0 +1,40 @@
+---
+granule: CRECB-2009-pt14-Pg19461
+date: 2009-07-27
+edition: CRECB
+section: EXTENSIONS
+page: 19461
+---
+
+# IN RECOGNITION OF THE 100TH ANNIVERSARY OF HOPEWELL BAPTIST CHURCH
+
+```
+   IN RECOGNITION OF THE 100TH ANNIVERSARY OF HOPEWELL BAPTIST CHURCH
+
+                                 ______
+                                 
+
+                            HON. MIKE ROGERS
+
+                               of alabama
+
+                    in the house of representatives
+
+                         Monday, July 27, 2009
+
+  Mr. ROGERS of Alabama. Madam Speaker, I would like to request the 
+House's attention today to pay recognition to a special day for the 
+congregation of the Hopewell Baptist Church in Wellington, Alabama.
+  Hopewell Baptist Church was established in 1909 by Leona Gore, Jeff 
+Turner and Mollie Turner under the direction of Reverend Milton. 
+Through the years, the church has had a total of 22 pastors and has 
+truly been a beacon of light for the Wellington community.
+  On August 1st, the church will celebrate its 100th Anniversary under 
+the leadership of Reverend Carlos Woodward. This is an important 
+occasion that speaks to the enduring faith of the Hopewell community, 
+as well as its larger mission both in Wellington and in our state.
+  On behalf of the people's House, I would like to congratulate 
+Hopewell Baptist Church on reaching this important milestone.
+
+                          ____________________
+```
