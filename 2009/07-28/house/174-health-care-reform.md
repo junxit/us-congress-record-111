@@ -1,0 +1,42 @@
+---
+granule: CRECB-2009-pt14-Pg19570-7
+date: 2009-07-28
+edition: CRECB
+section: HOUSE
+page: 19570
+---
+
+# HEALTH CARE REFORM
+
+```
+                           HEALTH CARE REFORM
+
+  (Ms. FALLIN asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+
+[[Page 19571]]
+
+
+  Ms. FALLIN. Mr. Speaker, this debate on health care reform is 
+probably one of the most important debates this U.S. Congress has had, 
+because this debate on health care could move us towards socializing 
+our health care system and turning over our personal health to the 
+Federal Government to make decisions about our health, and also turning 
+over a large portion of our national economy to the Federal Government.
+  This debate on health care reform should only be about doing what is 
+right for America. And limiting choices on the kind of health care plan 
+a citizen of this Nation can have is not right for America. Putting a 
+Federal bureaucrat between the patient and the doctor is not right for 
+America. Moving 114 million Americans off private insurance on to a 
+government socialized plan is not right for America. Exploding our 
+deficit with huge, massive new tax increases for a government-run 
+health care plan is not right for America.
+  We should not be taking away the freedom to control something as 
+important as our own personal health care and our outcomes of our 
+health care, to the Federal Government. We should not be taking that 
+away. Health care reform is about doing the right thing, and it is 
+going to be right for Democrats and Republicans to come together to 
+reform health care.
+
+                          ____________________
+```
