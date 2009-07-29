@@ -1,0 +1,148 @@
+---
+granule: CREC-2009-07-29-pt1-PgH9036
+date: 2009-07-29
+edition: CREC
+section: HOUSE
+page: H9036
+citation: 155 Cong. Rec. H9036
+---
+
+# JUDICIAL SURVIVORS PROTECTION ACT OF 2009
+
+**Speaking:** Johnson, Henry C. "Hank" (J000288) [D-GA]
+
+**Measures:** S. 1107
+
+```
+               JUDICIAL SURVIVORS PROTECTION ACT OF 2009
+
+  Mr. JOHNSON of Georgia. Mr. Speaker, I ask unanimous consent that the 
+Committee on the Judiciary be discharged from further consideration of 
+the bill (S. 1107) to amend title 28, United States Code, to provide 
+for a limited 6-month period for Federal judges to opt into the 
+Judicial Survivors' Annuities System and begin contributing toward an 
+annuity for their spouse and dependent children upon their death, and 
+for other purposes, and ask for its immediate consideration in the 
+House.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Georgia?
+  There was no objection.
+  The text of the bill is as follows:
+
+                                S. 1107
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Judicial Survivors 
+     Protection Act of 2009''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) The term ``judicial official'' refers to incumbent 
+     officials defined under section 376(a) of title 28, United 
+     States Code.
+       (2) The term ``Judicial Survivors' Annuities Fund'' means 
+     the fund established under section 3 of the Judicial 
+     Survivors' Annuities Reform Act (28 U.S.C. 376 note; Public 
+     Law 94-554; 90 Stat. 2611).
+       (3) The term ``Judicial Survivors' Annuities System'' means 
+     the program established under section 376 of title 28, United 
+     States Code.
+
+     SEC. 3. PERSONS NOT CURRENTLY PARTICIPATING IN THE JUDICIAL 
+                   SURVIVORS' ANNUITIES SYSTEM.
+
+       (a) Election of Judicial Survivors' Annuities System 
+     Coverage.--An eligible judicial official may elect to 
+     participate in the Judicial Survivors' Annuities System 
+     during the open enrollment period specified in subsection 
+     (d).
+       (b) Manner of Making Elections.--An election under this 
+     section shall be made in writing, signed by the person making 
+     the election, and received by the Director of the 
+     Administrative Office of the United States Courts before the 
+     end of the open enrollment period.
+       (c) Effective Date for Elections.--Any such election shall 
+     be effective as of the first day of the first calendar month 
+     following the month in which the election is received by the 
+     Director.
+       (d) Open Enrollment Period Defined.--The open enrollment 
+     period under this section is the 6-month period beginning 30 
+     days after the date of enactment of this Act.
+
+     SEC. 4. JUDICIAL OFFICERS' CONTRIBUTIONS FOR OPEN ENROLLMENT 
+                   ELECTION.
+
+       (a) Contribution Rate.--Every active judicial official who 
+     files a written notification of his or her intention to 
+     participate in the Judicial Survivors' Annuities System 
+     during the open enrollment period shall be deemed thereby to 
+     consent and agree to having deducted from his or her salary a 
+     sum equal to 2.75 percent of that salary or a sum equal to 
+     3.5 percent of his or her retirement salary, except that the 
+     deduction from any retirement salary--
+       (1) of a justice or judge of the United States retired from 
+     regular active service under section 371(b) or 372(a) of 
+     title 28, United States Code;
+       (2) of a judge of the United States Court of Federal Claims 
+     retired under section 178 of title 28, United States Code; or
+       (3) of a judicial official on recall under section 155(b), 
+     373(c)(4), 375, or 636(h) of title 28, United States Code,
+
+     shall be an amount equal to 2.75 percent of retirement 
+     salary.
+       (b) Contributions To Be Credited to Judicial Survivors' 
+     Annuities Fund.--Contributions made under subsection (a) 
+     shall be credited to the Judicial Survivors' Annuities Fund.
+
+     SEC. 5. DEPOSIT FOR PRIOR CREDITABLE SERVICE.
+
+       (a) Lump Sum Deposit.--Any judicial official who files a 
+     written notification of his or her intention to participate 
+     in the Judicial Survivors' Annuities System during the open 
+     enrollment period may make a deposit equaling 2.75 percent of 
+     salary, plus 3 percent annual, compounded interest, for the 
+     last 18 months of prior service, to receive the credit for 
+     prior judicial service required for immediate coverage and 
+     protection of the official's survivors. Any such deposit 
+     shall be made on or before the closure of the open enrollment 
+     period.
+       (b) Deposits To Be Credited to Judicial Survivors' 
+     Annuities Fund.--Deposits made under subsection (a) shall be 
+     credited to the Judicial Survivors' Annuities Fund.
+
+     SEC. 6. VOLUNTARY CONTRIBUTIONS TO ENLARGE SURVIVORS' 
+                   ANNUITY.
+
+       Section 376 of title 28, United States Code, is amended by 
+     adding at the end the following:
+       ``(y) For each year of Federal judicial service completed, 
+     judicial officials who are enrolled in the Judicial 
+     Survivors' Annuities System on the date of enactment of the 
+     Judicial Survivors Protection Act of 2009 may purchase, in 3-
+     month increments, up to an additional year of service credit, 
+     under the terms set forth in this section. In the case of 
+     judicial officials who elect to enroll in the Judicial 
+     Survivors' Annuities System during the statutory open 
+     enrollment period authorized under the Judicial Survivors 
+     Protection Act of 2009, for each year of Federal judicial 
+     service completed, such an official may purchase, in 3-month 
+     increments, up to an additional year of service credit for 
+     each year of Federal judicial service completed, under the 
+     terms set forth in section 4(a) of that Act.''.
+
+     SEC. 7. EFFECTIVE DATE.
+
+       This Act, including the amendment made by section 6, shall 
+     take effect on the date of enactment of this Act.
+
+  The bill was ordered to be read a third time, was read the third 
+time, and passed, and a motion to reconsider was laid on the table.
+
+                          ____________________
+```
