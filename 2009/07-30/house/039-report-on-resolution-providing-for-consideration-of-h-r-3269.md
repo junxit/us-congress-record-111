@@ -1,0 +1,32 @@
+---
+granule: CREC-2009-07-30-pt1-PgH9139-4
+date: 2009-07-30
+edition: CREC
+section: HOUSE
+page: H9139
+citation: 155 Cong. Rec. H9139
+---
+
+# REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 3269, CORPORATE AND FINANCIAL INSTITUTION COMPENSATION FAIRNESS ACT OF 2009
+
+**Measures:** H.Res. 697, H.R. 3269
+
+```
+                              {time}  1615
+    REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 3269, 
+ CORPORATE AND FINANCIAL INSTITUTION COMPENSATION FAIRNESS ACT OF 2009
+
+  Ms. PINGREE of Maine, from the Committee on Rules, submitted a 
+privileged report (Rept. No. 111-237) on the resolution (H. Res. 697) 
+providing for consideration of the bill (H.R. 3269) to amend the 
+Securities Exchange Act of 1934 to provide shareholders with an 
+advisory vote on executive compensation and to prevent perverse 
+incentives in the compensation practices of financial institutions, 
+which was referred to
+
+[[Page H9140]]
+
+the House Calendar and ordered to be printed.
+
+                          ____________________
+```
