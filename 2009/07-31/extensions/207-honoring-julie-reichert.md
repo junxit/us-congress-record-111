@@ -1,0 +1,42 @@
+---
+granule: CREC-2009-07-31-pt1-PgE2167
+date: 2009-07-31
+edition: CREC
+section: EXTENSIONS
+page: E2167
+citation: 155 Cong. Rec. E2167
+---
+
+# HONORING JULIE REICHERT
+
+```
+                        HONORING JULIE REICHERT
+
+                                 ______
+                                 
+
+                            HON. SAM GRAVES
+
+                              of missouri
+
+                    in the house of representatives
+
+                         Friday, July 31, 2009
+
+  Mr. GRAVES. Madam Speaker, I proudly rise today to recognize Julie 
+Reichert. On July 16, 2009, Julie received a Gold Medal while competing 
+at the National Family, Career and Community Leaders of America 
+National Leadership Conference. This is the highest award in the Nation 
+for her FCCLA event.
+  She has been very active with her local chapter and has contributed 
+greatly to her area through her service. Not only has she distinguished 
+herself through her involvement, she has earned the respect of her 
+family, peers, and community.
+  Madam Speaker, I proudly ask you to join me in commending Julie 
+Reichert for her accomplishments with the National Family, Career and 
+Community Leaders of America and for her efforts put forth in achieving 
+the highest distinction in the National Leadership Conference 
+competition.
+
+                          ____________________
+```

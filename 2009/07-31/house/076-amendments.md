@@ -1,0 +1,262 @@
+---
+granule: CREC-2009-07-31-pt1-PgH9283-3
+date: 2009-07-31
+edition: CREC
+section: HOUSE
+page: H9283
+citation: 155 Cong. Rec. H9283
+---
+
+# AMENDMENTS
+
+**Measures:** H.R. 2708
+
+```
+                               AMENDMENTS
+
+  Under clause 8 of rule XVIII, proposed amendments were submitted as 
+follows:
+
+                               H.R. 2708
+
+                          Offered By: Mr. Cole
+
+       Amendment No. 1: After section 104, add the following new 
+     section (and amend the table of contents accordingly):
+
+     SEC. 105. CONTINUATION OF BENEFITS.
+
+       No funds or services authorized under this Act, or the 
+     amendments made by this Act, or appropriated pursuant to an 
+     authorization under this Act or such amendments, shall be 
+     withheld from any Indian tribe or member of an Indian tribe 
+     based on the fact that the Indian tribe was federally 
+     recognized on or after June 18, 1934.
+
+                               H.R. 2708
+
+                          Offered By: Mr. Cole
+
+       Amendment No. 2: Page 318, line 16, before ``after'' insert 
+     the following: ``before, on, or''.
+
+                               H.R. 2708
+
+                          Offered By: Mr. Cole
+
+       Amendment No. 3: After section 714 of the amendment added 
+     by section 101 of the bill, add the following new section 
+     (and amend subsequent sections and the table of contents 
+     accordingly):
+
+     SEC. 715. TESTIMONY BY SERVICE EMPLOYEES IN CASES OF RAPE AND 
+                   SEXUAL ASSAULT.
+
+       (a) Approval by Director.--
+       (1) In general.--The Director shall approve or disapprove, 
+     in writing, any request or subpoena for a sexual assault 
+     nurse examiner employed by the Service to provide testimony 
+     in a deposition, trial, or other similar proceeding regarding 
+     information obtained in carrying out the official duties of 
+     the nurse examiner.
+       (2) Requirement.--The Director shall approve a request or 
+     subpoena under paragraph (1) if the request or subpoena does 
+     not violate the policy of the Department to maintain strict 
+     impartiality with respect to private causes of action.
+       (3) Treatment.--If the Director fails to approve or 
+     disapprove a request or subpoena by the date that is 30 days 
+     after the date of receipt of the request or subpoena, the 
+     request or subpoena shall be considered to be approved for 
+     purposes of this subsection.
+       (b) Policies and Protocol.--The Director, in coordination 
+     with the Director of the Office on Violence Against Women of 
+     the Department of Justice, in consultation with Indian Tribes 
+     and Tribal Organizations, and in conference with Urban Indian 
+     Organizations, shall develop standardized sexual assault 
+     policies and protocol for the facilities of the Service.
+
+                               H.R. 2708
+
+                          Offered By: Mr. Cole
+
+       Amendment No. 4: After section 817, add the following new 
+     section (and amend subsequent sections and the table of 
+     contents accordingly):
+
+     SEC. 818. LIMITATION ON USE OF FUNDS.
+
+       No funds authorized under this Act, or the amendments made 
+     by this Act, or appropriated pursuant to an authorization 
+     under this Act or such amendments, shall be withheld from 
+     release to or expenditure for the benefit of any federally 
+     recognized Indian tribe based on the pendency of litigation; 
+     provided, that this limitation shall not be effective if a 
+     temporary order or temporary injunction is in effect during 
+     the pendency of litigation or there is a settlement agreement 
+     which effects the end of litigation among the adverse 
+     parties.
+
+                               H.R. 2708
+
+                          Offered By: Mr. Cole
+
+       Amendment No. 5: Add at the end of the bill, add the 
+     following new title (and amend the table of contents 
+     accordingly):
+
+ TITLE IX--LAW ENFORCEMENT AND METHAMPHETAMINE ISSUES IN INDIAN COUNTRY
+
+     SEC. 901. SENSE OF CONGRESS REGARDING LAW ENFORCEMENT AND 
+                   METHAMPHETAMINE ISSUES IN INDIAN COUNTRY.
+
+       It is the sense of Congress that Congress encourages State, 
+     local, and Indian tribal law enforcement agencies to enter 
+     into memoranda of agreement between and among those agencies 
+     for purposes of streamlining law enforcement activities and 
+     maximizing the use of limited resources--
+       (1) to improve law enforcement services provided to Indian 
+     tribal communities; and
+       (2) to increase the effectiveness of measures to address 
+     problems relating to methamphetamine use in Indian Country 
+     (as defined in section 1151 of title 18, United States Code).
+
+                               H.R. 2708
+
+                          Offered By: Mr. Cole
+
+       Amendment No. 6: Add at the end of the bill, insert the 
+     following new title (and amend the table of contents 
+     accordingly):
+
+        TITLE IX--APOLOGY TO NATIVE PEOPLES OF THE UNITED STATES
+
+     SEC. 901. APOLOGY TO NATIVE PEOPLES OF THE UNITED STATES.
+
+       (a) Findings.--Congress finds that--
+       (1) the ancestors of today's Native Peoples inhabited the 
+     land of the present-day United States since time immemorial 
+     and for thousands of years before the arrival of people of 
+     European descent;
+       (2) for millennia, Native Peoples have honored, protected, 
+     and stewarded this land we cherish;
+       (3) Native Peoples are spiritual people with a deep and 
+     abiding belief in the Creator, and for millennia Native 
+     Peoples have maintained a powerful spiritual connection to 
+     this land, as evidenced by their customs and legends;
+       (4) the arrival of Europeans in North America opened a new 
+     chapter in the history of Native Peoples;
+       (5) while establishment of permanent European settlements 
+     in North America did stir conflict with nearby Indian tribes, 
+     peaceful and mutually beneficial interactions also took 
+     place;
+       (6) the foundational English settlements in Jamestown, 
+     Virginia, and Plymouth, Massachusetts, owed their survival in 
+     large measure to the compassion and aid of Native Peoples in 
+     the vicinities of the settlements;
+       (7) in the infancy of the United States, the founders of 
+     the Republic expressed their desire for a just relationship 
+     with the Indian tribes, as evidenced by the Northwest 
+     Ordinance enacted by Congress in 1787, which begins with the 
+     phrase, ``The utmost good faith shall always be observed 
+     toward the Indians'';
+       (8) Indian tribes provided great assistance to the 
+     fledgling Republic as it strengthened and grew, including 
+     invaluable help to Meriwether Lewis and William Clark on 
+     their epic journey from St. Louis, Missouri, to the Pacific 
+     Coast;
+       (9) Native Peoples and non-Native settlers engaged in 
+     numerous armed conflicts in which unfortunately, both took 
+     innocent lives, including those of women and children;
+       (10) the Federal Government violated many of the treaties 
+     ratified by Congress and other diplomatic agreements with 
+     Indian tribes;
+       (11) the United States forced Indian tribes and their 
+     citizens to move away from their traditional homelands and 
+     onto federally established and controlled reservations, in 
+     accordance with such Acts as the Act of May 28, 1830 (4 Stat. 
+     411, chapter 148) (commonly known as the ``Indian Removal 
+     Act'');
+       (12) many Native Peoples suffered and perished--
+       (A) during the execution of the official Federal Government 
+     policy of forced removal, including the infamous Trail of 
+     Tears and Long Walk;
+       (B) during bloody armed confrontations and massacres, such 
+     as the Sand Creek Massacre in 1864 and the Wounded Knee 
+     Massacre in 1890; and
+       (C) on numerous Indian reservations;
+       (13) the Federal Government condemned the traditions, 
+     beliefs, and customs of Native Peoples and endeavored to 
+     assimilate them
+
+[[Page H9284]]
+
+     by such policies as the redistribution of land under the Act 
+     of February 8, 1887 (25 U.S.C. 331; 24 Stat. 388, chapter 
+     119) (commonly known as the ``General Allotment Act''), and 
+     the forcible removal of Native children from their families 
+     to faraway boarding schools where their Native practices and 
+     languages were degraded and forbidden;
+       (14) officials of the Federal Government and private United 
+     States citizens harmed Native Peoples by the unlawful 
+     acquisition of recognized tribal land and the theft of tribal 
+     resources and assets from recognized tribal land;
+       (15) the policies of the Federal Government toward Indian 
+     tribes and the breaking of covenants with Indian tribes have 
+     contributed to the severe social ills and economic troubles 
+     in many Native communities today;
+       (16) despite the wrongs committed against Native Peoples by 
+     the United States, Native Peoples have remained committed to 
+     the protection of this great land, as evidenced by the fact 
+     that, on a per capita basis, more Native Peoples have served 
+     in the United States Armed Forces and placed themselves in 
+     harm's way in defense of the United States in every major 
+     military conflict than any other ethnic group;
+       (17) Indian tribes have actively influenced the public life 
+     of the United States by continued cooperation with Congress 
+     and the Department of the Interior, through the involvement 
+     of Native individuals in official Federal Government 
+     positions, and by leadership of their own sovereign Indian 
+     tribes;
+       (18) Indian tribes are resilient and determined to 
+     preserve, develop, and transmit to future generations their 
+     unique cultural identities;
+       (19) the National Museum of the American Indian was 
+     established within the Smithsonian Institution as a living 
+     memorial to Native Peoples and their traditions; and
+       (20) Native Peoples are endowed by their Creator with 
+     certain unalienable rights, and among those are life, 
+     liberty, and the pursuit of happiness.
+       (b) Acknowledgment and Apology.--The United States, acting 
+     through Congress--
+       (1) recognizes the special legal and political relationship 
+     Indian tribes have with the United States and the solemn 
+     covenant with the land we share;
+       (2) commends and honors Native Peoples for the thousands of 
+     years that they have stewarded and protected this land;
+       (3) recognizes that there have been years of official 
+     depredations, ill-conceived policies, and the breaking of 
+     covenants by the Federal Government regarding Indian tribes;
+       (4) apologizes on behalf of the people of the United States 
+     to all Native Peoples for the many instances of violence, 
+     maltreatment, and neglect inflicted on Native Peoples by 
+     citizens of the United States;
+       (5) expresses its regret for the ramifications of former 
+     wrongs and its commitment to build on the positive 
+     relationships of the past and present to move toward a 
+     brighter future where all the people of this land live 
+     reconciled as brothers and sisters, and harmoniously steward 
+     and protect this land together;
+       (6) urges the President to acknowledge the wrongs of the 
+     United States against Indian tribes in the history of the 
+     United States in order to bring healing to this land; and
+       (7) commends the State governments that have begun 
+     reconciliation efforts with recognized Indian tribes located 
+     in their boundaries and encourages all State governments 
+     similarly to work toward reconciling relationships with 
+     Indian tribes within their boundaries.
+       (c) Disclaimer.--Nothing in this section--
+       (1) authorizes or supports any claim against the United 
+     States; or
+       (2) serves as a settlement of any claim against the United 
+     States.
+```
