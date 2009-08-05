@@ -1,0 +1,21 @@
+---
+granule: CRECB-2009-pt15-Pg20791-2
+date: 2009-08-05
+edition: CRECB
+section: SENATE
+page: 20791
+---
+
+# EXECUTIVE MESSAGES REFERRED
+
+```
+                      EXECUTIVE MESSAGES REFERRED
+
+  In executive session the Presiding Officer laid before the Senate 
+messages from the President of the United States submitting sundry 
+nominations which were referred to the appropriate committees.
+  (The nominations received today are printed at the end of the Senate 
+proceedings.)
+
+                          ____________________
+```
