@@ -1,0 +1,25 @@
+---
+granule: CREC-2009-09-08-pt1-PgH9300-4
+date: 2009-09-08
+edition: CREC
+section: HOUSE
+page: H9300
+citation: 155 Cong. Rec. H9300
+---
+
+# APPOINTMENT AS MEMBERS TO BOARD OF DIRECTORS OF NATIONAL URBAN AIR TOXICS RESEARCH CENTER
+
+```
+  APPOINTMENT AS MEMBERS TO BOARD OF DIRECTORS OF NATIONAL URBAN AIR 
+                         TOXICS RESEARCH CENTER
+
+  The SPEAKER pro tempore. Pursuant to section 112 of the Clean Air Act 
+(42 U.S.C. 7412), and the order of the House of January 6, 2009, the 
+Chair announces the Speaker's appointment of the following members on 
+the part of the House to the Board of Directors of the National Urban 
+Air Toxics Research Center:
+  Mrs. Herminia Palacio, M.D., M.P.H., Bellaire, Texas
+  Mr. John Walke, Washington, D.C.
+
+                          ____________________
+```
