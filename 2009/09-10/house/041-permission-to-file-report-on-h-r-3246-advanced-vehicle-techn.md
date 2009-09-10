@@ -1,0 +1,23 @@
+---
+granule: CRECB-2009-pt16-Pg21320
+date: 2009-09-10
+edition: CRECB
+section: HOUSE
+page: 21320
+---
+
+# PERMISSION TO FILE REPORT ON H.R. 3246, ADVANCED VEHICLE TECHNOLOGY ACT OF 2009
+
+```
+PERMISSION TO FILE REPORT ON H.R. 3246, ADVANCED VEHICLE TECHNOLOGY ACT 
+                                OF 2009
+
+  Ms. WOOLSEY. Mr. Speaker, I ask unanimous consent that the Committee 
+on Science and Technology may have until 11:59 p.m. on Friday, 
+September 11, 2009, to file its report to accompany H.R. 3246.
+  The SPEAKER pro tempore (Mr. Peters). Is there objection to the 
+request of the gentlewoman from California?
+  There was no objection.
+
+                          ____________________
+```
