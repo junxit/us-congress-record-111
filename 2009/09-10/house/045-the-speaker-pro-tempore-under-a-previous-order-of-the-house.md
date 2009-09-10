@@ -1,0 +1,19 @@
+---
+granule: CREC-2009-09-10-pt1-PgH9418-3
+date: 2009-09-10
+edition: CREC
+section: HOUSE
+page: H9418
+citation: 155 Cong. Rec. H9418
+---
+
+# The SPEAKER pro tempore. Under a previous order of the House, the gentleman from Kansas (Mr. Tiahrt) is recognized for 5 minutes.
+
+```
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Kansas (Mr. Tiahrt) is recognized for 5 minutes.
+  (Mr. TIAHRT addressed the House. His remarks will appear hereafter in 
+the Extensions of Remarks.)
+
+                          ____________________
+```
