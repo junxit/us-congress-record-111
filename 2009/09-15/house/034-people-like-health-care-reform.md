@@ -1,0 +1,46 @@
+---
+granule: CREC-2009-09-15-pt1-PgH9499-7
+date: 2009-09-15
+edition: CREC
+section: HOUSE
+page: H9499
+citation: 155 Cong. Rec. H9499
+---
+
+# PEOPLE LIKE HEALTH CARE REFORM
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+```
+                     PEOPLE LIKE HEALTH CARE REFORM
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Mr. Speaker, at my townhall meetings, I was amazed at
+
+[[Page H9500]]
+
+how much consensus there was about health care reform. People liked 
+health care reform.
+  What they didn't like were things that are not actually in the bill. 
+Because of the massive disinformation campaign on this bill, people 
+didn't like things that weren't there.
+  There were more hallucinations about this from opponents of this bill 
+than there were when Timothy Leary was doing business in Haight-Ashbury 
+in the late 1960s. Take this hallucination that this bill is going to 
+insure illegal immigrants. You look at page 132, it says, ``For 
+purposes of this division, the term `affordable credit individual' 
+means, subject to subsection (b), an individual who is lawfully present 
+in a State in the United States.''
+  Look at page 143, ``Nothing in this subtitle shall allow Federal 
+payments for affordability credits on behalf of individuals who are not 
+lawfully present in the United States.''
+  Now, the President was challenged during his joint address to the 
+U.S. Congress. I will tell you what, if there was a deception, it 
+wasn't by the President of the United States.
+  And it is time for us to call out those people who spread 
+hallucinations, phantoms, boogeymen. People want health care and this 
+reform. We are going to pass it.
+
+                          ____________________
+```
