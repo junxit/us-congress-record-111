@@ -1,0 +1,30 @@
+---
+granule: CREC-2009-09-16-pt1-PgS9488-6
+date: 2009-09-16
+edition: CREC
+section: SENATE
+page: S9488
+citation: 155 Cong. Rec. S9488
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate, Wednesday, September 
+16, 2009:
+
+
+                         DEPARTMENT OF DEFENSE
+
+       JOHN M. MCHUGH, OF NEW YORK, TO BE SECRETARY OF THE ARMY.
+       JOSEPH W. WESTPHAL, OF NEW YORK, TO BE UNDER SECRETARY OF 
+     THE ARMY.
+       JUAN M. GARCIA III, OF TEXAS, TO BE AN ASSISTANT SECRETARY 
+     OF THE NAVY.
+
+       THE ABOVE NOMINATIONS WERE APPROVED SUBJECT TO THE 
+     NOMINEES' COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND 
+     TESTIFY BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```

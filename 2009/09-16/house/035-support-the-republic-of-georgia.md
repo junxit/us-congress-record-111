@@ -1,0 +1,38 @@
+---
+granule: CREC-2009-09-16-pt1-PgH9558
+date: 2009-09-16
+edition: CREC
+section: HOUSE
+page: H9558
+citation: 155 Cong. Rec. H9558
+---
+
+# SUPPORT THE REPUBLIC OF GEORGIA
+
+**Speaking:** Dreier, David (D000492) [R-CA]
+
+```
+                    SUPPORT THE REPUBLIC OF GEORGIA
+
+  (Mr. DREIER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. DREIER. Madam Speaker, last week we got the troubling news that 
+Venezuelan President Hugo Chavez was joining Russia and Nicaragua in 
+recognizing the Abkhazia and South Ossetia territories of Georgia as 
+independent countries. This is very troubling. The international 
+community recognizes the territorial integrity of Georgia, and now we 
+have to wonder, with Chavez's move, what other countries might join him 
+in this effort.
+  It is absolutely essential that we stand with our ally, Georgia, in 
+doing everything that we can to strengthen democracy, the rule of law, 
+and the institutions that exist there.
+  Senator Kerry and I have joined in introducing a resolution calling 
+for the establishment of a U.S.-Georgia free trade agreement. The 
+actions of Chavez make that even more important today than ever. We 
+need to do all that we can to help strengthen and bolster our economy 
+and their economy as well.
+  Let's pass this resolution and ensure that the free people of Georgia 
+are able to succeed.
+
+                          ____________________
+```
