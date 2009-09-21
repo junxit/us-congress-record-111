@@ -1,0 +1,27 @@
+---
+granule: CREC-2009-09-21-pt1-PgS9623
+date: 2009-09-21
+edition: CREC
+section: SENATE
+page: S9623
+citation: 155 Cong. Rec. S9623
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate, Monday, September 21, 
+2009:
+
+
+                         DEPARTMENT OF DEFENSE
+
+       J. MICHAEL GILMORE, OF VIRGINIA, TO BE DIRECTOR OF 
+     OPERATIONAL TEST AND EVALUATION, DEPARTMENT OF DEFENSE.
+
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
