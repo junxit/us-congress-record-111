@@ -1,0 +1,36 @@
+---
+granule: CRECB-2009-pt17-Pg22821-5
+date: 2009-09-29
+edition: CRECB
+section: SENATE
+page: 22821
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate, September 29, 2009:
+
+
+                             THE JUDICIARY
+
+       JEFFREY L. VIKEN, OF SOUTH DAKOTA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF SOUTH DAKOTA.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       JENNY A. DURKAN, OF WASHINGTON, TO BE UNITED STATES 
+     ATTORNEY FOR THE WESTERN DISTRICT OF WASHINGTON FOR THE TERM 
+     OF FOUR YEARS.
+       FLORENCE T. NAKAKUNI, OF HAWAII, TO BE UNITED STATES 
+     ATTORNEY FOR THE DISTRICT OF HAWAII FOR THE TERM OF FOUR 
+     YEARS.
+       DEBORAH K. R. GILG, OF NEBRASKA, TO BE UNITED STATES 
+     ATTORNEY FOR THE DISTRICT OF NEBRASKA FOR THE TERM OF FOUR 
+     YEARS.
+
+                          ____________________
+```
