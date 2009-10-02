@@ -1,0 +1,23 @@
+---
+granule: CREC-2009-10-02-pt1-PgH10459-6
+date: 2009-10-02
+edition: CREC
+section: HOUSE
+page: H10459
+citation: 155 Cong. Rec. H10459
+---
+
+# ADJOURNMENT
+
+```
+                              ADJOURNMENT
+
+  The SPEAKER pro tempore. Without objection, the House stands 
+adjourned until 12:30 p.m. on Tuesday next for morning-hour debate.
+  There was no objection.
+  Accordingly (at 10 o'clock and 4 minutes a.m.), under its previous 
+order, the House adjourned until Tuesday, October 6, 2009, at 12:30 
+p.m., for morning-hour debate.
+
+                          ____________________
+```
