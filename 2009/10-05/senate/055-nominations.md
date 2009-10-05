@@ -1,0 +1,69 @@
+---
+granule: CRECB-2009-pt17-Pg23529-4
+date: 2009-10-05
+edition: CRECB
+section: SENATE
+page: 23529
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                       Department of the Treasury
+
+       CHARLES COLLYNS, OF MARYLAND, TO BE A DEPUTY UNDER 
+     SECRETARY OF THE TREASURY, VICE CLAY LOWERY RESIGNED.
+
+
+                Department of Health and Human Services
+
+       RICHARD SORIAN, OF NEW YORK, TO BE AN ASSISTANT SECRETARY 
+     OF HEALTH AND HUMAN SERVICES, VICE CHRISTINA H. PEARSON, 
+     RESIGNED.
+
+
+                          Department of State
+
+       JAMES B. WARLICK, JR., OF VIRGINIA, A CAREER MEMBER OF THE 
+     SENIOR FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE REPUBLIC OF BULGARIA.
+
+
+             Corporation for National and Community Service
+
+       PATRICK ALFRED CORVINGTON, OF MARYLAND, TO BE CHIEF 
+     EXECUTIVE OFFICER OF THE CORPORATION FOR NATIONAL AND 
+     COMMUNITY SERVICE, VICE DAVID EISNER.
+
+
+                Department of Health and Human Services
+
+       PAMELA S. HYDE, OF NEW MEXICO, TO BE ADMINISTRATOR OF THE 
+     SUBSTANCE ABUSE AND MENTAL HEALTH SERVICES ADMINISTRATION, 
+     DEPARTMENT OF HEALTH AND HUMAN SERVICES, VICE TERRY L. CLINE.
+
+
+                   Executive Office of the President
+
+       DANIEL I. GORDON, OF THE DISTRICT OF COLUMBIA, TO BE 
+     ADMINISTRATOR FOR FEDERAL PROCUREMENT POLICY, VICE PAUL A. 
+     DENETT.
+
+
+                         Department of Justice
+
+       SUSAN B. CARBON, OF NEW HAMPSHIRE, TO BE DIRECTOR OF THE 
+     VIOLENCE AGAINST WOMEN OFFICE, DEPARTMENT OF JUSTICE, VICE 
+     CYNTHIA DYER, RESIGNED.
+       JOHN H. LAUB, OF THE DISTRICT OF COLUMBIA, TO BE DIRECTOR 
+     OF THE NATIONAL INSTITUTE OF JUSTICE, VICE DAVID W. HAGY, 
+     RESIGNED.
+
+                          ____________________
+```
