@@ -1,0 +1,34 @@
+---
+granule: CRECB-2009-pt17-Pg23581-5
+date: 2009-10-06
+edition: CRECB
+section: SENATE
+page: 23581
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       MARY JOHN MILLER, OF MARYLAND, TO BE AN ASSISTANT SECRETARY 
+     OF THE TREASURY, VICE ANTHONY W. RYAN, RESIGNED.
+       MICHAEL F. MUNDACA, OF NEW YORK, TO BE AN ASSISTANT 
+     SECRETARY OF THE TREASURY, VICE ERIC SOLOMON, RESIGNED.
+
+
+                             THE JUDICIARY
+
+       DENNY CHIN, OF NEW YORK, TO BE UNITED STATES CIRCUIT JUDGE 
+     FOR THE SECOND CIRCUIT, VICE ROBERT D. SACK, RETIRED.
+       O. ROGERIEE THOMPSON, OF RHODE ISLAND, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE FIRST CIRCUIT, VICE BRUCE M. SELYA, 
+     RETIRED.
+
+                          ____________________
+```
