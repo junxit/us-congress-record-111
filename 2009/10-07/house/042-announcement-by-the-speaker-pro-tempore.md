@@ -1,0 +1,28 @@
+---
+granule: CREC-2009-10-07-pt1-PgH10539-5
+date: 2009-10-07
+edition: CREC
+section: HOUSE
+page: H10539
+citation: 155 Cong. Rec. H10539
+---
+
+# ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+**Measures:** H.Res. 701, H.Res. 795, H.Res. 799
+
+```
+                ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, proceedings 
+will resume on questions previously postponed.
+  Votes will be taken in the following order:
+  Ordering the previous question on House Resolution 799;
+  Adopting House Resolution 799, if ordered; and
+  Suspending the rules with regard to:
+  House Resolution 701 and House Resolution 795.
+  The first electronic vote will be conducted as a 15-minute vote. 
+Remaining electronic votes will be conducted as 5-minute votes.
+
+                          ____________________
+```
