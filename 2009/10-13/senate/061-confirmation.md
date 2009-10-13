@@ -1,0 +1,28 @@
+---
+granule: CRECB-2009-pt18-Pg24593
+date: 2009-10-13
+edition: CRECB
+section: SENATE
+page: 24593
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate, Tuesday, October 13, 
+2009:
+
+
+                   EXECUTIVE OFFICE OF THE PRESIDENT
+
+       DANIEL I. WERFEL, OF VIRGINIA, TO BE CONTROLLER, OFFICE OF 
+     FEDERAL FINANCIAL MANAGEMENT, OFFICE OF MANAGEMENT AND 
+     BUDGET.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+
+                          ____________________
+```
