@@ -1,0 +1,26 @@
+---
+granule: CRECB-2009-pt18-Pg24886-3
+date: 2009-10-14
+edition: CRECB
+section: SENATE
+page: 24886
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate, Wednesday, October 14, 
+2009:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       DAVID LYLE CARGILL, JR., OF NEW HAMPSHIRE, TO BE UNITED 
+     STATES MARSHAL FOR THE DISTRICT OF NEW HAMPSHIRE FOR THE TERM 
+     OF FOUR YEARS.
+       TIMOTHY J. HEAPHY, OF VIRGINIA, TO BE UNITED STATES 
+     ATTORNEY FOR THE WESTERN DISTRICT OF VIRGINIA FOR THE TERM OF 
+     FOUR YEARS.
+```
