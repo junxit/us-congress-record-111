@@ -1,0 +1,45 @@
+---
+granule: CREC-2009-10-27-pt1-PgE2642-5
+date: 2009-10-27
+edition: CREC
+section: EXTENSIONS
+page: E2642
+citation: 155 Cong. Rec. E2642
+---
+
+# A USEFUL QUOTE
+
+**Speaking:** Smith, Lamar (S000583) [R-TX]
+
+```
+                             A USEFUL QUOTE
+
+                                 ______
+                                 
+
+                            HON. LAMAR SMITH
+
+                                of texas
+
+                    in the house of representatives
+
+                       Tuesday, October 27, 2009
+
+  Mr. SMITH of Texas. Madam Speaker, a friend and constituent of mine, 
+Adriel ``Squeaky'' McGill, from San Antonio, Texas, has given me a 
+quote that I feel has present-day application. I submit it for the 
+benefit of my colleagues and citizens everywhere.
+  The following quotation, from 1790 by Dr. Alexander Tytler, Professor 
+of General History, University of Edinburgh, is still instructive:
+
+       A Democracy cannot exist as a permanent form of government. 
+     It can only exist until the voters discover that they can 
+     vote themselves largess out of the public treasury. From that 
+     moment on the majority always votes for the candidate 
+     promising the most benefits from that public treasury, with 
+     the result that a democracy will always collapse from a loose 
+     fiscal policy (burden of large public debt), always to be 
+     followed by a dictatorship.
+
+                          ____________________
+```
