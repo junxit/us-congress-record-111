@@ -1,0 +1,82 @@
+---
+granule: CREC-2009-10-29-pt1-PgS10944-2
+date: 2009-10-29
+edition: CREC
+section: SENATE
+page: S10944
+citation: 155 Cong. Rec. S10944
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                         Department of Defense
+
+       FRANK KENDALL III, OF VIRGINIA, TO BE PRINCIPAL DEPUTY 
+     UNDER SECRETARY OF DEFENSE FOR ACQUISITION, TECHNOLOGY, AND 
+     LOGISTICS. (NEW POSITION)
+
+
+                             The Judiciary
+
+       WILLIAM M. CONLEY, OF WISCONSIN, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE WESTERN DISTRICT OF WISCONSIN, VICE 
+     BARBARA B. CRABB, RETIRING.
+       BRIAN ANTHONY JACKSON, OF LOUISIANA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE MIDDLE DISTRICT OF LOUISIANA, VICE 
+     FRANK J. POLOZOLA, RETIRED.
+
+
+                         Department of Justice
+
+       JAMES P. LYNCH, OF THE DISTRICT OF COLUMBIA, TO BE DIRECTOR 
+     OF THE BUREAU OF JUSTICE STATISTICS, VICE JEFFREY L. 
+     SEDGWICK, RESIGNED.
+
+
+                         Department of Commerce
+
+       SURESH KUMAR, OF NEW JERSEY, TO BE ASSISTANT SECRETARY OF 
+     COMMERCE AND DIRECTOR GENERAL OF THE UNITED STATES AND 
+     FOREIGN COMMERCIAL SERVICE, VICE ISRAEL HERNANDEZ, RESIGNED.
+
+
+                              In the Army
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+Maj. Gen. Guy C. Swan III
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+Brig. Gen. William N. Phillips
+
+
+                              In the Navy
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                           To be vice admiral
+
+Vice Adm. Bernard J. McCullough III
+
+                          ____________________
+```
