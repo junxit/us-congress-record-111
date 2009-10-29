@@ -1,0 +1,30 @@
+---
+granule: CRECB-2009-pt19-Pg26306
+date: 2009-10-29
+edition: CRECB
+section: SENATE
+page: 26306
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate Thursday, October 29, 
+2009:
+
+
+                         Public Health Service
+
+       REGINA M. BENJAMIN, OF ALABAMA, TO BE MEDICAL DIRECTOR IN 
+     THE REGULAR CORPS OF THE PUBLIC HEALTH SERVICE, SUBJECT TO 
+     QUALIFICATIONS THEREFOR AS PROVIDED BY LAW AND REGULATIONS, 
+     AND TO BE SURGEON GENERAL OF THE PUBLIC HEALTH SERVICE FOR A 
+     TERM OF FOUR YEARS.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+
+                          ____________________
+```

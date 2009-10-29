@@ -1,0 +1,20 @@
+---
+granule: CRECB-2009-pt19-Pg26138-2
+date: 2009-10-29
+edition: CRECB
+section: HOUSE
+page: 26138
+---
+
+# PERSONAL EXPLANATION
+
+```
+                          PERSONAL EXPLANATION
+
+  Mr. ABERCROMBIE. Madam Speaker, I regret that I missed rollcall vote 
+Nos. 790, 798-818, and 823-825. Had I been present, I would have voted 
+``yea'' on votes 790, 798-800, 802-818, and 823-825. I would have voted 
+``nay'' on vote No. 801.
+
+                          ____________________
+```
