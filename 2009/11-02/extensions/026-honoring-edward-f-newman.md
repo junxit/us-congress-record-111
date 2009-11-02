@@ -1,0 +1,75 @@
+---
+granule: CRECB-2009-pt19-Pg26457
+date: 2009-11-02
+edition: CRECB
+section: EXTENSIONS
+page: 26457
+---
+
+# HONORING EDWARD F. NEWMAN
+
+```
+                       HONORING EDWARD F. NEWMAN
+
+                                 ______
+                                 
+
+                             HON. SAM FARR
+
+                             of california
+
+                    in the house of representatives
+
+                        Monday, November 2, 2009
+
+  Mr. FARR. Madam Speaker, I rise today to honor and pay tribute to my 
+friend Edward F. Newman, who recently died at age 85, for an inspiring 
+life that promoted peace and social justice. He was a well-known and 
+much loved Santa Cruzan.
+  Following high school he attended the School of Engineering at the 
+University of California Berkeley before joining the Navy to serve in 
+World War II. As a young enlisted man, he organized a brave challenge 
+to the status quo, resulting in dismissal of a corrupt procurement 
+officer. This experience taught him, at an early age, that even one 
+person can make a difference in this world. He earned a law degree from 
+U.C. Berkeley in 1951, and used his skills as an accomplished writer, 
+speaker, and advocate, to stand up for justice and common people.
+  Ed actively promoted the causes of peace and social justice 
+throughout his life. He vigorously opposed the Vietnam war and the 
+invasion of Iraq. He served as president of the Castro Valley 
+Democratic Club, and later founded and served as president of the 
+People's Democratic Club of Santa Cruz County. He campaigned to protect 
+the environment, abolish the death penalty, protect civil rights, 
+women's rights, gay rights, and all human rights. As a veteran, he 
+became active in the Santa Cruz County Chapter of the Veterans of 
+Foreign Wars, leading the chapter to advocate for peace, and to oppose 
+expansion of the military-industrial complex. With intelligence and 
+humor, he exposed political hypocrisy, writing countless letters to the 
+editor, and contributing columns to newspapers.
+  As an attorney, Ed Newman championed causes of the underdog, handling 
+numerous pro bono matters to protect fundamental rights. He defended 
+ordinary citizens in proceedings by the House Un-American Activities 
+Committee, and took cases for the American Civil Liberties Union. In 
+the 1980s, he took a pro bono case to challenge gender discrimination, 
+resulting in the court decision which transformed the Santa Cruz Boys 
+Club into the Santa Cruz Boys and Girls Club. He was president of the 
+Santa Cruz County Bar Association in 1985. He was also a leader in the 
+Starr King Unitarian Church, and he served as committee chair and 
+president of the Unitarian Universalist Fellowship of Santa Cruz 
+County.
+  As a civic leader and activist, Ed Newman inspired his community with 
+his eloquence, intelligence, and tireless advocacy for justice. To his 
+family and friends, Ed was known for his kindness, his wisdom, his 
+outstanding cooking, and his wonderful sense of humor. With his wife 
+Carol, he raised five children, all of whom graduated from U.C. Santa 
+Cruz before obtaining advanced degrees in Library Science, Particle 
+Physics, Medicine, Literature, and Law. He is survived by his wife 
+Carol, with whom he recently celebrated their 60th wedding anniversary, 
+as well as his sister, five children, and ten grandchildren.
+  Madam Speaker, on behalf of the United States Congress, I would like 
+to express the gratitude of the whole House to Edward Newman for his 
+legacy of courage, honesty, and love, inspiring us all to work for a 
+better world. He will be sorely missed.
+
+                          ____________________
+```
