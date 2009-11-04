@@ -1,0 +1,23 @@
+---
+granule: CREC-2009-11-04-pt1-PgH12362
+date: 2009-11-04
+edition: CREC
+section: HOUSE
+page: H12362
+citation: 155 Cong. Rec. H12362
+---
+
+# ADJOURNMENT
+
+**Speaking:** Hoekstra, Peter (H000676) [R-MI]
+
+```
+                              ADJOURNMENT
+
+  Mr. HOEKSTRA. Mr. Speaker, I move that the House do now adjourn.
+  The motion was agreed to; accordingly (at 10 o'clock and 35 minutes 
+p.m.), the House adjourned until tomorrow, Thursday, November 5, 2009, 
+at 10 a.m.
+
+                          ____________________
+```
