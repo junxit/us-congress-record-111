@@ -1,0 +1,58 @@
+---
+granule: CREC-2009-11-09-pt1-PgE2756-4
+date: 2009-11-09
+edition: CREC
+section: EXTENSIONS
+page: E2756
+citation: 155 Cong. Rec. E2756
+---
+
+# AFFORDABLE HEALTH CARE FOR AMERICA ACT (H.R. 3962)
+
+**Speaking:** Blumenauer, Earl (B000574) [D-OR]
+
+**Measures:** H.R. 3962
+
+```
+           AFFORDABLE HEALTH CARE FOR AMERICA ACT (H.R. 3962)
+
+                                 ______
+                                 
+
+                          HON. EARL BLUMENAUER
+
+                               of oregon
+
+                    in the house of representatives
+
+                       Saturday, November 7, 2009
+
+  Mr. BLUMENAUER. Madam Speaker, passage of the Affordable Health Care 
+for America Act marks the most important single step in 100 years in 
+addressing the health care needs of American families. For the first 
+time, the U.S. government has dealt comprehensively with the entire 
+health care system.
+  Tonight I voted for every Oregonian who has faced bankruptcy when 
+they've lost their care or has been denied coverage because of a pre-
+existing condition. Tonight, I voted to protect every Oregonian who has 
+health insurance but sees their costs rising every year.
+
+[[Page E2757]]
+
+  I'm pleased we were successful in the incorporation of major reforms, 
+improving care for all Americans while strengthening the position of 
+Oregon medical care providers.
+  This critical milestone, while historic, signals more hard work ahead 
+to get the bill to the President's desk. I will work to strengthen the 
+reforms while fighting to lower costs to make health care more 
+affordable for families and the federal treasury.
+  We must then be prepared to keep working to implement this sweeping 
+change. But tonight we should all pause to celebrate this moment in 
+history.
+
+[[Page E2758]]
+
+
+
+                          ____________________
+```
