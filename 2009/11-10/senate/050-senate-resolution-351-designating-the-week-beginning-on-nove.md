@@ -1,0 +1,74 @@
+---
+granule: CRECB-2009-pt20-Pg27678
+date: 2009-11-10
+edition: CRECB
+section: SENATE
+page: 27678
+---
+
+# SENATE RESOLUTION 351--DESIGNATING THE WEEK BEGINNING ON NOVEMBER 9, 2009, AS NATIONAL SCHOOL PSYCHOLOGY WEEK
+
+```
+ SENATE RESOLUTION 351--DESIGNATING THE WEEK BEGINNING ON NOVEMBER 9, 
+                2009, AS NATIONAL SCHOOL PSYCHOLOGY WEEK
+
+  Mrs. LINCOLN submitted the following resolution; which was considered 
+and agreed to:
+
+                              S. Res. 351
+
+       Whereas all children and youth learn best when they are 
+     healthy, supported, and receive an education that meets their 
+     individual needs;
+       Whereas schools can more effectively ensure that all 
+     students are ready and able to learn if schools meet all the 
+     needs of each student;
+       Whereas learning and development are directly linked to the 
+     mental health of children, and a supportive learning 
+     environment is an optimal place to promote mental health;
+       Whereas sound psychological principles are critical to 
+     proper instruction and learning, social and emotional 
+     development, prevention and early intervention, and support 
+     for a culturally diverse student population;
+       Whereas school psychologists are specially trained to 
+     deliver mental health services and academic support that 
+     lower barriers to learning and allow teachers to teach more 
+     effectively;
+       Whereas school psychologists facilitate collaboration that 
+     helps parents and educators identify and reduce risk factors, 
+     promote protective factors, create safe schools, and access 
+     community resources;
+       Whereas school psychologists are trained to assess barriers 
+     to learning, utilize data-based decisionmaking, implement 
+     research-driven prevention and intervention strategies, 
+     evaluate outcomes, and improve accountability;
+       Whereas State educational agencies and other State 
+     entitities credential more than 35,000 school psychologists 
+     who practice in schools in the United States as key 
+     professionals that promote the learning and mental health of 
+     all children;
+       Whereas the National Association of School Psychologists 
+     establishes and maintains high standards for training, 
+     practice, and school psychologist credentialing, in 
+     collaboration with organizations such as the American 
+     Psychological Association, that promote effective and ethical 
+     services by school psychologists to children, families, and 
+     schools; and
+       Whereas the people of the United States should recognize 
+     the vital role school psychologists play in the personal and 
+     academic development of the Nation's children: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) designates the week beginning on November 9, 2009, as 
+     National School Psychology Week;
+       (2) honors and recognizes the contributions of school 
+     psychologists to the success of students in schools across 
+     the United States; and
+       (3) encourages the people of the United States to observe 
+     the week with appropriate ceremonies and activities that 
+     promote awareness of the vital role school psychologists play 
+     in schools, in the community, and in helping students develop 
+     into successful and productive members of society.
+
+                          ____________________
+```
