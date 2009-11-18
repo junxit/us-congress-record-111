@@ -1,0 +1,744 @@
+---
+granule: CREC-2009-11-18-pt1-PgH13133
+date: 2009-11-18
+edition: CREC
+section: HOUSE
+page: H13133
+citation: 155 Cong. Rec. H13133
+---
+
+# COMMUNICATION FROM CHAIR OF COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE
+
+```
+      COMMUNICATION FROM CHAIR OF COMMITTEE ON TRANSPORTATION AND 
+                             INFRASTRUCTURE
+
+  The SPEAKER pro tempore (Ms. Titus) laid before the House the 
+following communication from the Chair of the Committee on 
+Transportation and Infrastructure; which was read and, without 
+objection, referred to the Committee on Appropriations:
+
+         House of Representatives, Committee on Transportation and 
+           Infrastructure,
+                                Washington, DC, November 18, 2009.
+     Hon. Nancy Pelosi,
+     Speaker of the House, House of Representatives, Washington, 
+         DC.
+       Dear Madam Speaker: On November 5, 2009, the Committee on 
+     Transportation and Infrastructure met in open session to 
+     consider 20 resolutions to authorize appropriations for the 
+     General Services Administration's (GSA) FY 2010 Capital 
+     Investment and Leasing Program, including five construction 
+     resolutions (authorizing $221.4 million) and 15 lease 
+     resolutions (authorizing $121.4 million). The Committee 
+     adopted the resolutions by voice vote with a quorum present.
+       Enclosed are copies of the resolutions adopted by the 
+     Committee on Transportation and Infrastructure on November 5, 
+     2009.
+           Sincerely,
+                                          James L. Oberstar, M.C.,
+                                                         Chairman.
+       Enclosures.
+
+[[Page H13134]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.001
+
+
+
+[[Page H13135]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.002
+
+
+
+[[Page H13136]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.003
+
+
+
+[[Page H13137]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.004
+
+
+
+[[Page H13138]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.005
+
+
+
+[[Page H13139]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.006
+
+
+
+[[Page H13140]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.007
+
+
+
+[[Page H13141]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.008
+
+
+
+[[Page H13142]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.009
+
+
+
+[[Page H13143]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.010
+
+
+
+[[Page H13144]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.011
+
+
+
+[[Page H13145]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.012
+
+
+
+[[Page H13146]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.013
+
+
+
+[[Page H13147]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.014
+
+
+
+[[Page H13148]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.015
+
+
+
+[[Page H13149]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.016
+
+
+
+[[Page H13150]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.017
+
+
+
+[[Page H13151]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.018
+
+
+
+[[Page H13152]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.019
+
+
+
+[[Page H13153]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.020
+
+
+
+[[Page H13154]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.021
+
+
+
+[[Page H13155]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.022
+
+
+
+[[Page H13156]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.023
+
+
+
+[[Page H13157]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.024
+
+
+
+[[Page H13158]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.025
+
+
+
+[[Page H13159]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.026
+
+
+
+[[Page H13160]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.027
+
+
+
+[[Page H13161]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.028
+
+
+
+[[Page H13162]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.029
+
+
+
+[[Page H13163]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.030
+
+
+
+[[Page H13164]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.031
+
+
+
+[[Page H13165]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.032
+
+
+
+[[Page H13166]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.033
+
+
+
+[[Page H13167]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.034
+
+
+
+[[Page H13168]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.035
+
+
+
+[[Page H13169]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.036
+
+
+
+[[Page H13170]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.037
+
+
+
+[[Page H13171]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.038
+
+
+
+[[Page H13172]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.039
+
+
+
+[[Page H13173]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.040
+
+
+
+[[Page H13174]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.041
+
+
+
+[[Page H13175]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.042
+
+
+
+[[Page H13176]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.043
+
+
+
+[[Page H13177]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.044
+
+
+
+[[Page H13178]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.045
+
+
+
+[[Page H13179]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.046
+
+
+
+[[Page H13180]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.047
+
+
+
+[[Page H13181]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.048
+
+
+
+[[Page H13182]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.049
+
+
+
+[[Page H13183]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.050
+
+
+
+[[Page H13184]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.051
+
+
+
+[[Page H13185]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.052
+
+
+
+[[Page H13186]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.053
+
+
+
+[[Page H13187]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.054
+
+
+
+[[Page H13188]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.055
+
+
+
+[[Page H13189]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.056
+
+
+
+[[Page H13190]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.057
+
+
+
+[[Page H13191]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.058
+
+
+
+[[Page H13192]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.059
+
+
+
+[[Page H13193]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.060
+
+
+
+[[Page H13194]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.061
+
+
+
+[[Page H13195]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.062
+
+
+
+[[Page H13196]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.063
+
+
+
+[[Page H13197]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.064
+
+
+
+[[Page H13198]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.065
+
+
+
+[[Page H13199]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.066
+
+
+
+[[Page H13200]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.067
+
+
+
+[[Page H13201]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.068
+
+
+
+[[Page H13202]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.069
+
+
+
+[[Page H13203]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.070
+
+
+
+[[Page H13204]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.071
+
+
+
+[[Page H13205]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.072
+
+
+
+[[Page H13206]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.073
+
+
+
+[[Page H13207]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.074
+
+
+
+[[Page H13208]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.075
+
+
+
+[[Page H13209]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.077
+
+
+
+[[Page H13210]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.078
+
+
+
+[[Page H13211]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.079
+
+
+
+[[Page H13212]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.080
+
+
+
+[[Page H13213]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.081
+
+
+
+[[Page H13214]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.082
+
+
+
+[[Page H13215]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.083
+
+
+
+[[Page H13216]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.084
+
+
+
+[[Page H13217]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.085
+
+
+
+[[Page H13218]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.086
+
+
+
+[[Page H13219]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.087
+
+
+
+[[Page H13220]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.088
+
+
+
+[[Page H13221]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.089
+
+
+
+[[Page H13222]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.090
+
+
+
+[[Page H13223]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.091
+
+
+
+[[Page H13224]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.092
+
+
+
+[[Page H13225]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.093
+
+
+
+[[Page H13226]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.094
+
+
+
+[[Page H13227]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.095
+
+
+
+[[Page H13228]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.096
+
+
+
+[[Page H13229]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.097
+
+
+
+[[Page H13230]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.098
+
+
+
+[[Page H13231]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.099
+
+
+
+[[Page H13232]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.100
+
+
+
+[[Page H13233]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.101
+
+
+
+[[Page H13234]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.102
+
+
+
+[[Page H13235]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.103
+
+
+
+[[Page H13236]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.104
+
+
+
+[[Page H13237]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.105
+
+
+
+[[Page H13238]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.106
+
+
+
+[[Page H13239]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.107
+
+
+
+[[Page H13240]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.108
+
+
+
+[[Page H13241]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.109
+
+
+
+[[Page H13242]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.110
+
+
+
+[[Page H13243]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.111
+
+
+
+[[Page H13244]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.112
+
+
+
+[[Page H13245]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.113
+
+
+
+[[Page H13246]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.114
+
+
+
+[[Page H13247]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.115
+
+
+
+[[Page H13248]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.116
+
+
+
+[[Page H13249]]
+
+[GRAPHIC] [TIFF OMITTED] TH18NO09.117
+
+
+
+[[Page H13250]]
+
+  There was no objection.
+
+                          ____________________
+```
