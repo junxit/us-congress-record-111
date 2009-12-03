@@ -1,0 +1,27 @@
+---
+granule: CRECB-2009-pt22-Pg29386-2
+date: 2009-12-03
+edition: CRECB
+section: SENATE
+page: 29386
+---
+
+# PRIVILEGES OF THE FLOOR
+
+```
+                        PRIVILEGES OF THE FLOOR
+
+  Mr. BAUCUS. Mr. President, I ask unanimous consent that Stacey Sachs, 
+a detailee in the Senate HELP Committee Majority Health Office, be 
+granted the privileges of the floor for the duration of H.R. 3590, the 
+Patient Protection and Affordable Care Act.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. HATCH. Mr. President, I ask unanimous consent that my health 
+policy fellow, Dr. Janet Phoenix, have floor privileges throughout the 
+consideration of this debate on H.R. 3590.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+
+                          ____________________
+```
