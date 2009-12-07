@@ -1,0 +1,37 @@
+---
+granule: CREC-2009-12-07-pt1-PgH13550-7
+date: 2009-12-07
+edition: CREC
+section: HOUSE
+page: H13550
+citation: 155 Cong. Rec. H13550
+---
+
+# DISCHARGE PETITIONS
+
+**Measures:** H.R. 3105
+
+```
+                          DISCHARGE PETITIONS
+
+  Under clause 2 of rule XV, the following discharge petition was 
+filed:
+
+             [Omitted from the Record of December 3, 2009]
+
+       Petition 8, December 2, 2009, by Mr. DEVIN NUNES on H.R. 
+     3105, was signed by the following Members: Devin Nunes, Kevin 
+     McCarthy, Daniel E. Lungren, Patrick J. Tiberi, John Boozman, 
+     Peter J. Roskam, Wally Herger, Henry E. Brown, Jr., Tom 
+     McClintock, Lee Terry, Edward R. Royce, Dean Heller, Darrell 
+     E. Issa, John Campbell, Steve King, Paul C. Broun, Duncan 
+     Hunter, Thaddeus G. McCotter, Pete Sessions, Ken Calvert, 
+     Brian P. Bilbray, Doug Lamborn, Sue Wilkins Myrick, Dana 
+     Rohrabacher, Doc Hastings, George Radanovich, Jason Chaffetz, 
+     Paul Ryan, Trent Franks, Mary Bono Mack, Jim Costa, Gary G. 
+     Miller, Howard P. ``Buck'' McKeon, Jerry Lewis, John 
+     Sullivan, J. Gresham Barrett, David P. Roe, Peter Hoekstra, 
+     Adrian Smith, Jo Ann Emerson, Steve Austria, Ander Crenshaw, 
+     Louie Gohmert, Glenn Thompson, Cynthia M. Lummis, John 
+     Shimkus, Geoff Davis, Tom Cole, and Gregg Harper.
+```
