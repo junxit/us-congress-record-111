@@ -1,0 +1,37 @@
+---
+granule: CREC-2009-12-09-pt1-PgH14378-5
+date: 2009-12-09
+edition: CREC
+section: HOUSE
+page: H14378
+citation: 155 Cong. Rec. H14378
+---
+
+# THE BIRTHERS AND DENIERS ARE WRONG
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+```
+                   THE BIRTHERS AND DENIERS ARE WRONG
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Mr. Speaker, the President is right to go to Copenhagen 
+and lead the world against global warming. He is right to defeat the 
+birthers who have tried to stop him from being President and the 
+deniers who refuse to accept the fact of global warming. Both the 
+birthers and the deniers refuse to accept clear, pure facts.
+  I just read that a former Governor of Alaska was arguing today in a 
+newspaper that there is no such thing as global warming associated with 
+human activity. She needs to read the National Academy of Sciences 
+report which concludes it is a fact. She needs to read the report of 
+NASA--the people who put the men on the Moon--that concludes this is a 
+fact. She needs to read the NOAA reports about acidification of the 
+ocean which shows it is a fact.
+  The birthers and the deniers are wrong. We should restore American 
+leadership and make sure the jobs of the future clean energy economy 
+are here, not just in China. The President is right; the deniers are 
+wrong yet again.
+
+                          ____________________
+```
