@@ -1,0 +1,36 @@
+---
+granule: CREC-2009-12-10-pt1-PgH14449-2
+date: 2009-12-10
+edition: CREC
+section: HOUSE
+page: H14449
+citation: 155 Cong. Rec. H14449
+---
+
+# OPTIMISM ABOUT CLEAN ENERGY
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+```
+                      OPTIMISM ABOUT CLEAN ENERGY
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Mr. Speaker, I hear that the former Vice President has 
+made an assertion about the Governor who quit in Alaska, Sarah Palin. 
+He asserted that hers is the attitude of a denier, a denier of the 
+clear need to address global warming. But that attitude is worse than 
+being a denier.
+  It is the attitude of a defeatist, because the defeatists believe 
+that we Americans can't build electric cars. The defeatists believe we 
+can't, in America, build solar thermal plants. The defeatists believe 
+we can't build offshore wind turbine plants. The defeatists believe 
+that we can't build thousands of jobs here in America, rather than 
+allow those jobs in clean energy to go to China.
+  When those people like Sarah Palin, who have the attitude of 
+defeatists, join us in a sense of optimism that we can change our 
+economy to a green collar economy, we will build a clean energy economy 
+that is the envy of the world. And we urge them to join us.
+
+                          ____________________
+```
