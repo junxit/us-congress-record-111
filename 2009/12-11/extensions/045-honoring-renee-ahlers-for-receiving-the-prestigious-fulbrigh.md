@@ -1,0 +1,38 @@
+---
+granule: CRECB-2009-pt23-Pg31558-3
+date: 2009-12-11
+edition: CRECB
+section: EXTENSIONS
+page: 31558
+---
+
+# HONORING RENEE AHLERS FOR RECEIVING THE PRESTIGIOUS FULBRIGHT SCHOLARSHIP
+
+```
+     HONORING RENEE AHLERS FOR RECEIVING THE PRESTIGIOUS FULBRIGHT 
+                              SCHOLARSHIP
+
+                                 ______
+                                 
+
+                           HON. STEVE ISRAEL
+
+                              of new york
+
+                    in the house of representatives
+
+                       Friday, December 11, 2009
+
+  Mr. ISRAEL. Madam Speaker, I rise today to acknowledge a young woman 
+in my district, Renee Ahlers.
+  Ms. Ahlers has been selected to receive a prestigious Fulbright 
+Award. The Fulbright Program is an international exchange program that 
+is sponsored by the U.S. Department of State. Recipients of this award 
+are selected on the basis of academic or professional achievement, as 
+well as demonstrated leadership in their chosen fields. Ms. Ahlers 
+plans to teach English as a Foreign Language in Mexico.
+  I congratulate her on this accomplishment and applaud her 
+contribution to global education and international relations.
+
+                          ____________________
+```
