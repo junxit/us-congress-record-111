@@ -1,0 +1,44 @@
+---
+granule: CREC-2009-12-14-pt1-PgE2994
+date: 2009-12-14
+edition: CREC
+section: EXTENSIONS
+page: E2994
+citation: 155 Cong. Rec. E2994
+---
+
+# EARMARK DECLARATION
+
+**Speaking:** Duncan, John J., Jr. (D000533) [R-TN]
+
+**Measures:** H.R. 3288
+
+```
+                          EARMARK DECLARATION
+
+                                 ______
+                                 
+
+                        HON. JOHN J. DUNCAN, JR.
+
+                              of tennessee
+
+                    in the house of representatives
+
+                       Monday, December 14, 2009
+
+  Mr. DUNCAN. Madam Speaker, consistent with House Republican Earmark 
+Standards, I am submitting the following earmark disclosure information 
+for project requests that I made and which were included within H.R. 
+3288, the ``Consolidated Appropriations Act for FY2010.''
+  Requesting Member: Congressman John Duncan
+  Account: Salaries and Expenses
+  Project Amount: $750,000
+  Legal Name of Requesting Entity: City of Alcoa, 223 Associates 
+Boulevard, Alcoa, Tennessee 37701
+  Description of Request: The funding will be utilized to develop 
+infrastructure servicing the new Pellissippi Research Center on the Oak 
+Ridge Corridor.
+
+                          ____________________
+```
