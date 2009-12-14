@@ -1,0 +1,25 @@
+---
+granule: CRECB-2009-pt23-Pg31637-9
+date: 2009-12-14
+edition: CRECB
+section: SENATE
+page: 31637
+---
+
+# MORNING BUSINESS
+
+```
+                            MORNING BUSINESS
+
+  The ACTING PRESIDENT pro tempore. Under the previous order, there 
+will now be a period of morning business, with Senators permitted to 
+speak
+
+[[Page 31638]]
+
+for up to 10 minutes each, with the Republicans controlling the first 
+30 minutes and the majority controlling the next 30 minutes.
+  The Senator from Tennessee.
+
+                          ____________________
+```
