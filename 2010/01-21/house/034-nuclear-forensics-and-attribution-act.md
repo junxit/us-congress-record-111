@@ -1,0 +1,491 @@
+---
+granule: CREC-2010-01-21-pt1-PgH300
+date: 2010-01-21
+edition: CREC
+section: HOUSE
+page: H300
+citation: 156 Cong. Rec. H300
+---
+
+# NUCLEAR FORENSICS AND ATTRIBUTION ACT
+
+**Measures:** H.R. 730
+
+```
+                 NUCLEAR FORENSICS AND ATTRIBUTION ACT
+
+  The SPEAKER pro tempore. The unfinished business is the vote on the 
+motion to suspend the rules and concur in the Senate amendment to the 
+bill, H.R. 730, on which the yeas and nays were ordered.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from New York (Ms. Clarke) that the House suspend the rules 
+and concur in the Senate amendment to the bill, H.R. 730.
+  This is a 5-minute vote.
+  The vote was taken by electronic device, and there were--yeas 397, 
+nays 10, not voting 26, as follows:
+
+                             [Roll No. 16]
+
+                               YEAS--397
+
+     Ackerman
+     Aderholt
+     Adler (NJ)
+     Akin
+     Alexander
+     Altmire
+     Andrews
+     Arcuri
+     Austria
+     Baca
+     Bachmann
+     Bachus
+     Baird
+     Baldwin
+     Barrow
+     Bartlett
+     Barton (TX)
+     Bean
+     Becerra
+     Berkley
+     Berman
+     Berry
+     Biggert
+     Bilbray
+     Bilirakis
+     Bishop (NY)
+     Bishop (UT)
+     Blackburn
+     Blumenauer
+     Blunt
+     Boccieri
+     Boehner
+     Bono Mack
+     Boozman
+     Boren
+     Boswell
+     Boucher
+     Boyd
+     Brady (TX)
+     Bright
+     Brown (SC)
+     Brown, Corrine
+     Brown-Waite, Ginny
+     Buchanan
+     Burgess
+     Burton (IN)
+     Buyer
+     Calvert
+     Camp
+     Campbell
+     Cantor
+     Cao
+     Capito
+     Capps
+     Capuano
+     Cardoza
+     Carnahan
+     Carney
+     Carson (IN)
+     Carter
+     Cassidy
+     Castle
+     Castor (FL)
+     Chaffetz
+     Chandler
+     Childers
+     Chu
+     Clarke
+     Clay
+     Clyburn
+     Coffman (CO)
+     Cohen
+     Cole
+     Conaway
+     Connolly (VA)
+     Conyers
+     Cooper
+     Costa
+     Costello
+     Courtney
+     Crowley
+     Cuellar
+     Cummings
+     Dahlkemper
+     Davis (CA)
+     Davis (IL)
+     Davis (KY)
+     Davis (TN)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Dent
+     Diaz-Balart, L.
+     Diaz-Balart, M.
+     Dicks
+     Dingell
+     Doggett
+     Donnelly (IN)
+     Doyle
+     Dreier
+     Driehaus
+     Edwards (MD)
+     Edwards (TX)
+     Ehlers
+     Ellison
+     Ellsworth
+     Emerson
+     Engel
+     Eshoo
+     Etheridge
+     Fallin
+     Farr
+     Fattah
+     Filner
+     Fleming
+     Forbes
+     Fortenberry
+     Foster
+     Foxx
+     Frank (MA)
+     Franks (AZ)
+     Frelinghuysen
+     Fudge
+     Gallegly
+     Garamendi
+     Garrett (NJ)
+     Gerlach
+     Giffords
+     Gingrey (GA)
+     Gonzalez
+     Goodlatte
+     Gordon (TN)
+     Granger
+     Graves
+     Grayson
+     Green, Al
+     Green, Gene
+     Griffith
+     Grijalva
+     Guthrie
+     Gutierrez
+     Hall (NY)
+     Hall (TX)
+     Halvorson
+     Hare
+     Harman
+     Harper
+     Hastings (FL)
+     Hastings (WA)
+     Heinrich
+     Heller
+     Herger
+     Herseth Sandlin
+     Higgins
+     Hill
+     Himes
+     Hinchey
+     Hirono
+     Hodes
+     Hoekstra
+     Holden
+     Holt
+     Honda
+     Hoyer
+     Hunter
+     Inglis
+     Inslee
+     Israel
+     Issa
+     Jackson (IL)
+     Jackson Lee (TX)
+     Jenkins
+     Johnson (GA)
+     Johnson (IL)
+     Johnson, Sam
+     Jones
+     Jordan (OH)
+     Kagen
+     Kanjorski
+     Kaptur
+     Kennedy
+     Kildee
+     Kilpatrick (MI)
+     Kilroy
+     Kind
+     King (IA)
+     King (NY)
+     Kingston
+     Kirk
+     Kirkpatrick (AZ)
+     Kissell
+     Klein (FL)
+     Kline (MN)
+     Kosmas
+     Kratovil
+     Kucinich
+     Lamborn
+     Lance
+     Langevin
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     LaTourette
+     Latta
+     Lee (CA)
+     Lee (NY)
+     Levin
+     Lewis (GA)
+     Linder
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren, Zoe
+     Lowey
+     Lucas
+     Luetkemeyer
+     Lujan
+     Lungren, Daniel E.
+     Lynch
+     Mack
+     Maffei
+     Maloney
+     Manzullo
+     Marchant
+     Markey (CO)
+     Markey (MA)
+     Marshall
+     Massa
+     Matheson
+     Matsui
+     McCarthy (CA)
+     McCarthy (NY)
+     McClintock
+
+[[Page H301]]
+
+
+     McCollum
+     McCotter
+     McDermott
+     McGovern
+     McHenry
+     McIntyre
+     McKeon
+     McMorris Rodgers
+     McNerney
+     Meek (FL)
+     Meeks (NY)
+     Melancon
+     Mica
+     Michaud
+     Miller (FL)
+     Miller (MI)
+     Miller (NC)
+     Miller, Gary
+     Miller, George
+     Minnick
+     Mitchell
+     Mollohan
+     Moore (KS)
+     Moore (WI)
+     Moran (KS)
+     Moran (VA)
+     Murphy (CT)
+     Murphy (NY)
+     Murphy, Patrick
+     Murphy, Tim
+     Murtha
+     Myrick
+     Nadler (NY)
+     Napolitano
+     Neal (MA)
+     Neugebauer
+     Nunes
+     Nye
+     Oberstar
+     Obey
+     Olson
+     Olver
+     Ortiz
+     Owens
+     Pallone
+     Pascrell
+     Pastor (AZ)
+     Paulsen
+     Payne
+     Pence
+     Perlmutter
+     Perriello
+     Peters
+     Peterson
+     Pingree (ME)
+     Pitts
+     Platts
+     Poe (TX)
+     Polis (CO)
+     Pomeroy
+     Posey
+     Price (GA)
+     Price (NC)
+     Putnam
+     Quigley
+     Rahall
+     Rangel
+     Rehberg
+     Reichert
+     Reyes
+     Richardson
+     Rodriguez
+     Roe (TN)
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Rooney
+     Roskam
+     Ross
+     Rothman (NJ)
+     Roybal-Allard
+     Royce
+     Ruppersberger
+     Rush
+     Ryan (OH)
+     Ryan (WI)
+     Salazar
+     Sanchez, Loretta
+     Sarbanes
+     Scalise
+     Schakowsky
+     Schauer
+     Schiff
+     Schmidt
+     Schock
+     Schrader
+     Schwartz
+     Scott (GA)
+     Scott (VA)
+     Sessions
+     Sestak
+     Shadegg
+     Shea-Porter
+     Sherman
+     Shimkus
+     Shuler
+     Shuster
+     Simpson
+     Sires
+     Skelton
+     Slaughter
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Souder
+     Space
+     Speier
+     Spratt
+     Stark
+     Stearns
+     Stupak
+     Sullivan
+     Sutton
+     Tanner
+     Taylor
+     Teague
+     Thompson (CA)
+     Thompson (MS)
+     Thompson (PA)
+     Thornberry
+     Tiahrt
+     Tiberi
+     Tierney
+     Titus
+     Tonko
+     Towns
+     Tsongas
+     Turner
+     Upton
+     Van Hollen
+     Velazquez
+     Visclosky
+     Walden
+     Walz
+     Wasserman Schultz
+     Watson
+     Watt
+     Waxman
+     Weiner
+     Welch
+     Westmoreland
+     Whitfield
+     Wilson (OH)
+     Wilson (SC)
+     Wittman
+     Wolf
+     Woolsey
+     Wu
+     Yarmuth
+     Young (FL)
+
+                                NAYS--10
+
+     Broun (GA)
+     Coble
+     Duncan
+     Flake
+     Gohmert
+     Lummis
+     Paul
+     Petri
+     Sanchez, Linda T.
+     Sensenbrenner
+
+                             NOT VOTING--26
+
+     Abercrombie
+     Barrett (SC)
+     Bishop (GA)
+     Bonner
+     Boustany
+     Brady (PA)
+     Braley (IA)
+     Butterfield
+     Cleaver
+     Crenshaw
+     Culberson
+     Davis (AL)
+     Deal (GA)
+     Hensarling
+     Hinojosa
+     Johnson, E. B.
+     Lewis (CA)
+     McCaul
+     McMahon
+     Radanovich
+     Ros-Lehtinen
+     Serrano
+     Terry
+     Wamp
+     Waters
+     Young (AK)
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore (during the vote). Members are advised 1 
+minute is remaining.
+
+                              {time}  1306
+
+  Mrs. BLACKBURN changed her vote from ``nay'' to ``yea.''
+  So (two-thirds being in the affirmative) the rules were suspended and 
+the Senate amendment was concurred in.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
