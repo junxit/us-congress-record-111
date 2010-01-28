@@ -1,0 +1,27 @@
+---
+granule: CREC-2010-01-28-pt1-PgS351-6
+date: 2010-01-28
+edition: CREC
+section: SENATE
+page: S351
+citation: 156 Cong. Rec. S351
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate, Thursday, January 28, 
+2010:
+
+
+                         FEDERAL RESERVE SYSTEM
+
+       BEN S. BERNANKE, OF NEW JERSEY, TO BE CHAIRMAN OF THE BOARD 
+     OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM FOR A TERM OF FOUR 
+     YEARS.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
