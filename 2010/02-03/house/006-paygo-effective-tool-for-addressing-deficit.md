@@ -1,0 +1,33 @@
+---
+granule: CRECB-2010-pt1-Pg1076-8
+date: 2010-02-03
+edition: CRECB
+section: HOUSE
+page: 1076
+---
+
+# PAYGO: EFFECTIVE TOOL FOR ADDRESSING DEFICIT
+
+```
+              PAYGO: EFFECTIVE TOOL FOR ADDRESSING DEFICIT
+
+  (Mr. BACA asked and was given permission to address the House for 1 
+minute.)
+  Mr. BACA. Madam Speaker, the House this week will consider 
+legislation reestablishing statutory pay-as-you-go. That's PAYGO. In 
+1990, the Clinton administration turned the deficit into a record 
+surplus, due in part by adhering to PAYGO, a principle that compels 
+Congress to pay for what we buy. However, under a Republican President 
+in Congress, PAYGO was waived and allowed to expire, clearing the way 
+for policies that wiped out $5.6 trillion of surplus and a huge debt 
+financed by tax cuts for the wealthiest Americans that will have to be 
+paid by the next generation. Restoring our national fiscal health will 
+not be quick or easy, but restoring PAYGO is an important step towards 
+that goal.
+  PAYGO has a history of bipartisan support. Democrats hope the 
+Republicans will join us this week in supporting this proven tool for 
+fiscal responsibility. I hope that they will not continue to be the 
+Party of ``No'' and they'll have the principles invoked for PAYGO.
+
+                          ____________________
+```
