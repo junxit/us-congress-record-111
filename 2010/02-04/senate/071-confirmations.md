@@ -1,0 +1,32 @@
+---
+granule: CREC-2010-02-04-pt1-PgS505
+date: 2010-02-04
+edition: CREC
+section: SENATE
+page: S505
+citation: 156 Cong. Rec. S505
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate, Thursday, February 4, 
+2010:
+
+
+                    GENERAL SERVICES ADMINISTRATION
+
+       MARTHA N. JOHNSON, OF MARYLAND, TO BE ADMINISTRATOR OF 
+     GENERAL SERVICES.
+
+
+                          DEPARTMENT OF LABOR
+
+       M. PATRICIA SMITH, OF NEW YORK, TO BE SOLICITOR FOR THE 
+     DEPARTMENT OF LABOR.
+       THE ABOVE NOMINATIONS WERE APPROVED SUBJECT TO THE 
+     NOMINEES' COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND 
+     TESTIFY BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
