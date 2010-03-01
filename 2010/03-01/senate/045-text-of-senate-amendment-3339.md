@@ -1,0 +1,133 @@
+---
+granule: CREC-2010-03-01-pt1-PgS890
+date: 2010-03-01
+edition: CREC
+section: SENATE
+page: S890
+citation: 156 Cong. Rec. S890
+---
+
+# Text of Senate Amendment 3339
+
+**Speaking:** Warner, Mark R. (W000805) [D-VA]
+
+```
+  SA 3339. Mr. WARNER submitted an amendment intended to be proposed by 
+him to the bill H.R. 4213, to amend the Internal Revenue Code of 1986 
+to extend certain expiring provisions, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. __. ARRA REPORTING.
+
+       Section 1512 of the American Recovery and Reinvestment Act 
+     of 2009 (Public Law 111-5; 123 Stat. 287) is amended--
+       (1) in subsection (f)--
+       (A) by striking ``Within 180 days'' and inserting the 
+     following:
+       ``(1) In general.--Within 180 days''; and
+       (B) by adding at the end the following:
+       ``(2) Penalties.--
+       ``(A) In general.--Subject to subparagraphs (B), (C), and 
+     (D), the head of an agency distributing recovery funds may 
+     impose a civil penalty in an amount not more than $250,000 on 
+     a recipient of recovery funds from the agency that does not 
+     provide the information required under subsection (c) or 
+     knowingly provides information under subsection (c) that 
+     contains a material omission or misstatement. Any amounts 
+     received from a civil penalty under this paragraph shall be 
+     deposited in the general fund of the Treasury.
+       ``(B) Notification.--
+       ``(i) In general.--The head of an agency shall provide a 
+     written notification to a recipient of recovery funds from 
+     the agency that fails to provide the information required 
+     under subsection (c). A notification under this subparagraph 
+     shall provide the recipient with information on how to comply 
+     with the necessary reporting requirements and notice of the 
+     penalties for failing to do so.
+       ``(ii) Limitation.--The head of an agency may not impose a 
+     civil penalty under subparagraph (A) relating to the failure 
+     to provide information required under subsection (c) if, not 
+     later than 31 days after the date of the notification under 
+     clause (i), the recipient of the recovery funds provides the 
+     information.
+       ``(C) Guidelines.--In determining the amount of a penalty 
+     under this paragraph for a recipient of recovery funds, the 
+     head of an agency shall consider--
+       ``(i) the number of times the recipient has failed to 
+     provide the information required under subsection (c);
+       ``(ii) the amount of recovery funds provided to the 
+     recipient;
+       ``(iii) whether the recipient is a government, nonprofit 
+     entity, or educational institution; and
+       ``(iv) whether the recipient is a small business concern 
+     (as defined under section 3 of the Small Business Act (15 
+     U.S.C. 632)), with particular consideration given to 
+     businesses with not more than 50 employees.
+       ``(D) Applicability.--This paragraph shall apply to any 
+     grant, contract, task order, or other type of funding 
+     mechanism--
+       ``(i) made or entered into after the date of enactment of 
+     this paragraph (including any renewal of a grant, contract, 
+     task order, or other type of funding mechanism after the date 
+     of enactment of this paragraph); or
+       ``(ii) that includes terms allowing the terms of the grant, 
+     contract, task order, or other type of funding mechanism to 
+     be modified by Act of Congress.
+       ``(E) Nonexclusivity.--The imposition of a civil penalty 
+     under this subsection shall not preclude any other criminal, 
+     civil, or administrative remedy available to the United 
+     States or any other person under Federal or State law.
+       ``(3) Technical assistance.--Each agency distributing 
+     recovery funds shall provide technical assistance, as 
+     necessary, to assist recipients of recovery funds in 
+     complying with the requirements to provide information under 
+     subsection (c), which shall include providing recipients with 
+     a reminder regarding each reporting requirement.
+       ``(4) Public listing.--
+       ``(A) In general.--Not later than 45 days after the end of 
+     each calendar quarter, and subject to the notification 
+     requirements under paragraph (2)(B), each agency distributing 
+     recovery funds shall make available on a website of the 
+     agency a list of all recipients of recovery funds from the 
+     agency that did not provide the information required under 
+     subsection (c) for the calendar quarter.
+       ``(B) Contents.--A list made available under subparagraph 
+     (A) shall, for each recipient of recovery funds on the list, 
+     include the name and address of the recipient, the 
+     identification number for the award, the amount of recovery 
+     funds awarded to the recipient, a description of the activity 
+     for which the recovery funds were provided, and, to the 
+     extent known by the head of the agency, the reason for 
+     noncompliance.
+       ``(5) OMB guidance and reporting.--
+       ``(A) Guidance.--Not later than 30 days after the date of 
+     enactment of this paragraph, the Director of the Office of 
+     Management and Budget, in consultation with the Chairperson, 
+     shall promulgate regulations regarding implementation of this 
+     section by agencies.
+       ``(B) Reporting.--
+       ``(i) In general.--Not later than July 1, 2010, and every 3 
+     months thereafter, the Director of the Office of Management 
+     and Budget, in consultation with the Chairperson, shall 
+     submit to Congress a report on the extent of noncompliance by 
+     recipients of recovery funds with the reporting requirements 
+     under this section.
+       ``(ii) Contents.--Each report submitted under clause (i) 
+     shall include--
+
+       ``(I) information, for the quarter and in total, regarding 
+     the number and amount of civil penalties imposed and 
+     collected under this subsection, sorted by agency and 
+     program;
+       ``(II) information on the steps taken by the Federal 
+     Government to reduce the level of noncompliance; and
+       ``(III) any other information determined appropriate by the 
+     Director.''; and
+
+       (2) by adding at the end the following:
+       ``(i) Termination.--The reporting requirements under this 
+     section shall terminate on September 30, 2013.''.
+                                 ______
+```
