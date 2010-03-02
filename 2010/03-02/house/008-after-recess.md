@@ -1,0 +1,20 @@
+---
+granule: CREC-2010-03-02-pt1-PgH974-2
+date: 2010-03-02
+edition: CREC
+section: HOUSE
+page: H974
+citation: 156 Cong. Rec. H974
+---
+
+# AFTER RECESS
+
+```
+                              {time}  1400
+                              AFTER RECESS
+
+  The recess having expired, the House was called to order by the 
+Speaker pro tempore (Ms. Markey of Colorado) at 2 p.m.
+
+                          ____________________
+```
