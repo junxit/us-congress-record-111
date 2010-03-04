@@ -1,0 +1,31 @@
+---
+granule: CRECB-2010-pt2-Pg2732
+date: 2010-03-04
+edition: CRECB
+section: EXTENSIONS
+page: 2732
+---
+
+# PERSONAL EXPLANATION
+
+```
+                          PERSONAL EXPLANATION
+
+                                  _____
+                                 
+
+                          HON. ADAM H. PUTNAM
+
+                               of florida
+
+                    in the house of representatives
+
+                        Thursday, March 4, 2010
+
+  Mr. PUTNAM. Madam Speaker, on Tuesday, March 2, 2010, I was not 
+present for 3 recorded votes. Had I been present, I would have voted 
+the following way: roll No. 75--yea, roll No. 76--nay, and roll No. 
+77--yea.
+
+                          ____________________
+```
