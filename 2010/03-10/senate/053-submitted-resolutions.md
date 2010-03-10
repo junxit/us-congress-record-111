@@ -1,0 +1,93 @@
+---
+granule: CREC-2010-03-10-pt1-PgS1367
+date: 2010-03-10
+edition: CREC
+section: SENATE
+page: S1367
+citation: 156 Cong. Rec. S1367
+---
+
+# SUBMITTED RESOLUTIONS
+
+**Measures:** S.Con.Res. 53, S. 53
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+  SENATE CONCURRENT RESOLUTION 53--RECOGNIZING AND CONGRATULATING THE 
+  CITY OF COLORADO SPRINGS, COLORADO, AS THE NEW OFFICIAL SITE OF THE 
+ NATIONAL EMERGENCY MEDICAL SERVICES MEMORIAL SERVICE AND THE NATIONAL 
+                  EMERGENCY MEDICAL SERVICES MEMORIAL
+
+  Mr. BENNET (for himself and Mr. Udall of Colorado) submitted the 
+following concurrent resolution; which was referred to the Committee on 
+the Judiciary:
+
+                            S. Con. Res. 53
+
+       Whereas in 1928, Julian Stanley Wise founded the first 
+     volunteer rescue squad in the United States, the Roanoke Life 
+     Saving and First Aid Crew, and Virginia subsequently took the 
+     lead in honoring the thousands of people nationwide who give 
+     their time and energy to community rescue squads;
+       Whereas in 1993, to further recognize the selfless 
+     contributions of emergency medical service (referred to in 
+     this preamble as ``EMS'') personnel nationwide, the Virginia 
+     Association of Volunteer Rescue Squads, Inc., and the Julian 
+     Stanley Wise Foundation organized the first annual National 
+     Emergency Medical Services Memorial Service in Roanoke, 
+     Virginia, to honor EMS personnel from across the country who 
+     died in the line of duty;
+       Whereas the National Emergency Medical Services Memorial 
+     Service is the annual memorial service to honor all air and 
+     ground EMS providers, including first responders, search and 
+     rescue personnel, emergency medical technicians, paramedics, 
+     nurses, and pilots;
+       Whereas the annual National Emergency Medical Services 
+     Memorial Service captures national attention by annually 
+     honoring and remembering EMS personnel who have given their 
+     lives in the line of duty;
+       Whereas the annual National Emergency Medical Services 
+     Memorial Service is devoted to the families, colleagues, and 
+     loved ones of those EMS personnel;
+       Whereas the singular devotion of EMS personnel to the 
+     safety and welfare of their fellow citizens is worthy of the 
+     highest praise;
+       Whereas the annual National Emergency Medical Services 
+     Memorial Service is a fitting reminder of the bravery and 
+     sacrifice of EMS personnel nationwide;
+       Whereas EMS personnel stand ready 24 hours a day, every 
+     day, to assist and serve people in the United States with 
+     life-saving medical attention and compassionate care;
+       Whereas the National Emergency Medical Services Memorial 
+     Service Board sought and selected a new city to host the 
+     annual National Emergency Medical Services Memorial Service;
+       Whereas the city of Colorado Springs, Colorado, was chosen 
+     to host the National Emergency Medical Services Memorial, the 
+     annual National Emergency Medical Services Memorial Service, 
+     and the families of our fallen EMS personnel;
+       Whereas ``Flight for Life'' in Colorado was founded in 1972 
+     as the first civilian-based helicopter medical evacuation 
+     system established in the United States;
+       Whereas ambulance systems in Colorado provide care and 
+     transport to approximately 375,000 residents and visitors 
+     each year;
+       Whereas approximately 60 percent of the licensed ambulance 
+     services in Colorado are staffed by volunteers that serve the 
+     vast rural and frontier communities of Colorado; and
+       Whereas the life of every person in the United States will 
+     be affected, directly or indirectly, by the uniquely skilled 
+     and dedicated efforts of EMS personnel who work bravely and 
+     tirelessly to preserve the greatest resource in the United 
+     States, the people: Now, therefore, be it
+       Resolved by the Senate (the House of Representatives 
+     concurring), That the Congress recognizes and congratulates 
+     the City of Colorado Springs, Colorado, as the new official 
+     site of the National Emergency Medical Services Memorial 
+     Service and the National Emergency Services Memorial.
+
+                          ____________________
+```
