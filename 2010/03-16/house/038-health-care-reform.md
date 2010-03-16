@@ -1,0 +1,41 @@
+---
+granule: CREC-2010-03-16-pt1-PgH1449-5
+date: 2010-03-16
+edition: CREC
+section: HOUSE
+page: H1449
+citation: 156 Cong. Rec. H1449
+---
+
+# HEALTH CARE REFORM
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+```
+                           HEALTH CARE REFORM
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. I had a remarkable American in my office this morning, 
+Gary Hall, who won five golds, three silvers, and two bronzes in three 
+Olympic Games in freestyle swimming, a remarkable person. And he told 
+me a story about having insurance for 12 years while he was in the 
+Olympics, but then after he lost the Olympics, he couldn't get 
+insurance. Do you know why? He has diabetes.
+  Here is a guy who won gold, silver, and bronze medals and couldn't 
+get insurance in America because he had diabetes. And the reason he 
+couldn't get insurance in America is that we haven't passed our health 
+care reform bill yet.
+  In the next few days, we are going to put up at least 216 votes, I 
+hope, green lights on that board, to pass health care reform so that 
+Gary Hall can get insurance; and even if you haven't won a gold medal, 
+you can get insurance if you have diabetes. And these people who are 
+smoking something, I don't know what, who think we aren't going to take 
+a vote on this, I am going to take a picture of this board to show you 
+the votes, because the green lights are going to be to make sure that 
+people with diabetes can get insurance, and the red lights will be you 
+can't get insurance even if you have won a gold medal. That is not 
+right. It is going to change in this country.
+
+                          ____________________
+```
