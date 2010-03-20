@@ -1,0 +1,20 @@
+---
+granule: CREC-2010-03-20-pt1-PgH1816-2
+date: 2010-03-20
+edition: CREC
+section: HOUSE
+page: H1816
+citation: 156 Cong. Rec. H1816
+---
+
+# AFTER RECESS
+
+```
+                              {time}  0012
+                              AFTER RECESS
+
+  The recess having expired, the House was called to order by the 
+Speaker pro tempore (Mr. Cardoza) at 12 o'clock and 12 minutes a.m.
+
+                          ____________________
+```
