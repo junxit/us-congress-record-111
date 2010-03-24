@@ -1,0 +1,33 @@
+---
+granule: CREC-2010-03-24-pt1-PgE477
+date: 2010-03-24
+edition: CREC
+section: EXTENSIONS
+page: E477
+citation: 156 Cong. Rec. E477
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Giffords, Gabrielle (G000554) [D-AZ]
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                        HON. GABRIELLE GIFFORDS
+
+                               of arizona
+
+                    in the house of representatives
+
+                       Wednesday, March 24, 2010
+
+  Ms. GIFFORDS. Madam Speaker, yesterday I was absent and missed 
+rollcall vote 175. Had I been present, I would have voted ``aye'' on 
+rollcall 175.
+
+                          ____________________
+```
