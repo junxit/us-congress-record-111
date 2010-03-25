@@ -1,0 +1,32 @@
+---
+granule: CREC-2010-03-25-pt1-PgH2455-2
+date: 2010-03-25
+edition: CREC
+section: HOUSE
+page: H2455
+citation: 156 Cong. Rec. H2455
+---
+
+# SPECIAL ORDERS GRANTED
+
+```
+                         SPECIAL ORDERS GRANTED
+
+  By unanimous consent, permission to address the House, following the 
+legislative program and any special orders heretofore entered, was 
+granted to:
+  (The following Members (at the request of Mr. Polis) to revise and 
+extend their remarks and include extraneous material:)
+  Mr. Al Green of Texas, for 5 minutes, today.
+  Ms. Woolsey, for 5 minutes, today.
+  Mr. Polis, for 5 minutes, today.
+  Mr. Maffei, for 5 minutes, today.
+  Ms. Richardson, for 5 minutes, today.
+  Mr. DeFazio, for 5 minutes, today.
+  Ms. Kaptur, for 5 minutes, today.
+  (The following Members (at the request of Mr. Burton of Indiana) to 
+revise and extend their remarks and include extraneous material:)
+  Mr. Posey, for 5 minutes, today.
+
+                          ____________________
+```
