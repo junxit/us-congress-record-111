@@ -1,0 +1,152 @@
+---
+granule: CREC-2010-04-12-pt1-PgS2214-4
+date: 2010-04-12
+edition: CREC
+section: SENATE
+page: S2214
+citation: 156 Cong. Rec. S2214
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                     ELECTION ASSISTANCE COMMISSION
+
+       THOMAS HICKS, OF VIRGINIA, TO BE A MEMBER OF THE ELECTION 
+     ASSISTANCE COMMISSION FOR A TERM EXPIRING DECEMBER 12, 2013, 
+     VICE GRACIA M. HILLMAN, TERM EXPIRED.
+
+
+ =========================== NOTE =========================== 
+
+  
+  On Page S2214, April 12, 2010, in the second column, the 
+following appears: Thomas Hicks, of Virginia, to be a member of 
+the election assistance commission for term expiring January 12, 
+2013, Vice Gracia M. Hillman, Term Expired.
+  
+  The online version has been corrected to read: Thomas Hicks, of 
+Virginia, to be a member of the election assistance commission for 
+term expiring December 12, 2013, Vice Gracia M. Hillman, Term 
+Expired.
+
+
+ ========================= END NOTE ========================= 
+
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       S. LESLIE IRELAND, OF MASSACHUSETTS, TO BE ASSISTANT 
+     SECRETARY FOR INTELLIGENCE AND ANALYSIS, DEPARTMENT OF THE 
+     TREASURY, VICE JANICE B. GARDNER, RESIGNED.
+
+
+                     FEDERAL HOUSING FINANCE AGENCY
+
+       STEVE A. LINICK, OF VIRGINIA, TO BE INSPECTOR GENERAL OF 
+     THE FEDERAL HOUSING FINANCE AGENCY. (NEW POSITION)
+
+
+                         DEPARTMENT OF DEFENSE
+
+       TERESA TAKAI, OF CALIFORNIA, TO BE AN ASSISTANT SECRETARY 
+     OF DEFENSE, VICE JOHN G. GRIMES.
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                           To be rear admiral
+
+REAR ADM. (LH) ALTON L. STOCKS
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                           To be rear admiral
+
+REAR ADM. (LH) ELIZABETH S. NIEMYER
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                           To be rear admiral
+
+REAR ADM. (LH) WILLIAM A. BROWN
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                    To be rear admiral (lower half)
+
+CAPT. MARGARET G. KIBBEN
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                    To be rear admiral (lower half)
+
+CAPT. DAVID M. BOONE
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                    To be rear admiral (lower half)
+
+CAPT. ELAINE C. WAGNER
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                    To be rear admiral (lower half)
+
+CAPT. COLIN G. CHINN
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                    To be rear admiral (lower half)
+
+CAPT. ROBERT J. A. GILBEAU
+CAPT. GLENN C. ROBILLARD
+
+
+                          IN THE MARINE CORPS
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE OF 
+     LIEUTENANT GENERAL IN THE UNITED STATES MARINE CORPS WHILE 
+     ASSIGNED TO A POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER 
+     TITLE 10, U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+LT. GEN. DENNIS J. HEJLIK
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE UNITED 
+     STATES MARINE CORPS TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                          To be major general
+
+BRIGADIER GENERAL RONALD L. BAILEY
+BRIGADIER GENERAL JON M. DAVIS
+BRIGADIER GENERAL DAVID C. GARZA
+BRIGADIER GENERAL TIMOTHY C. HANIFEN
+BRIGADIER GENERAL JAMES A. KESSLER
+BRIGADIER GENERAL RICHARD M. LAKE
+BRIGADIER GENERAL JAMES B. LASTER
+BRIGADIER GENERAL KENNETH F. MCKENZIE, JR.
+BRIGADIER GENERAL ANGELA SALINAS
+BRIGADIER GENERAL PETER J. TALLERI
+BRIGADIER GENERAL ROBERT S. WALSH
+
+                          ____________________
+```
