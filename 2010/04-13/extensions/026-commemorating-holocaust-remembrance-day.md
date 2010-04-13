@@ -1,0 +1,67 @@
+---
+granule: CRECB-2010-pt4-Pg5370-2
+date: 2010-04-13
+edition: CRECB
+section: EXTENSIONS
+page: 5370
+---
+
+# COMMEMORATING HOLOCAUST REMEMBRANCE DAY
+
+```
+                COMMEMORATING HOLOCAUST REMEMBRANCE DAY
+
+                                 ______
+                                 
+
+                           HON. RUSS CARNAHAN
+
+                              of missouri
+
+                    in the house of representatives
+
+                        Tuesday, April 13, 2010
+
+  Mr. CARNAHAN. Madam Speaker, on Sunday, April 11, 2010, the world 
+paused to remember the Holocaust, which took the lives of six million 
+Jews across Europe along with six million other victims of Nazi 
+persecution, devastated societies, destroyed families, and forever left 
+an unconscionable mark upon humanity.
+  Holocaust Remembrance Day is an opportunity to solemnly reflect upon 
+this historic tragedy and memorialize the millions of innocent lives 
+lost in the greatest campaign of terror the world has ever seen. It is 
+an opportunity to remember the atrocities of the past, but also a 
+chance to recall that we must never forget.
+  Holocaust Remembrance Day pays tribute to the unbreakable will of 
+human beings to live in freedom and oppose despotism wherever it 
+appears. It is a reminder of that pledge to never forget and never 
+allow the unchecked cruelty of the Holocaust to be repeated by firmly 
+recommitting ourselves to the fight against anti-Semitism, as well as 
+all forms of persecution, bigotry, discrimination and hatred.
+  In 1993, on the 50th Anniversary of the Warsaw Ghetto Uprising, for 
+which Holocaust Remembrance Day was designated, then-Israeli Prime 
+Minister Yitzhak Rabin noted that despite the fall of Hitler ``his 
+successors have arisen in various corners of the world.'' Sadly this 
+statement remains true today.
+  In too many regions of the world today we are still witnessing 
+terrible mass violence, destruction and murder against women, children, 
+ethnic and religious minorities, and lesbian, gay and transgender 
+individuals, and many other groups of people. Reprehensibly, this 
+violence and hatred is too often deeply institutionalized.
+  Holocaust Remembrance Day serves as an opportunity to put on notice 
+the brutal regimes carrying out these crimes that our resolve to defend 
+universal human rights is profound and unwavering. As long as it is 
+necessary we will continue to fight to end intolerance and work toward 
+a more just future for all of mankind, and we stand with supreme 
+confidence that we will be triumphant.
+  The statesman and philosopher, Edmund Burke, famously said that ``The 
+only thing necessary for the triumph of evil is for good men to do 
+nothing.'' Today we remember the Holocaust because many good men and 
+women stood up for justice and acted to stop Nazi cruelty, and their 
+sacrifice must forever be honored. We remember because the spirit of 
+humanity refused to succumb to evil and be dominated by hatred. And we 
+remember because in remembering the past we can work toward a better 
+future; a future of equality, freedom, peace and prosperity.
+
+                          ____________________
+```
