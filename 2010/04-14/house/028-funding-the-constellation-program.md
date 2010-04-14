@@ -1,0 +1,41 @@
+---
+granule: CRECB-2010-pt4-Pg5471-6
+date: 2010-04-14
+edition: CRECB
+section: HOUSE
+page: 5471
+---
+
+# FUNDING THE CONSTELLATION PROGRAM
+
+```
+                   FUNDING THE CONSTELLATION PROGRAM
+
+  (Mr. BISHOP of Utah asked and was given permission to address the 
+House for 1 minute.)
+  Mr. BISHOP of Utah. Mr. Speaker, tomorrow the President moves to 
+Florida to salvage or to attempt to salvage a deteriorating political 
+situation caused by accepting NASA Deputy Director Garver's poor 
+decision to cancel Constellation.
+  Constellation consists at least of two parts: the Orion capsule for 
+the astronauts designed to be 10 times safer than the space shuttle, 
+and the Aries rocket to send into space. But the alleged savings are 
+more than offset by unintended consequences, because the industrial 
+base that builds the rocket to put people towards the moon also builds 
+the rockets to shoot down incoming missiles from North Korea, Iran, and 
+other bad guys. And if you take the space component away, the defense 
+side costs doubles, triples, maybe even more. And the Augustine report, 
+which this administration is not following, noted this potential 
+industrial-based problem, but NASA either refused to pay attention or 
+chose to ignore the warning.
+  Regardless, the solution to escalating defense costs and to 
+maintaining the dominance in space will be dependent upon fully funding 
+the Constellation
+
+[[Page 5472]]
+
+program. And, Mr. President, anything less than that is totally 
+unacceptable.
+
+                          ____________________
+```

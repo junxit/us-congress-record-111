@@ -1,0 +1,48 @@
+---
+granule: CRECB-2010-pt4-Pg5541
+date: 2010-04-14
+edition: CRECB
+section: HOUSE
+page: 5541
+---
+
+# SPECIAL ORDERS GRANTED
+
+```
+                         SPECIAL ORDERS GRANTED
+
+  By unanimous consent, permission to address the House, following the 
+legislative program and any special orders heretofore entered, was 
+granted to:
+  (The following Members (at the request of Ms. Woolsey) to revise and 
+extend their remarks and include extraneous material:)
+  Mr. Skelton, for 5 minutes, today.
+  Ms. Lee of California, for 5 minutes, today.
+  Ms. Woolsey, for 5 minutes, today.
+  Ms. Berkley, for 5 minutes, today.
+  Ms. Sutton, for 5 minutes, today.
+  Mr. Heinrich, for 5 minutes, today.
+  Mr. DeFazio, for 5 minutes, today.
+  Mr. Smith of Washington, for 5 minutes, today.
+  Mr. Sestak, for 5 minutes, today.
+  Mr. Larsen of Washington, for 5 minutes, today.
+  Mr. Taylor, for 5 minutes, today.
+  Ms. Loretta Sanchez of California, for 5 minutes, today.
+  Mr. Langevin, for 5 minutes, today.
+  Mr. McMahon, for 5 minutes, today.
+  Ms. Jackson Lee of Texas, for 5 minutes, today.
+  (The following Members (at the request of Mr. Burton of Indiana) to 
+revise and extend their remarks and include extraneous material:)
+  Mr. Moran of Kansas, for 5 minutes, April 21.
+  Mr. Poe of Texas, for 5 minutes, April 21.
+  Mr. Jones, for 5 minutes, April 21.
+  Mr. Thompson of Pennsylvania, for 5 minutes, today.
+
+[[Page 5542]]
+
+  (The following Member (at her own request) to revise and extend her 
+remarks and include extraneous material:)
+  Ms. Ros-Lehtinen, for 5 minutes, today.
+
+                          ____________________
+```
