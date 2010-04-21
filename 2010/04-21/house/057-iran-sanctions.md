@@ -1,0 +1,32 @@
+---
+granule: CRECB-2010-pt5-Pg6017-4
+date: 2010-04-21
+edition: CRECB
+section: HOUSE
+page: 6017
+---
+
+# IRAN SANCTIONS
+
+```
+                             IRAN SANCTIONS
+
+  (Mrs. HALVORSON asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Mrs. HALVORSON. Mr. Speaker, the House will soon take an important 
+step by approving a motion to go to conference on H.R. 2194, the 
+Comprehensive Iran Sanctions, Accountability and Divestment Act. Last 
+December, the House voted overwhelmingly in support of this bipartisan 
+legislation. Now we need to act quickly on the conference report so 
+that we can send a bill to the President. Every day we delay is another 
+day that Iran grows closer to acquiring a nuclear weapon.
+  A nuclear Iran is an unacceptable scenario that would be a threat to 
+the State of Israel, our trusted ally, and could destabilize the entire 
+Middle East. It would also be a threat to our own national security. 
+Enacting strong, crippling sanctions on the Iranian regime will send a 
+clear signal to the international community that we need to work 
+together to prevent a nuclear Iran. I look forward to working with my 
+colleagues and the administration to make this happen.
+
+                          ____________________
+```

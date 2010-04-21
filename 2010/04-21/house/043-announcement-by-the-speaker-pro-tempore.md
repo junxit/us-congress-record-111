@@ -1,0 +1,24 @@
+---
+granule: CRECB-2010-pt5-Pg6013
+date: 2010-04-21
+edition: CRECB
+section: HOUSE
+page: 6013
+---
+
+# ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+```
+                ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, proceedings 
+will resume on motions to suspend the rules previously postponed.
+  Votes will be taken in the following order:
+  S. 1963, by the yeas and nays;
+  H. Res. 1104, by the yeas and nays;
+  H. Res. 1216, by the yeas and nays.
+  The first electronic vote will be conducted as a 15-minute vote. 
+Remaining electronic votes will be conducted as 5-minute votes.
+
+                          ____________________
+```
