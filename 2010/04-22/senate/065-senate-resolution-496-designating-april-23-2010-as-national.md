@@ -1,0 +1,61 @@
+---
+granule: CREC-2010-04-22-pt1-PgS2594
+date: 2010-04-22
+edition: CREC
+section: SENATE
+page: S2594
+citation: 156 Cong. Rec. S2594
+---
+
+# SENATE RESOLUTION 496--DESIGNATING APRIL 23, 2010, AS "NATIONAL ADOPT A LIBRARY DAY"
+
+**Measures:** S.Res. 496
+
+```
+SENATE RESOLUTION 496--DESIGNATING APRIL 23, 2010, AS ``NATIONAL ADOPT 
+                            A LIBRARY DAY''
+
+  Mr. WEBB (for himself, Mr. Warner, Mr. Cochran, and Ms. Snowe) 
+submitted the following resolution; which was considered and agreed to:
+
+                              S. Res. 496
+
+       Whereas libraries are an essential part of the communities 
+     and the national system of education in the United States;
+       Whereas the people of the United States benefit 
+     significantly from libraries that serve as an open place for 
+     people of all ages and backgrounds to make use of books and 
+     other resources that offer pathways to learning, self-
+     discovery, and the pursuit of knowledge;
+       Whereas the libraries of the United States depend on the 
+     generous donations and support of individuals and groups to 
+     ensure that people who are unable to purchase books still 
+     have access to a wide variety of resources;
+       Whereas certain nonprofit organizations facilitate the 
+     donation of books to schools and libraries across the United 
+     States--
+       (1) to extend the joys of reading to millions of people of 
+     the United States; and
+       (2) to prevent used books from being thrown away;
+       Whereas, as of the date of agreement to this resolution, 
+     the libraries of the United States have provided valuable 
+     resources to individuals affected by the economic crisis by 
+     encouraging continued education and job training; and
+       Whereas several States that recognize the importance of 
+     libraries and reading have adopted resolutions commemorating 
+     April 23 as ``Adopt A Library Day'': Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates April 23, 2010, as ``National Adopt A 
+     Library Day'';
+       (2) honors the organizations that facilitate donations to 
+     schools and libraries;
+       (3) urges all people of the United States who own unused 
+     books to donate the unused books to local libraries;
+       (4) strongly supports children and families who take 
+     advantage of the resources provided by schools and libraries; 
+     and
+       (5) encourages the people of the United States to observe 
+     the day with appropriate ceremonies and activities.
+
+                          ____________________
+```
