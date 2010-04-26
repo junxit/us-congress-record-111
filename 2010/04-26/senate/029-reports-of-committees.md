@@ -1,0 +1,33 @@
+---
+granule: CRECB-2010-pt5-Pg6248
+date: 2010-04-26
+edition: CRECB
+section: SENATE
+page: 6248
+---
+
+# REPORTS OF COMMITTEES
+
+```
+                         REPORTS OF COMMITTEES
+
+  The following reports of committees were submitted:
+
+       By Mrs. BOXER, from the Committee on Environment and Public 
+     Works, without amendment:
+       H.R. 509. To reauthorize the Marine Turtle Conservation Act 
+     of 2004, and for other purposes (Rept. No. 111--173).
+       H.R. 3537. A bill to amend and reauthorize the Junior Duck 
+     Stamp Conservation and Design Program Act of 1994 (Rept. No. 
+     111-174).
+       By Mr. CONRAD, from the Committee on the Budget, without 
+     amendment:
+       S. Con. Res. 60. An original concurrent resolution setting 
+     forth the congressional budget for the United States 
+     Government for fiscal year 2011, revising the appropriate 
+     budgetary levels for fiscal year 2010, and setting forth the 
+     appropriate budgetary levels for fiscal years 2012 through 
+     2015.
+
+                          ____________________
+```
