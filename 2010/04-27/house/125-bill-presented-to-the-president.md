@@ -1,0 +1,24 @@
+---
+granule: CRECB-2010-pt5-Pg6433-3
+date: 2010-04-27
+edition: CRECB
+section: HOUSE
+page: 6433
+---
+
+# BILL PRESENTED TO THE PRESIDENT
+
+```
+                    BILL PRESENTED TO THE PRESIDENT
+
+  Lorraine C. Miller, Clerk of the House, reports that on April 26, 
+2010, she presented to the President of the United States, for his 
+approval, the following bill.
+
+       H.R. 4360. To designate the Department of Veterans Affairs 
+     blind rehabilitation center in Long Beach, California, as the 
+     Major Charles Robert Soltes, Jr., O.D. Department of Veterans 
+     Affairs Blind Rehabilitation Center.
+
+                          ____________________
+```

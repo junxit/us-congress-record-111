@@ -1,0 +1,37 @@
+---
+granule: CRECB-2010-pt5-Pg6380
+date: 2010-04-27
+edition: CRECB
+section: HOUSE
+page: 6380
+---
+
+# CMS CHIEF ACTUARY'S ANALYSIS ON EFFECTS OF THE PATIENT PROTECTION AND AFFORDABLE CARE ACT
+
+```
+ CMS CHIEF ACTUARY'S ANALYSIS ON EFFECTS OF THE PATIENT PROTECTION AND 
+                          AFFORDABLE CARE ACT
+
+  (Mr. WALDEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. WALDEN. Mr. Speaker, the Speaker of the House told the National 
+Association of Counties a while back that Congress needed to pass the 
+health care bill so we could find out what's in it. Well, we are 
+finding out now.
+  The Chief Actuary for the Centers for Medicare and Medicaid Services 
+is the independent scorekeeper of legislation like this. Their report 
+that they just issued said half of all seniors in America who are on 
+Medicare Advantage plans, half, are going to lose that coverage under 
+the bill that was signed into law.
+  Well, that's a big problem for seniors in Oregon. Oregon has had one 
+of the highest penetration rates in the United States of seniors who 
+wanted Medicare Advantage and signed up for it. I was out in Ontario, 
+Oregon, not long ago, and the seniors there raised their hands and 
+said, ``Why are they taking away the Medicare Advantage I have?'' We 
+now know under this independent evaluation half of them will lose that 
+care, 38,000 seniors in my district alone.
+  We need to repeal and replace this law that was jammed through this 
+Congress, Mr. Speaker.
+
+                          ____________________
+```
