@@ -1,0 +1,25 @@
+---
+granule: CREC-2010-05-06-pt1-PgS3384-5
+date: 2010-05-06
+edition: CREC
+section: SENATE
+page: S3384
+citation: 156 Cong. Rec. S3384
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate, Thursday, May 6, 2010:
+
+
+                         DEPARTMENT OF COMMERCE
+
+       LARRY ROBINSON, OF FLORIDA, TO BE ASSISTANT SECRETARY OF 
+     COMMERCE FOR OCEANS AND ATMOSPHERE.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
