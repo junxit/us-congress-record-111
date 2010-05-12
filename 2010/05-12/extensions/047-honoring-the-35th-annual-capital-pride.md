@@ -1,0 +1,65 @@
+---
+granule: CREC-2010-05-12-pt1-PgE825-2
+date: 2010-05-12
+edition: CREC
+section: EXTENSIONS
+page: E825
+citation: 156 Cong. Rec. E825
+---
+
+# HONORING THE 35TH ANNUAL CAPITAL PRIDE
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+```
+                 HONORING THE 35TH ANNUAL CAPITAL PRIDE
+
+                                 ______
+                                 
+
+                       HON. ELEANOR HOLMES NORTON
+
+                      of the district of columbia
+
+                    in the house of representatives
+
+                        Wednesday, May 12, 2010
+
+  Ms. NORTON. Madam Speaker, I rise to pay tribute to the 35th Annual 
+Capital Pride, a celebration of the national capital area's Gay, 
+Lesbian, Bisexual and Transgender, GLBT, communities and their families 
+and friends.
+  In 1975, Deacon ``Super Hero'' MacCubbin, owner of Lambda Rising 
+Bookstore, in Dupont Circle, launched the first Capital Pride. It began 
+as a block party on 20th St, between R and S Streets, NW. Six years 
+later, in 1981, the annual Pride Parade became part of the festivities. 
+Now Capital Pride consists of more than 10 days of events organized by 
+the Capital Pride Planning Committee and dozens of local community 
+partners.
+  This year's Capital Pride theme, ``You Ain't Seen Nothing Yet,'' both 
+reflects Capital Pride's past and anticipates its future.
+  Capital Pride's producer, the Capital Pride Alliance, Inc., predicts 
+an attendance of 250,000, making Capital Pride one of the largest GLBT 
+festivals in the United States.
+  This year Capital Pride culminates with what the Washington City 
+Paper has declared D.C.'s Best Parade for three years running, the 
+Capital Pride Parade, on June 12, and ``The Main Event,'' a street fair 
+on Pennsylvania Avenue in the shadow of the U.S. Capitol, on June 13.
+  I have marched in Pride parades since coming to Congress to emphasize 
+universal human rights and the importance of enacting federal 
+legislation to secure those rights for the GLBT community. Congress has 
+much work to do. We must pass the Family Leave Insurance Act, the 
+Employment Non-Discrimination Act, the Domestic Partnership Benefits 
+and Obligations Act, the Respect for Marriage Act, the Safe Schools 
+Improvement Act, the Military Readiness Enhancement Act, the Domestic 
+Partnership Benefits and Obligations Act, the Tax Equity for Health 
+Plan Beneficiaries Act, the Family and Medical Leave Inclusion Act, the 
+Uniting American Families Act, and the Responsible Education About Life 
+Act.
+  This year our nation's capital joined Iowa, Maine, Massachusetts, and 
+New Hampshire in extending equal marriage rights to its GLBT residents.
+  I ask the House to join me in welcoming those who are attending the 
+35th Annual Capital Pride.
+
+                          ____________________
+```
