@@ -1,0 +1,98 @@
+---
+granule: CREC-2010-05-18-pt1-PgS3948-6
+date: 2010-05-18
+edition: CREC
+section: SENATE
+page: S3948
+citation: 156 Cong. Rec. S3948
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                          DEPARTMENT OF STATE
+
+       HELEN PATRICIA REED-ROWE, OF MARYLAND, A CAREER MEMBER OF 
+     THE SENIOR FOREIGN SERVICE, CLASS OF COUNSELOR, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE REPUBLIC OF PALAU.
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+[[Page S3949]]
+
+                        To be brigadier general
+
+       COL. SCOTT A. VANDER HAMM
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be general
+
+       LT. GEN. LLOYD J. AUSTIN III
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+       LT. GEN. DAVID H. HUNTOON, JR.
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                           To be vice admiral
+
+       VICE ADM. WILLIAM E. GORTNEY
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                           To be rear admiral
+
+       REAR ADM. (LH) JAMES P. MCMANAMON
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY MEDICAL CORPS UNDER TITLE 
+     10, U.S.C., SECTIONS 624 AND 3064:
+
+                        To be lieutenant colonel
+
+       ADAM H. HAMAWY
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                       To be lieutenant commander
+
+       DAVID S. WELDON
+```
