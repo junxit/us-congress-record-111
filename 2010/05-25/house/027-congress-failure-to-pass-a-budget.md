@@ -1,0 +1,36 @@
+---
+granule: CRECB-2010-pt7-Pg9252-3
+date: 2010-05-25
+edition: CRECB
+section: HOUSE
+page: 9252
+---
+
+# CONGRESS' FAILURE TO PASS A BUDGET
+
+```
+                   CONGRESS' FAILURE TO PASS A BUDGET
+
+  (Mr. KLINE of Minnesota asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KLINE of Minnesota. Mr. Speaker, across the country, countless 
+families and small business owners are making the tough decisions 
+needed to weather this difficult economy. Many may have hoped to put 
+off for another day the choices they were forced to make, but the 
+American people realize the path to renewing our economic prosperity 
+comes through courage and sacrifice. They also realize the difficult 
+work must start today.
+  It is a dereliction of public duty for this Congress to deliberately 
+fail to pass a budget. More than a year ago, the American people 
+ignited a national debate about the future they see for the country. 
+They have demanded that Washington get spending under control and spend 
+taxpayer money wisely. It is shameful that here in the people's House, 
+the Democrat majority's avoiding that same debate. We are failing our 
+children by failing to produce a budget. It is time to get our 
+priorities straight and our fiscal house in order.
+  Mr. Speaker, let's join this debate taking place around the country 
+and begin to make the tough choices the American people expect from 
+their leaders.
+
+                          ____________________
+```
