@@ -1,0 +1,25 @@
+---
+granule: CRECB-2010-pt7-Pg10057-6
+date: 2010-06-07
+edition: CRECB
+section: SENATE
+page: 10057
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate, Monday, June 7, 2010:
+
+
+                             the judiciary
+
+       AUDREY GOLDSTEIN FLEISSIG, OF MISSOURI, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE EASTERN DISTRICT OF MISSOURI.
+       LUCY HAERAN KOH, OF CALIFORNIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF CALIFORNIA.
+       JANE E. MAGNUS-STINSON, OF INDIANA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF INDIANA.
+```
