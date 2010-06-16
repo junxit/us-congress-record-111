@@ -1,0 +1,36 @@
+---
+granule: CRECB-2010-pt8-Pg10982-2
+date: 2010-06-16
+edition: CRECB
+section: EXTENSIONS
+page: 10982
+---
+
+# OUR UNCONSCIONABLE NATIONAL DEBT
+
+```
+                    OUR UNCONSCIONABLE NATIONAL DEBT
+
+                                 ______
+                                 
+
+                           HON. MIKE COFFMAN
+
+                              of colorado
+
+                    in the house of representatives
+
+                        Wednesday, June 16, 2010
+
+  Mr. COFFMAN of Colorado. Madam Speaker, today our national debt is 
+$13,078,420,280,010.67.
+  On January 6th, 2009, the start of the 111th Congress, the national 
+debt was $10,638,425,746,293.80.
+  This means the national debt has increased by $2,404,722,523,042.60 
+so far this Congress. The debt has increased $35,272,010,674.80 since 
+just yesterday.
+  This debt and its interest payments we are passing to our children 
+and all future Americans.
+
+                          ____________________
+```
