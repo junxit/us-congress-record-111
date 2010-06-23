@@ -1,0 +1,36 @@
+---
+granule: CRECB-2010-pt8-Pg11349-3
+date: 2010-06-23
+edition: CRECB
+section: HOUSE
+page: 11349
+---
+
+# CAPPING CARBON DIOXIDE
+
+```
+                              {time}  1010
+                         CAPPING CARBON DIOXIDE
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Mr. Speaker, we now are at a critical juncture to 
+determine whether or not we will respond to a terrible problem in the 
+oceans, and that is not just the oil spill in the gulf; it is the 
+acidification of the oceans now caused by carbon dioxide that comes 
+from the oil and gas industry and some other fossil fuel industries.
+  I would suggest Members may want to take a look at a new report. It 
+was in Science magazine, published 2 days ago by the American 
+Association for the Advancement of Science. This is their conclusion: 
+``The world's oceans are virtually choking on rising greenhouse gases, 
+destroying marine ecosystems and breaking down the food chain, 
+irreversible changes that have not occurred for several million 
+years.''
+  We have a chance to restrict and restrain this pollutant, carbon 
+dioxide, in a bill now pending in the U.S. Senate. We hope that in 
+conversations with the President next week we come out with a firm, 
+clear cap on carbon dioxide so we can stop what will otherwise be 
+irreversible changes in our oceans.
+
+                          ____________________
+```
