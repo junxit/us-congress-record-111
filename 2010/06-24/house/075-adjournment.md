@@ -1,0 +1,23 @@
+---
+granule: CREC-2010-06-24-pt1-PgH4869-4
+date: 2010-06-24
+edition: CREC
+section: HOUSE
+page: H4869
+citation: 156 Cong. Rec. H4869
+---
+
+# ADJOURNMENT
+
+**Speaking:** Gohmert, Louie (G000552) [R-TX]
+
+```
+                              ADJOURNMENT
+
+  Mr. GOHMERT. Mr. Speaker, I move that the House do now adjourn.
+  The motion was agreed to; accordingly (at 9 o'clock and 25 minutes 
+p.m.), under its previous order, the House adjourned until tomorrow, 
+Friday, June 25, 2010, at 4 p.m.
+
+                          ____________________
+```
