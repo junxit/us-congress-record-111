@@ -1,0 +1,62 @@
+---
+granule: CREC-2010-06-30-pt1-PgS5704
+date: 2010-06-30
+edition: CREC
+section: SENATE
+page: S5704
+citation: 156 Cong. Rec. S5704
+---
+
+# SENATE RESOLUTION 578--DESIGNATING JUNE 2010 AS "SUMMER FOOD SERVICE PROGRAM AWARENESS MONTH"
+
+**Measures:** S.Res. 578
+
+```
+ SENATE RESOLUTION 578--DESIGNATING JUNE 2010 AS ``SUMMER FOOD SERVICE 
+                       PROGRAM AWARENESS MONTH''
+
+  Mr. BROWN of Ohio (for himself, Mr. Lugar, Mrs. Lincoln, Mr. 
+Chambliss, Mr. Grassley, Mrs. Gillibrand, Mr. Bennet, Mr. Cochran, Mr. 
+Baucus, and Mr. Casey) submitted the following resolution; which was 
+considered and agreed to:
+
+                              S. Res. 578
+
+       Whereas the Summer Food Service Program provides healthy, 
+     nutritious meals to an average 2,900,000 children each 
+     weekday during the summer;
+       Whereas there are 34,700 feeding sites in low-income 
+     neighborhoods located at churches, schools, parks, recreation 
+     centers, and summer camps in all 50 States;
+       Whereas thousands volunteer at summer feeding sites;
+       Whereas summer feeding programs play an important role in 
+     providing safe places for children and teenagers to engage in 
+     physical activity and provide educational opportunities to 
+     spur learning during the summer months;
+       Whereas data from the Department of Agriculture has shown 
+     rates of hunger and food insecurity among school-age children 
+     increase during the summer months;
+       Whereas of the 19,500,000 children receiving free or 
+     reduced priced meals through the National School Lunch 
+     Program, only 1 in 9 receive meals at a summer feeding site 
+     on an average day;
+       Whereas there are only 34 summer food sites for every 100 
+     school lunch programs; and
+       Whereas many low-income, food insecure children in rural 
+     areas lack access to summer feeding locations: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) designates June 2010 as ``Summer Food Service Program 
+     Awareness Month'';
+       (2) encourages schools, nonprofit institutions, churches, 
+     parks, recreation centers, and summer camps to sponsor summer 
+     feeding sites in their communities; and
+       (3) encourages schools, local businesses, nonprofit 
+     institutions, churches, cities, and State governments to 
+     raise awareness of the availability of summer feeding sites 
+     and support efforts to increase participation of children who 
+     might otherwise go without meals if not for the Summer Food 
+     Service Program.
+
+                          ____________________
+```

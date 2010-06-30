@@ -1,0 +1,47 @@
+---
+granule: CREC-2010-06-30-pt1-PgE1234-3
+date: 2010-06-30
+edition: CREC
+section: EXTENSIONS
+page: E1234
+citation: 156 Cong. Rec. E1234
+---
+
+# AFFORDABLE HEALTH CARE FOR AMERICA ACT
+
+**Speaking:** Visclosky, Peter J. (V000108) [D-IN]
+
+```
+                 AFFORDABLE HEALTH CARE FOR AMERICA ACT
+
+                                 ______
+                                 
+
+                               speech of
+
+                        HON. PETER J. VISCLOSKY
+
+                               of indiana
+
+                    in the house of representatives
+
+                        Thursday, June 24, 2010
+
+  Mr. VISCLOSKY. Mr. Speaker, I rise today in support of Preservation 
+of Access to Care for Medicare Beneficiaries and Pension Relief Act.
+  This important legislation will ensure that Medicare and TRICARE 
+beneficiaries will be able to keep their doctors by retroactively 
+reversing a 21 percent decrease in physician reimbursement that 
+occurred on June 1, 2010. Additionally, this measure would provide 
+physicians a 2.2 percent increase in physician reimbursements through 
+November 30, 2010.
+  While I am pleased that the House is considering a 6 month fix, I 
+continue to support a permanent solution. It is not fair to medical 
+providers to face the continued uncertainty of temporary fixes. I am 
+proud that I supported and the House passed a permanent fix last 
+November, and would urge my colleagues in both the House and Senate to 
+recommit themselves to passing legislation to permanently fix this 
+problem.
+
+                          ____________________
+```
