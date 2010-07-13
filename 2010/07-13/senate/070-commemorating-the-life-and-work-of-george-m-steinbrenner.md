@@ -1,0 +1,96 @@
+---
+granule: CREC-2010-07-13-pt1-PgS5796
+date: 2010-07-13
+edition: CREC
+section: SENATE
+page: S5796
+citation: 156 Cong. Rec. S5796
+---
+
+# COMMEMORATING THE LIFE AND WORK OF GEORGE M. STEINBRENNER
+
+**Speaking:** Whitehouse, Sheldon (W000802) [D-RI]
+
+**Measures:** S.Res. 580
+
+```
+       COMMEMORATING THE LIFE AND WORK OF GEORGE M. STEINBRENNER
+
+  Mr. WHITEHOUSE. Mr. President, I ask unanimous consent that the 
+Senate proceed to the immediate consideration of S. Res. 580, submitted 
+earlier today.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 580) commemorating the life and work 
+     of George M. Steinbrenner of the State of New York.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. WHITEHOUSE. Mr. President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, the motions to 
+reconsider be laid upon the table, with no intervening action or 
+debate, and that any statements related to the resolution be printed in 
+the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 580) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 580
+
+       Whereas George M. Steinbrenner was born on July 4, 1930, in 
+     Rocky River, Ohio, and died on July 13, 2010, at the age of 
+     80;
+       Whereas George M. Steinbrenner served the United States for 
+     2 years in the United States Air Force;
+       Whereas George M. Steinbrenner owned the American Ship 
+     Building Company, the dominant shipbuilding company in the 
+     Great Lakes region during the existence of the company;
+       Whereas, since 1973, George M. Steinbrenner was the 
+     principal owner of the New York Yankees Major League Baseball 
+     franchise;
+       Whereas, under the wise and astute leadership of George M. 
+     Steinbrenner, the New York Yankees won 7 World Series 
+     Championships and 11 American League Championships;
+       Whereas the New York Yankees, under the leadership of 
+     George M. Steinbrenner, brought New Yorkers and New York 
+     Yankee fans across the United States countless hours of joy 
+     rooting for the consistently competitive teams that Mr. 
+     Steinbrenner helped assemble;
+       Whereas George M. Steinbrenner was the longest-tenured 
+     owner in Major League Baseball and became 1 of the most 
+     prominent personalities in Major League Baseball;
+       Whereas George M. Steinbrenner helped many civic causes, 
+     including the United States Olympic Committee;
+       Whereas George M. Steinbrenner was honored as both an 
+     ``Outstanding New Yorker'' and as the ``Citizen of the Year'' 
+     of Tampa, Florida;
+       Whereas, under the leadership of George M. Steinbrenner, 
+     the New York Yankees organization created a premier Spring 
+     Training facility, and developed some of the greatest talent 
+     in Major League Baseball, in Tampa, Florida;
+       Whereas ``Legends Field'', the Spring Training facility of 
+     the New York Yankees in Tampa, Florida, was renamed 
+     ``Steinbrenner Field'' in March 2008 in honor of Mr. 
+     Steinbrenner by the Hillsborough County Commission and the 
+     Tampa City Council; and
+       Whereas George M. Steinbrenner helped to grow the game of 
+     baseball into a global sport, with Major League Baseball 
+     games now played in Japan and Puerto Rico, and Major League 
+     Baseball players originating from over 20 countries: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) commemorates the life and work of George M. 
+     Steinbrenner;
+       (2) conveys the condolences of the Senate to the family, 
+     friends, and colleagues of George M. Steinbrenner;
+       (3) recognizes the continuing contributions of George M. 
+     Steinbrenner to the State of New York, the State of Florida, 
+     and Major League Baseball; and
+       (4) expresses gratitude to George M. Steinbrenner for his 
+     significant contributions to the State of New York, the State 
+     of Florida, and the New York Yankees.
+
+                          ____________________
+```
