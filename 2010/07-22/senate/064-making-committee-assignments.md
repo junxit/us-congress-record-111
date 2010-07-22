@@ -1,0 +1,67 @@
+---
+granule: CREC-2010-07-22-pt1-PgS6226-3
+date: 2010-07-22
+edition: CREC
+section: SENATE
+page: S6226
+citation: 156 Cong. Rec. S6226
+---
+
+# MAKING COMMITTEE ASSIGNMENTS
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+**Measures:** S.Res. 594
+
+```
+                      MAKING COMMITTEE ASSIGNMENTS
+
+  Mr. DURBIN. Mr. President, there is a resolution at the desk, and I 
+ask for its consideration.
+  The PRESIDING OFFICER. The clerk will report the title of the 
+resolution.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 594) to constitute the majority 
+     party's membership on certain committees for the One Hundred 
+     Eleventh Congress, or until their successors are chosen.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. DURBIN. Mr. President, I ask unanimous consent that the 
+resolution be agreed to and the motion to reconsider be laid upon the 
+table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 594) was agreed to, as follows:
+
+                              S. Res. 594
+
+       Resolved, That the following shall constitute the majority 
+     party's membership on the following committees for the One 
+     Hundred Eleventh Congress, or until their successors are 
+     chosen:
+       COMMITTEE ON APPROPRIATIONS: Mr. Inouye (Chairman), Mr. 
+     Leahy, Mr. Harkin, Ms. Mikulski, Mr. Kohl, Mrs. Murray, Mr. 
+     Dorgan, Mrs. Feinstein, Mr. Durbin, Mr. Johnson, Ms. 
+     Landrieu, Mr. Reed, Mr. Lautenberg, Mr. Nelson (Nebraska), 
+     Mr. Pryor, Mr. Tester, Mr. Specter, Mr. Brown (Ohio).
+       COMMITTEE ON ARMED SERVICES: Mr. Levin (Chairman), Mr. 
+     Lieberman, Mr. Reed, Mr. Akaka, Mr. Nelson (Florida), Mr. 
+     Nelson (Nebraska), Mr. Bayh, Mr. Webb, Mrs. McCaskill, Mr. 
+     Udall (Colorado), Mrs. Hagan, Mr. Begich, Mr. Burris, Mr. 
+     Bingaman, Mr. Kaufman, Mr. Goodwin.
+       COMMITTEE ON THE BUDGET: Mr. Conrad (Chairman), Mrs. 
+     Murray, Mr. Wyden, Mr. Feingold, Mr. Nelson (Florida), Ms. 
+     Stabenow, Mr. Cardin, Mr. Sanders, Mr. Whitehouse, Mr. 
+     Warner, Mr. Merkley, Mr. Begich, Mr. Goodwin.
+       COMMITTEE ON HEALTH, EDUCATION, LABOR AND PENSIONS: Mr. 
+     Harkin (Chairman), Mr. Dodd, Ms. Mikulski, Mr. Bingaman, Mrs. 
+     Murray, Mr. Reed, Mr. Sanders, Mr. Casey, Mrs. Hagan, Mr. 
+     Merkley, Mr. Franken, Mr. Bennet, Mr. Goodwin.
+       COMMITTEE ON RULES AND ADMINISTRATION: Mr. Schumer 
+     (Chairman), Mr. Inouye, Mr. Dodd, Mrs. Feinstein, Mr. Durbin, 
+     Mr. Nelson (Nebraska), Mrs. Murray, Mr. Pryor, Mr. Udall (New 
+     Mexico), Mr. Warner, Mr. Goodwin.
+
+                          ____________________
+```
