@@ -1,0 +1,65 @@
+---
+granule: CREC-2010-07-28-pt1-PgE1459-5
+date: 2010-07-28
+edition: CREC
+section: EXTENSIONS
+page: E1459
+citation: 156 Cong. Rec. E1459
+---
+
+# HONORING MR. SHEPARD "SHEP" LEE
+
+**Speaking:** Michaud, Michael H. (M001149) [D-ME]
+
+```
+                   HONORING MR. SHEPARD ``SHEP'' LEE
+
+                                 ______
+                                 
+
+                        HON. MICHAEL H. MICHAUD
+
+                                of maine
+
+                    in the house of representatives
+
+                        Wednesday, July 28, 2010
+
+  Mr. MICHAUD. Madam Speaker, I rise today to commemorate the 
+accomplishments and life of Shepard ``Shep'' Lee, who passed away on 
+June 23rd of this year.
+  Shep was a well-known entrepreneur and philanthropist within the 
+state of Maine. After taking over his father's local automobile 
+dealership in 1947, he eventually expanded the business to encompass 
+thirteen locations throughout Maine. He was a true pioneer in his field 
+and was never afraid to take a risk to help the business community. He 
+was the first local car dealer to use television ads in the 1960s and 
+employ a board of directors. He was a tireless advocate of economic 
+development in Maine, even offering advice to competitors.
+  In addition, Shep is remembered for his contributions to the greater 
+community. A graduate of Bowdoin College, he championed educational 
+progress, donating generous amounts to both Bowdoin and Bates Colleges 
+and the George Mitchell Scholarship fund. He sat on the law and 
+business school boards of the University of Southern Maine, the board 
+of the Muskie School of Public Service and the Maine Community College 
+Board.
+  His life-long commitment to gender equality and civil rights was also 
+remarkable. He was an active member of the Maine branch of the NAACP 
+and served on the board of the American Civil Liberties Union, later 
+receiving the Roger Baldwin Award, the ACLU's higher honor. Shep 
+supported gay rights legislation well before the passage of Maine's 
+non-discrimination law.
+  An advisor, friend and tireless fund-raiser for Senator George 
+Mitchell, the late Justice Frank Coffin and the late Edmund Muskie, 
+Shep's political activism was notable both locally and nationally. He 
+is fondly remembered by his friends, family and colleagues, and his 
+contributions to the State of Maine will not soon be forgotten.
+  Madam Speaker, please join me in honoring Shepard Lee for his life of 
+dedication and service to his community and his country.
+
+[[Page E1460]]
+
+
+
+                          ____________________
+```
