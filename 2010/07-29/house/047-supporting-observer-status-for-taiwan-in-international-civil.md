@@ -1,0 +1,32 @@
+---
+granule: CRECB-2010-pt10-Pg14714-2
+date: 2010-07-29
+edition: CRECB
+section: HOUSE
+page: 14714
+---
+
+# SUPPORTING OBSERVER STATUS FOR TAIWAN IN INTERNATIONAL CIVIL AVIATION ORGANIZATION
+
+```
+ SUPPORTING OBSERVER STATUS FOR TAIWAN IN INTERNATIONAL CIVIL AVIATION 
+                              ORGANIZATION
+
+  The SPEAKER pro tempore. The unfinished business is the question on 
+suspending the rules and agreeing to the concurrent resolution (H. Con. 
+Res. 266) expressing the sense of Congress that Taiwan should be 
+accorded observer status in the International Civil Aviation 
+Organization (ICAO).
+  The Clerk read the title of the concurrent resolution.
+  The SPEAKER pro tempore. The question is on the motion offered by
+
+[[Page 14715]]
+
+the gentlewoman from Nevada (Ms. Berkley) that the House suspend the 
+rules and agree to the concurrent resolution.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the concurrent resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
