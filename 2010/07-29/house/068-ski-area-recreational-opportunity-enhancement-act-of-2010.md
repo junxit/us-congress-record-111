@@ -1,0 +1,260 @@
+---
+granule: CREC-2010-07-29-pt3-PgH6445
+date: 2010-07-29
+edition: CREC
+section: HOUSE
+page: H6445
+citation: 156 Cong. Rec. H6445
+---
+
+# SKI AREA RECREATIONAL OPPORTUNITY ENHANCEMENT ACT OF 2010
+
+**Speaking:** Scott, David (S001157) [D-GA], Thompson, Glenn (T000467) [R-PA], Polis, Jared (P000598) [D-CO]
+
+**Measures:** H.R. 2476
+
+```
+       SKI AREA RECREATIONAL OPPORTUNITY ENHANCEMENT ACT OF 2010
+
+  Mr. SCOTT of Georgia. Mr. Speaker, I move to suspend the rules and 
+pass the bill (H.R. 2476) to amend the National Forest Ski Area Permit 
+Act of 1986 to clarify the authority of the Secretary of Agriculture 
+regarding additional recreational uses of National Forest System land 
+that are subject to ski area permits, and for other purposes, as 
+amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 2476
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Ski Area Recreational 
+     Opportunity Enhancement Act of 2010''.
+
+     SEC. 2. PURPOSE.
+
+       The purpose of this Act is to amend the National Forest Ski 
+     Area Permit Act of 1986 (16 U.S.C. 497b)--
+       (1) to enable snow-sports (in addition to nordic and alpine 
+     skiing) to be permitted on National Forest System land, 
+     subject to ski area permits issued by the Secretary of 
+     Agriculture under section 3 of the National Forest Ski Area 
+     Permit Act of 1986 (16 U.S.C. 497b); and
+       (2) to clarify the authority of the Secretary to permit 
+     appropriate additional seasonal or year-round recreational 
+     activities and facilities on National Forest System land, 
+     subject to ski area permits issued by the Secretary under 
+     section 3 of the National Forest Ski Area Permit Act of 1986 
+     (16 U.S.C. 497b).
+
+     SEC. 3. SKI AREA PERMITS.
+
+       Section 3 of the National Forest Ski Area Permit Act of 
+     1986 (16 U.S.C. 497b) is amended--
+       (1) in subsection (a), by striking ``nordic and alpine ski 
+     areas and facilities'' and inserting ``ski areas and 
+     associated facilities'';
+       (2) in subsection (b), in the matter preceding paragraph 
+     (1), by striking ``nordic and alpine skiing operations and 
+     purposes'' and inserting ``skiing and other snow-sports and 
+     such other seasonal or year-round recreational activities 
+     associated with mountain resorts as the Secretary may 
+     authorize pursuant to subsection (c)'';
+       (3) by redesignating subsections (c) and (d) as subsections 
+     (d) and (e), respectively;
+       (4) by inserting after subsection (b) the following:
+       ``(c) Other Recreational Uses.--
+       ``(1) Authority of secretary.--Subject to paragraphs (2) 
+     and (3), the Secretary may authorize the holder of a ski area 
+     permit issued pursuant to subsection (b) to provide on 
+     National Forest System land subject to the ski area permit 
+     such other seasonal or year-round natural resource-based 
+     recreational activities and associated facilities or 
+     improvements (in addition to skiing and other snow-sports) as 
+     the Secretary determines to be appropriate.
+       ``(2) Requirements.--Any activity, facility, or improvement 
+     authorized by the Secretary under paragraph (1) shall--
+       ``(A) encourage outdoor recreation and enjoyment of nature;
+       ``(B) to the extent practicable, harmonize with the natural 
+     environment of the National Forest System land on which the 
+     activity, facility, or improvement is located;
+       ``(C) to the extent practicable, be located within the 
+     portions of the ski permit area that are developed to support 
+     skiing and other snow sports;
+       ``(D) be consistent with the applicable forest management 
+     plan and all other applicable laws; and
+       ``(E) be subject to such terms and conditions as the 
+     Secretary determines to be appropriate.
+       ``(3) No change in purpose.--
+       ``(A) Purpose test.--The Secretary may not authorize an 
+     activity, facility, or improvement under paragraph (1) if the 
+     Secretary determines that the authorization of the activity, 
+     facility, or improvement would result in the primary 
+     recreational purpose of the National Forest System land 
+     subject to the ski area permit to be a purpose other than 
+     skiing or any other snow-sport.
+       ``(B) Revenue test.--To ensure that National Forest System 
+     lands subject to a ski area permit continue to be used 
+     predominately for skiing and other snow sports, the Secretary 
+     may authorize an activity, facility, or improvement under 
+     paragraph (1) only to the extent that the majority of the 
+     revenue of the ski area is generated by the sale of lift 
+     tickets and fees for ski and other snow-sport rentals, skiing 
+     and other snow-sport instruction, ski trail passes for the 
+     use of trails maintained by the permit holder, and ancillary 
+     facilities related to the operation and support of skiing and 
+     other snow-sport activities.
+       ``(4) Boundary changes.--When determining the boundary of a 
+     ski area permit under subsection (b)(3), the Secretary shall 
+     not consider the need for activities other than skiing and 
+     other snow-sports.
+       ``(5) Effect on existing authorized activities and 
+     facilities.--Nothing in this subsection affects any activity 
+     or facility authorized by a ski area permit in effect on the 
+     date of enactment of this subsection during the term of the 
+     permit.''; and
+       (5) in subsection (d) (as redesignated by paragraph (3))--
+       (A) by striking ``Within one year after the date of 
+     enactment of this Act, the'' and inserting ``Not later than 
+     18 months after the date of enactment of the Ski Area 
+     Recreational Opportunity Enhancement Act of 2010, the''; and
+       (B) by striking ``within 3 years of the date of enactment 
+     of this Act''.
+
+     SEC. 4. EFFECT.
+
+       Nothing in this Act (including the amendments made by this 
+     Act) affects--
+       (1) any authority of the Secretary of Agriculture 
+     (including the authority of the Secretary with respect to 
+     recreational activities or infrastructure located on National 
+     Forest System land) under any Federal law (including 
+     regulations) other than the National Forest Ski Area Permit 
+     Act of 1986 (16 U.S.C. 497b); and
+       (2) any duty of the Secretary under the National 
+     Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+     SEC. 5. STATUTORY PAY-AS-YOU-GO LANGUAGE.
+
+       The budgetary effects of this Act, for the purpose of 
+     complying with the Statutory Pay-As-You-Go-Act of 2010, shall 
+     be determined by reference to the latest statement titled 
+     ``Budgetary Effects of PAYGO Legislation'' for this Act, 
+     submitted for printing in the Congressional Record by the 
+     Chairman of the House Budget Committee, provided that such 
+     statement has been submitted prior to the vote on passage.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Georgia (Mr. Scott) and the gentleman from Pennsylvania (Mr. Thompson) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Georgia.
+
+
+                             General Leave
+
+  Mr. SCOTT of Georgia. Mr. Speaker I ask unanimous consent that all 
+Members may have 5 legislative days within which to revise and extend 
+their remarks on the bill, H.R. 2476.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Georgia?
+  There was no objection.
+  Mr. SCOTT of Georgia. Mr. Speaker, I yield myself such time as I may 
+consume.
+
+[[Page H6446]]
+
+  H.R. 2476 amends the National Forest Ski Area Permit Act of 1986 to 
+update the use of ski permits to include other snow sports in addition 
+to Nordic and alpine skiing, and to provide guidelines and 
+clarification to the Secretary regarding other year-round recreational 
+activities on Forest Service lands. This bill is sponsored by 
+Representative DeGette, and has 16 cosponsors, and the Forest Service 
+supports this legislation.
+  The original statute was enacted in 1986, before new sports like 
+snowboarding grew into popularity. Additionally, many ski areas operate 
+year-round activities like summertime mountain biking on the slopes. 
+This bill will not alter any forest management plan or the need for 
+strict environmental compliance on Federal lands.
+  I encourage my colleagues to support this legislation.
+  I reserve the balance of my time.
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I yield myself such time 
+as I may consume.
+  Mr. Speaker, I rise in support of H.R. 2476, the Ski Area 
+Recreational Opportunity Enhancement Act. This bipartisan bill provides 
+the Secretary of Agriculture the authority to allow additional 
+activities on National Forest land governed by a ski permit. A vendor 
+who holds a ski area permit will be able to offer snow sports other 
+than alpine and Nordic skiing in these permitted areas.
+  The legislation also clarifies the Secretary's authority to expand 
+the number of activities allowed in these skiing areas during summer 
+months when they are not being utilized for their primary purpose.
+  Mr. Speaker, these are great ways to encourage Americans to explore 
+our National Forest systems and to appreciate the beauty of our 
+National Forests, all while being physically active. The bill ensures 
+that these activities are regulated in such a manner that does not 
+alter the character of the forest.
+  Mr. Speaker, I hope my colleagues will join me in supporting this 
+bill.
+  I yield back the balance of my time.
+  Mr. SCOTT of Georgia. Mr. Speaker, I yield 3 minutes to the 
+distinguished gentleman from Colorado (Mr. Polis).
+  Mr. POLIS. Mr. Speaker, I rise today as a cosponsor of H.R. 2476.
+  Mr. Speaker, I hope that you have had the chance to visit some of the 
+terrific winter recreation and summer recreation areas in Colorado's 
+Second Congressional District, in places that are known across the 
+United States and across the world, like Vail, Beaver Creek, Copper 
+Mountain, Arapahoe Basin, Keystone, Breckenridge, Winter Park.
+  People know us for our skiing. Our alpine and Nordic skiing is among 
+the best in the world. And yet there are many more opportunities to be 
+both good stewards of our mountain resources and provide additional 
+recreational opportunities for you, Mr. Speaker, our colleagues and 
+friends from across the country, and across the world.
+  With those recreational opportunities that we give for people to 
+enjoy our mountains with summer activities like mountain biking, 
+activities on the mountain, activities in our rivers, with those 
+opportunities, Mr. Speaker, we create jobs, jobs for people who reside 
+in Eagle and Summit Counties, and Grand County in my district, and 
+other areas across the country.
+  We have the opportunity with National Forest System land that we use 
+for skiing to provide additional opportunities for seasonal and year-
+round recreational opportunities, providing enjoyment and fun for 
+families across the United States, and promoting jobs in my district 
+and others like it, and the communities that serve these areas.
+  By increasing the extent to which the National Forest Service land is 
+managed to allow for outdoor recreational activities, we can provide 
+more opportunities for people to interact with nature, to gain an 
+appreciation of our ecosystem and natural heritage.
+  With this bill, we clarify the authority of the Secretary of 
+Agriculture to permit appropriate seasonal or year-round recreational 
+activities. This all continues to be subject to permits that are 
+granted through a process that takes into account impact on the lands 
+themselves.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Mr. SCOTT of Georgia. I yield the gentleman an additional 30 seconds.
+  Mr. POLIS. Mr. Speaker, with the passage of this bill we can do an 
+even better job in Vail, Beaver Creek, and in our mountain communities 
+in showing you a good time, Mr. Speaker. And in showing you a good 
+time, Mr. Speaker, we're going to create jobs for the good residents of 
+Colorado's Second Congressional District.
+  I urge support of H.R. 2476.
+  Mr. SCOTT of Georgia. I would just like to give an amen to the 
+distinguished gentleman from Colorado for which he speaks. As one who 
+has traveled out to Colorado myself and visited around Vail and around 
+Golden, Colorado, what he speaks is so truthful. And the enjoyment, the 
+recreation, and the significant amount of jobs that are created as a 
+result of what's embodied in this legislation. I commend you for your 
+very strong remarks on it.
+  I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Georgia (Mr. Scott) that the House suspend the rules and 
+pass the bill, H.R. 2476, as amended.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the bill, as amended, was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

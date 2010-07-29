@@ -1,0 +1,32 @@
+---
+granule: CREC-2010-07-29-pt1-PgS6539-7
+date: 2010-07-29
+edition: CREC
+section: SENATE
+page: S6539
+citation: 156 Cong. Rec. S6539
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate, Thursday, July 29, 
+2010:
+
+
+                           IN THE COAST GUARD
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO SERVE AS THE 
+     DIRECTOR OF THE COAST GUARD RESERVE PURSUANT TO TITLE 14, 
+     U.S.C., SECTION 53 IN THE GRADE INDICATED:
+
+                     To be rear admiral lower half
+
+REAR ADM. (LH) SANDRA L. STOSZ
+
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
