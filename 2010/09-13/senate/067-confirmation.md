@@ -1,0 +1,26 @@
+---
+granule: CREC-2010-09-13-pt1-PgS7049-4
+date: 2010-09-13
+edition: CREC
+section: SENATE
+page: S7049
+citation: 156 Cong. Rec. S7049
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate, Monday, September 13, 
+2010:
+
+
+                             THE JUDICIARY
+
+       JANE BRANSTETTER STRANCH, OF TENNESSEE, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE SIXTH CIRCUIT.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
