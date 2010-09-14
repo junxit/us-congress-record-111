@@ -1,0 +1,39 @@
+---
+granule: CREC-2010-09-14-pt1-PgS7084-5
+date: 2010-09-14
+edition: CREC
+section: SENATE
+page: S7084
+citation: 156 Cong. Rec. S7084
+---
+
+# ROGERS HISTORICAL MUSEUM
+
+**Speaking:** Lincoln, Blanche L. (L000035) [D-AR]
+
+```
+                        ROGERS HISTORICAL MUSEUM
+
+● Mrs. LINCOLN. Mr. President, today I congratulate the staff of 
+the Rogers Historical Museum in my home State of Arkansas for being 
+awarded accreditation through the American Association of Museums. The 
+Rogers Historical Museum joins an impressive group of 778 institutions 
+currently accredited nationwide. This accreditation represents the 
+highest recognition of the Rogers Historical Museum's commitment to 
+public service, professional standards, and excellence in education.
+  Museums like the Rogers Historical Museum play an important role in 
+promoting lifelong education, travel and tourism, and quality of life. 
+They offer a center of exploration, discovery, and lifelong earnings 
+for students and citizens of all ages and all walks of life.
+
+[[Page S7085]]
+
+  I commend the Rogers Historical Museum's leaders and the entire 
+community for their efforts to maintain the history and heritage of 
+their community. Their tireless efforts helped make this accreditation 
+a reality. They represent the best of our State, and I am proud of 
+their accomplishments. I join all Arkansans to congratulate the Rogers 
+Historical Museum for this distinguished recognition.●
+
+                          ____________________
+```
