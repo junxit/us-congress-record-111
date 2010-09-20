@@ -1,0 +1,17 @@
+---
+granule: CRECB-2010-pt11-Pg15998
+date: 2010-09-20
+edition: CRECB
+section: SENATE
+page: 15998
+---
+
+# CONCLUSION OF MORNING BUSINESS
+
+```
+                     CONCLUSION OF MORNING BUSINESS
+
+  The ACTING PRESIDENT pro tempore. Morning business is closed.
+
+                          ____________________
+```
