@@ -1,0 +1,37 @@
+---
+granule: CREC-2010-09-23-pt1-PgS7367-4
+date: 2010-09-23
+edition: CREC
+section: SENATE
+page: S7367
+citation: 156 Cong. Rec. S7367
+---
+
+# APPOINTMENT OF ACTING PRESIDENT PRO TEMPORE
+
+```
+              APPOINTMENT OF ACTING PRESIDENT PRO TEMPORE
+
+  The PRESIDING OFFICER. The clerk will please read a communication to 
+the Senate from the President pro tempore (Mr. Inouye).
+  The bill clerk read the following letter:
+
+                                                      U.S. Senate,
+
+
+                                        President pro tempore,
+
+                               Washington, DC, September 23, 2010.
+     To the Senate:
+       Under the provisions of Rule I, paragraph 3, of the 
+     Standing Rules of the Senate, I hereby appoint the Honorable 
+     Kirsten Gillibrand, a Senator from the State of New York, to 
+     perform the duties of the Chair.
+                                                 Daniel K. Inouye,
+                                            President pro tempore.
+
+  Mrs. GILLIBRAND thereupon assumed the chair as Acting President pro 
+tempore.
+
+                          ____________________
+```
