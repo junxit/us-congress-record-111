@@ -1,0 +1,102 @@
+---
+granule: CREC-2010-09-27-pt1-PgS7559
+date: 2010-09-27
+edition: CREC
+section: SENATE
+page: S7559
+citation: 156 Cong. Rec. S7559
+---
+
+# ACCREDITATION OF ENGLISH LANGUAGE
+
+**Speaking:** Casey, Robert P., Jr. (C001070) [D-PA]
+
+**Measures:** S. 1338
+
+```
+                   ACCREDITATION OF ENGLISH LANGUAGE
+
+  Mr. CASEY. I ask unanimous consent the Judiciary Committee be 
+discharged from further consideration S. 1338 and the Senate proceed to 
+its immediate consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered. The clerk 
+will report.
+  The legislative clerk read as follows:
+  A bill (S. 1338) to require the accreditation of English language 
+training programs, and for other purposes.
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S7559, September 27, 2010, in the first column, under 
+the heading ACCREDITATION OF ENGLISH LANGUAGE, the following 
+appears: A bill (S. 1338) to require the accreditation of English 
+language, and for other purposes.
+  
+  The Record has been corrected to read: A bill (S. 1338) to 
+require the accreditation of English language training programs, 
+and for other purposes.
+
+
+ ========================= END NOTE ========================= 
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. CASEY. I ask unanimous consent the bill be read a third time and 
+passed, the motion to reconsider be laid upon the table, with no 
+intervening action or debate, and any statements be printed in the 
+Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill, (S. 1338) was read ordered to be engrossed for a third 
+reading, was read the third time, and passed, as follows:
+
+                                S. 1338
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. ACCREDITATION OF ENGLISH LANGUAGE TRAINING 
+                   PROGRAMS.
+
+       (a) In General.--Section 101(a) of the Immigration and 
+     Nationality Act (8 U.S.C. 1101(a)) is amended--
+       (1) in paragraph (15)(F)(i), by striking ``a language'' and 
+     inserting ``an accredited language''; and
+       (2) by adding at the end the following:
+       ``(52) The term `accredited language training program' 
+     means a language training program that is accredited by an 
+     accrediting agency recognized by the Secretary of 
+     Education.''.
+       (b) Effective Date.--
+       (1) In general.--Except as provided in paragraph (2), the 
+     amendments made by subsection (a) shall--
+       (A) take effect on the date that is 180 days after the date 
+     of the enactment of this Act; and
+       (B) apply with respect to applications for a nonimmigrant 
+     visa under section 101(a)(15)(F)(i) of the Immigration and 
+     Nationality Act (8 U.S.C. 1101(a)(15)(F)(i)) that are filed 
+     on or after the effective date described in subparagraph (A).
+       (2) Temporary exception.--
+       (A) In general.--Notwithstanding section 101(a)(15)(F)(i) 
+     of the Immigration and Nationality Act, as amended by 
+     subsection (a), during the 3-year period beginning on the 
+     date of the enactment of this Act, an alien seeking to enter 
+     the United States to pursue a course of study at a language 
+     training program that has been certified by the Secretary of 
+     Homeland Security and has not been accredited or denied 
+     accreditation by an entity described in section 101(a)(52) of 
+     such Act may be granted a nonimmigrant visa under such 
+     section 101(a)(15)(F)(i).
+       (B) Additional requirement.--An alien may not be granted a 
+     nonimmigrant visa under subparagraph (A) if the sponsoring 
+     institution of the language training program to which the 
+     alien seeks to enroll does not--
+       (i) submit an application for the accreditation of such 
+     program to a regional or national accrediting agency 
+     recognized by the Secretary of Education within 1 year after 
+     the date of the enactment of this Act; and
+       (ii) comply with the applicable accrediting requirements of 
+     such agency.
+
+                          ____________________
+```
