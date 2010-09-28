@@ -1,0 +1,24 @@
+---
+granule: CRECB-2010-pt12-Pg16749-4
+date: 2010-09-28
+edition: CRECB
+section: SENATE
+page: 16749
+---
+
+# PROGRAM
+
+```
+                                PROGRAM
+
+  Mr. DURBIN. Mr. President, Senators should expect the first vote of 
+the day to begin at 12 noon. That vote will be on the motion to proceed 
+to S.J. Res. 39, a joint resolution providing for congressional 
+disapproval of a rule relating to status as a grandfathered health plan 
+under the Patient Protection and Affordable Care Act. We are also 
+working on an agreement to complete action on the continuing resolution 
+tomorrow. Senators will be notified when any additional votes are 
+scheduled.
+
+                          ____________________
+```
