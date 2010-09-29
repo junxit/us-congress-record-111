@@ -1,0 +1,38 @@
+---
+granule: CREC-2010-09-29-pt1-PgH7218-4
+date: 2010-09-29
+edition: CREC
+section: HOUSE
+page: H7218
+citation: 156 Cong. Rec. H7218
+---
+
+# HONORING THE LIFE OF BISHOP KENNETH H. MOALES
+
+**Speaking:** Himes, James A. (H001047) [D-CT]
+
+```
+             HONORING THE LIFE OF BISHOP KENNETH H. MOALES
+
+  (Mr. HIMES asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HIMES. Mr. Speaker, a week ago the City of Bridgeport lost a 
+friend, spiritual leader and powerful force for good in the community.
+  Bishop Kenneth H. Moales, whose humble origins in Father Panik 
+Village public housing foreshadowed little of his lifelong leadership, 
+dedicated his life to shepherding the souls and improving the worldly 
+conditions of some of the least fortunate people in Fairfield County.
+  I worshipped in his church just 3 weeks ago, and the ministries of 
+the Cathedral of the Holy Spirit and his presence among his flock 
+reminded me of the saying of St. Francis of Assisi when he said, 
+``Always preach the gospel. Sometimes use words.''
+  The bishop was an accomplished musician, and his choirs enriched 
+those who heard them and those who sang in them.
+  At one time or another, the bishop was contributing to just about 
+every civic institution in Bridgeport, from the police to the YMCA.
+  Mr. Speaker, we will miss Bishop Moales, but we celebrate a life well 
+lived. And we take confidence in the fact that, as of last week, the 
+music in heaven got a whole lot better.
+
+                          ____________________
+```

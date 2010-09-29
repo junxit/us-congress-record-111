@@ -1,0 +1,61 @@
+---
+granule: CREC-2010-09-29-pt2-PgS7837-2
+date: 2010-09-29
+edition: CREC
+section: SENATE
+page: S7837
+citation: 156 Cong. Rec. S7837
+---
+
+# SENATE RESOLUTION 667--RECOGNIZING THE 40TH ANNIVERSARY OF THE COASTAL STATES ORGANIZATION
+
+**Measures:** S.Res. 667
+
+```
+SENATE RESOLUTION 667--RECOGNIZING THE 40TH ANNIVERSARY OF THE COASTAL 
+                          STATES ORGANIZATION
+
+  Mrs. FEINSTEIN (for herself, Mrs. Boxer, Mr. Gregg, and Ms. Snowe) 
+submitted the following resolution; which was considered and agreed to:
+
+                              S. Res. 667
+
+       Whereas, in 2010, the Coastal States Organization (referred 
+     to in this preamble as the ``CSO'') is celebrating its 40th 
+     anniversary of representing the Governors of the 35 coastal 
+     States, commonwealths, and territories of the United States 
+     on issues relating to the sound management of coastal, ocean, 
+     and Great Lakes resources;
+       Whereas the CSO was created in 1969 by a resolution, which 
+     was endorsed unanimously, of the National Governors 
+     Association;
+       Whereas, in January 1970, the first meeting of the CSO was 
+     held in Savannah, Georgia;
+       Whereas, in October 2010, the CSO will celebrate its 40th 
+     anniversary in Monterey, California;
+       Whereas the CSO has been empowered to contribute to the 
+     development and operation of the national coastal zone 
+     management program, which was established by the Coastal Zone 
+     Management Act of 1972 (16 U.S.C. 1451 et seq.);
+       Whereas the CSO is a nonpartisan organization comprised of 
+     economically, environmentally, geographically, and socially 
+     diverse States, territories, and commonwealths;
+       Whereas the CSO serves as a means for the Governors of the 
+     member States, territories, and commonwealths to communicate 
+     with Congress and the executive branch on coastal, ocean, and 
+     Great Lakes policies, programs, and affairs; and
+       Whereas the member States, territories, and commonwealths 
+     of the CSO have a responsibility to work with the Federal 
+     Government to manage and conserve the public trust in coastal 
+     and ocean ecosystems as well as the quality of life in 
+     coastal communities for the benefit of current and future 
+     generations: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the 40th anniversary of the Coastal States 
+     Organization; and
+       (2) supports the role of States, territories, and 
+     commonwealths in the stewardship of coastal, ocean, and Great 
+     Lakes resources.
+
+                          ____________________
+```

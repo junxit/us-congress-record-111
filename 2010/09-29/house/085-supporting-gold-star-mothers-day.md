@@ -1,0 +1,35 @@
+---
+granule: CREC-2010-09-29-pt2-PgH7378-9
+date: 2010-09-29
+edition: CREC
+section: HOUSE
+page: H7378
+citation: 156 Cong. Rec. H7378
+---
+
+# SUPPORTING GOLD STAR MOTHERS DAY
+
+**Measures:** H.Res. 1617
+
+```
+                    SUPPORTING GOLD STAR MOTHERS DAY
+
+  The SPEAKER pro tempore. The unfinished business is the question on 
+suspending the rules and agreeing to
+
+[[Page H7379]]
+
+the resolution (H. Res. 1617) supporting the goals and purpose of Gold 
+Star Mothers Day, which is observed on the last Sunday in September of 
+each year in remembrance of the supreme sacrifice made by mothers who 
+lose a son or daughter serving in the Armed Forces.
+  The Clerk read the title of the resolution.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from California (Ms. Chu) that the House suspend the rules 
+and agree to the resolution.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
