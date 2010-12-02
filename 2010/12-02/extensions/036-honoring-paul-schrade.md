@@ -1,0 +1,69 @@
+---
+granule: CREC-2010-12-02-pt1-PgE2043-2
+date: 2010-12-02
+edition: CREC
+section: EXTENSIONS
+page: E2043
+citation: 156 Cong. Rec. E2043
+---
+
+# HONORING PAUL SCHRADE
+
+**Speaking:** Kennedy, Patrick J. (K000113) [D-RI]
+
+```
+                         HONORING PAUL SCHRADE
+
+                                  _____
+                                 
+
+                        HON. PATRICK J. KENNEDY
+
+                            of rhode island
+
+                    in the house of representatives
+
+                       Thursday, December 2, 2010
+
+  Mr. KENNEDY. Madam Speaker, I rise today to recognize Paul Schrade on 
+the occasion of the dedication of a library in his honor at the Robert 
+F. Kennedy Schools Complex in Los Angeles, California on September 13, 
+2010. Named after U.S. Senator Robert F. Kennedy, my uncle, the schools 
+are devoted to social justice. Paul was one of the five people wounded 
+the night Senator Kennedy was assassinated at the Ambassador Hotel, 
+where the Schools Complex is located.
+  Paul, a close friend and campaign staffer, was right behind Senator 
+Kennedy when shots rang out shortly after RFK's victory speech 
+following the California Democratic presidential primary on June 5, 
+1968.
+  The 24-acre, $578 million schools complex on Wilshire Boulevard 
+consists of six different schools for grades kindergarten to 12, with 
+more than 4,000 students, the vast majority of them from Latino and 
+low-income neighborhoods. Paul, 85, was a driving force behind the 
+project, which was fraught with obstacles from the start, including 
+Donald Trump's plans to build five towers at the site, one of them 125 
+stories tall. Later, Wal-Mart wanted to put a store there.
+  Senator Kennedy's commitment to social justice is evident throughout 
+the campus with murals, quotations and similar exhibits.
+  Originally designed as a large, comprehensive K-12 school that would 
+house more than 2,400 students, the school district determined in 2008 
+that the facility would host wall-to-wall pilot schools, which opened 
+this fall. Pilot schools are innovative small schools that have 
+charter-like autonomy over their budget, curriculum and assessment, 
+governance, schedule and staffing, but are part of the public school 
+system.
+  Among the new school's many features is a 500-seat auditorium and 
+cafe at the site of the old Coconut Grove nightclub, built adjacent to 
+the hotel in the 1920s, where LA's rich and famous would go to party. 
+Howard Hughes was a regular there and several Academy Awards events 
+were held there during the 1930s.
+  Groundbreaking on the new schools took place four years ago.
+  Paul has been instrumental in the improvement of public education in 
+Los Angeles. His lifelong mission, since RFK's death, has been to 
+perpetuate the best of what Kennedy stood for. I wish Paul all the best 
+as he continues his important work on behalf of young people. He will 
+continue to carry my own admiration, and that of all who have had the 
+privilege to work with him.
+
+                          ____________________
+```
