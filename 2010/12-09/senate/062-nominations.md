@@ -1,0 +1,22 @@
+---
+granule: CRECB-2010-pt13-Pg19478-2
+date: 2010-12-09
+edition: CRECB
+section: SENATE
+page: 19478
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nomination received by the Senate:
+
+
+           NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES
+
+       AARON PAUL DWORKIN, OF MICHIGAN, TO BE A MEMBER OF THE 
+     NATIONAL COUNCIL ON THE ARTS FOR A TERM EXPIRING SEPTEMBER 3, 
+     2014, VICE KAREN LIAS WOLFF, TERM EXPIRED.
+```

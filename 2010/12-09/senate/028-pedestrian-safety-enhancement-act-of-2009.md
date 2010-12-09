@@ -1,0 +1,176 @@
+---
+granule: CRECB-2010-pt13-Pg19438-3
+date: 2010-12-09
+edition: CRECB
+section: SENATE
+page: 19438
+---
+
+# PEDESTRIAN SAFETY ENHANCEMENT ACT OF 2009
+
+```
+               PEDESTRIAN SAFETY ENHANCEMENT ACT OF 2009
+
+  Mr. WYDEN. Mr. President, I ask unanimous consent that the Commerce 
+Committee be discharged from further consideration of S. 841, and the 
+Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the bill by title.
+  The bill clerk read as follows:
+
+       A bill (S. 841) to direct the Secretary of Transportation 
+     to study and establish a motor vehicle safety standard that 
+     provides for a means of alerting blind and other pedestrians 
+     of motor vehicle operation.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. WYDEN. Mr. President, I ask unanimous consent that a Kerry 
+substitute amendment, which is at the desk, be agreed to, the bill, as 
+amended, be read a third time and passed, the motions to reconsider be 
+laid upon the table, with no intervening action or debate, and any 
+statements related to the bill be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 4750) was agreed to, as follows:
+
+  (Purpose: To require the Secretary of Transportation to establish a 
+  motor vehicle safety standard for electric and hybrid vehicles that 
+  would require such vehicles to emit a sound to alert pedestrians to 
+                            their operation)
+
+       Strike out all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Pedestrian Safety 
+     Enhancement Act of 2010''.
+
+     SEC. 2. DEFINITIONS.
+
+       As used in this Act--
+       (1) the term ``Secretary'' means the Secretary of 
+     Transportation;
+       (2) the term ``alert sound'' (herein referred to as the 
+     ``sound'') means a vehicle-emitted sound to enable 
+     pedestrians to discern vehicle presence, direction, location, 
+     and operation;
+       (3) the term ``cross-over speed'' means the speed at which 
+     tire noise, wind resistance, or other factors eliminate the 
+     need for a separate alert sound as determined by the 
+     Secretary;
+       (4) the term ``motor vehicle'' has the meaning given such 
+     term in section 30102(a)(6) of title 49, United States Code, 
+     except that such term shall not include a trailer (as such 
+     term is defined in section 571.3 of title 49, Code of Federal 
+     Regulations);
+       (5) the term ``conventional motor vehicle'' means a motor 
+     vehicle powered by a gasoline, diesel, or alternative fueled 
+     internal combustion engine as its sole means of propulsion;
+       (6) the term ``manufacturer'' has the meaning given such 
+     term in section 30102(a)(5) of title 49, United States Code;
+       (7) the term ``dealer'' has the meaning given such term in 
+     section 30102(a)(1) of title 49, United States Code;
+       (8) the term ``defect'' has the meaning given such term in 
+     section 30102(a)(2) of title 49, United States Code;
+       (9) the term ``hybrid vehicle'' means a motor vehicle which 
+     has more than one means of propulsion; and
+       (10) the term ``electric vehicle'' means a motor vehicle 
+     with an electric motor as its sole means of propulsion.
+
+     SEC. 3. MINIMUM SOUND REQUIREMENT FOR MOTOR VEHICLES.
+
+       (a) Rulemaking Required.--Not later than 18 months after 
+     the date of enactment of this Act the Secretary shall 
+     initiate rulemaking,
+
+[[Page 19439]]
+
+     under section 30111 of title 49, United States Code, to 
+     promulgate a motor vehicle safety standard--
+       (1) establishing performance requirements for an alert 
+     sound that allows blind and other pedestrians to reasonably 
+     detect a nearby electric or hybrid vehicle operating below 
+     the cross-over speed, if any; and
+       (2) requiring new electric or hybrid vehicles to provide an 
+     alert sound conforming to the requirements of the motor 
+     vehicle safety standard established under this subsection.
+
+     The motor vehicle safety standard established under this 
+     subsection shall not require either driver or pedestrian 
+     activation of the alert sound and shall allow the pedestrian 
+     to reasonably detect a nearby electric or hybrid vehicle in 
+     critical operating scenarios including, but not limited to, 
+     constant speed, accelerating, or decelerating. The Secretary 
+     shall allow manufacturers to provide each vehicle with one or 
+     more sounds that comply with the motor vehicle safety 
+     standard at the time of manufacture. Further, the Secretary 
+     shall require manufacturers to provide, within reasonable 
+     manufacturing tolerances, the same sound or set of sounds for 
+     all vehicles of the same make and model and shall prohibit 
+     manufacturers from providing any mechanism for anyone other 
+     than the manufacturer or the dealer to disable, alter, 
+     replace, or modify the sound or set of sounds, except that 
+     the manufacturer or dealer may alter, replace, or modify the 
+     sound or set of sounds in order to remedy a defect or non-
+     compliance with the motor vehicle safety standard. The 
+     Secretary shall promulgate the required motor vehicle safety 
+     standard pursuant to this subsection not later than 36 months 
+     after the date of enactment of this Act.
+       (b) Consideration.--When conducting the required 
+     rulemaking, the Secretary shall--
+       (1) determine the minimum level of sound emitted from a 
+     motor vehicle that is necessary to provide blind and other 
+     pedestrians with the information needed to reasonably detect 
+     a nearby electric or hybrid vehicle operating at or below the 
+     cross-over speed, if any;
+       (2) determine the performance requirements for an alert 
+     sound that is recognizable to a pedestrian as a motor vehicle 
+     in operation; and
+       (3) consider the overall community noise impact.
+       (c) Phase-in Required.--The motor vehicle safety standard 
+     prescribed pursuant to subsection (a) of this section shall 
+     establish a phase-in period for compliance, as determined by 
+     the Secretary, and shall require full compliance with the 
+     required motor vehicle safety standard for motor vehicles 
+     manufactured on or after September 1st of the calendar year 
+     that begins 3 years after the date on which the final rule is 
+     issued.
+       (d) Required Consultation.--When conducting the required 
+     study and rulemaking, the Secretary shall--
+       (1) consult with the Environmental Protection Agency to 
+     assure that the motor vehicle safety standard is consistent 
+     with existing noise requirements overseen by the Agency;
+       (2) consult consumer groups representing individuals who 
+     are blind;
+       (3) consult with automobile manufacturers and professional 
+     organizations representing them;
+       (4) consult technical standardization organizations 
+     responsible for measurement methods such as the Society of 
+     Automotive Engineers, the International Organization for 
+     Standardization, and the United Nations Economic Commission 
+     for Europe, World Forum for Harmonization of Vehicle 
+     Regulations.
+       (e) Required Study and Report to Congress.--Not later than 
+     48 months after the date of enactment of this Act, the 
+     Secretary shall complete a study and report to Congress as to 
+     whether there exists a safety need to apply the motor vehicle 
+     safety standard required by subsection (a) to conventional 
+     motor vehicles. In the event that the Secretary determines 
+     there exists a safety need, the Secretary shall initiate 
+     rulemaking under section 30111 of title 49, United States 
+     Code, to extend the standard to conventional motor vehicles.
+
+     SEC. 4. FUNDING.
+
+       Notwithstanding any other provision of law, $2,000,000 of 
+     any amounts made available to the Secretary of Transportation 
+     under under section 406 of title 23, United States Code, 
+     shall be made available to the Administrator of the National 
+     Highway Transportation Safety Administration for carrying out 
+     section 3 of this Act.
+
+  The bill (S. 841), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed.
+
+                          ____________________
+```
