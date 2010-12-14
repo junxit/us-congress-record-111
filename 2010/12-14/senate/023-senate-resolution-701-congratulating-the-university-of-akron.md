@@ -1,0 +1,115 @@
+---
+granule: CREC-2010-12-14-pt1-PgS9023
+date: 2010-12-14
+edition: CREC
+section: SENATE
+page: S9023
+citation: 156 Cong. Rec. S9023
+---
+
+# SENATE RESOLUTION 701--CONGRATULATING THE UNIVERSITY OF AKRON MEN'S SOCCER TEAM ON WINNING THE NATIONAL COLLEGIATE ATHLETIC ASSOCIATION DIVISION I MEN'S SOCCER CHAMPIONSHIP
+
+**Measures:** S.Res. 701
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+  SENATE RESOLUTION 701--CONGRATULATING THE UNIVERSITY OF AKRON MEN'S 
+  SOCCER TEAM ON WINNING THE NATIONAL COLLEGIATE ATHLETIC ASSOCIATION 
+                  DIVISION I MEN'S SOCCER CHAMPIONSHIP
+
+  Mr. BROWN of Ohio submitted the following resolution; which was 
+referred to the Committee on the Judiciary:
+
+                              S. Res. 701
+
+       Whereas on December 12, 2010, the University of Akron men's 
+     soccer team, known as the Zips, won the National Collegiate 
+     Athletic Association College Cup in Santa Barbara, California 
+     and became the first team to win a national title in the 
+     history of the University of Akron;
+       Whereas, with the victory over the previously undefeated 
+     and top-ranked University of Louisville Cardinals, the 2010 
+     University of Akron men's soccer team finished its historic 
+     championship season with a record of 22 wins, 1 loss, and 2 
+     draws;
+       Whereas the 2010 University of Akron men's soccer team has 
+     become a symbol of pride and success to the University of 
+     Akron and the communities in Northeast Ohio surrounding the 
+     University of Akron;
+       Whereas the athletic program of the University of Akron 
+     encourages student-athletes to compete on the field, complete 
+     degrees in the classroom, and become contributing members of 
+     society;
+       Whereas, each year, University of Akron student-athletes 
+     and coaches participate in community service activities;
+       Whereas the head coach of the University of Akron men's 
+     soccer team, Caleb Porter, has won 1 national title and taken 
+     the men's soccer team to the national championship game in 
+     2009 and 2010;
+       Whereas associate head coach Jared Embick, assistant coach 
+     Oliver Slawson, and volunteer assistant coach Liam Curran 
+     played an important role in coaching the University of Akron 
+     men's soccer team;
+       Whereas midfielder Scott Caldwell was named the most 
+     outstanding offensive player of the College Cup;
+       Whereas defender Kofi Sarkodie was named the most 
+     outstanding defensive player of the College Cup;
+       Whereas forward and midfielder Darlington Nagbe is a 
+     finalist for the Hermann Trophy, which is awarded to the best 
+     men's collegiate soccer player in the United States;
+       Whereas 44 members of the University of Akron men's soccer 
+     team have been named All-Americans, including 2 members from 
+     the 2010 season, defender Kofi Sarkodie and forward and 
+     midfielder Darlington Nagbe;
+       Whereas 12 members of the University of Akron men's soccer 
+     team have been named
+
+[[Page S9024]]
+
+     Academic All-Americans, including 4 members from the 2010 
+     season--defender Kofi Sarkodie, defender Chad Barson, 
+     goalkeeper David Meves, and midfielder Anthony 
+     Ampaipitakwong;
+       Whereas the 2010 University of Akron men's soccer team was 
+     comprised of--
+       (1) 3 seniors--midfielder Anthony Ampaipitakwong, defender 
+     Chris Korb, and defender Enrique Paez;
+       (2) 5 juniors--midfielder Michael Balogun, midfielder and 
+     defender Matt Dagilis, forward and midfielder Darlington 
+     Nagbe, midfielder Michael Nanchoff, and defender Kofi 
+     Sarkodie;
+       (3) 7 sophomores--defender Chad Barson, midfielder Scott 
+     Caldwell, goalkeeper David Meves, goalkeeper Anthony 
+     Ponikvar, forward Thomas Schmitt, midfielder Ben Speas, and 
+     defender Zarek Valentin; and
+       (4) 9 freshmen--midfielder Reinaldo Brenes, forward Richard 
+     Diaz, Jr., forward Gabriel Genovesi, midfielder Perry 
+     Kitchen, forward Darren Mattocks, goalkeeper Andrian McAdams, 
+     midfielder Martin Ontiveros, midfielder Eric Stevenson, and 
+     forward McKauly Tulloch;
+       Whereas 11 members of the 2010 University of Akron men's 
+     soccer team hail from the State of Ohio; and
+       Whereas the University of Akron men's soccer team should be 
+     praised for its historic season of both athletic and academic 
+     accomplishments: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) congratulates the University of Akron men's soccer team 
+     on winning the National Collegiate Athletic Association 
+     Division I Men's Soccer Championship;
+       (2) recognizes the athletic program of the University of 
+     Akron for encouraging student-athletes to achieve in both 
+     sports and academics; and
+       (3) requests the Secretary of the Senate to transmit an 
+     enrolled copy of this resolution for appropriate display to--
+       (A) the University of Akron;
+       (B) Dr. Luis M. Proenza, the President of the University of 
+     Akron; and
+       (C) Caleb Porter, the head coach of the University of Akron 
+     men's soccer team.
+
+                          ____________________
+```
