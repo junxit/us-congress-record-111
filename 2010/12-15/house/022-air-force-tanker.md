@@ -1,0 +1,35 @@
+---
+granule: CRECB-2010-pt15-Pg22084
+date: 2010-12-15
+edition: CRECB
+section: HOUSE
+page: 22084
+---
+
+# AIR FORCE TANKER
+
+```
+                            AIR FORCE TANKER
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Madam Speaker, I rise to alert my colleagues to a very 
+important job creation issue that resides potentially in the defense 
+authorization bill that may come to the floor.
+  We have the opportunity to do something right for the American worker 
+and the American taxpayer by insisting that in the competition for the 
+new Air Force tanker that we take into consideration the illegal 
+subsidies that have benefited so extraordinarily the Airbus competitor 
+for the tanker contract. It is absolutely imperative that at this 
+moment when we are struggling to create jobs in this country that we 
+take into consideration in this competition the fact that our 
+competitors in Europe have received over $5 billion of illegal 
+subsidies, and we have to insist the Pentagon take that into 
+consideration.
+  For those that share my view, I hope you will join me in a letter to 
+make sure that an amendment we passed will become part of the defense 
+authorization bill. It is the only way to make sure that we keep these 
+jobs in America and build a U.S. Air Force tanker.
+
+                          ____________________
+```
