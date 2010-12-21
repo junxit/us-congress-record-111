@@ -1,0 +1,43 @@
+---
+granule: CREC-2010-12-21-pt1-PgH8789-3
+date: 2010-12-21
+edition: CREC
+section: HOUSE
+page: H8789
+citation: 156 Cong. Rec. H8789
+---
+
+# MESSAGE FROM THE SENATE
+
+**Measures:** H.R. 81, H.R. 1746, H.R. 4748, H.R. 6412
+
+```
+                        MESSAGE FROM THE SENATE
+
+  A message from the Senate by Ms. Curtis, one of its clerks, announced 
+that the Senate has passed without amendment a bill of the House of the 
+following title:
+
+       H.R. 6412. An act to amend title 28, United States Code, to 
+     require the Attorney General to share criminal records with 
+     State sentencing commissions, and for other purposes.
+
+  The message also announced that the Senate has passed with an 
+amendment in which the concurrence of the House is requested, bills of 
+the House of the following titles:
+
+       H.R. 81. An act to amend the High Seas Driftnet Fishing 
+     Moratorium Protection Act and the Magnuson-Stevens Fishery 
+     Conservation and Management Act to improve the conservation 
+     of sharks.
+       H.R. 1746. An act to amend the Robert T. Stafford Disaster 
+     Relief and Emergency Assistance Act to reauthorize the pre-
+     disaster mitigation program of the Federal Emergency 
+     Management Agency.
+       H.R. 4748. An act to amend the Office of National Drug 
+     Control Policy Reauthorization Act of 2006 to require a 
+     northern border counternarcotics strategy, and for other 
+     purposes.
+
+                          ____________________
+```
