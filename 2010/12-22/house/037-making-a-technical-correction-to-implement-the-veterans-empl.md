@@ -1,0 +1,40 @@
+---
+granule: CRECB-2010-pt15-Pg23606-3
+date: 2010-12-22
+edition: CRECB
+section: HOUSE
+page: 23606
+---
+
+# MAKING A TECHNICAL CORRECTION TO IMPLEMENT THE VETERANS EMPLOYMENT OPPORTUNITIES ACT
+
+```
+  MAKING A TECHNICAL CORRECTION TO IMPLEMENT THE VETERANS EMPLOYMENT 
+                           OPPORTUNITIES ACT
+
+  Mrs. DAVIS of California. Madam Speaker, I ask unanimous consent that 
+the Committee on House Administration be discharged from further 
+consideration of the resolution (H. Res. 1783) making a technical 
+correction to a cross-reference in the final regulations issued by the 
+Office of Compliance to implement the Veterans Employment Opportunities 
+Act of 1998 that apply to the House of Representatives and employees of 
+the House of Representatives, and ask for its immediate consideration 
+in the House.
+  The Clerk read the title of the resolution.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from California?
+  There was no objection.
+  The text of the resolution is as follows:
+
+                              H. Res. 1783
+
+       Resolved, That section 3(b) of House Resolution 1757, 
+     agreed to December 15, 2010, is amended by striking paragraph 
+     (1) and redesignating paragraphs (2) through (5) as 
+     paragraphs (1) through (4).
+
+  The resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

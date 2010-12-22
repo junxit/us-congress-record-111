@@ -1,0 +1,50 @@
+---
+granule: CRECB-2010-pt15-Pg23529
+date: 2010-12-22
+edition: CRECB
+section: SENATE
+page: 23529
+---
+
+# REPORTS OF COMMITTEES
+
+```
+                         REPORTS OF COMMITTEES
+
+  The following reports of committees were submitted:
+
+       By Mr. KERRY, from the Committee on Foreign Relations, 
+     without amendment:
+       S. 3688. A bill to establish an international professional 
+     exchange program, and for other purposes (Rept. No. 111-383).
+       By Mr. ROCKEFELLER, from the Committee on Commerce, 
+     Science, and Transportation:
+       Report to accompany S. 773, a bill to ensure the continued 
+     free flow of commerce within the United States and with its 
+     global trading partners through secure cyber communications, 
+     to provide for the continued development and exploitation of 
+     the Internet and intranet communications for such purposes, 
+     to provide for the development of a cadre of information 
+     technology specialists to improve and maintain effective 
+     cybersecurity defenses against disruption, and for other 
+     purposes (Rept. No. 111-384).
+       Report to accompany S. 2764, a bill to reauthorize the 
+     Satellite Home Viewer Extension and Reuathorization Act of 
+     2004, and for other purposes (Rept. No. 111-385).
+       Report to accompany S. 3304, a bill to increase the access 
+     of persons with disabilities to modern communications, and 
+     for other purposes (Rept. No. 111-386).
+       Report to accompany S. 1274, a bill to amend title 46, 
+     United States Code, to ensure that the prohibition on 
+     disclosure of maritime transportation security information is 
+     not used inappropriately to shield certain other information 
+     from public disclosure, and for other purposes (Rept. No. 
+     111-387).
+       Report to accompany S. 2870, a bill to establish uniform 
+     administrative and enforcement procedures and penalties for 
+     the enforcement of the High Seas Driftnet Fishing Moratorium 
+     Protection Act and similar statutes, and for other purposes 
+     (Rept. No. 111-388).
+
+                          ____________________
+```

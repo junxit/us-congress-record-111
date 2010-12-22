@@ -1,0 +1,51 @@
+---
+granule: CRECB-2010-pt15-Pg23514
+date: 2010-12-22
+edition: CRECB
+section: SENATE
+page: 23514
+---
+
+# DIESEL EMISSIONS REDUCTION ACT
+
+```
+                     DIESEL EMISSIONS REDUCTION ACT
+
+  Mr. CARPER. Mr. President, I am joined by my colleague, Senator 
+Voinovich, in support of the passage of the Diesel Emissions Reduction 
+Act of 2010, DERA. The folks of Ohio and Delaware sent us to Washington 
+to find ideas that will work, ideas we can all agree on to make our 
+country even better. An idea that works is the Diesel Emissions 
+Reduction Act or DERA.
+  The DERA program is one of the best actions our government has taken 
+to improve air quality and help States and localities meet air quality 
+standards. First authorized in the Energy Policy Act of 2005, DERA has 
+provided funding for the modernization of our Nation's old diesel fleet 
+in the United States through voluntary national and State-level grant 
+and loan programs. Since its enactment in 2005, DERA has provided 
+significant public health benefits, improved our national energy 
+security, and helped create jobs. Currently, DERA helps clean up more 
+than 14,000 diesel-powered vehicles and equipment across the country, 
+which has reduced emissions while employing thousands of workers who 
+manufacture, sell or repair diesel vehicles and their components in 
+each State.
+  The Environmental Protection Agency has estimated that there are 
+still millions of older diesel engines now in use and need to be 
+replaced or retrofitted. To meet this need, the Diesel Emissions 
+Reduction Act of 2010 authorizes the continuation of this successful 
+program for 2012 through 2016. It also slightly modifies the program to 
+improve its effectiveness and administration. Despite the significant 
+benefits and need for DERA, the legislation set the authorization 
+levels for 2012 through 2016 at half the levels of that for 2007 
+through 2011. The authorizing levels were reduced to be more in line 
+with what has been normally appropriated for the program. The cut in 
+authorization levels in no way reflects the need for the program and in 
+no way should be interpreted as an indication that funding levels 
+should be decreased.
+  Senator Voinovich and I would like to thank the President and our 
+colleagues for their support of DERA. We are proud that this 
+commonsense approach to creating jobs and cleaning up our Nation's air 
+will become law.
+
+                          ____________________
+```

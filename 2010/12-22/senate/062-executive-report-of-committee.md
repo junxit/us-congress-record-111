@@ -1,0 +1,44 @@
+---
+granule: CRECB-2010-pt15-Pg23529-2
+date: 2010-12-22
+edition: CRECB
+section: SENATE
+page: 23529
+---
+
+# EXECUTIVE REPORT OF COMMITTEE
+
+```
+                     EXECUTIVE REPORT OF COMMITTEE
+
+  The following executive report of committee was submitted on December 
+22, 2010:
+
+       By Mr. KERRY, from the Committee on Foreign Relations:
+
+[Treaty Doc. 110-23 Investment Treaty with Rwanda with one declaration 
+                           (Ex. Rept. 111-8)]
+
+       The text of the committee-recommended resolution of advice 
+     and consent to ratification is as follows:
+       Resolved (two-thirds of the Senators present concurring 
+     therein),
+       Section 1. Senate Advice and Consent subject to a 
+     declaration.
+       The Senate advises and consents to the ratification of the 
+     Treaty Between the Government of the United States of America 
+     and the Government of the Republic of Rwanda Concerning the 
+     Encouragement and Reciprocal Protection of Investment, signed 
+     at Kigali on February 19, 2008 (Treaty Doc. 110-23), subject 
+     to the declaration of section 2.
+       Section 2. Declaration.
+       The advice and consent of the Senate under section 1 is 
+     subject to the following declaration:
+       Articles 3 through 10 and other provisions that qualify or 
+     create exceptions to these Articles are self-executing. With 
+     the exception of these Articles, the Treaty is not self-
+     executing. None of the provisions in this Treaty confers a 
+     private right of action.
+
+                          ____________________
+```

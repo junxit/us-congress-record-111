@@ -1,0 +1,58 @@
+---
+granule: CRECB-2010-pt15-Pg23490
+date: 2010-12-22
+edition: CRECB
+section: SENATE
+page: 23490
+---
+
+# PROVIDING FOR THE SINE DIE ADJOURNMENT OF THE SECOND SESSION OF THE ONE HUNDRED ELEVENTH CONGRESS
+
+```
+PROVIDING FOR THE SINE DIE ADJOURNMENT OF THE SECOND SESSION OF THE ONE 
+                       HUNDRED ELEVENTH CONGRESS
+
+  Mr. REID. Mr. President, I ask unanimous consent the Senate proceed 
+to H. Con. Res. 336, which is at the desk.
+  The PRESIDING OFFICER. The clerk will report the concurrent 
+resolution by title.
+  The legislative clerk read as follows:
+
+       A concurrent resolution (H. Con. Res. 336) providing for 
+     the sine die adjournment of the second session of the 111th 
+     Congress.
+
+  The PRESIDING OFFICER. The message is privileged.
+  Without objection, the Senate proceeded to consider the resolution.
+  Mr. REID. Mr. President, I ask for a vote on this at this time.
+  The PRESIDING OFFICER. The question is on agreeing to the concurrent 
+resolution.
+  The concurrent resolution (H. Con. Res. 336) was agreed to, as 
+follows:
+
+                            H. Con. Res. 336
+
+       Resolved by the House of Representatives (the Senate 
+     concurring), That when the House adjourns on any legislative 
+     day from Friday, December 17, 2010, through Friday, December 
+     24, 2010, on a motion offered pursuant to this concurrent 
+     resolution by its Majority Leader or his designee, it stand 
+     adjourned sine die, or until the time of any reassembly 
+     pursuant to section 2 of this concurrent resolution, 
+     whichever occurs first; and that when the Senate adjourns on 
+     any day from Sunday, December 19, 2010, through 11:59 a.m. on 
+     Monday, January 3, 2011, on a motion offered pursuant to this 
+     concurrent resolution by its Majority Leader or his designee, 
+     it stand adjourned sine die, or until the time of any 
+     reassembly pursuant to section 2 of this concurrent 
+     resolution, whichever occurs first.
+       Sec. 2.  The Speaker of the House and the Majority Leader 
+     of the Senate, or their respective designees, acting jointly 
+     after consultation with the Minority Leader of the House and 
+     the Minority Leader of the Senate, shall notify the Members 
+     of the House and the Senate, respectively, to reassemble at 
+     such place and time as they may designate if, in their 
+     opinion, the public interest shall warrant it.
+
+                          ____________________
+```
