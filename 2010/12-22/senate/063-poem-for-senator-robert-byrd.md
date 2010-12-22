@@ -1,0 +1,86 @@
+---
+granule: CREC-2010-12-22-pt1-PgS11031-3
+date: 2010-12-22
+edition: CREC
+section: SENATE
+page: S11031
+citation: 156 Cong. Rec. S11031
+---
+
+# POEM FOR SENATOR ROBERT BYRD
+
+**Speaking:** Lieberman, Joseph I. (L000304) [ID-CT]
+
+```
+                      POEM FOR SENATOR ROBERT BYRD
+
+● Mr. LIEBERMAN. Madam President, I ask to have printed in the 
+Record the
+
+[[Page S11032]]
+
+following poem written in the memory of the late Senator Robert C. Byrd 
+by Albert Carey Caswell.
+  The poem follows:
+
+                             From so Little
+
+     From so little . . .
+     Can come so much!
+     From so humble beginnings . . .
+     Can, come as such . . .
+     Greatness, that only a heart can bring . . .
+     As from life's mistakes . . .
+     But, comes life's lessons . . . time and time again such 
+           blessings!
+     For only in open hearts, will so ring!
+     In the kind, that dares great men to dream great dreams!
+     Who come from almost nothing!
+     To grow and involve, all into a many splendid thing!
+     As from such humble beginnings, as but comes such things!
+     From a coal miners father, and his dreams . . .
+     A child, who would bless this our Nation all in his being!
+     A giant, who upon the Senate floor . . . his thundering voice 
+           would so ring!
+     Who fell in love, with one of our Forefathers greatest 
+           dreams!
+     The Great American Experiment, called Democracy of all 
+           things!
+     Democracy, and The United States Senate . . . all in this 
+           wing!
+     And, that from so little . What time and faith and courage, 
+           can so bring!
+     A man who so honored tradition, in all his fiber and all his 
+           being . . .
+     All in his great intuition, knowing that these were but time 
+           tested things . . .
+     But, so sacred and so essential . . . but to our Nation's 
+           very being!
+     Like, a mother cub . . . Protecting her young!
+     With all of his heart and soul, he would not let this great 
+           body be undone!
+     And that some things you must not, and should not change!
+     Time Tested, that for this our Nation to thrive must so 
+           remain!
+     For he was a visionary, a scholar, and a student of the past, 
+           and legislation history to last!
+     And with his very heart and soul, he so protected our 
+           forefathers great dream of gold!
+     For he so wisely knew, that some things no greater can be!
+     Never mess with perfection you see!
+     So with each new and succeeding year, a champion for The 
+           Senate grew up so here!
+     As this was but, his second greatest love so clear!
+     His first, his beloved Erma, a marriage of seventy years . . 
+           .
+     As This Master of Senate, so soon appeared . . . the kind 
+           even Webster would revere!
+     And now, into the next world Robert you have gone, but ever 
+           your memory will live on!
+     As but a lesson to us all . . .
+     As from what so little, can grow so tall!
+     A Champion of The United States Senate, Robert Byrd . . .
+     As now up in Heaven, your voice is heard!●
+
+                          ____________________
+```

@@ -1,0 +1,48 @@
+---
+granule: CREC-2010-12-22-pt1-PgH8990-2
+date: 2010-12-22
+edition: CREC
+section: HOUSE
+page: H8990
+citation: 156 Cong. Rec. H8990
+---
+
+# PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.J.Res. 106, H.J.Res. 107, H.Res. 1783, H.Res. 1784, H.R. 6570
+
+```
+                      PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XII, public bills and resolutions of the 
+following titles were introduced and severally referred, as follows:
+
+           By Mr. FORTENBERRY:
+       H.R. 6570. A bill to amend the Patient Protection and 
+     Affordable Care Act to protect rights of conscience with 
+     regard to requirements for coverage of specific items and 
+     services; to the Committee on Energy and Commerce.
+           By Mr. CULBERSON:
+       H.J. Res. 106. A joint resolution proposing an amendment to 
+     the Constitution of the United States relating to the use of 
+     foreign law as authority in Federal courts; to the Committee 
+     on the Judiciary.
+           By Mr. CULBERSON:
+       H.J. Res. 107. A joint resolution proposing an amendment to 
+     the Constitution of the United States regarding the effect of 
+     treaties, Executive orders, and agreements with other nations 
+     or groups of nations; to the Committee on the Judiciary.
+           By Mr. BRADY of Pennsylvania:
+       H. Res. 1783. A resolution making a technical correction to 
+     a cross-reference in the final regulations issued by the 
+     Office of Compliance to implement the Veterans Employment 
+     Opportunities Act of 1998 that apply to the House of 
+     Representatives and employees of the House of 
+     Representatives; to the Committee on House Administration; 
+     considered and agreed to.
+           By Mr. McDERMOTT:
+       H. Res. 1784. A resolution appointing a committee to inform 
+     the President; considered and agreed to.
+
+                          ____________________
+```

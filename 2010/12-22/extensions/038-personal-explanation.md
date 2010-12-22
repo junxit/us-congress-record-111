@@ -1,0 +1,33 @@
+---
+granule: CREC-2010-12-22-pt1-PgE2247-2
+date: 2010-12-22
+edition: CREC
+section: EXTENSIONS
+page: E2247
+citation: 156 Cong. Rec. E2247
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Heller, Dean (H001041) [R-NV]
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                            HON. DEAN HELLER
+
+                               of nevada
+
+                    in the house of representatives
+
+                      Wednesday, December 22, 2010
+
+  Mr. HELLER. Madam Speaker, on roll call No. 663, I was unavoidably 
+detained.
+  Had I been present, I would have voted ``yes.''
+
+                          ____________________
+```

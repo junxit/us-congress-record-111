@@ -1,0 +1,33 @@
+---
+granule: CREC-2010-12-22-pt1-PgS10995
+date: 2010-12-22
+edition: CREC
+section: SENATE
+page: S10995
+citation: 156 Cong. Rec. S10995
+---
+
+# THANKING SENATE PAGES
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+```
+                         THANKING SENATE PAGES
+
+  Mr. DURBIN. Mr. President, I am sorry they are not on the floor at 
+this moment, but I rise to give special recognition to two Senate pages 
+who have stayed here while all the others have gone home for Christmas. 
+These two pages have been working hard today to keep up with the 
+Senate's very busy schedule:
+  Rachel Bailey, 16 years old, from Glendale, MD. Mom and dad are Susan 
+and Karl. She is working late today as a Senate page. We thank Rachel 
+so much.
+  Jarrod Nagurka, 16 years old, from Arlington, VA. His mom and dad are 
+Pamela and Stuart.
+  Even though they aren't on the floor and they are running around here 
+busy, they can look in the Congressional Record and realize that 
+Senators of both political parties appreciate their dedication to this 
+institution during this holiday season.
+
+                          ____________________
+```
